@@ -1,3 +1,5 @@
+
+✅ **¡Todo está perfecto!** Todas las palabras tienen su imagen y audios completos.
 <div align="center">
 ✅ **¡Todo está perfecto!** Todas las palabras tienen su imagen y audios completos.
 
