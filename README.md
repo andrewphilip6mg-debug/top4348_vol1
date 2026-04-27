@@ -1,5 +1,42 @@
 
 
+⚠️ **Atención:** Faltan 507 archivos en total. Aquí está el detalle:
+
+- ❌ **401A**: Falta audio de frase
+- ❌ **401A**: Falta audio de palabra
+- 🖼️ **401A**: Falta imagen
+- ❌ **401B**: Falta audio de frase
+- ❌ **401B**: Falta audio de palabra
+- 🖼️ **401B**: Falta imagen
+- ❌ **401C**: Falta audio de frase
+- ❌ **401C**: Falta audio de palabra
+- 🖼️ **401C**: Falta imagen
+- ❌ **402A**: Falta audio de frase
+- ❌ **402A**: Falta audio de palabra
+- 🖼️ **402A**: Falta imagen
+- ❌ **402B**: Falta audio de frase
+- ❌ **402B**: Falta audio de palabra
+- 🖼️ **402B**: Falta imagen
+- ❌ **402C**: Falta audio de frase
+- ❌ **402C**: Falta audio de palabra
+- 🖼️ **402C**: Falta imagen
+- ❌ **403A**: Falta audio de frase
+- ❌ **403A**: Falta audio de palabra
+- 🖼️ **403A**: Falta imagen
+- ❌ **403B**: Falta audio de frase
+- ❌ **403B**: Falta audio de palabra
+- 🖼️ **403B**: Falta imagen
+- ❌ **404A**: Falta audio de frase
+- ❌ **404A**: Falta audio de palabra
+- 🖼️ **404A**: Falta imagen
+- ❌ **404B**: Falta audio de frase
+- ❌ **404B**: Falta audio de palabra
+- 🖼️ **404B**: Falta imagen
+
+*(Mostrando hasta los primeros 30 errores)*
+
+
+
 ⚠️ **Atención:** Faltan 24 archivos en total. Aquí está el detalle:
 
 - ❌ **401A**: Falta audio de frase
