@@ -16,6 +16,11 @@
 
 ---
 
+## 🔎 Estado de los Archivos Multimedia
+
+*El estado de los audios e imágenes se actualizará aquí automáticamente cada vez que subas cambios.*
+---
+
 ## 🚀 Alcance de este Volumen
 
 > Este repositorio es la primera parte del proyecto y contiene el material de estudio cuidadosamente seleccionado para las **palabras de la 1 a la 4348** del ranking de frecuencia.
