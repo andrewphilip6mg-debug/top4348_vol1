@@ -1,0 +1,48 @@
+name: Actualizar Contador de Archivos
+
+on:
+  push:
+    branches:
+      - main 
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write 
+
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Contar y actualizar README
+        run: |
+          # 1. Contar archivos y carpetas
+          FILES=$(find . -type f -not -path "*/\.git/*" | wc -l)
+          FOLDERS=$(find . -type d -not -path "*/\.git/*" | wc -l)
+          FOLDERS=$((FOLDERS-1))
+          
+          # 2. Encontrar la palabra actual (lee el número más alto en los archivos de la carpeta media)
+          PALABRA_MAX=$(find ./media -type f -exec basename {} \; | grep -oE '^[0-9]+' | sort -n | tail -1)
+          PALABRA_MAX=${PALABRA_MAX:-0} # Por si la carpeta está vacía, pone 0
+          
+          # 3. Calcular el peso de los AUDIOS (ogg, mp3, wav, m4a) en MB
+          AUDIO_SIZE=$(find . -type f \( -iname "*.mp3" -o -iname "*.ogg" -o -iname "*.wav" -o -iname "*.m4a" \) -printf "%s\n" | awk '{s+=$1} END {if(s>0) printf "%.2fMB", s/1048576; else print "0MB"}')
+          
+          # 4. Calcular el peso de las IMÁGENES (webp, png, jpg, jpeg, gif) en MB
+          IMAGE_SIZE=$(find . -type f \( -iname "*.webp" -o -iname "*.png" -o -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.gif" \) -printf "%s\n" | awk '{s+=$1} END {if(s>0) printf "%.2fMB", s/1048576; else print "0MB"}')
+          
+          # 5. Buscar las insignias en el README y reemplazar los números
+          sed -i -E "s/Archivos-[0-9]+-blue/Archivos-${FILES}-blue/g" README.md
+          sed -i -E "s/Carpetas-[0-9]+-orange/Carpetas-${FOLDERS}-orange/g" README.md
+          sed -i -E "s/Palabra_Actual-[0-9]+-purple/Palabra_Actual-${PALABRA_MAX}-purple/g" README.md
+          # Nuevos reemplazos para los pesos (busca cualquier número decimal seguido de MB)
+          sed -i -E "s/Audios-[0-9.]+MB-yellow/Audios-${AUDIO_SIZE}-yellow/g" README.md
+          sed -i -E "s/Imágenes-[0-9.]+MB-success/Imágenes-${IMAGE_SIZE}-success/g" README.md
+
+      - name: Guardar los cambios (Commit y Push)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 auto-update: contadores y pesos actualizados" && git push)
