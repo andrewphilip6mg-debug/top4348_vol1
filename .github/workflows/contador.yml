@@ -59,21 +59,30 @@ jobs:
             fi
           done
           
-          # Construir reporte y exportarlo como variable de entorno
+          # Construir reporte
           if [ $FALTANTES -eq 0 ]; then
             export REPORTE="✅ **¡Todo está perfecto!** Todas las palabras tienen su imagen y audios completos."
           else
             export REPORTE=$(echo -e "⚠️ **Atención:** Faltan $FALTANTES archivos en total. Aquí está el detalle:\n\n$(echo -e "$ERRORES" | head -n 30)\n\n*(Mostrando hasta los primeros 30 errores)*")
           fi
           
-          # Inyectar de forma segura usando perl y variables de entorno
-          perl -0777 -pi -e 's/.*?/\n$ENV{REPORTE}\n/s' README.md
-
-          rm lista_audios.txt lista_imagenes.txt
+          # Script de Python para reemplazar exactamente entre las etiquetas
+          cat << 'EOF' > update_readme.py
+import os, re
+with open('README.md', 'r', encoding='utf-8') as f: content = f.read()
+reporte = os.environ.get('REPORTE', '')
+pattern = r'().*?()'
+new_content = re.sub(pattern, r'\1\n' + reporte + r'\n\2', content, flags=re.DOTALL)
+with open('README.md', 'w', encoding='utf-8') as f: f.write(new_content)
+EOF
+          
+          # Ejecutar el script y limpiar
+          python3 update_readme.py
+          rm lista_audios.txt lista_imagenes.txt update_readme.py
 
       - name: Guardar los cambios
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 auto-update: validación de media segura" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 auto-update: validación de media 100% segura" && git push)
