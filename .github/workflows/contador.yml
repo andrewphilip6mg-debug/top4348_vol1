@@ -1,4 +1,4 @@
-name: Actualizar Contador de Archivos
+name: Actualizar Contador y Verificar Media
 
 on:
   push:
@@ -29,20 +29,69 @@ jobs:
           # 3. Calcular el peso de los AUDIOS (ogg, mp3, wav, m4a) en MB
           AUDIO_SIZE=$(find . -type f \( -iname "*.mp3" -o -iname "*.ogg" -o -iname "*.wav" -o -iname "*.m4a" \) -printf "%s\n" | awk '{s+=$1} END {if(s>0) printf "%.2fMB", s/1048576; else print "0MB"}')
           
-          # 4. Calcular el peso de las IMÁGENES (webp, png, jpg, jpeg, gif) en MB
-          IMAGE_SIZE=$(find . -type f \( -iname "*.webp" -o -iname "*.png" -o -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.gif" \) -printf "%s\n" | awk '{s+=$1} END {if(s>0) printf "%.2fMB", s/1048576; else print "0MB"}')
+          # 4. Calcular el peso de las IMÁGENES (webp, png, jpg, jpeg, gif, avif) en MB
+          IMAGE_SIZE=$(find . -type f \( -iname "*.webp" -o -iname "*.png" -o -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.gif" -o -iname "*.avif" \) -printf "%s\n" | awk '{s+=$1} END {if(s>0) printf "%.2fMB", s/1048576; else print "0MB"}')
           
           # 5. Buscar las insignias en el README y reemplazar los números
           sed -i -E "s/Archivos-[0-9]+-blue/Archivos-${FILES}-blue/g" README.md
           sed -i -E "s/Carpetas-[0-9]+-orange/Carpetas-${FOLDERS}-orange/g" README.md
           sed -i -E "s/Palabra_Actual-[0-9]+-purple/Palabra_Actual-${PALABRA_MAX}-purple/g" README.md
-          # Nuevos reemplazos para los pesos (busca cualquier número decimal seguido de MB)
           sed -i -E "s/Audios-[0-9.]+MB-yellow/Audios-${AUDIO_SIZE}-yellow/g" README.md
           sed -i -E "s/Imágenes-[0-9.]+MB-success/Imágenes-${IMAGE_SIZE}-success/g" README.md
+
+      - name: Verificar Audios e Imágenes faltantes
+        run: |
+          # Crear listas de archivos existentes para buscar rápido y no saturar el Action
+          find media/audio -type f > lista_audios.txt
+          find media/img -type f > lista_imagenes.txt
+          
+          # Extraer todos los IDs (ej. 301A, 301B) de los txt en anki_data
+          # Solo toma la primera columna y se asegura de que tenga el formato Número+Letra
+          IDS=$(cat anki_data/*.txt | awk '{print $1}' | grep -E '^[0-9]+[A-Z]+' || true)
+          
+          ERRORES=""
+          FALTANTES=0
+          
+          for ID in $IDS; do
+            # Validar audio frase (ej: 301A_frase)
+            if ! grep -q "/${ID}_frase\." lista_audios.txt; then
+              ERRORES+="- ❌ **${ID}**: Falta audio de frase\n"
+              FALTANTES=$((FALTANTES+1))
+            fi
+            
+            # Validar audio palabra (ej: 301A_palabra)
+            if ! grep -q "/${ID}_palabra\." lista_audios.txt; then
+              ERRORES+="- ❌ **${ID}**: Falta audio de palabra\n"
+              FALTANTES=$((FALTANTES+1))
+            fi
+            
+            # Validar imagen (ej: 100_366B_An_intrigued...)
+            if ! grep -q "${ID}" lista_imagenes.txt; then
+              ERRORES+="- 🖼️ **${ID}**: Falta imagen\n"
+              FALTANTES=$((FALTANTES+1))
+            fi
+          done
+          
+          # Construir el bloque de estado
+          if [ $FALTANTES -eq 0 ]; then
+            REPORTE="✅ **¡Todo está perfecto!** Todas las palabras tienen su imagen y audios completos."
+          else
+            REPORTE="⚠️ **Atención:** Faltan $FALTANTES archivos en total. Aquí está el detalle:\n\n$(echo -e "$ERRORES" | head -n 30)\n\n*(Mostrando hasta los primeros 30 errores)*"
+          fi
+          
+          # Insertar el reporte en el README entre los comentarios START y END
+          awk -v rep="$REPORTE" '
+            // { print; print rep; skip=1; next }
+            // { skip=0 }
+            !skip { print }
+          ' README.md > tmp.md && mv tmp.md README.md
+
+          # Limpiar archivos temporales
+          rm lista_audios.txt lista_imagenes.txt
 
       - name: Guardar los cambios (Commit y Push)
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 auto-update: contadores y pesos actualizados" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 auto-update: contadores, pesos y validación de media" && git push)
