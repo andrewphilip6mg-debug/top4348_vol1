@@ -66,12 +66,18 @@ jobs:
           fi
           
           python3 -c '
-          import os, re
+          import os
           with open("README.md", "r", encoding="utf-8") as f: content = f.read()
           reporte = os.environ.get("REPORTE", "")
-          pattern = r"().*?()"
-          new_content = re.sub(pattern, r"\1\n" + reporte + r"\n\2", content, flags=re.DOTALL)
-          with open("README.md", "w", encoding="utf-8") as f: f.write(new_content)
+          start_tag = ""
+          end_tag = ""
+          s_idx = content.find(start_tag)
+          e_idx = content.find(end_tag)
+          
+          if s_idx != -1 and e_idx != -1:
+              # Cortar la cadena exactamente antes del tag inicial y despues del tag final
+              new_content = content[:s_idx + len(start_tag)] + "\n\n" + reporte + "\n\n" + content[e_idx:]
+              with open("README.md", "w", encoding="utf-8") as f: f.write(new_content)
           '
           
           rm lista_audios.txt lista_imagenes.txt
@@ -81,4 +87,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 auto-update: validación de media 100% segura" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 auto-update: validación media [skip ci]" && git push)
