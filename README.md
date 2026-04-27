@@ -1,3 +1,5 @@
+
+✅ **¡Todo está perfecto!** Todas las palabras tienen su imagen y audios completos.
 <div align="center">
 
 # 🗂️ Top 4348 English Words - Volumen 1
@@ -8,7 +10,7 @@
 ![Palabra Actual](https://img.shields.io/badge/Palabra_Actual-400-purple?style=for-the-badge&logo=book)
 <br>
 ![Audios](https://img.shields.io/badge/Audios-22.73MB-yellow?style=for-the-badge&logo=applemusic)
-![Imágenes](https://img.shields.io/badge/Imágenes-16.71MB-success?style=for-the-badge&logo=image)
+![Imágenes](https://img.shields.io/badge/Imágenes-29.07MB-success?style=for-the-badge&logo=image)
 
 *Proyecto de aprendizaje de inglés optimizado para Anki.*
 
