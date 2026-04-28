@@ -1,5 +1,9 @@
 
 
+✅ **¡Todo está perfecto!** Todas las palabras tienen su imagen y audios completos.
+
+
+
 ⚠️ **Atención:** Faltan 169 archivos en total. Aquí está el detalle:
 
 - 🖼️ **401A**: Falta imagen
@@ -108,12 +112,12 @@
 # 🗂️ Top 4348 English Words - Volumen 1
 
 ![Tamaño del Repositorio](https://img.shields.io/github/repo-size/andrewphilip6mg-debug/top4348_vol1?color=2ea043&style=for-the-badge&logo=github&cacheSeconds=60)
-![Archivos](https://img.shields.io/badge/Archivos-2662-blue?style=for-the-badge&logo=files)
-![Carpetas](https://img.shields.io/badge/Carpetas-16-orange?style=for-the-badge&logo=folder)
+![Archivos](https://img.shields.io/badge/Archivos-2831-blue?style=for-the-badge&logo=files)
+![Carpetas](https://img.shields.io/badge/Carpetas-17-orange?style=for-the-badge&logo=folder)
 ![Palabra Actual](https://img.shields.io/badge/Palabra_Actual-500-purple?style=for-the-badge&logo=book)
 <br>
 ![Audios](https://img.shields.io/badge/Audios-25.00MB-yellow?style=for-the-badge&logo=applemusic)
-![Imágenes](https://img.shields.io/badge/Imágenes-29.07MB-success?style=for-the-badge&logo=image)
+![Imágenes](https://img.shields.io/badge/Imágenes-32.84MB-success?style=for-the-badge&logo=image)
 
 *Proyecto de aprendizaje de inglés optimizado para Anki.*
 
