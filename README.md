@@ -1,5 +1,42 @@
 
 
+⚠️ **Atención:** Faltan 169 archivos en total. Aquí está el detalle:
+
+- 🖼️ **401A**: Falta imagen
+- 🖼️ **401B**: Falta imagen
+- 🖼️ **401C**: Falta imagen
+- 🖼️ **402A**: Falta imagen
+- 🖼️ **402B**: Falta imagen
+- 🖼️ **402C**: Falta imagen
+- 🖼️ **403A**: Falta imagen
+- 🖼️ **403B**: Falta imagen
+- 🖼️ **404A**: Falta imagen
+- 🖼️ **404B**: Falta imagen
+- 🖼️ **405A**: Falta imagen
+- 🖼️ **405B**: Falta imagen
+- 🖼️ **405C**: Falta imagen
+- 🖼️ **405D**: Falta imagen
+- 🖼️ **406A**: Falta imagen
+- 🖼️ **407A**: Falta imagen
+- 🖼️ **407B**: Falta imagen
+- 🖼️ **408A**: Falta imagen
+- 🖼️ **408B**: Falta imagen
+- 🖼️ **409A**: Falta imagen
+- 🖼️ **410A**: Falta imagen
+- 🖼️ **411A**: Falta imagen
+- 🖼️ **411B**: Falta imagen
+- 🖼️ **412A**: Falta imagen
+- 🖼️ **413A**: Falta imagen
+- 🖼️ **414A**: Falta imagen
+- 🖼️ **414B**: Falta imagen
+- 🖼️ **415A**: Falta imagen
+- 🖼️ **415B**: Falta imagen
+- 🖼️ **416A**: Falta imagen
+
+*(Mostrando hasta los primeros 30 errores)*
+
+
+
 ⚠️ **Atención:** Faltan 507 archivos en total. Aquí está el detalle:
 
 - ❌ **401A**: Falta audio de frase
@@ -71,11 +108,11 @@
 # 🗂️ Top 4348 English Words - Volumen 1
 
 ![Tamaño del Repositorio](https://img.shields.io/github/repo-size/andrewphilip6mg-debug/top4348_vol1?color=2ea043&style=for-the-badge&logo=github&cacheSeconds=60)
-![Archivos](https://img.shields.io/badge/Archivos-2324-blue?style=for-the-badge&logo=files)
-![Carpetas](https://img.shields.io/badge/Carpetas-15-orange?style=for-the-badge&logo=folder)
-![Palabra Actual](https://img.shields.io/badge/Palabra_Actual-400-purple?style=for-the-badge&logo=book)
+![Archivos](https://img.shields.io/badge/Archivos-2662-blue?style=for-the-badge&logo=files)
+![Carpetas](https://img.shields.io/badge/Carpetas-16-orange?style=for-the-badge&logo=folder)
+![Palabra Actual](https://img.shields.io/badge/Palabra_Actual-500-purple?style=for-the-badge&logo=book)
 <br>
-![Audios](https://img.shields.io/badge/Audios-22.73MB-yellow?style=for-the-badge&logo=applemusic)
+![Audios](https://img.shields.io/badge/Audios-25.00MB-yellow?style=for-the-badge&logo=applemusic)
 ![Imágenes](https://img.shields.io/badge/Imágenes-29.07MB-success?style=for-the-badge&logo=image)
 
 *Proyecto de aprendizaje de inglés optimizado para Anki.*
