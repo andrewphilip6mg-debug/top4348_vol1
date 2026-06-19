@@ -49,7 +49,7 @@
 
 ![Tamaño del Repositorio](https://img.shields.io/github/repo-size/andrewphilip6mg-debug/top4348_vol1?color=2ea043&style=for-the-badge&logo=github&cacheSeconds=60)
 ![Archivos](https://img.shields.io/badge/Archivos-3279-blue?style=for-the-badge&logo=files)
-![Carpetas](https://img.shields.io/badge/Carpetas-19-orange?style=for-the-badge&logo=folder)
+![Carpetas](https://img.shields.io/badge/Carpetas-18-orange?style=for-the-badge&logo=folder)
 ![Palabra Actual](https://img.shields.io/badge/Palabra_Actual-600-purple?style=for-the-badge&logo=book)
 <br>
 ![Audios](https://img.shields.io/badge/Audios-27.13MB-yellow?style=for-the-badge&logo=applemusic)
