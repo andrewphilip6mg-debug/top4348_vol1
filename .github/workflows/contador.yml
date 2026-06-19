@@ -3,88 +3,140 @@ name: Actualizar Contador y Verificar Media
 on:
   push:
     branches:
-      - main 
+      - main
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write 
+      contents: write
 
     steps:
       - name: Descargar el repositorio
         uses: actions/checkout@v4
 
-      - name: Contar y actualizar README
+      - name: Actualizar README y validar media
         run: |
-          FILES=$(find . -type f -not -path "*/\.git/*" | wc -l)
-          FOLDERS=$(find . -type d -not -path "*/\.git/*" | wc -l)
-          FOLDERS=$((FOLDERS-1))
-          
-          PALABRA_MAX=$(find ./media -type f -exec basename {} \; | grep -oE '^[0-9]+' | sort -n | tail -1)
-          PALABRA_MAX=${PALABRA_MAX:-0}
-          
-          AUDIO_SIZE=$(find . -type f \( -iname "*.mp3" -o -iname "*.ogg" -o -iname "*.wav" -o -iname "*.m4a" \) -printf "%s\n" | awk '{s+=$1} END {if(s>0) printf "%.2fMB", s/1048576; else print "0MB"}')
-          
-          IMAGE_SIZE=$(find . -type f \( -iname "*.webp" -o -iname "*.png" -o -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.gif" -o -iname "*.avif" \) -printf "%s\n" | awk '{s+=$1} END {if(s>0) printf "%.2fMB", s/1048576; else print "0MB"}')
-          
-          sed -i -E "s/Archivos-[0-9]+-blue/Archivos-${FILES}-blue/g" README.md
-          sed -i -E "s/Carpetas-[0-9]+-orange/Carpetas-${FOLDERS}-orange/g" README.md
-          sed -i -E "s/Palabra_Actual-[0-9]+-purple/Palabra_Actual-${PALABRA_MAX}-purple/g" README.md
-          sed -i -E "s/Audios-[0-9.]+MB-yellow/Audios-${AUDIO_SIZE}-yellow/g" README.md
-          sed -i -E "s/Imágenes-[0-9.]+MB-success/Imágenes-${IMAGE_SIZE}-success/g" README.md
-
-      - name: Verificar Audios e Imágenes faltantes
-        run: |
-          find media/audio -type f > lista_audios.txt
-          find media/img -type f > lista_imagenes.txt
-          
-          IDS=$(cat anki_data/*.txt | awk '{print $1}' | grep -E '^[0-9]+[A-Z]+' || true)
-          
-          ERRORES=""
-          FALTANTES=0
-          
-          for ID in $IDS; do
-            if ! grep -q "/${ID}_frase\." lista_audios.txt; then
-              ERRORES+="- ❌ **${ID}**: Falta audio de frase\n"
-              FALTANTES=$((FALTANTES+1))
-            fi
-            if ! grep -q "/${ID}_palabra\." lista_audios.txt; then
-              ERRORES+="- ❌ **${ID}**: Falta audio de palabra\n"
-              FALTANTES=$((FALTANTES+1))
-            fi
-            if ! grep -q "${ID}" lista_imagenes.txt; then
-              ERRORES+="- 🖼️ **${ID}**: Falta imagen\n"
-              FALTANTES=$((FALTANTES+1))
-            fi
-          done
-          
-          if [ $FALTANTES -eq 0 ]; then
-            export REPORTE="✅ **¡Todo está perfecto!** Todas las palabras tienen su imagen y audios completos."
-          else
-            export REPORTE=$(echo -e "⚠️ **Atención:** Faltan $FALTANTES archivos en total. Aquí está el detalle:\n\n$(echo -e "$ERRORES" | head -n 30)\n\n*(Mostrando hasta los primeros 30 errores)*")
-          fi
-          
-          python3 -c '
+          python3 << 'EOF'
           import os
-          with open("README.md", "r", encoding="utf-8") as f: content = f.read()
-          reporte = os.environ.get("REPORTE", "")
-          start_tag = ""
-          end_tag = ""
+          import re
+          import glob
+          from pathlib import Path
+
+          README_FILE = "README.md"
+          MEDIA_DIR = "media"
+          AUDIO_DIR = os.path.join(MEDIA_DIR, "audio")
+          IMG_DIR = os.path.join(MEDIA_DIR, "img")
+          ANKI_DATA_DIR = "anki_data"
+
+          # 1. Contar Archivos y Carpetas
+          files_count = 0
+          folders_count = -1
+          for root, dirs, files in os.walk("."):
+              if ".git" in root.split(os.sep):
+                  continue
+              folders_count += len(dirs)
+              files_count += len(files)
+
+          # 2. Palabra Máxima
+          palabra_max = 0
+          if os.path.exists(MEDIA_DIR):
+              for f in Path(MEDIA_DIR).rglob("*"):
+                  if f.is_file():
+                      match = re.match(r'^(\d+)', f.name)
+                      if match:
+                          palabra_max = max(palabra_max, int(match.group(1)))
+
+          # 3. Calcular tamaños
+          def get_size_mb(directory, extensions):
+              total = 0
+              if not os.path.exists(directory): return 0.0
+              for f in Path(directory).rglob("*"):
+                  if f.is_file() and f.suffix.lower() in extensions:
+                      total += f.stat().st_size
+              return total / (1024 * 1024)
+
+          audio_exts = {'.mp3', '.ogg', '.wav', '.m4a'}
+          image_exts = {'.webp', '.png', '.jpg', '.jpeg', '.gif', '.avif'}
+          
+          audio_size = get_size_mb(".", audio_exts)
+          image_size = get_size_mb(".", image_exts)
+
+          # 4. Leer README
+          with open(README_FILE, "r", encoding="utf-8") as f:
+              content = f.read()
+
+          # 5. Actualizar Badges
+          content = re.sub(r'Archivos-\d+-blue', f'Archivos-{files_count}-blue', content)
+          content = re.sub(r'Carpetas-\d+-orange', f'Carpetas-{folders_count}-orange', content)
+          content = re.sub(r'Palabra_Actual-\d+-purple', f'Palabra_Actual-{palabra_max}-purple', content)
+          content = re.sub(r'Audios-[\d.]+MB-yellow', f'Audios-{audio_size:.2f}MB-yellow', content)
+          content = re.sub(r'Imágenes-[\d.]+MB-success', f'Imágenes-{image_size:.2f}MB-success', content)
+
+          # 6. Verificación de Media
+          audio_files = set(os.path.basename(p) for p in glob.glob(os.path.join(AUDIO_DIR, "*")))
+          image_files = set(os.path.basename(p) for p in glob.glob(os.path.join(IMG_DIR, "*")))
+
+          ids = set()
+          for txt_file in glob.glob(os.path.join(ANKI_DATA_DIR, "*.txt")):
+              with open(txt_file, 'r', encoding='utf-8') as f:
+                  for line in f:
+                      parts = line.split()
+                      if parts:
+                          if re.match(r'^\d+[A-Z]+', parts[0]):
+                              ids.add(parts[0])
+
+          errores = []
+          for word_id in sorted(ids):
+              if not any(f.startswith(f"{word_id}_frase.") for f in audio_files):
+                  errores.append(f"- ❌ **{word_id}**: Falta audio de frase")
+              if not any(f.startswith(f"{word_id}_palabra.") for f in audio_files):
+                  errores.append(f"- ❌ **{word_id}**: Falta audio de palabra")
+              if not any(f.startswith(word_id) for f in image_files):
+                  errores.append(f"- 🖼️ **{word_id}**: Falta imagen")
+
+          # 7. Generar Reporte para el README (Limitado a 10 para no ensuciar el README)
+          if not errores:
+              reporte_md = "✅ **¡Todo está perfecto!** Todas las palabras tienen su imagen y audios completos."
+          else:
+              reporte_md = f"⚠️ **Atención:** Faltan {len(errores)} archivos en total.\n\n"
+              reporte_md += "\n".join(errores[:10]) # Solo los primeros 10 en el README
+              if len(errores) > 10:
+                  reporte_md += f"\n\n*(Mostrando 10 de {len(errores)} errores. Revisa los logs de GitHub Actions para ver todos)*"
+              
+              # Imprimir TODOS los errores en la consola de Actions (Logs seguros)
+              print("--- REPORTE COMPLETO DE ERRORES (LOGS) ---")
+              print("\n".join(errores))
+
+          # 8. Inyectar Reporte en README REEMPLAZANDO el contenido viejo
+          start_tag = "<!-- START_REPORT -->"
+          end_tag = "<!-- END_REPORT -->"
+          
           s_idx = content.find(start_tag)
           e_idx = content.find(end_tag)
-          
-          if s_idx != -1 and e_idx != -1:
-              # Cortar la cadena exactamente antes del tag inicial y despues del tag final
-              new_content = content[:s_idx + len(start_tag)] + "\n\n" + reporte + "\n\n" + content[e_idx:]
-              with open("README.md", "w", encoding="utf-8") as f: f.write(new_content)
-          '
-          
-          rm lista_audios.txt lista_imagenes.txt
+
+          if s_idx != -1 and e_idx != -1 and s_idx < e_idx:
+              # Corta el contenido antes del tag inicial y después del tag final, insertando el nuevo reporte en medio
+              content = content[:s_idx + len(start_tag)] + "\n" + reporte_md + "\n" + content[e_idx:]
+          else:
+              print("⚠️ Advertencia: No se encontraron las etiquetas <!-- START_REPORT --> y <!-- END_REPORT --> en el README. No se actualizó el reporte para evitar acumulación.")
+
+          # 9. Guardar README
+          with open(README_FILE, "w", encoding="utf-8") as f:
+              f.write(content)
+              
+          print("Proceso completado con éxito.")
+          EOF
 
       - name: Guardar los cambios
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 auto-update: validación media [skip ci]" && git push)
+          if ! git diff --staged --quiet; then
+            git commit -m "🤖 auto-update: validación media [skip ci]"
+            git pull --rebase origin main
+            git push
+          else
+            echo "No hubo cambios en el README, omitiendo commit."
+          fi
