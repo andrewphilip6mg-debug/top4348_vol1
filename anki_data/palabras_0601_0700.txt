@@ -29,6 +29,7 @@
 615A	rest	You look very tired today. You should [...] for a while.	You look very tired today. You should rest for a while.	[Verb] to relax or sleep	descansar
 615B	rest	Eat half the pizza now. You can keep the [...] for tomorrow.	Eat half the pizza now. You can keep the rest for tomorrow.	[Noun] the remaining part	el resto / lo demás
 615C	rest assured	You can [...]. We will fix your damaged car by tomorrow morning.	You can rest assured. We will fix your damaged car by tomorrow morning.	[Idiom] to be completely certain or confident that something will happen	estar tranquilo / tener la seguridad
+615D	give it a rest	Oh, please just [...]! I don't want to hear about that problem anymore.	Oh, please just give it a rest! I don't want to hear about that problem anymore.	[Idiom] to stop talking about something annoying	¡ya basta! / déjalo ya / para con eso
 616A	behavior	The young boy's [...] was excellent during the long flight.	The young boy's behavior was excellent during the long flight.	[Noun] the way that someone acts	comportamiento / conducta
 617A	deal	We finally made a [...] to buy the new family car.	We finally made a deal to buy the new family car.	[Noun] an agreement or arrangement	trato / acuerdo
 617B	deal with	It is very hard to [...] difficult customers all day long.	It is very hard to deal with difficult customers all day long.	[Phrasal Verb] to take action in order to achieve something or solve a problem	lidiar con / manejar
@@ -52,6 +53,7 @@
 624A	goal	Her main professional [...] is to graduate from college next year.	Her main professional goal is to graduate from college next year.	[Noun] an aim or purpose	meta / objetivo
 624B	goal	The massive crowd cheered when he scored the winning [...].	The massive crowd cheered when he scored the winning goal.	[Noun] a point scored in sports	gol
 625A	bed	I am very sleepy right now. I want to go to [...].	I am very sleepy right now. I want to go to bed.	[Noun] a piece of furniture for sleep	cama
+625B	make the bed	I always [...] as soon as I wake up in the morning.	I always make the bed as soon as I wake up in the morning.	[Phrase] to arrange the sheets and blankets on a bed nicely	hacer la cama
 626A	order	Please arrange these office files in strict alphabetical [...].	Please arrange these office files in strict alphabetical order.	[Noun] the way things are arranged	orden / secuencia
 626B	order	I would like to [...] a large cheese pizza, please.	I would like to order a large cheese pizza, please.	[Verb] to ask for food or goods	pedir / ordenar
 626C	in order to	She studied hard every night [...] pass the final exam.	She studied hard every night in order to pass the final exam.	[Phrase] with the purpose of	para / con el fin de
@@ -68,6 +70,7 @@
 632B	drop	I felt a single [...] of cold rain on my head.	I felt a single drop of cold rain on my head.	[Noun] a small round mass of liquid	gota
 632C	drop by	I will [...] your house later to return your borrowed book.	I will drop by your house later to return your borrowed book.	[Phrasal Verb] to visit someone for a short time	pasar por (visita)
 632D	drop out	He decided to [...] of college and start working at the factory.	He decided to drop out of college and start working at the factory.	[Phrasal Verb] to leave school or a course before finishing	salirse / abandonar
+632E	drop off	Please [...] these packages at the front desk.	Please drop off these packages at the front desk.	[Phrasal Verb] to deliver or leave something at a place	dejar / entregar (algo)
 633A	blood	I cut my finger with a sharp knife and saw some red [...].	I cut my finger with a sharp knife and saw some red blood.	[Noun] red liquid circulating in the body	sangre
 633B	bad blood	There is a lot of [...] between the two families after the lawsuit.	There is a lot of bad blood between the two families after the lawsuit.	[Idiom] feelings of hate between people because of arguments in the past	resentimiento / mala sangre
 634A	upon	The old king sat [...] a golden throne.	The old king sat upon a golden throne.	[Preposition] on or onto	sobre
@@ -88,6 +91,7 @@
 642A	sound	I woke up when I heard a strange [...] in the dark kitchen.	I woke up when I heard a strange sound in the dark kitchen.	[Noun] something that you can hear	sonido / ruido
 642B	sound	You [...] very tired over the phone. You should go to sleep.	You sound very tired over the phone. You should go to sleep.	[Verb] to seem good, bad, etc., from what you hear	sonar / parecer (al oír)
 642C	safe and sound	After days of searching, the missing boy was finally found [...].	After days of searching, the missing boy was finally found safe and sound.	[Idiom] completely safe and without injury	sano y salvo
+642D	sound asleep	The loud thunderstorm did not wake the baby, who was [...].	The loud thunderstorm did not wake the baby, who was sound asleep.	[Idiom] in a deep and peaceful sleep	profundamente dormido / frito
 643A	note	I left a short written [...] on the fridge for you to read.	I left a short written note on the fridge for you to read.	[Noun] a short piece of writing	nota / recado
 643B	note	Please [...] that the store closes at five today instead of six.	Please note that the store closes at five today instead of six.	[Verb] to notice or pay careful attention to something	tomar nota / tener en cuenta
 643C	take notes	You should [...] during the lecture. The final exam will be very hard.	You should take notes during the lecture. The final exam will be very hard.	[Idiom] to write down information	tomar apuntes / tomar notas
@@ -107,6 +111,7 @@
 650B	in common	My brother and I have nothing [...]. We are very different people.	My brother and I have nothing in common. We are very different people.	[Idiom] to share interests or characteristics	en común
 651A	poor	They were very [...] and could not even buy basic food.	They were very poor and could not even buy basic food.	[Adjective] having very little money	pobre
 651B	poor	The car broke down easily because it was in very [...] condition.	The car broke down easily because it was in very poor condition.	[Adjective] of very low quality	pobre / malo / deficiente
+651C	poor thing	She lost her favorite toy. [...], she has been crying all day.	She lost her favorite toy. Poor thing, she has been crying all day.	[Idiom] used to express sympathy for someone	pobrecito / pobrecita
 652A	natural	It is completely [...] to feel nervous just before a big test.	It is completely natural to feel nervous just before a big test.	[Adjective] normal or expected	natural / normal
 653A	race	The fastest runner from our school easily won the [...].	The fastest runner from our school easily won the race.	[Noun] a competition of speed	carrera
 653B	race	The law strongly protects people of every color and [...].	The law strongly protects people of every color and race.	[Noun] a group of human beings categorized by physical traits	raza
@@ -165,6 +170,7 @@
 686A	lie	Tell me the complete truth. Do not tell a [...].	Tell me the complete truth. Do not tell a lie.	[Noun] something you say that you know is not true	mentira
 686B	lie	It is always better to tell the truth than to [...] to your friends.	It is always better to tell the truth than to lie to your friends.	[Verb] to say or write something that is not true	mentir
 686C	lie down	I feel very sick today. I need to [...] on the bed.	I feel very sick today. I need to lie down on the bed.	[Phrasal Verb] to move into a position in which your body is flat	recostarse / acostarse
+686D	white lie	I told a small [...] to avoid hurting my grandmother's feelings.	I told a small white lie to avoid hurting my grandmother's feelings.	[Idiom] a harmless lie told to avoid hurting someone	mentira piadosa
 687A	size	This blue shirt is too small. I need a bigger [...].	This blue shirt is too small. I need a bigger size.	[Noun] how large or small something or someone is	talla / tamaño
 688A	dog	My friendly brown [...] loves to play with a tennis ball.	My friendly brown dog loves to play with a tennis ball.	[Noun] a common animal with four legs	perro
 688B	dog-tired	I was completely [...] after running the long marathon race.	I was completely dog-tired after running the long marathon race.	[Idiom] extremely exhausted	muerto de cansancio / exhausto
