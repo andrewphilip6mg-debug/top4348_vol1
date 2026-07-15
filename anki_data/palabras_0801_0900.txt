@@ -1,0 +1,163 @@
+801A	network	The company built a large [...] of computers in every office.	The company built a large network of computers in every office.	[Noun] a connected system of computers, people, or lines	red
+801B	network	She goes to business events every month. She likes to [...] with new people.	She goes to business events every month. She likes to network with new people.	[Verb] to meet people and make professional connections	hacer contactos / relacionarse profesionalmente
+802A	legal	It is not [...] to drive without a license in this country.	It is not legal to drive without a license in this country.	[Adj] allowed or required by law	legal
+803A	religious	Her grandmother is very [...] and goes to church every Sunday.	Her grandmother is very religious and goes to church every Sunday.	[Adj] having strong beliefs about a god or gods	religioso/a
+804A	cold	Please close the window. It is too [...] in this room.	Please close the window. It is too cold in this room.	[Adj] having a low temperature	frío/a
+804B	cold	He has a bad [...]. He cannot stop sneezing today.	He has a bad cold. He cannot stop sneezing today.	[Noun] a common illness with sneezing and a sore throat	resfriado / catarro
+804C	get cold feet	He wanted to quit his job, but he [...] right before the meeting.	He wanted to quit his job, but he got cold feet right before the meeting.	[Idiom] to suddenly feel too nervous to do something planned	rajarse / acobardarse en el último momento
+805A	final	This is the [...] question on the test. Please answer carefully.	This is the final question on the test. Please answer carefully.	[Adj] being the last one in a series	final / último
+805B	final	Our team won every game. Now we are ready for the [...] on Saturday.	Our team won every game. Now we are ready for the final on Saturday.	[Noun] the last game of a sports competition	la final
+806A	main	The [...] problem with the plan is that it costs too much money.	The main problem with the plan is that it costs too much money.	[Adj] most important	principal
+807A	science	My daughter loves [...]. She wants to study biology at university.	My daughter loves science. She wants to study biology at university.	[Noun] the study of nature through experiments	ciencia
+808A	green	Look at that tree. Its leaves are bright [...] in spring.	Look at that tree. Its leaves are bright green in spring.	[Adj] having the color of grass	verde
+808B	green	Don't ask him. He is still very [...] at this job.	Don't ask him. He is still very green at this job.	[Adj] new and without experience	novato / inexperto
+808C	green light	The manager finally gave the team the [...] to start the new project.	The manager finally gave the team the green light to start the new project.	[Idiom] official permission to begin something	luz verde / autorización
+809A	memory	My grandfather is ninety years old, but his [...] is still excellent.	My grandfather is ninety years old, but his memory is still excellent.	[Noun] the ability to remember information	memoria
+809B	memory	That old song brings back happy [...] of my childhood.	That old song brings back happy memories of my childhood.	[Noun] something you remember from the past	recuerdo
+810A	card	She sent her mother a birthday [...] with flowers on it.	She sent her mother a birthday card with flowers on it.	[Noun] a small piece of paper with a message or picture	tarjeta
+810B	put your cards on the table	Stop hiding information. It's time to [...] and tell us the truth.	Stop hiding information. It's time to put your cards on the table and tell us the truth.	[Idiom] to be completely honest about your plans or intentions	poner las cartas sobre la mesa
+811A	above	The lamp hangs [...] the table.	The lamp hangs above the table.	[Prep] in a higher position than something	encima de / arriba de
+812A	seat	Excuse me, is this [...] free? I would like to sit here.	Excuse me, is this seat free? I would like to sit here.	[Noun] a place to sit	asiento
+812B	seat	The waiter will [...] you near the window if you want.	The waiter will seat you near the window if you want.	[Verb] to show someone where to sit	sentar / ubicar
+812C	seat	She won a [...] in the city council last year.	She won a seat in the city council last year.	[Noun] an official position in a government or council	escaño / puesto
+813A	cell	Every living thing is made of tiny [...] that you cannot see.	Every living thing is made of tiny cells that you cannot see.	[Noun] the smallest unit of a living thing	célula
+813B	cell	The prisoner spent ten years alone in a small [...].	The prisoner spent ten years alone in a small cell.	[Noun] a small room where a prisoner is kept	celda
+814A	establish	The two countries decided to [...] a new trade agreement.	The two countries decided to establish a new trade agreement.	[Verb] to start or create something official	establecer
+815A	nice	Thank you for the gift. That was really [...] of you.	Thank you for the gift. That was really nice of you.	[Adj] pleasant or kind	agradable / amable
+816A	trial	The [...] will start next Monday. The judge is ready.	The trial will start next Monday. The judge is ready.	[Noun] a formal examination of a case in court	juicio
+816B	trial	You can use this app for free during the thirty-day [...].	You can use this app for free during the thirty-day trial.	[Noun] a test period to try something before buying it	prueba
+816C	trial and error	She learned to cook through [...]. Some dishes were terrible at first.	She learned to cook through trial and error. Some dishes were terrible at first.	[Idiom] a method of solving a problem by testing different ways	ensayo y error
+817A	expert	You should ask an [...] before you fix the car yourself.	You should ask an expert before you fix the car yourself.	[Noun] a person with special knowledge or skill	experto
+818A	spring	Flowers start to grow again in [...], after the cold winter.	Flowers start to grow again in spring, after the cold winter.	[Noun] the season between winter and summer	primavera
+818B	spring	The cat saw a mouse and began to [...] across the room.	The cat saw a mouse and began to spring across the room.	[Verb] to jump or move suddenly and quickly	saltar
+818C	spring up	New coffee shops [...] all over the city this year.	New coffee shops sprang up all over the city this year.	[Phrasal Verb] to appear or develop suddenly	surgir / aparecer de repente
+819A	firm	The doctor gave a [...] answer. There was no room for doubt.	The doctor gave a firm answer. There was no room for doubt.	[Adj] strong, steady, or determined	firme
+819B	firm	My brother works for a law [...] in the city center.	My brother works for a law firm in the city center.	[Noun] a business or company	firma / empresa
+820A	democrat	In the last election, she voted for the [...] candidate.	In the last election, she voted for the Democrat candidate.	[Noun] a member of the Democratic political party in the US	demócrata
+821A	radio	He listens to the news on the [...] every morning.	He listens to the news on the radio every morning.	[Noun] a device that receives broadcast sound	radio
+822A	visit	We plan to [...] our grandparents this weekend.	We plan to visit our grandparents this weekend.	[Verb] to go and see a person or place	visitar
+823A	management	Good [...] is important if you want a successful business.	Good management is important if you want a successful business.	[Noun] the act of controlling or organizing something	gestión / administración
+824A	avoid	He tried to [...] eye contact because he felt nervous.	He tried to avoid eye contact because he felt nervous.	[Verb] to stay away from something	evitar
+825A	imagine	Close your eyes and [...] a beach with warm, white sand.	Close your eyes and imagine a beach with warm, white sand.	[Verb] to form a picture in your mind	imaginar
+826A	tonight	We are going to a concert [...]. It starts at eight.	We are going to a concert tonight. It starts at eight.	[Adv/Noun] this coming evening or night	esta noche
+827A	huge	They live in a [...] house with ten bedrooms.	They live in a huge house with ten bedrooms.	[Adj] extremely large	enorme
+828A	ball	The children kicked the [...] across the park.	The children kicked the ball across the park.	[Noun] a round object used in games	pelota / balón
+828B	have a ball	The kids [...] at the amusement park last weekend.	The kids had a ball at the amusement park last weekend.	[Idiom] to have a great time	pasarla genial / divertirse mucho
+828C	the ball is in your court	I already gave my answer. Now [...]. You must decide.	I already gave my answer. Now the ball is in your court. You must decide.	[Idiom] it is your turn to take action or decide	la decisión está en tus manos
+829A	finish	She needs one more hour to [...] her homework.	She needs one more hour to finish her homework.	[Verb] to complete something	terminar
+829B	finish	This table has a smooth, shiny [...] that took hours to paint.	This table has a smooth, shiny finish that took hours to paint.	[Noun] the final surface or coating of something	acabado
+830A	yourself	Did you hurt [...]?	Did you hurt yourself?	[Pronoun] refers back to "you"	te / a ti mismo
+831A	theory	Scientists created a new [...] to explain how the universe began.	Scientists created a new theory to explain how the universe began.	[Noun] an idea that explains something	teoría
+832A	impact	The new law had a big [...] on small businesses.	The new law had a big impact on small businesses.	[Noun] a strong effect or influence	impacto
+832B	impact	Bad weather can [...] flights all over the country.	Bad weather can impact flights all over the country.	[Verb] to have a strong effect on something	impactar / afectar
+833A	respond	Please [...] to my email before Friday.	Please respond to my email before Friday.	[Verb] to answer or reply	responder
+834A	statement	The company released a [...] about the accident.	The company released a statement about the accident.	[Noun] an official written or spoken announcement	declaración / comunicado
+835A	maintain	You need to exercise if you want to [...] good health.	You need to exercise if you want to maintain good health.	[Verb] to keep something in good condition	mantener
+835B	maintain	The man still [...] that he is innocent, even after the trial.	The man still maintains that he is innocent, even after the trial.	[Verb] to firmly state that something is true	sostener / afirmar
+836A	charge	There is an extra [...] for delivery on small orders.	There is an extra charge for delivery on small orders.	[Noun] an amount of money you must pay	cargo / cobro
+836B	charge	Police decided to [...] him with theft after the robbery.	Police decided to charge him with theft after the robbery.	[Verb] to formally accuse someone of a crime	acusar / imputar
+836C	charge	Don't forget to [...] your phone before we leave.	Don't forget to charge your phone before we leave.	[Verb] to fill a battery with electrical power	cargar (batería)
+836D	in charge of	She is [...] the whole marketing department now.	She is in charge of the whole marketing department now.	[Idiom] responsible for controlling something	a cargo de / al mando de
+837A	popular	This restaurant is very [...]. You always need a reservation.	This restaurant is very popular. You always need a reservation.	[Adj] liked by many people	popular
+838A	traditional	They wore [...] clothes for the festival.	They wore traditional clothes for the festival.	[Adj] following old customs or beliefs	tradicional
+839A	onto	The cat jumped [...] the table.	The cat jumped onto the table.	[Prep] to a position on top of something	sobre / encima de (con movimiento)
+840A	reveal	The magician did not [...] his secret to anyone.	The magician did not reveal his secret to anyone.	[Verb] to make something known that was hidden	revelar
+841A	direction	I think we are going in the wrong [...]. Let's turn around.	I think we are going in the wrong direction. Let's turn around.	[Noun] the way something moves or faces	dirección
+841B	directions	Can you give me [...] to the train station, please?	Can you give me directions to the train station, please?	[Noun] instructions on how to get somewhere or do something	indicaciones
+842A	weapon	The police found the [...] near the scene of the crime.	The police found the weapon near the scene of the crime.	[Noun] an object used to hurt or kill	arma
+843A	employee	Every new [...] must attend a training session.	Every new employee must attend a training session.	[Noun] a person who works for a company	empleado
+844A	cultural	The museum shows the [...] history of the region.	The museum shows the cultural history of the region.	[Adj] related to the customs and arts of a society	cultural
+845A	contain	This box may [...] old photos and letters.	This box may contain old photos and letters.	[Verb] to have something inside	contener
+845B	contain	She could barely [...] her excitement when she heard the news.	She could barely contain her excitement when she heard the news.	[Verb] to control a strong feeling	contener (una emoción)
+846A	peace	After many years of war, the two nations finally have [...].	After many years of war, the two nations finally have peace.	[Noun] a state without war or conflict	paz
+846B	peace of mind	Buying insurance gives us [...] when we travel.	Buying insurance gives us peace of mind when we travel.	[Idiom] a feeling of calm and no worry	tranquilidad
+847A	pain	She felt a sharp [...] in her back after lifting the box.	She felt a sharp pain in her back after lifting the box.	[Noun] physical suffering caused by injury or illness	dolor
+847B	a pain in the neck	My little brother can be such a [...] when he doesn't get his way.	My little brother can be such a pain in the neck when he doesn't get his way.	[Idiom] an annoying person or thing	un dolor de cabeza / un fastidio
+848A	apply	She decided to [...] for the job at the hospital.	She decided to apply for the job at the hospital.	[Verb] to formally ask for a job or place, usually in writing	postularse / solicitar
+848B	apply	This rule does not [...] to children under five.	This rule does not apply to children under five.	[Verb] to be relevant or relate to a situation	aplicarse
+848C	apply	You should [...] the cream to your skin twice a day.	You should apply the cream to your skin twice a day.	[Verb] to put something onto a surface	aplicar (una crema, pintura, etc.)
+849A	measure	Can you [...] the window before we buy new curtains?	Can you measure the window before we buy new curtains?	[Verb] to find the size or amount of something	medir
+849B	measure	The government introduced new [...] to reduce pollution.	The government introduced new measures to reduce pollution.	[Noun] an official action done to achieve a goal	medida
+850A	wide	The river is very [...] near the old bridge.	The river is very wide near the old bridge.	[Adj] having a large distance from side to side	ancho
+850B	wide awake	It was midnight, but the children were still [...].	It was midnight, but the children were still wide awake.	[Idiom] completely awake, not sleepy at all	completamente despierto
+851A	shake	The ground began to [...] during the earthquake.	The ground began to shake during the earthquake.	[Verb] to move quickly back and forth	temblar / agitar
+851B	shake hands	The two leaders decided to [...] before the meeting started.	The two leaders decided to shake hands before the meeting started.	[Idiom] to greet someone by holding and moving their hand	darse la mano
+851C	shake off	He couldn't [...] the feeling that someone was watching him.	He couldn't shake off the feeling that someone was watching him.	[Phrasal Verb] to get rid of something unwanted	quitarse de encima / deshacerse de
+852A	fly	We will [...] to Madrid next Friday for the wedding.	We will fly to Madrid next Friday for the wedding.	[Verb] to travel through the air	volar
+852B	fly	A [...] landed on the table while we were eating.	A fly landed on the table while we were eating.	[Noun] a small flying insect	mosca
+852C	fly by	The summer holidays always seem to [...] so fast.	The summer holidays always seem to fly by so fast.	[Phrasal Verb] (of time) to pass very quickly	pasar volando (el tiempo)
+853A	interview	She was very nervous before her job [...] yesterday.	She was very nervous before her job interview yesterday.	[Noun] a formal meeting to ask someone questions	entrevista
+854A	manage	He has [...] this restaurant for over ten years.	He has managed this restaurant for over ten years.	[Verb] to be in charge of a business or team	administrar / dirigir
+854B	manage	Somehow, she [...] to finish the marathon despite the pain.	Somehow, she managed to finish the marathon despite the pain.	[Verb] to succeed in doing something difficult	lograr / conseguir
+855A	chair	Please sit on this [...] while you wait.	Please sit on this chair while you wait.	[Noun] a piece of furniture for sitting	silla
+855B	chair	Mr. Lee will [...] tomorrow's meeting because the boss is away.	Mr. Lee will chair tomorrow's meeting because the boss is away.	[Verb] to be in charge of a meeting or committee	presidir / dirigir (una reunión)
+856A	fish	We saw many colorful [...] swimming near the coral reef.	We saw many colorful fish swimming near the coral reef.	[Noun] an animal that lives and swims in water	pez / pescado
+856B	fish for compliments	She keeps talking about her new dress. I think she is [...].	She keeps talking about her new dress. I think she is fishing for compliments.	[Idiom] to try to make people say nice things about you	buscar cumplidos / halagos
+857A	particular	Is there a [...] reason why you chose this color?	Is there a particular reason why you chose this color?	[Adj] specific, not general	particular / específico
+857B	particular	My son is very [...] about the food he eats.	My son is very particular about the food he eats.	[Adj] very careful about choosing exactly what you like	exigente / quisquilloso
+858A	camera	She bought a new [...] to take photos on her trip.	She bought a new camera to take photos on her trip.	[Noun] a device used to take pictures	cámara
+859A	structure	The old bridge is an impressive [...] made of stone.	The old bridge is an impressive structure made of stone.	[Noun] something built, or the way something is organized	estructura
+860A	politics	He never talks about [...] at family dinners.	He never talks about politics at family dinners.	[Noun] activities related to governing a country	política
+861A	perform	The doctor will [...] the surgery early tomorrow morning.	The doctor will perform the surgery early tomorrow morning.	[Verb] to do a task, especially a difficult one	realizar / efectuar
+861B	perform	The band will [...] live at the festival this weekend.	The band will perform live at the festival this weekend.	[Verb] to entertain an audience by acting, singing, or playing music	actuar / presentarse (en un espectáculo)
+862A	bit	Can I have a [...] more coffee, please?	Can I have a bit more coffee, please?	[Noun] a small amount or piece of something	un poco / un pedacito
+862B	bit by bit	She learned English [...], practicing a little every day.	She learned English bit by bit, practicing a little every day.	[Idiom] gradually, in small stages	poco a poco
+863A	weight	The doctor asked him to check his [...] every month.	The doctor asked him to check his weight every month.	[Noun] how heavy someone or something is	peso
+863B	pull your weight	Everyone on the team needs to [...] if we want to finish on time.	Everyone on the team needs to pull their weight if we want to finish on time.	[Idiom] to do your fair share of the work	hacer su parte del trabajo
+864A	suddenly	The lights went out [...] during the storm.	The lights went out suddenly during the storm.	[Adv] happening quickly and unexpectedly	de repente
+865A	discover	Scientists [...] a new species of frog in the forest.	Scientists discovered a new species of frog in the forest.	[Verb] to find something for the first time	descubrir
+866A	candidate	Three [...] are running for mayor this year.	Three candidates are running for mayor this year.	[Noun] a person who is trying to get a job or position	candidato
+867A	production	The factory increased its [...] of cars last year.	The factory increased its production of cars last year.	[Noun] the process of making goods	producción
+868A	treat	You should always [...] other people with respect.	You should always treat other people with respect.	[Verb] to behave toward someone in a certain way	tratar
+868B	treat	As a special [...], her parents took her to the zoo.	As a special treat, her parents took her to the zoo.	[Noun] something special or nice given to someone	gusto / capricho
+869A	trip	They are planning a long [...] to Japan next summer.	They are planning a long trip to Japan next summer.	[Noun] a journey to a place	viaje
+869B	trip	Be careful, or you will [...] on those stairs.	Be careful, or you will trip on those stairs.	[Verb] to catch your foot and fall or almost fall	tropezar
+869C	trip up	That tricky question was designed to [...] the students.	That tricky question was designed to trip up the students.	[Phrasal Verb] to cause someone to make a mistake	hacer tropezar / confundir
+870A	evening	We usually have dinner together in the [...].	We usually have dinner together in the evening.	[Noun] the part of the day between afternoon and night	noche / tarde-noche
+871A	affect	Loud noise can [...] your ability to sleep well.	Loud noise can affect your ability to sleep well.	[Verb] to have an influence on something	afectar
+872A	inside	The cat is [...] the house.	The cat is inside the house.	[Prep/Adv] in or into a place	adentro / dentro
+872B	inside out	He knows this old car [...]. He can fix anything on it.	He knows this old car inside out. He can fix anything on it.	[Idiom] to know something extremely well, in complete detail	conocer al dedillo
+873A	conference	Doctors from all over the world attended the medical [...].	Doctors from all over the world attended the medical conference.	[Noun] a large formal meeting about a specific topic	conferencia
+874A	unit	Each apartment [...] in the building has two bedrooms.	Each apartment unit in the building has two bedrooms.	[Noun] a single item, part, or group	unidad
+875A	style	I really like the [...] of her new haircut.	I really like the style of her new haircut.	[Noun] a particular way of doing or looking at something	estilo
+876A	adult	This movie is only for [...]. It is too scary for children.	This movie is only for adults. It is too scary for children.	[Noun] a person who is fully grown	adulto
+877A	worry	Please don't [...] about the exam. You studied hard.	Please don't worry about the exam. You studied hard.	[Verb] to feel anxious about something	preocuparse
+878A	range	The store offers a wide [...] of shoes for every taste.	The store offers a wide range of shoes for every taste.	[Noun] a variety of different things of the same kind	gama / variedad
+878B	range	Prices at the market [...] from five to fifty dollars.	Prices at the market range from five to fifty dollars.	[Verb] to vary between two limits	variar / oscilar
+879A	mention	Did she [...] what time the party starts?	Did she mention what time the party starts?	[Verb] to talk about something briefly	mencionar
+880A	deep	Be careful, the water here is very [...].	Be careful, the water here is very deep.	[Adj] going far down from the top	profundo
+880B	deep down	She acts confident, but [...] she is quite shy.	She acts confident, but deep down she is quite shy.	[Idiom] in someone's true feelings, even if hidden	en el fondo
+881A	edge	Don't stand too close to the [...] of the cliff.	Don't stand too close to the edge of the cliff.	[Noun] the outer border or limit of something	borde
+881B	on edge	After the strange phone call, she felt [...] all night.	After the strange phone call, she felt on edge all night.	[Idiom] nervous, tense, or anxious	con los nervios de punta
+881C	have the edge	Both teams are strong, but the home team seems to [...] this season.	Both teams are strong, but the home team seems to have the edge this season.	[Idiom] to have a slight advantage over others	llevar la ventaja
+882A	specific	Can you give me a more [...] answer, please?	Can you give me a more specific answer, please?	[Adj] exact and detailed, not general	específico
+883A	writer	My aunt is a famous [...] of children's books.	My aunt is a famous writer of children's books.	[Noun] a person who writes books, stories, or articles	escritor
+884A	trouble	He is having [...] finding a good job right now.	He is having trouble finding a good job right now.	[Noun] problems or difficulty	problema / dificultad
+884B	trouble	I'm sorry to [...] you, but could you help me with this bag?	I'm sorry to trouble you, but could you help me with this bag?	[Verb] to bother or disturb someone	molestar
+885A	necessary	Water is [...] for every living thing on Earth.	Water is necessary for every living thing on Earth.	[Adj] needed or required	necesario
+886A	throughout	It rained [...] the whole trip.	It rained throughout the whole trip.	[Prep] during the entire period of something	durante / a lo largo de
+887A	challenge	Learning a new language is a big [...] for many adults.	Learning a new language is a big challenge for many adults.	[Noun] a difficult task that tests someone's ability	desafío / reto
+887B	challenge	The lawyer decided to [...] the decision in court.	The lawyer decided to challenge the decision in court.	[Verb] to question whether something is right or true	desafiar / impugnar
+888A	fear	Many people have a strong [...] of spiders.	Many people have a strong fear of spiders.	[Noun] a feeling of being afraid	miedo
+889A	shoulder	He carried his backpack over one [...].	He carried his backpack over one shoulder.	[Noun] the part of your body between your neck and your arm	hombro
+889B	shoulder	As the oldest child, she had to [...] most of the family's problems.	As the oldest child, she had to shoulder most of the family's problems.	[Verb] to accept responsibility for something difficult	cargar con / asumir
+889C	give someone the cold shoulder	After the argument, her friend started to [...] her at school.	After the argument, her friend started to give her the cold shoulder at school.	[Idiom] to deliberately ignore someone or treat them coldly	hacerle el vacío a alguien
+890A	institution	This university is one of the oldest [...] in the country.	This university is one of the oldest institutions in the country.	[Noun] a large important organization, such as a school or bank	institución
+891A	middle	Put the flowers in the [...] of the table.	Put the flowers in the middle of the table.	[Noun] the center point or part of something	medio / centro
+891B	in the middle of nowhere	Their cabin is [...]. The nearest town is two hours away.	Their cabin is in the middle of nowhere. The nearest town is two hours away.	[Idiom] in a very remote place, far from other places	en medio de la nada
+892A	sea	We walked along the beach and watched the [...].	We walked along the beach and watched the sea.	[Noun] the large area of salt water that covers most of the Earth	mar
+892B	at sea	After the teacher explained it three times, he was still completely [...].	After the teacher explained it three times, he was still completely at sea.	[Idiom] confused and not understanding something	totalmente perdido / confundido
+893A	dream	I had a strange [...] about flying over the ocean last night.	I had a strange dream about flying over the ocean last night.	[Noun] images and thoughts that happen while you sleep	sueño
+893B	dream	She used to [...] about becoming a doctor when she was young.	She used to dream about becoming a doctor when she was young.	[Verb] to imagine or hope for something in the future	soñar
+894A	bar	We met some friends at the [...] after work.	We met some friends at the bar after work.	[Noun] a place where people buy and drink alcohol	bar
+894B	bar	He ate a [...] of chocolate during the movie.	He ate a bar of chocolate during the movie.	[Noun] a solid rectangular piece of something	barra / tableta
+894C	behind bars	The thief will spend five years [...] for his crimes.	The thief will spend five years behind bars for his crimes.	[Idiom] in prison	entre rejas
+895A	beautiful	The sunset over the mountains was absolutely [...].	The sunset over the mountains was absolutely beautiful.	[Adj] very pleasing to look at	hermoso / bello
+896A	property	They bought a small [...] near the beach last year.	They bought a small property near the beach last year.	[Noun] land or a building that someone owns	propiedad
+896B	property	Honey has a natural [...] that stops bacteria from growing.	Honey has a natural property that stops bacteria from growing.	[Noun] a special quality or feature of something	propiedad (cualidad)
+897A	instead	I don't want tea. Give me coffee [...].	I don't want tea. Give me coffee instead.	[Adv] in place of something else	en cambio / en su lugar
+898A	improve	She practices every day to [...] her English.	She practices every day to improve her English.	[Verb] to make something better	mejorar
+899A	stuff	Please move your [...] off the kitchen table.	Please move your stuff off the kitchen table.	[Noun] (informal) things or belongings	cosas
+899B	stuff	She tried to [...] all her clothes into one small bag.	She tried to stuff all her clothes into one small bag.	[Verb] to fill something tightly	rellenar / meter con fuerza
+900A	detail	She noticed every small [...] in the painting.	She noticed every small detail in the painting.	[Noun] a small individual fact or feature	detalle
+900B	in detail	Can you explain the plan [...]? I want to understand everything.	Can you explain the plan in detail? I want to understand everything.	[Idiom] thoroughly, including all the small facts	en detalle / a fondo
