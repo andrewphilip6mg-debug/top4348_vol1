@@ -1,0 +1,173 @@
+1001A	eventually	Keep trying and you will [...] find a good job.	Keep trying and you will eventually find a good job.	[Adv] in the end, after a long time or a lot of effort	al final / tarde o temprano
+1002A	forest	The kids spent the afternoon exploring the dark [...].	The kids spent the afternoon exploring the dark forest.	[Noun] a large area of land covered with trees	bosque
+1002B	see the forest for the trees	He is so focused on small details that he cannot [...].	He is so focused on small details that he cannot see the forest for the trees.	[Idiom] to be unable to understand a situation because you are too focused on small details	no ver el bosque por los árboles / perderse en los detalles
+1003A	video	She recorded a short [...] of her dog playing outside.	She recorded a short video of her dog playing outside.	[Noun] a recording of moving visual images	video
+1003B	video	He decided to [...] the school concert so his family could watch it.	He decided to video the school concert so his family could watch it.	[Verb] to record moving images using a camera	grabar en video
+1004A	global	The internet created a [...] network that connects everyone.	The internet created a global network that connects everyone.	[Adj] relating to the whole world	global / mundial
+1004B	global warming	Scientists warn that [...] is causing glaciers to melt rapidly.	Scientists warn that global warming is causing glaciers to melt rapidly.	[Noun] the gradual increase in the earth's temperature caused by greenhouse gases	calentamiento global
+1005A	Senate	The [...] voted on the new bill yesterday afternoon.	The Senate voted on the new bill yesterday afternoon.	[Noun] the smaller, upper house of a government council or parliament	senado
+1006A	reform	The government plans to [...] the entire healthcare system.	The government plans to reform the entire healthcare system.	[Verb] to improve an organization or system by making changes	reformar
+1006B	reform	The country needs a major [...] of its tax laws.	The country needs a major reform of its tax laws.	[Noun] an improvement made by altering a system	reforma
+1007A	access	You need a password to [...] your bank account online.	You need a password to access your bank account online.	[Verb] to open, look at, or use computer data or a place	acceder a / ingresar a
+1007B	access	Students have free [...] to the university library.	Students have free access to the university library.	[Noun] the right or ability to use or enter a place	acceso
+1008A	restaurant	We had dinner at a small Italian [...] down the street.	We had dinner at a small Italian restaurant down the street.	[Noun] a place where people pay to sit and eat meals	restaurante
+1009A	judge	The [...] sent the criminal to prison for five years.	The judge sent the criminal to prison for five years.	[Noun] an official who decides cases in a law court	juez / jueza
+1009B	judge	It is wrong to [...] people based on their clothing.	It is wrong to judge people based on their clothing.	[Verb] to form an opinion about someone or something	juzgar
+1010A	publish	The famous author plans to [...] her new book next month.	The famous author plans to publish her new book next month.	[Verb] to print and sell a book, magazine, or newspaper	publicar
+1011A	relation	There is a direct [...] between diet and heart health.	There is a direct relation between diet and heart health.	[Noun] a connection between two or more things	relación / conexión
+1011B	relation	She is a distant [...] of mine, but we rarely speak.	She is a distant relation of mine, but we rarely speak.	[Noun] a member of your family; a relative	pariente / familiar
+1011C	in relation to	The boss asked for some figures [...] our sales this month.	The boss asked for some figures in relation to our sales this month.	[Idiom] in connection with or concerning something	en relación con / con respecto a
+1012A	release	The guards will [...] the prisoner tomorrow morning.	The guards will release the prisoner tomorrow morning.	[Verb] to allow a person or animal to leave a place freely	liberar / soltar
+1012B	release	The band announced the [...] of their new album.	The band announced the release of their new album.	[Noun] the act of making a new product or movie available	lanzamiento / estreno
+1013A	bird	A small blue [...] was singing on the tree branch.	A small blue bird was singing on the tree branch.	[Noun] an animal with wings and feathers that can fly	pájaro / ave
+1013B	early bird	The [...] gets the best discount on plane tickets.	The early bird gets the best discount on plane tickets.	[Idiom] a person who gets up or arrives early	madrugador/a
+1013C	kill two birds with one stone	I can [...] by going to the bank on my way to work.	I can kill two birds with one stone by going to the bank on my way to work.	[Idiom] to achieve two things with a single action	matar dos pájaros de un tiro
+1014A	opinion	In my [...], this movie is much better than the first one.	In my opinion, this movie is much better than the first one.	[Noun] a thought or belief about something or someone	opinión
+1015A	credit	The store gave her [...] so she could pay next month.	The store gave her credit so she could pay next month.	[Noun] an arrangement to buy things now and pay later	crédito
+1015B	take credit for	He tried to [...] the work that I did by myself.	He tried to take credit for the work that I did by myself.	[Idiom] to accept praise or approval for something	llevarse el mérito de
+1015C	credit	You must give her [...] for finishing the hard project on time.	You must give her credit for finishing the hard project on time.	[Noun] praise or approval given to someone for something they have done	mérito / reconocimiento
+1015D	credit card	I do not have cash, so I will pay with my [...].	I do not have cash, so I will pay with my credit card.	[Noun] a small plastic card used to buy goods and pay for them later	tarjeta de crédito
+1016A	critical	My boss is always [...] of the mistakes I make.	My boss is always critical of the mistakes I make.	[Adj] expressing disapproval or finding fault	crítico/a
+1016B	critical	The first few hours after the accident are [...].	The first few hours after the accident are critical.	[Adj] extremely important or crucial	crítico/a / crucial
+1017A	corner	The post office is located on the [...] of Main Street.	The post office is located on the corner of Main Street.	[Noun] the place where two lines, walls, or roads meet	esquina
+1017B	cut corners	Do not [...] when you build a house.	Do not cut corners when you build a house.	[Idiom] to do something in the easiest, cheapest, or fastest way	escatimar gastos / tomar atajos
+1017C	around the corner	Summer is [...] and I cannot wait to visit the beach.	Summer is around the corner and I cannot wait to visit the beach.	[Idiom] very close in time or distance; happening soon	a la vuelta de la esquina
+1017D	corner	The police finally [...] the thief in a narrow alley.	The police finally cornered the thief in a narrow alley.	[Verb] to force a person or animal into a place where they cannot escape	acorralar
+1018A	concerned	My parents are very [...] about my bad grades this semester.	My parents are very concerned about my bad grades this semester.	[Adj] worried or anxious about something	preocupado/a
+1018B	concerned with	This new book is mainly [...] how to save money.	This new book is mainly concerned with how to save money.	[Adj] interested in or dealing with a specific subject	relacionado con / que trata de
+1018C	as far as I'm concerned	[...], we can start the meeting now.	As far as I'm concerned, we can start the meeting now.	[Idiom] used to express your personal opinion or point of view	por lo que a mí respecta / en mi opinión
+1019A	recall	I cannot [...] his name, but I remember his face.	I cannot recall his name, but I remember his face.	[Verb] to bring a memory back into your mind	recordar / acordarse de
+1019B	recall	The company had to [...] the cars due to a brake problem.	The company had to recall the cars due to a brake problem.	[Verb] to officially order the return of a faulty product	retirar del mercado
+1020A	version	You need to download the latest [...] of the phone application.	You need to download the latest version of the phone application.	[Noun] a form of something that is slightly different from others	versión
+1021A	stare	It is rude to [...] at people on the train.	It is rude to stare at people on the train.	[Verb] to look at someone for a long time without moving your eyes	mirar fijamente
+1022A	safety	The workers wear hard hats for their own [...].	The workers wear hard hats for their own safety.	[Noun] the state of being safe from danger or harm	seguridad
+1023A	effective	This warm tea is very [...] for a sore throat.	This warm tea is very effective for a sore throat.	[Adj] successful or producing the result that you want	efectivo/a / eficaz
+1024A	neighborhood	Children often play street games in this quiet [...].	Children often play street games in this quiet neighborhood.	[Noun] an area of a town or city where people live	vecindario / barrio
+1025A	original	The [...] plan was changed after we ran out of money.	The original plan was changed after we ran out of money.	[Adj] existing from the beginning before any changes	original / inicial
+1025B	original	Her clothes are unique because she has very [...] ideas.	Her clothes are unique because she has very original ideas.	[Adj] completely new, creative, and interesting	original / innovador
+1026A	troop	The government sent more [...] to protect the country's border.	The government sent more troops to protect the country's border.	[Noun - plural] soldiers in a large organized group	tropas
+1027A	income	Their family [...] increased after she got a better job.	Their family income increased after she got a better job.	[Noun] the money that you earn from work or investments	ingresos
+1028A	directly	Please go [...] to the principal's office without stopping.	Please go directly to the principal's office without stopping.	[Adv] straight to a place without stopping or changing direction	directamente
+1029A	hurt	He fell off his bike and [...] his left leg.	He fell off his bike and hurt his left leg.	[Verb] to cause physical injury or pain	lastimar / lesionar
+1029B	hurt	My feet [...] after walking across the city all day.	My feet hurt after walking across the city all day.	[Verb] to feel physical pain	doler
+1029C	hurt	She was deeply [...] when her friends forgot her birthday.	She was deeply hurt when her friends forgot her birthday.	[Adj] feeling emotional pain or sadness	dolido/a / herido/a
+1030A	species	There are many different [...] of birds living in this park.	There are many different species of birds living in this park.	[Noun] a group of animals or plants that are similar	especie / especies
+1031A	immediately	Call an ambulance because we need help [...].	Call an ambulance because we need help immediately.	[Adv] right away, without any delay	inmediatamente
+1032A	track	The train ran off the [...] during the storm.	The train ran off the track during the storm.	[Noun] a parallel line of rails for trains	vía / riel
+1032B	keep track of	It is hard to [...] all your daily expenses.	It is hard to keep track of all your daily expenses.	[Idiom] to stay informed about or monitor something	llevar un registro de
+1032C	lose track of	I always [...] time when I play video games.	I always lose track of time when I play video games.	[Idiom] to fail to stay aware of something	perder la noción de
+1032D	track	You can use this app to [...] your daily running distance.	You can use this app to track your daily running distance.	[Verb] to follow the progress or movement of something	rastrear / seguir
+1032E	on track	Despite some early problems, our project is now back [...].	Despite some early problems, our project is now back on track.	[Idiom] making progress as expected and likely to succeed	bien encaminado / en camino
+1033A	basic	Food and water are [...] needs for every human being.	Food and water are basic needs for every human being.	[Adj] simple and most important, forming a foundation	básico/a
+1033B	basics	Before you start cooking, you must learn the [...] of food safety.	Before you start cooking, you must learn the basics of food safety.	[Noun - plural] the simplest and most important facts or skills about a subject	lo básico / nociones básicas
+1034A	strike	The workers went on [...] to demand higher pay.	The workers went on strike to demand higher pay.	[Noun] a period of refusing to work as a protest	huelga
+1034B	strike	You must [...] the ball with the center of the bat.	You must strike the ball with the center of the bat.	[Verb] to hit someone or something with force	golpear
+1034C	strike	It did not [...] me as strange that she left early.	It did not strike me as strange that she left early.	[Verb] to cause someone to have a particular thought or impression	parecer / dar la impresión de
+1034D	strike a balance	It is important to [...] between work and family life.	It is important to strike a balance between work and family life.	[Idiom] to find a satisfactory compromise between two different things	encontrar un equilibrio
+1035A	sky	The dark clouds cleared and the [...] became bright blue.	The dark clouds cleared and the sky became bright blue.	[Noun] the space above the earth where clouds and stars are	cielo
+1035B	the sky's the limit	With your talent, [...] for your future career.	With your talent, the sky's the limit for your future career.	[Idiom] there is no limit to what you can achieve or spend	el cielo es el límite
+1036A	freedom	The prisoners fought hard to win their [...] from the king.	The prisoners fought hard to win their freedom from the king.	[Noun] the power or right to act, speak, or think freely	libertad
+1036B	freedom of speech	The constitution guarantees [...] for all citizens.	The constitution guarantees freedom of speech for all citizens.	[Noun] the legal right to express your opinions publicly	libertad de expresión
+1037A	absolutely	I am [...] sure that I locked the door before leaving.	I am absolutely sure that I locked the door before leaving.	[Adv] completely or totally	absolutamente / totalmente
+1038A	plane	The passengers boarded the [...] ten minutes before it departed.	The passengers boarded the plane ten minutes before it departed.	[Noun] a vehicle with wings that flies through the air	avión
+1039A	nobody	The house was completely empty and [...] answered the front door.	The house was completely empty and nobody answered the front door.	[Pronoun] no person	nadie
+1039B	nobody	Before he became a famous actor, he was just a [...].	Before he became a famous actor, he was just a nobody.	[Noun] a person who is not famous, important, or influential	un don nadie / un cero a la izquierda
+1040A	achieve	You can [...] your goals if you work hard every day.	You can achieve your goals if you work hard every day.	[Verb] to successfully finish or get something by working hard	alcanzar / lograr
+1041A	object	There was a strange metal [...] lying on the ground.	There was a strange metal object lying on the ground.	[Noun] a physical thing that can be seen and touched	objeto
+1041B	object	Local residents [...] to the plan to build a highway here.	Local residents object to the plan to build a highway here.	[Verb] to express disapproval or opposition	oponerse / objetar
+1042A	attitude	A positive [...] can help you pass a difficult exam.	A positive attitude can help you pass a difficult exam.	[Noun] the way you feel or think about something	actitud
+1043A	labor	Building the stone wall required months of hard physical [...].	Building the stone wall required months of hard physical labor.	[Noun] hard physical work	mano de obra / trabajo
+1043B	labor	She was in [...] for ten hours before the baby was born.	She was in labor for ten hours before the baby was born.	[Noun] the process of childbirth	trabajo de parto
+1043C	labor of love	Painting this old kitchen was a true [...] for the couple.	Painting this old kitchen was a true labor of love for the couple.	[Idiom] work done for personal pleasure rather than for money	trabajo por amor al arte
+1044A	refer	Please [...] to the map on page ten for directions.	Please refer to the map on page ten for directions.	[Verb] to look at something for information	remitirse a / consultar
+1044B	refer to	Doctors [...] this common skin condition as eczema.	Doctors refer to this common skin condition as eczema.	[Phrasal Verb] to mention, describe, or call someone or something by a particular name	referirse a / llamar a
+1045A	concept	The teacher used a drawing to explain the new [...].	The teacher used a drawing to explain the new concept.	[Noun] a general idea or principle	concepto
+1046A	client	The lawyer met with an important [...] to discuss the case.	The lawyer met with an important client to discuss the case.	[Noun] a person who pays for professional services	cliente
+1047A	powerful	The truck has a very [...] engine that can pull heavy loads.	The truck has a very powerful engine that can pull heavy loads.	[Adj] having a lot of power or physical strength	potente / poderoso/a
+1048A	perfect	The weather was [...] for a nice picnic at the beach.	The weather was perfect for a nice picnic at the beach.	[Adj] completely right or without any mistakes	perfecto/a
+1048B	perfect	She spent hours trying to [...] her chocolate cake recipe.	She spent hours trying to perfect her chocolate cake recipe.	[Verb] to make something completely free of faults or flaws	perfeccionar
+1049A	nine	My little sister is [...] years old today.	My little sister is nine years old today.	[Noun/Adj] the number after eight and before ten	nueve
+1049B	on cloud nine	He was [...] after she accepted his marriage proposal.	He was on cloud nine after she accepted his marriage proposal.	[Idiom] extremely happy, joyful, and excited	en el séptimo cielo / en las nubes
+1050A	therefore	He did not study and [...] he failed the final exam.	He did not study and therefore he failed the final exam.	[Adv] as a result of something just mentioned	por lo tanto
+1051A	conduct	The scientists will [...] a new study on sleep habits.	The scientists will conduct a new study on sleep habits.	[Verb] to organize and perform a particular activity	llevar a cabo / realizar
+1051B	conduct	The student received an award for excellent [...] at school.	The student received an award for excellent conduct at school.	[Noun] the way a person behaves in a specific place	conducta / comportamiento
+1052A	announce	The company will [...] the winner of the contest tomorrow.	The company will announce the winner of the contest tomorrow.	[Verb] to tell people something officially	anunciar
+1053A	conversation	I had an interesting [...] with my new neighbor yesterday morning.	I had an interesting conversation with my new neighbor yesterday morning.	[Noun] an informal talk between two or more people	conversación
+1054A	examine	The doctor needs to [...] your throat before giving you medicine.	The doctor needs to examine your throat before giving you medicine.	[Verb] to look at something carefully to learn more	examinar
+1055A	touch	Please do not [...] the paintings in the museum.	Please do not touch the paintings in the museum.	[Verb] to put your hand or fingers on something	tocar
+1055B	stay in touch	We promised to [...] after we finished high school.	We promised to stay in touch after we finished high school.	[Idiom] to maintain communication with someone	mantenerse en contacto
+1055C	lose touch	Try not to [...] with your friends after moving to Spain.	Try not to lose touch with your friends after moving to Spain.	[Idiom] to stop communicating with someone	perder el contacto
+1055D	get in touch	Please [...] with me if you need any help next week.	Please get in touch with me if you need any help next week.	[Idiom] to contact or establish communication with someone	ponerse en contacto
+1056A	please	Could you [...] open the window? It is hot here.	Could you please open the window? It is hot here.	[Adv] a polite word used when asking for something	por favor
+1056B	please	It is impossible to [...] everyone all the time.	It is impossible to please everyone all the time.	[Verb] to make someone feel happy or satisfied	complacer / agradar
+1057A	attend	All students must [...] the morning meeting in the main hall.	All students must attend the morning meeting in the main hall.	[Verb] to go to or be present at an event or place	asistir a
+1057B	attend to	The nurse had to [...] an emergency in the other room.	The nurse had to attend to an emergency in the other room.	[Phrasal Verb] to deal with or take care of someone or something	encargarse de / atender a
+1058A	completely	The old wooden house was [...] destroyed by the fire.	The old wooden house was completely destroyed by the fire.	[Adv] 100% or totally	completamente / totalmente
+1059A	variety	The supermarket sells a wide [...] of fresh fruits and vegetables.	The supermarket sells a wide variety of fresh fruits and vegetables.	[Noun] a collection of many different things	variedad
+1060A	sleep	Most adults need to [...] for seven or eight hours a night.	Most adults need to sleep for seven or eight hours a night.	[Verb] to rest in a state of natural unconsciousness	dormir
+1060B	sleep	I did not get enough [...] because the baby cried all night.	I did not get enough sleep because the baby cried all night.	[Noun] the state or period of natural rest	sueño / descanso
+1060C	sleep on it	I cannot decide now, so let me [...] and tell you tomorrow.	I cannot decide now, so let me sleep on it and tell you tomorrow.	[Idiom] to delay making a decision until the next morning	consultarlo con la almohada
+1061A	involved	Several young teenagers were [...] in the street fight last night.	Several young teenagers were involved in the street fight last night.	[Adj] included or taking part in an activity	involucrado/a / metido/a
+1062A	investigation	The police started an [...] to find the stolen gold.	The police started an investigation to find the stolen gold.	[Noun] an official process to find the facts about something	investigación
+1063A	nuclear	Many countries use [...] energy to produce electricity for houses.	Many countries use nuclear energy to produce electricity for houses.	[Adj] relating to atomic energy or weapons	nuclear
+1063B	nuclear family	Our modern society mostly consists of small [...].	Our modern society mostly consists of small nuclear families.	[Noun] a social unit consisting of two parents and their children	familia nuclear
+1064A	researcher	The university hired a top [...] to study the new virus.	The university hired a top researcher to study the new virus.	[Noun] a person who studies a subject carefully to find new facts	investigador/a
+1065A	press	You need to [...] the green button to start the machine.	You need to press the green button to start the machine.	[Verb] to push something firmly with your finger	presionar / pulsar
+1065B	press	The story was reported by the local [...] this morning.	The story was reported by the local press this morning.	[Noun] newspapers, magazines, and the journalists who write them	prensa
+1065C	press charges	The victim decided not to [...] against the young thief.	The victim decided not to press charges against the young thief.	[Idiom] to make an official legal accusation against someone	presentar cargos / denunciar
+1065D	pressed for time	I cannot talk right now because I am extremely [...].	I cannot talk right now because I am extremely pressed for time.	[Idiom] having very little time available to do something	corto de tiempo / apurado
+1066A	conflict	The two leaders met to end the violent border [...].	The two leaders met to end the violent border conflict.	[Noun] a serious disagreement or fight between groups	conflicto
+1066B	conflict	My afternoon meetings [...], so I must reschedule one of them.	My afternoon meetings conflict, so I must reschedule one of them.	[Verb] to be incompatible or happen at the same time	entrar en conflicto / chocar
+1067A	spirit	Some people believe a friendly [...] lives inside this old house.	Some people believe a friendly spirit lives inside this old house.	[Noun] a ghost or soul of a dead person	espíritu / fantasma
+1067B	spirit	Team [...] was high after the players won the big match.	Team spirit was high after the players won the big match.	[Noun] enthusiasm or a general mood among a group	espíritu / ánimo
+1067C	spirits	The bar serves beer, wine, and a variety of [...].	The bar serves beer, wine, and a variety of spirits.	[Noun - plural] strong alcoholic drinks such as whiskey or vodka	bebidas alcohólicas fuertes / espirituosas
+1068A	replace	We need to [...] the broken window before it starts raining.	We need to replace the broken window before it starts raining.	[Verb] to put a new thing in the place of an old one	reemplazar / cambiar
+1069A	British	The young man spoke with a distinct [...] accent.	The young man spoke with a distinct British accent.	[Adj] relating to Great Britain or its people	británico/a
+1070A	encourage	Teachers always [...] their students to read books every day.	Teachers always encourage their students to read books every day.	[Verb] to give someone hope, support, or confidence	animar / alentar
+1071A	argument	The couple had a loud [...] about money last night.	The couple had a loud argument about money last night.	[Noun] an angry disagreement between people	discusión / pelea
+1071B	argument	The lawyer presented a strong [...] to defend his client.	The lawyer presented a strong argument to defend his client.	[Noun] a reason or set of reasons given to persuade others	argumento
+1072A	camp	We decided to [...] near the lake for the weekend.	We decided to camp near the lake for the weekend.	[Verb] to stay outside overnight in a tent	acampar
+1072B	camp	The children spent two weeks at a summer [...] in July.	The children spent two weeks at a summer camp in July.	[Noun] a place where people stay temporarily in tents or cabins	campamento
+1073A	brain	The human [...] controls everything we think, feel, and do.	The human brain controls everything we think, feel, and do.	[Noun] the organ inside your head that controls thoughts and movements	cerebro
+1073B	no-brainer	Choosing the free vacation was a complete [...] for her.	Choosing the free vacation was a complete no-brainer for her.	[Idiom - Informal] an extremely easy decision that requires very little thought	una obviedad / una decisión obvia
+1074A	feature	The most interesting [...] of the new car is its safety system.	The most interesting feature of the new car is its safety system.	[Noun] an important part or characteristic of something	característica / función
+1074B	feature	Many popular mobile games [...] advertisements every few minutes.	Many popular mobile games feature advertisements every few minutes.	[Verb] to include someone or something as an important part	presentar / incluir / contar con
+1075A	afternoon	Let's meet at three o'clock this [...] for a quick coffee.	Let's meet at three o'clock this afternoon for a quick coffee.	[Noun] the time between lunch and evening	tarde
+1076A	AM	The morning flight leaves at exactly six [...].	The morning flight leaves at exactly six AM.	[Adv] before noon (used with times)	a.m. / de la mañana
+1077A	weekend	I like to relax and watch movies during the [...].	I like to relax and watch movies during the weekend.	[Noun] Saturday and Sunday	fin de semana
+1078A	dozen	She bought a [...] eggs from the local farm market.	She bought a dozen eggs from the local farm market.	[Noun/Adj] a group of twelve things	docena
+1079A	possibility	There is a strong [...] of rain later today.	There is a strong possibility of rain later today.	[Noun] a chance that something might happen	posibilidad
+1080A	insurance	You must buy car [...] before you can drive legally.	You must buy car insurance before you can drive legally.	[Noun] an agreement to protect against financial loss	seguro
+1081A	department	He works in the sales [...] of a large clothing store.	He works in the sales department of a large clothing store.	[Noun] one of the parts of a large organization or store	departamento / sección
+1082A	battle	Many brave soldiers died during the historic [...] on the hill.	Many brave soldiers died during the historic battle on the hill.	[Noun] a fight between two armies in a war	batalla
+1082B	battle	The city had to [...] heavy snowstorms during the cold winter.	The city had to battle heavy snowstorms during the cold winter.	[Verb] to fight against or try very hard to overcome a difficult situation	luchar contra / combatir
+1083A	beginning	I missed the [...] of the movie because I arrived late.	I missed the beginning of the movie because I arrived late.	[Noun] the start of something	principio / inicio
+1084A	date	What is today's [...]? Is it the fifth or the sixth?	What is today's date? Is it the fifth or the sixth?	[Noun] a specific day of the month or year	fecha
+1084B	date	He asked her out on a [...] for Friday night.	He asked her out on a date for Friday night.	[Noun] a romantic meeting between two people	cita
+1084C	date	They decided to [...] for a year before moving in together.	They decided to date for a year before moving in together.	[Verb] to have a romantic relationship with someone	salir con / ser novios
+1084D	up to date	The map is not [...] so it does not show the new roads.	The map is not up to date so it does not show the new roads.	[Idiom] modern, recent, or containing the latest information	al día / actualizado
+1085A	generally	The weather in this region is [...] warm during the summer.	The weather in this region is generally warm during the summer.	[Adv] usually or in most situations	por lo general / generalmente
+1086A	African	We saw many [...] elephants during our safari trip last year.	We saw many African elephants during our safari trip last year.	[Adj] relating to Africa or its people	africano/a
+1087A	sorry	I am very [...] for breaking your favorite coffee cup.	I am very sorry for breaking your favorite coffee cup.	[Adj] feeling sad or full of regret about a mistake	arrepentido/a / lo siento
+1087B	feel sorry for	I [...] him because he lost his keys in the snow.	I feel sorry for him because he lost his keys in the snow.	[Idiom] to feel pity or sympathy for someone	sentir lástima por / compadecerse de
+1088A	crisis	The economic [...] forced many small shops to close down.	The economic crisis forced many small shops to close down.	[Noun] a time of great danger, difficulty, or trouble	crisis
+1089A	complete	You must [...] the application form before the deadline.	You must complete the application form before the deadline.	[Verb] to finish doing or making something	completar / terminar
+1089B	complete	The collection is now [...] after I found the last book.	The collection is now complete after I found the last book.	[Adj] whole, with all its parts included	completo/a
+1090A	fan	He is a huge [...] of the local football team.	He is a huge fan of the local football team.	[Noun] a person who strongly admires a team, sport, or celebrity	fanático/a / aficionado/a
+1090B	fan	Turn on the [...] because it is very hot in this room.	Turn on the fan because it is very hot in this room.	[Noun] an electric device that blows air to cool you down	ventilador
+1091A	stick	The dog ran after the [...] that I threw.	The dog ran after the stick that I threw.	[Noun] a thin piece of wood from a tree branch	palo / ramita
+1091B	stick	Use this tape to [...] the poster onto the wall.	Use this tape to stick the poster onto the wall.	[Verb] to attach something using glue or tape	pegar / adherir
+1091C	stick to	You should [...] your original plan and not change it now.	You should stick to your original plan and not change it now.	[Phrasal Verb] to continue doing something without changing	apegarse a / cumplir con
+1091D	stick around	You should [...] after the meeting to have some cake.	You should stick around after the meeting to have some cake.	[Phrasal Verb - Informal] to stay in a place for a little longer	quedarse / quedarse un rato más
+1091E	stick out	His bright red hair made him [...] in the crowd.	His bright red hair made him stick out in the crowd.	[Phrasal Verb] to be very easy to notice or see	sobresalir / destacar
+1092A	define	A good dictionary can help you [...] difficult words easily.	A good dictionary can help you define difficult words easily.	[Verb] to explain the exact meaning of a word	definir
+1093A	easily	She passed the driving test [...] because she practiced a lot.	She passed the driving test easily because she practiced a lot.	[Adv] without any difficulty or problems	fácilmente
+1094A	hole	The mouse ran into a small [...] in the kitchen wall.	The mouse ran into a small hole in the kitchen wall.	[Noun] an empty space or opening in something solid	agujero / hueco
+1095A	element	Honesty is a key [...] of a good friendship.	Honesty is a key element of a good friendship.	[Noun] a basic or important part of a whole situation	elemento
+1096A	vision	The eye doctor checked my [...] and said I needed glasses.	The eye doctor checked my vision and said I needed glasses.	[Noun] the physical ability to see	vista / visión
+1096B	vision	The young leader had a clear [...] for the future of the city.	The young leader had a clear vision for the future of the city.	[Noun] an idea or mental picture of what something could be	visión
+1097A	status	He checked the online [...] of his package delivery this morning.	He checked the online status of his package delivery this morning.	[Noun] the current state of affairs or official position	estado / estatus
+1098A	normal	It is completely [...] to feel nervous before a big presentation.	It is completely normal to feel nervous before a big presentation.	[Adj] usual, typical, or ordinary	normal
+1099A	Chinese	We ordered some delicious [...] food for dinner last night.	We ordered some delicious Chinese food for dinner last night.	[Adj] relating to China, its people, or its language	chino/a
+1100A	ship	The large [...] carried hundreds of containers across the ocean.	The large ship carried hundreds of containers across the ocean.	[Noun] a very big boat used for deep-sea travel	barco / buque
+1100B	ship	The company will [...] your order early next week.	The company will ship your order early next week.	[Verb] to send goods to a customer by mail or transport	enviar / despachar
