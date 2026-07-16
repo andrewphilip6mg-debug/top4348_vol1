@@ -15,19 +15,15 @@ jobs:
       - name: Descargar el repositorio
         uses: actions/checkout@v4
 
-      - name: Actualizar README y validar media
+      - name: Actualizar README
         run: |
           python3 << 'EOF'
           import os
           import re
-          import glob
           from pathlib import Path
 
           README_FILE = "README.md"
           MEDIA_DIR = "media"
-          AUDIO_DIR = os.path.join(MEDIA_DIR, "audio")
-          IMG_DIR = os.path.join(MEDIA_DIR, "img")
-          ANKI_DATA_DIR = "anki_data"
 
           # 1. Contar Archivos y Carpetas
           files_count = 0
@@ -73,55 +69,7 @@ jobs:
           content = re.sub(r'Audios-[\d.]+MB-yellow', f'Audios-{audio_size:.2f}MB-yellow', content)
           content = re.sub(r'Imágenes-[\d.]+MB-success', f'Imágenes-{image_size:.2f}MB-success', content)
 
-          # 6. Verificación de Media
-          audio_files = set(os.path.basename(p) for p in glob.glob(os.path.join(AUDIO_DIR, "*")))
-          image_files = set(os.path.basename(p) for p in glob.glob(os.path.join(IMG_DIR, "*")))
-
-          ids = set()
-          for txt_file in glob.glob(os.path.join(ANKI_DATA_DIR, "*.txt")):
-              with open(txt_file, 'r', encoding='utf-8') as f:
-                  for line in f:
-                      parts = line.split()
-                      if parts:
-                          if re.match(r'^\d+[A-Z]+', parts[0]):
-                              ids.add(parts[0])
-
-          errores = []
-          for word_id in sorted(ids):
-              if not any(f.startswith(f"{word_id}_frase.") for f in audio_files):
-                  errores.append(f"- ❌ **{word_id}**: Falta audio de frase")
-              if not any(f.startswith(f"{word_id}_palabra.") for f in audio_files):
-                  errores.append(f"- ❌ **{word_id}**: Falta audio de palabra")
-              if not any(f.startswith(word_id) for f in image_files):
-                  errores.append(f"- 🖼️ **{word_id}**: Falta imagen")
-
-          # 7. Generar Reporte para el README (Limitado a 10 para no ensuciar el README)
-          if not errores:
-              reporte_md = "✅ **¡Todo está perfecto!** Todas las palabras tienen su imagen y audios completos."
-          else:
-              reporte_md = f"⚠️ **Atención:** Faltan {len(errores)} archivos en total.\n\n"
-              reporte_md += "\n".join(errores[:10]) # Solo los primeros 10 en el README
-              if len(errores) > 10:
-                  reporte_md += f"\n\n*(Mostrando 10 de {len(errores)} errores. Revisa los logs de GitHub Actions para ver todos)*"
-              
-              # Imprimir TODOS los errores en la consola de Actions (Logs seguros)
-              print("--- REPORTE COMPLETO DE ERRORES (LOGS) ---")
-              print("\n".join(errores))
-
-          # 8. Inyectar Reporte en README REEMPLAZANDO el contenido viejo
-          start_tag = "<!-- START_REPORT -->"
-          end_tag = "<!-- END_REPORT -->"
-          
-          s_idx = content.find(start_tag)
-          e_idx = content.find(end_tag)
-
-          if s_idx != -1 and e_idx != -1 and s_idx < e_idx:
-              # Corta el contenido antes del tag inicial y después del tag final, insertando el nuevo reporte en medio
-              content = content[:s_idx + len(start_tag)] + "\n" + reporte_md + "\n" + content[e_idx:]
-          else:
-              print("⚠️ Advertencia: No se encontraron las etiquetas <!-- START_REPORT --> y <!-- END_REPORT --> en el README. No se actualizó el reporte para evitar acumulación.")
-
-          # 9. Guardar README
+          # 6. Guardar README
           with open(README_FILE, "w", encoding="utf-8") as f:
               f.write(content)
               
@@ -134,7 +82,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           if ! git diff --staged --quiet; then
-            git commit -m "🤖 auto-update: validación media [skip ci]"
+            git commit -m "🤖 auto-update: contadores y tamaños [skip ci]"
             git pull --rebase origin main
             git push
           else
