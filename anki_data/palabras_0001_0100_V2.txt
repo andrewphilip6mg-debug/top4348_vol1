@@ -1,4 +1,3 @@
-ID	Word	Gap Sentence	Complete Sentence	Definition/Hint	Translation
 1A	the	Please give me [...] blue book.	Please give me the blue book.	[Definite Article] specific item	el / la / los / las
 2A	be	I like helping sick people. That's why I want to [...] a doctor.	I like helping sick people. That's why I want to be a doctor.	[Verb] to exist or have a specified state	ser
 2B	be	They will [...] playing soccer.	They will be playing soccer.	[Auxiliary Verb] used with a present participle to form continuous tenses	estar
