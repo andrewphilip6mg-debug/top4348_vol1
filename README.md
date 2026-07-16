@@ -2,12 +2,12 @@
 # 🗂️ Top 4348 English Words - Volumen 1
 
 ![Tamaño del Repositorio](https://img.shields.io/github/repo-size/andrewphilip6mg-debug/top4348_vol1?color=2ea043&style=for-the-badge&logo=github&cacheSeconds=60)
-![Archivos](https://img.shields.io/badge/Archivos-3680-blue?style=for-the-badge&logo=files)
-![Carpetas](https://img.shields.io/badge/Carpetas-19-orange?style=for-the-badge&logo=folder)
+![Archivos](https://img.shields.io/badge/Archivos-3878-blue?style=for-the-badge&logo=files)
+![Carpetas](https://img.shields.io/badge/Carpetas-20-orange?style=for-the-badge&logo=folder)
 ![Palabra Actual](https://img.shields.io/badge/Palabra_Actual-700-purple?style=for-the-badge&logo=book)
 <br>
 ![Audios](https://img.shields.io/badge/Audios-29.79MB-yellow?style=for-the-badge&logo=applemusic)
-![Imágenes](https://img.shields.io/badge/Imágenes-36.26MB-success?style=for-the-badge&logo=image)
+![Imágenes](https://img.shields.io/badge/Imágenes-39.62MB-success?style=for-the-badge&logo=image)
 
 *Proyecto de aprendizaje de inglés optimizado para Anki.*
 
