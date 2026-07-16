@@ -26,7 +26,7 @@ Cada tarjeta de Anki ha sido diseñada para maximizar la retención, incluyendo:
 
 | Elemento | Descripción | Formato / Detalle |
 | :--- | :--- | :--- |
-| 🔤 **Vocabulario** | Palabras más frecuentes (Top 1 al 2000). | Texto |
+| 🔤 **Vocabulario** | Palabras más frecuentes (Top 1 al 4348). | Texto |
 | 🖼️ **Imágenes** | Archivos optimizados para carga rápida sin perder calidad. | `.avif` |
 | 🎧 **Audio Dual** | Pronunciación de la palabra aislada y de la frase en contexto. | `.ogg` (Opus) |
 | 📝 **Contexto** | Definiciones breves y frases de ejemplo reales (polisemia incluida). | Texto |
