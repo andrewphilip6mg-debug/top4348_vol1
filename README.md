@@ -1,5 +1,6 @@
-
 # 🗂️ Top 4348 English Words - Volumen 1
+
+<div align="center">
 
 ![Tamaño del Repositorio](https://img.shields.io/github/repo-size/andrewphilip6mg-debug/top4348_vol1?color=2ea043&style=for-the-badge&logo=github&cacheSeconds=60)
 ![Archivos](https://img.shields.io/badge/Archivos-4409-blue?style=for-the-badge&logo=files)
@@ -13,11 +14,6 @@
 
 </div>
 
----
-
-## 🔎 Estado de los Archivos Multimedia
-
-*El estado de los audios e imágenes se actualizará aquí automáticamente.*
 ---
 
 ## 🚀 Alcance de este Volumen
