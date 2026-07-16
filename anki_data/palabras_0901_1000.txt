@@ -1,8 +1,10 @@
 901A	method	We need a faster [...] to solve this math problem.	We need a faster method to solve this math problem.	[Noun] a particular way of doing something	método
 902A	somebody	[...] is knocking at the front door right now.	Somebody is knocking at the front door right now.	[Pronoun] a person who is not known or named	alguien
 903A	magazine	She bought a weekly fashion [...] at the train station.	She bought a weekly fashion magazine at the train station.	[Noun] a thin book with paper covers published regularly with stories and pictures	revista
+903B	magazine	He loaded a fresh [...] into his rifle before the battle.	He loaded a fresh magazine into his rifle before the battle.	[Noun] a metal chamber for holding cartridges to be fed into an automatic weapon	cargador (de armas)
 904A	hotel	We stayed at a cheap [...] near the sandy beach.	We stayed at a cheap hotel near the sandy beach.	[Noun] a building where people pay to stay in rooms	hotel
 905A	soldier	The young [...] wrote a long letter to his family.	The young soldier wrote a long letter to his family.	[Noun] a person who serves in an army	soldado
+905B	soldier on	Although she was tired, she had to [...] and finish the project.	Although she was tired, she had to soldier on and finish the project.	[Phrasal Verb] to continue doing something difficult with determination	seguir adelante / aguantar
 906A	reflect	The clean water [...] the trees and the blue sky.	The clean water reflects the trees and the blue sky.	[Verb] to send back light, heat, or sound from a surface	reflejar
 906B	reflect	You should [...] on your mistakes to improve in life.	You should reflect on your mistakes to improve in life.	[Verb] to think carefully about something	reflexionar
 907A	heavy	This big box is too [...] for me to carry alone.	This big box is too heavy for me to carry alone.	[Adjective] weighing a lot; difficult to lift or move	pesado/a
@@ -10,15 +12,18 @@
 908A	sexual	They talked to their kids about the dangers of [...] contact.	They talked to their kids about the dangers of sexual contact.	[Adjective] relating to activity between bodies, or male and female physical characteristics	sexual
 909A	bag	He put his school books inside his brown [...] and walked out.	He put his school books inside his brown bag and walked out.	[Noun] a soft container made of paper, plastic, or leather	bolsa / mochila / bolso
 909B	in the bag	Don't worry about the final match; the victory is [...].	Don't worry about the final match; the victory is in the bag.	[Idiom - Informal] certain to be won or achieved successfully	asegurado/a / en el bolsillo
+909C	mixed bag	The reviews for the new movie were a [...]; some loved it, others hated it.	The reviews for the new movie were a mixed bag; some loved it, others hated it.	[Idiom] a diverse collection of things, containing both good and bad elements	mezcla de todo / una de cal y otra de arena
 910A	heat	The intense [...] of the summer sun made us very thirsty.	The intense heat of the summer sun made us very thirsty.	[Noun] high temperature or hotness	calor
 910B	heat	Could you [...] my soup in the microwave for a minute?	Could you heat my soup in the microwave for a minute?	[Verb] to make something warm or hot	calentar
 910C	heat up	The race for the championship is starting to [...].	The race for the championship is starting to heat up.	[Phrasal Verb] to become more intense, exciting, or angry	intensificarse / calentarse
+910D	in the heat of the moment	I said some mean things [...], and I deeply regret it.	I said some mean things in the heat of the moment, and I deeply regret it.	[Idiom] done or said without thinking because of strong feelings or anger	en el calor del momento / sin pensar
 911A	marriage	They celebrated their ten-year [...] with a trip to Paris.	They celebrated their ten-year marriage with a trip to Paris.	[Noun] the legal or formal union of two people	matrimonio / casamiento
 912A	tough	This steak is too [...] to chew easily.	This steak is too tough to chew easily.	[Adjective] strong and durable; difficult to break or cut	duro/a
 912B	tough	She had to make a [...] decision about her new job.	She had to make a tough decision about her new job.	[Adjective] difficult to do, deal with, or experience	difícil / rudo/a
 912C	tough it out	The work was hard, but he decided to [...] until payday.	The work was hard, but he decided to tough it out until payday.	[Idiom - Informal] to endure a difficult situation with courage and determination	aguantar / mantenerse firme
 913A	sing	The little birds always [...] early in the morning.	The little birds always sing early in the morning.	[Verb] to make musical sounds with the voice	cantar
 914A	surface	The ice on the [...] of the lake is very thin.	The ice on the surface of the lake is very thin.	[Noun] the outside layer or top part of something	superficie
+914B	surface	New evidence has finally [...] in the investigation.	New evidence has finally surfaced in the investigation.	[Verb] to become known or rise to the surface after being hidden	salir a la luz / emerger
 915A	purpose	The main [...] of this meeting is to choose a leader.	The main purpose of this meeting is to choose a leader.	[Noun] the reason why something is done or created	propósito / fin
 915B	on purpose	I am sorry, I did not break your toy [...].	I am sorry, I did not break your toy on purpose.	[Idiom] intentionally; not by accident	a propósito / adrede
 916A	exist	Many people believe that ghosts do not really [...].	Many people believe that ghosts do not really exist.	[Verb] to be real or alive; to have being	existir
@@ -26,6 +31,8 @@
 917B	pattern	Her new dress has a beautiful flower [...] on it.	Her new dress has a beautiful flower pattern on it.	[Noun] a design made of repeated shapes or lines	estampado / diseño
 918A	whom	This is the teacher about [...] we were talking yesterday.	This is the teacher about whom we were talking yesterday.	[Pronoun - Formal] used as the object of a verb or preposition to refer to a person	quien / a quien
 919A	skin	Too much sun can burn your [...] if you stay outside.	Too much sun can burn your skin if you stay outside.	[Noun] the natural outer layer of a person or animal's body	piel
+919B	by the skin of my teeth	I passed that incredibly difficult math exam [...].	I passed that incredibly difficult math exam by the skin of my teeth.	[Idiom] by a very narrow margin; barely	por los pelos / por un pelo
+919C	get under my skin	His constant whistling is starting to really [...].	His constant whistling is starting to really get under my skin.	[Idiom] to annoy or irritate someone intensely	ponerme de los nervios / exasperarme
 920A	agent	The real estate [...] helped us find a nice small apartment.	The real estate agent helped us find a nice small apartment.	[Noun] a person who acts on behalf of another, especially in business	agente / representante
 921A	owner	The happy dog ran to his [...] when she got home.	The happy dog ran to his owner when she got home.	[Noun] a person who legally possesses something	dueño/a / propietario/a
 922A	machine	Our washing [...] broke down, so we washed clothes by hand.	Our washing machine broke down, so we washed clothes by hand.	[Noun] a piece of equipment with moving parts that does a specific job	máquina
@@ -34,6 +41,7 @@
 923C	step on the gas	We are going to be late, so please [...]!	We are going to be late, so please step on the gas!	[Idiom - Informal] to press the accelerator in a car to go faster	pisar el acelerador / acelerar
 924A	ahead	You go [...], and I will join you in five minutes.	You go ahead, and I will join you in five minutes.	[Adverb] in front of or further forward than someone or something	adelante
 924B	ahead of time	If you buy the concert tickets [...], they are cheaper.	If you buy the concert tickets ahead of time, they are cheaper.	[Idiom] in advance; earlier than a scheduled event	con anticipación / antes de tiempo
+924C	get ahead	She works overtime because she wants to [...] in her career.	She works overtime because she wants to get ahead in her career.	[Phrasal Verb] to make progress or be successful in life or work	salir adelante / progresar
 925A	generation	The younger [...] spends a lot of time on mobile phones.	The younger generation spends a lot of time on mobile phones.	[Noun] all the people born and living at about the same time	generación
 926A	commercial	This street is a busy [...] area with many shops.	This street is a busy commercial area with many shops.	[Adjective] related to buying and selling goods or services	comercial
 926B	commercial	I hate when a popular movie is interrupted by a [...].	I hate when a popular movie is interrupted by a commercial.	[Noun] an advertisement on television or radio	anuncio publicitario / comercial
@@ -42,41 +50,49 @@
 927C	address	We must [...] this customer issue before it gets worse.	We must address this customer issue before it gets worse.	[Verb] to give attention to or deal with a problem	abordar / tratar
 928A	cancer	He stopped smoking to reduce his risk of lung [...].	He stopped smoking to reduce his risk of lung cancer.	[Noun] a serious disease caused by cells growing uncontrolled	cáncer
 929A	item	This blue shirt is the most expensive [...] on my list.	This blue shirt is the most expensive item on my list.	[Noun] a single thing in a set, group, or list	artículo / elemento
+929B	an item	I saw them holding hands; are they finally [...]?	I saw them holding hands; are they finally an item?	[Idiom - Informal] two people who are having a romantic relationship	pareja / estar saliendo
 930A	reality	His dream of traveling the world finally became a [...].	His dream of traveling the world finally became a reality.	[Noun] the state of things as they actually exist, rather than as imagined	realidad
 931A	coach	The soccer [...] showed us how to pass the ball correctly.	The soccer coach showed us how to pass the ball correctly.	[Noun] a person who trains sports players or athletes	entrenador/a / director/a técnico/a
 931B	coach	He volunteered to [...] the kids' baseball team this summer.	He volunteered to coach the kids' baseball team this summer.	[Verb] to train or give instruction to a team or player	entrenar / dirigir
 932A	Mrs.	Our English class is taught by [...] Smith, who is very kind.	Our English class is taught by Mrs. Smith, who is very kind.	[Noun] a title used before a married woman's family name	Señora
-933A	yard	The children love to play with their dog in the [...]	The children love to play with their dog in the yard.	[Noun] an area of land next to a building, usually covered with grass	patio / jardín
+933A	yard	The children love to play with their dog in the [...].	The children love to play with their dog in the yard.	[Noun] an area of land next to a building, usually covered with grass	patio / jardín
 933B	yard	The football player ran one [...] before he was stopped.	The football player ran one yard before he was stopped.	[Noun] a unit of length equal to three feet	yarda
 934A	beat	Our school team [...] the champions in the final game.	Our school team beat the champions in the final game.	[Verb] to defeat someone in a game, competition, or fight	vencer / ganar a
 934B	beat	Do not [...] the dog; it did nothing wrong.	Do not beat the dog; it did nothing wrong.	[Verb] to hit repeatedly	golpear / pegar
-934C	beat	He started to dance as soon as he heard the [...]	He started to dance as soon as he heard the beat.	[Noun] a main accent or rhythmic unit in music	ritmo / compás
+934C	beat	He started to dance as soon as he heard the [...].	He started to dance as soon as he heard the beat.	[Noun] a main accent or rhythmic unit in music	ritmo / compás
 934D	beat around the bush	Stop [...] and tell me exactly what you want.	Stop beating around the bush and tell me exactly what you want.	[Idiom] to avoid talking about the main topic directly	andarse con rodeos / marear la perdiz
 934E	beat	I am completely [...] after that long run.	I am completely beat after that long run.	[Adjective - Informal] extremely tired or exhausted	agotado/a / reventado/a
+934F	beats me	Where did I leave my keys? It [...].	Where did I leave my keys? It beats me.	[Idiom - Informal] I do not know; I have no idea	ni idea / yo qué sé
 935A	violence	The movie had too much [...], so I changed the channel.	The movie had too much violence, so I changed the channel.	[Noun] physical force used to hurt or damage someone or something	violencia
 936A	total	The thick fog caused [...] darkness on the highway last night.	The thick fog caused total darkness on the highway last night.	[Adjective] including everything; complete or absolute	total / completo/a
-936B	total	The [...] of your bill is fifteen dollars and fifty cents.	The total of your bill is fifteen dollars and fifty cents.	[Noun] the amount you get when you add everything together	total
+936B	total	The [...] of your bill is fifteen dollars and fifty cents.	The total of your bill is fifteen dollars and cents.	[Noun] the amount you get when you add everything together	total
 937A	tend	I [...] to stay home when it rains on weekends.	I tend to stay home when it rains on weekends.	[Verb] to be likely to behave in a particular way	soler / tener tendencia a
 937B	tend to	He stays at home to [...] his sick grandmother.	He stays at home to tend to his sick grandmother.	[Phrasal Verb] to care for or look after someone or something	atender a / cuidar de
 938A	investment	Buying a house is usually a good [...] for your future.	Buying a house is usually a good investment for your future.	[Noun] the act of putting money into something to make a profit	inversión
 939A	discussion	We had a long [...] about our plans for the weekend.	We had a long discussion about our plans for the weekend.	[Noun] a talk or conversation about something	discusión / conversación
 940A	finger	She wears a gold ring on her ring [...].	She wears a gold ring on her ring finger.	[Noun] one of the five long parts at the end of each hand	dedo
+940B	put my finger on	Something is wrong with this computer, but I cannot [...] the problem.	Something is wrong with this computer, but I cannot put my finger on the problem.	[Idiom] to identify or define something exactly	dar en el clavo / precisar / identificar con precisión
 941A	garden	We picked red tomatoes from our small backyard [...] today.	We picked red tomatoes from our small backyard garden today.	[Noun] a piece of ground next to a house where flowers or vegetables are grown	jardín / huerto
 942A	notice	Did you [...] the new sign near the school entrance?	Did you notice the new sign near the school entrance?	[Verb] to see, hear, or become aware of something	notar / darse cuenta de
 942B	notice	There is a warning [...] posted on the office wall.	There is a warning notice posted on the office wall.	[Noun] a sheet of paper giving information or a warning	aviso / cartel
 942C	at short notice	He had to leave for the airport [...], so he forgot his keys.	He had to leave for the airport at short notice, so he forgot his keys.	[Idiom] with little warning or time for preparation	con poco tiempo / avisado a última hora
-943A	collection	He showed me his large collection of old postage [...].	He showed me his large collection of old postage stamps.	[Noun] a group of similar things that have been put together	colección
+942D	give notice	She decided to [...] at her job to start her own business.	She decided to give notice at her job to start her own business.	[Idiom] to formally state that you are leaving your job or apartment	dar el preaviso / avisar de la renuncia
+943A	collection	He showed me his large [...] of old postage stamps.	He showed me his large collection of old postage stamps.	[Noun] a group of similar things that have been put together	colección
 944A	modern	This new library has a very [...] and clean design.	This new library has a very modern and clean design.	[Adjective] relating to the present or recent times; not old	moderno/a
 945A	task	Cleaning the kitchen was my first [...] of the day.	Cleaning the kitchen was my first task of the day.	[Noun] a piece of work that needs to be done	tarea / labor
 946A	partner	You need to find a [...] for the school project.	You need to find a partner for the school project.	[Noun] a person who shares in an activity or business with another	pareja / compañero/a / socio/a
+946B	partner with	Our school decided to [...] a local charity to clean the park.	Our school decided to partner with a local charity to clean the park.	[Verb] to join with another person or organization to work together	asociarse con / colaborar con
 947A	positive	Try to keep a [...] attitude even when things are hard.	Try to keep a positive attitude even when things are hard.	[Adjective] full of hope, confidence, or good feelings	positivo/a
 947B	positive	Are you [...] that we took the right road?	Are you positive that we took the right road?	[Adjective] certain or completely sure	seguro/a / convencido/a
 948A	civil	The two countries signed an agreement to stop the [...] war.	The two countries signed an agreement to stop the civil war.	[Adjective] relating to ordinary citizens rather than military or religious organizations	civil
+948B	civil	Even though they dislike each other, they managed to be [...] during the meeting.	Even though they dislike each other, they managed to be civil during the meeting.	[Adjective] polite and courteous, especially in a minimal way	educado/a / civilizado/a
 949A	kitchen	My dad is washing the plates in the [...] right now.	My dad is washing the plates in the kitchen right now.	[Noun] a room where food is kept and cooked	cocina
 950A	consumer	We must protect the [...] from dangerous and bad products.	We must protect the consumer from dangerous and bad products.	[Noun] a person who buys goods or services for personal use	consumidor/a
 951A	shot	We heard a loud [...] and saw the birds fly away.	We heard a loud shot and saw the birds fly away.	[Noun] the act of firing a gun	disparo
 951B	give it a shot	I have never played golf, but I will [...]	I have never played golf, but I will give it a shot.	[Idiom - Informal] to try to do something	dar una oportunidad / intentar
 951C	shot	The young boy cried when the doctor gave him a [...].	The young boy cried when the doctor gave him a shot.	[Noun] an injection of a drug or vaccine	inyección / vacuna
+951D	call the shots	In this office, it is the manager who [...], not the employees.	In this office, it is the manager who calls the shots, not the employees.	[Idiom] to be the person who makes the important decisions	partir el bacalao / mandar / tomar las decisiones
+951E	long shot	Winning the lottery is a [...], but I still buy a ticket.	Winning the lottery is a long shot, but I still buy a ticket.	[Idiom] an attempt or guess that has very little chance of succeeding	algo muy difícil / pocas probabilidades
 952A	budget	We need to make a monthly [...] to save money.	We need to make a monthly budget to save money.	[Noun] a plan of how to spend money over a period of time	presupuesto
 953A	wish	I [...] I could speak English as well as you.	I wish I could speak English as well as you.	[Verb] to want something to be true or to happen	desear / ojalá
 953B	wish	Close your eyes and make a [...] before you blow out the candles.	Close your eyes and make a wish before you blow out the candles.	[Noun] a desire or hope for something	deseo
@@ -84,10 +100,12 @@
 955A	scientist	The [...] looked at the green leaf under a microscope.	The scientist looked at the green leaf under a microscope.	[Noun] a person who studies or works in a field of physical or natural knowledge	científico/a
 956A	safe	Make sure the kids are [...] before you leave the house.	Make sure the kids are safe before you leave the house.	[Adjective] not in danger or likely to be hurt	seguro/a / a salvo
 956B	safe	He kept all his gold coins in a [...] in his office.	He kept all his gold coins in a safe in his office.	[Noun] a strong metal box with a lock used for keeping money or valuable things	caja fuerte
-957A	agreement	After a long talk, they finally reached a peace [...]	After a long talk, they finally reached a peace agreement.	[Noun] a decision or arrangement made between two or more people	acuerdo / convenio
+957A	agreement	After a long talk, they finally reached a peace [...].	After a long talk, they finally reached a peace agreement.	[Noun] a decision or arrangement made between two or more people	acuerdo / convenio
 958A	capital	Paris is the beautiful [...] city of France.	Paris is the beautiful capital city of France.	[Noun] the city where the government of a country or state is	capital
 958B	capital	You need a lot of [...] to open a new restaurant.	You need a lot of capital to open a new restaurant.	[Noun] money or property used to start a business	capital / fondos
+958C	capital	Remember to start every sentence with a [...] letter.	Remember to start every sentence with a capital letter.	[Adjective] referring to a large letter of the alphabet (A, B, C...)	mayúscula
 959A	mouth	Please close your [...] while you chew your food.	Please close your mouth while you chew your food.	[Noun] the part of the face used for eating and speaking	boca
+959B	word of mouth	The new restaurant became very popular mostly by [...].	The new restaurant became very popular mostly by word of mouth.	[Idiom] through people telling each other about something	boca a boca / recomendación de boca en boca
 960A	nor	He has neither a car [...] a bicycle to get to work.	He has neither a car nor a bicycle to get to work.	[Conjunction] used after "neither" to introduce the second of two negative things	ni
 961A	victim	The police helped the [...] of the car accident.	The police helped the victim of the car accident.	[Noun] a person hurt or killed as a result of a crime or accident	víctima
 962A	newspaper	My grandfather still reads the morning [...] with his hot coffee.	My grandfather still reads the morning newspaper with his hot coffee.	[Noun] a daily or weekly publication containing news and articles	periódico / diario
@@ -126,13 +144,15 @@
 984A	admit	He had to [...] that he made a big mistake.	He had to admit that he made a big mistake.	[Verb] to agree that something is true, especially unwillingly	admitir / reconocer
 984B	admit	This ticket will [...] one person to the concert.	This ticket will admit one person to the concert.	[Verb] to allow someone to enter a place	admitir / dejar entrar
 985A	senior	She works as a [...] manager at the tech company.	She works as a senior manager at the tech company.	[Adjective] having a higher rank or position	superior / principal / de mayor rango
-985B	senior	This local bus offers a discount for any [...]	This local bus offers a discount for any senior.	[Noun] an older person, especially one who is retired	persona mayor / de la tercera edad
+985B	senior	This local bus offers a discount for any [...].	This local bus offers a discount for any senior.	[Noun] an older person, especially one who is retired	persona mayor / de la tercera edad
 986A	assume	I [...] you are tired after your long flight.	I assume you are tired after your long flight.	[Verb] to accept something to be true without proof	suponer / asumir
 987A	wind	The strong [...] blew my blue hat into the river.	The strong wind blew my blue hat into the river.	[Noun] a natural movement of the air	viento
 987B	wind up	If you do not study, you will [...] failing the class.	If you do not study, you will wind up failing the class.	[Phrasal Verb] to find yourself in a particular place or situation	terminar / acabar
+987C	wind	The narrow road started to [...] up the steep mountain.	The narrow road started to wind up the steep mountain.	[Verb] to bend, turn, or wrap around something	serpentear / enrollar
 988A	key	I cannot open the door because I lost my [...].	I cannot open the door because I lost my key.	[Noun] a small piece of metal used to open a lock	llave
 988B	key	Press the space [...] on your keyboard to continue.	Press the space key on your keyboard to continue.	[Noun] a button on a computer keyboard or piano	tecla
 988C	key	The [...] factor to success is working hard every day.	The key factor to success is working hard every day.	[Adjective] very important or necessary	clave / fundamental
+988D	low-key	We are having a [...] dinner tonight, just family.	We are having a low-key dinner tonight, just family.	[Adjective - Informal] quiet, relaxed, and not seeking attention	discreto / bajo perfil / tranquilo
 989A	professional	You should ask for [...] advice before buying a house.	You should ask for professional advice before buying a house.	[Adjective] relating to a job that needs special training or skill	profesional
 989B	professional	The doctor is a highly trained [...] who can help you.	The doctor is a highly trained professional who can help you.	[Noun] a person who has a job that needs special training	profesional
 990A	mission	The astronauts completed their space [...] and returned safely.	The astronauts completed their space mission and returned safely.	[Noun] an important official job that a person or group is sent to do	misión
@@ -150,3 +170,4 @@
 999A	southern	We traveled to the [...] part of the country for vacation.	We traveled to the southern part of the country for vacation.	[Adjective] located in or directed toward the south	meridional / del sur
 1000A	fresh	I love the smell of [...] bread in the morning.	I love the smell of fresh bread in the morning.	[Adjective] recently made, grown, or harvested; not old or spoiled	fresco/a / recién hecho/a
 1000B	fresh	Open the window to let some [...] air into the bedroom.	Open the window to let some fresh air into the bedroom.	[Adjective] clean and cool	fresco/a / puro/a
+1000C	fresh out of	I am sorry, we are [...] milk; I will buy some tomorrow.	I am sorry, we are fresh out of milk; I will buy some tomorrow.	[Idiom] having just run out of a particular supply	quedarse sin algo / recién agotado
