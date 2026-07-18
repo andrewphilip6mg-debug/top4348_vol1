@@ -98,6 +98,7 @@
 1055B	stay in touch	We promised to [...] after we finished high school.	We promised to stay in touch after we finished high school.	[Idiom] to maintain communication with someone	mantenerse en contacto
 1055C	lose touch	Try not to [...] with your friends after moving to Spain.	Try not to lose touch with your friends after moving to Spain.	[Idiom] to stop communicating with someone	perder el contacto
 1055D	get in touch	Please [...] with me if you need any help next week.	Please get in touch with me if you need any help next week.	[Idiom] to contact or establish communication with someone	ponerse en contacto
+1055E	touch base	Let's [...] next week to review the project status.	Let's touch base next week to review the project status.	[Idiom] to briefly contact someone to check in or update them	hablar brevemente / ponerse de acuerdo
 1056A	please	Could you [...] open the window? It is hot here.	Could you please open the window? It is hot here.	[Adv] a polite word used when asking for something	por favor
 1056B	please	It is impossible to [...] everyone all the time.	It is impossible to please everyone all the time.	[Verb] to make someone feel happy or satisfied	complacer / agradar
 1057A	attend	All students must [...] the morning meeting in the main hall.	All students must attend the morning meeting in the main hall.	[Verb] to go to or be present at an event or place	asistir a
@@ -136,7 +137,7 @@
 1076A	AM	The morning flight leaves at exactly six [...].	The morning flight leaves at exactly six AM.	[Adv] before noon (used with times)	a.m. / de la mañana
 1077A	weekend	I like to relax and watch movies during the [...].	I like to relax and watch movies during the weekend.	[Noun] Saturday and Sunday	fin de semana
 1078A	dozen	She bought a [...] eggs from the local farm market.	She bought a dozen eggs from the local farm market.	[Noun/Adj] a group of twelve things	docena
-1079A	possibility	There is a strong [...] of rain later today.	There is a strong possibility of rain later today.	[Noun] a chance that something might happen	posibilidad
+1079A	possibility	There is a strong [...] of rain later today.	There is a strong possibility of rain later today.	[Noun] a chance that something might happen	possibilidad
 1080A	insurance	You must buy car [...] before you can drive legally.	You must buy car insurance before you can drive legally.	[Noun] an agreement to protect against financial loss	seguro
 1081A	department	He works in the sales [...] of a large clothing store.	He works in the sales department of a large clothing store.	[Noun] one of the parts of a large organization or store	departamento / sección
 1082A	battle	Many brave soldiers died during the historic [...] on the hill.	Many brave soldiers died during the historic battle on the hill.	[Noun] a fight between two armies in a war	batalla
@@ -146,6 +147,7 @@
 1084B	date	He asked her out on a [...] for Friday night.	He asked her out on a date for Friday night.	[Noun] a romantic meeting between two people	cita
 1084C	date	They decided to [...] for a year before moving in together.	They decided to date for a year before moving in together.	[Verb] to have a romantic relationship with someone	salir con / ser novios
 1084D	up to date	The map is not [...] so it does not show the new roads.	The map is not up to date so it does not show the new roads.	[Idiom] modern, recent, or containing the latest information	al día / actualizado
+1084E	out of date	This software is [...] and needs an upgrade.	This software is out of date and needs an upgrade.	[Idiom] old-fashioned, obsolete, or past its expiration date	desactualizado / obsoleto / caducado
 1085A	generally	The weather in this region is [...] warm during the summer.	The weather in this region is generally warm during the summer.	[Adv] usually or in most situations	por lo general / generalmente
 1086A	African	We saw many [...] elephants during our safari trip last year.	We saw many African elephants during our safari trip last year.	[Adj] relating to Africa or its people	africano/a
 1087A	sorry	I am very [...] for breaking your favorite coffee cup.	I am very sorry for breaking your favorite coffee cup.	[Adj] feeling sad or full of regret about a mistake	arrepentido/a / lo siento
@@ -160,6 +162,7 @@
 1091C	stick to	You should [...] your original plan and not change it now.	You should stick to your original plan and not change it now.	[Phrasal Verb] to continue doing something without changing	apegarse a / cumplir con
 1091D	stick around	You should [...] after the meeting to have some cake.	You should stick around after the meeting to have some cake.	[Phrasal Verb - Informal] to stay in a place for a little longer	quedarse / quedarse un rato más
 1091E	stick out	His bright red hair made him [...] in the crowd.	His bright red hair made him stick out in the crowd.	[Phrasal Verb] to be very easy to notice or see	sobresalir / destacar
+1091F	stick with	If you [...] your diet, you will see results.	If you stick with your diet, you will see results.	[Phrasal Verb] to continue doing something difficult without quitting	seguir con / no dejar
 1092A	define	A good dictionary can help you [...] difficult words easily.	A good dictionary can help you define difficult words easily.	[Verb] to explain the exact meaning of a word	definir
 1093A	easily	She passed the driving test [...] because she practiced a lot.	She passed the driving test easily because she practiced a lot.	[Adv] without any difficulty or problems	fácilmente
 1094A	hole	The mouse ran into a small [...] in the kitchen wall.	The mouse ran into a small hole in the kitchen wall.	[Noun] an empty space or opening in something solid	agujero / hueco
@@ -171,3 +174,5 @@
 1099A	Chinese	We ordered some delicious [...] food for dinner last night.	We ordered some delicious Chinese food for dinner last night.	[Adj] relating to China, its people, or its language	chino/a
 1100A	ship	The large [...] carried hundreds of containers across the ocean.	The large ship carried hundreds of containers across the ocean.	[Noun] a very big boat used for deep-sea travel	barco / buque
 1100B	ship	The company will [...] your order early next week.	The company will ship your order early next week.	[Verb] to send goods to a customer by mail or transport	enviar / despachar
+1100C	jump ship	Many employees decided to [...] when the company began losing money.	Many employees decided to jump ship when the company began losing money.	[Idiom] to abandon a job, team, or project when difficulties arise	abandonar el barco / renunciar
+1100D	run a tight ship	The new manager [...], so no one arrives late.	The new manager runs a tight ship, so no one arrives late.	[Idiom] to control an organization or group very strictly and efficiently	llevar las cosas con mano firme / ser muy estricto
