@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Tamaño del Repositorio](https://img.shields.io/github/repo-size/andrewphilip6mg-debug/top4348_vol1?color=2ea043&style=for-the-badge&logo=github&cacheSeconds=60)
-![Archivos](https://img.shields.io/badge/Archivos-6457-blue?style=for-the-badge&logo=files)
+![Archivos](https://img.shields.io/badge/Archivos-6458-blue?style=for-the-badge&logo=files)
 ![Carpetas](https://img.shields.io/badge/Carpetas-28-orange?style=for-the-badge&logo=folder)
 ![Palabra Actual](https://img.shields.io/badge/Palabra_Actual-1100-purple?style=for-the-badge&logo=book)
 <br>
