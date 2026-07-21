@@ -1,0 +1,189 @@
+1301A	active	She stays [...] by walking her dog every morning.	She stays active by walking her dog every morning.	[Adj] doing physical activities or exercise regularly	activo/a
+1301B	active	He is an [...] member of the local sports club.	He is an active member of the local sports club.	[Adj] involved in a particular group or role	activo/a (participativo)
+1302A	extend	The store decided to [...] its opening hours on weekends.	The store decided to extend its opening hours on weekends.	[Verb] to make something longer or last more time	extender / ampliar
+1302B	extend	He [...] his arm to shake my hand politely.	He extended his arm to shake my hand politely.	[Verb] to stretch out a part of the body	extender / estirar
+1302C	extend	The teacher agreed to [...] the deadline for our final essay.	The teacher agreed to extend the deadline for our final essay.	[Verb] to cause something to last longer in time or date	extender / aplazar
+1302D	extend	I would like to [...] a warm welcome to our guests.	I would like to extend a warm welcome to our guests.	[Verb] to offer or express something formally	ofrecer / dar / expresar
+1303A	chief	The fire [...] arrived at the scene within five minutes.	The fire chief arrived at the scene within five minutes.	[Noun] the leader or person in charge of an organization	jefe/a / líder
+1303B	chief	His [...] concern was the safety of his family.	His chief concern was the safety of his family.	[Adj] most important or main	principal
+1304A	combine	You can [...] blue and yellow to make green paint.	You can combine blue and yellow to make green paint.	[Verb] to join two or more things together	combinar / juntar
+1305A	wine	They enjoyed a glass of red [...] during dinner.	They enjoyed a glass of red wine during dinner.	[Noun] an alcoholic drink made from fermented grapes	vino
+1306A	below	The temperature dropped [...] zero during the cold night.	The temperature dropped below zero during the cold night.	[Prep] in or to a lower position than something else	debajo de / por debajo de
+1306B	below	Please read the notes printed [...] for more details.	Please read the notes printed below for more details.	[Adv] at a lower level or page position	abajo / debajo
+1307A	cool	A [...] breeze came through the bedroom window.	A cool breeze came through the bedroom window.	[Adj] slightly cold in a pleasant way	fresco/a
+1307B	cool	That new leather jacket looks really [...] on you.	That new leather jacket looks really cool on you.	[Adj - Informal] fashionable, attractive, or impressive	genial / chido / guay
+1307C	cool down	Sit under the tree to [...] after running.	Sit under the tree to cool down after running.	[Phrasal Verb] to become less hot or calm down	enfriarse / calmarse
+1307D	cool	Let the hot soup [...] before you try to eat it.	Let the hot soup cool before you try to eat it.	[Verb] to become or make less warm or hot	enfriar / enfriarse
+1308A	voter	Every registered [...] went to the local polling station.	Every registered voter went to the local polling station.	[Noun] a person who has the right to vote in an election	votante / elector/a
+1309A	learning	Language [...] takes time and regular daily practice.	Language learning takes time and regular daily practice.	[Noun] the process of gaining knowledge or skills	aprendizaje
+1310A	bus	I missed the morning [...] and had to walk to school.	I missed the morning bus and had to walk to school.	[Noun] a large vehicle carrying passengers along a route	autobús / bus / camión
+1311A	hell	The traffic during rain turns the highway into [...].	The traffic during rain turns the highway into hell.	[Noun] a place or situation of great suffering	infierno
+1311B	what the hell	He looked at the mess and asked [...] happened.	He looked at the mess and asked what the hell happened.	[Idiom - Informal] used to express surprise or anger	qué demonios / qué carajo
+1312A	dangerous	It is [...] to cross the busy street without looking.	It is dangerous to cross the busy street without looking.	[Adj] likely to cause harm or injury	peligroso/a
+1313A	remind	Please [...] me to buy milk on our way home.	Please remind me to buy milk on our way home.	[Verb] to help someone remember something	recordar / hacer recordar
+1313B	remind of	This old photo [...] me of our happy childhood together.	This old photo reminds me of our happy childhood together.	[Phrasal Verb] to make someone remember or think about someone or something	recordar a / hacer recordar a
+1314A	moral	Honesty is an important [...] value in every culture.	Honesty is an important moral value in every culture.	[Adj] relating to principles of right and wrong behavior	moral / ético
+1314B	moral	The [...] of the story is to always tell the truth.	The moral of the story is to always tell the truth.	[Noun] a practical lesson learned from a story	moraleja / lección moral
+1315A	united	The two teams remained [...] to solve the big problem.	The two teams remained united to solve the big problem.	[Adj] joined together for a common purpose	unido/a
+1316A	category	Put these books into the correct [...] on the shelf.	Put these books into the correct category on the shelf.	[Noun] a group of things with shared qualities	categoría / grupo
+1317A	relatively	The exam was [...] easy compared to last month's test.	The exam was relatively easy compared to last month's test.	[Adv] in comparison to something else	relativamente / bastante
+1318A	victory	The players celebrated their great [...] after the long match.	The players celebrated their great victory after the long match.	[Noun] success in a game or competition	victoria / triunfo
+1319A	academic	She achieved great [...] success at her university.	She achieved great academic success at her university.	[Adj] connected with education or study in schools	académico/a
+1319B	academic	The professor is a respected [...] in the field of science.	The professor is a respected academic in the field of science.	[Noun] a teacher or scholar in a university or college	académico/a / docente universitario
+1320A	internet	My brother uses the [...] to research his history project.	My brother uses the internet to research his history project.	[Noun] the global computer network providing information	internet
+1321A	healthy	Eating fresh vegetables helps you maintain a [...] body.	Eating fresh vegetables helps you maintain a healthy body.	[Adj] in good physical condition or good for health	saludable / sano/a
+1322A	negative	He gave a [...] answer when I asked for help.	He gave a negative answer when I asked for help.	[Adj] showing disagreement or a bad attitude	negativo/a
+1322B	negative	Smoking has a [...] impact on your health over time.	Smoking has a negative impact on your health over time.	[Adj] harmful, bad, or undesirable	dañino/a / negativo/a
+1322C	negative	Good news, her test result came back [...].	Good news, her test result came back negative.	[Adj] showing that a specific medical condition or substance is not present	negativo/a (resultado médico)
+1323A	following	We will discuss the plan on the [...] Monday.	We will discuss the plan on the following Monday.	[Adj] coming next after something in time or order	siguiente
+1323B	following	The road was closed [...] the heavy rain storm.	The road was closed following the heavy rain storm.	[Prep] after or as a result of an event	tras / después de
+1323C	following	The singer built a huge [...] on social media.	The singer built a huge following on social media.	[Noun] a group of admirers, followers, or supporters	seguidores / fanáticos
+1324A	historical	They visited a famous [...] building in the city center.	They visited a famous historical building in the city center.	[Adj] connected with history or past events	histórico/a
+1325A	medicine	Take this [...] twice a day after your meals.	Take this medicine twice a day after your meals.	[Noun] a substance used to treat an illness	medicina / medicamento
+1325B	medicine	She decided to study [...] to become a hospital doctor.	She decided to study medicine to become a hospital doctor.	[Noun] the science of treating diseases and injuries	medicina (ciencia)
+1326A	tour	We took a guided [...] of the ancient castle yesterday.	We took a guided tour of the ancient castle yesterday.	[Noun] a trip through a place to see its sights	tour / recorrido / visita guiada
+1326B	tour	The famous band will [...] Europe during the summer.	The famous band will tour Europe during the summer.	[Verb] to travel around a place visiting sights or performing	recorrer / hacer una gira
+1327A	depend on	The total cost will [...] how many people come.	The total cost will depend on how many people come.	[Phrasal Verb] to rely on or be decided by something	depender de / contar con
+1328A	photo	She took a quick [...] of her dog playing outside.	She took a quick photo of her dog playing outside.	[Noun] a picture made using a camera	foto / fotografía
+1329A	finding	The recent scientific [...] showed a drop in pollution.	The recent scientific finding showed a drop in pollution.	[Noun] a fact or piece of information discovered during research	hallazgo / resultado
+1330A	grab	Please [...] your jacket before we leave the house.	Please grab your jacket before we leave the house.	[Verb] to take hold of something quickly	agarrar / coger / tomar
+1330B	grab a bite	Let us [...] before the movie starts tonight.	Let us grab a bite before the movie starts tonight.	[Idiom - Informal] to quickly get something to eat	comer algo rápido / picar algo
+1331A	direct	Is there a [...] flight from London to New York?	Is there a direct flight from London to New York?	[Adj] going straight to a place without stopping	directo/a
+1331B	direct	The manager will [...] the new project this month.	The manager will direct the new project this month.	[Verb] to guide, manage, or control an operation	dirigir / guiar
+1331C	direct	She is very [...] and always says exactly what she thinks.	She is very direct and always says exactly what she thinks.	[Adj] honest and frank in communication	directo/a / franco/a
+1332A	classroom	The students sat quietly inside the [...] before class.	The students sat quietly inside the classroom before class.	[Noun] a room in a school where students learn	aula / salón de clases
+1333A	contact	Keep in [...] with me while you travel abroad.	Keep in contact with me while you travel abroad.	[Noun] state of touching, meeting, or communicating	contacto
+1333B	contact	You can [...] me by email if you have questions.	You can contact me by email if you have questions.	[Verb] to call, email, or write to someone	contactar / ponerse en contacto con
+1333C	contact	He made a useful business [...] at the conference.	He made a useful business contact at the conference.	[Noun] a person in your network who can help or provide information	contacto (persona)
+1334A	justice	The court worked hard to bring [...] to the victim.	The court worked hard to bring justice to the victim.	[Noun] fair treatment of people according to law	justicia
+1334B	justice	The decision was made by a supreme court [...].	The decision was made by a supreme court justice.	[Noun] a judge in a court of law	juez / magistrado
+1335A	participate	Many students decided to [...] in the school race.	Many students decided to participate in the school race.	[Verb] to take part in an activity or event	participar
+1336A	daily	Reading the newspaper is part of his [...] routine.	Reading the newspaper is part of his daily routine.	[Adj] happening or done every single day	diario/a / cotidiano/a
+1336B	daily	She walks five miles [...] to keep her heart healthy.	She walks five miles daily to keep her heart healthy.	[Adv] every day	a diario / diariamente
+1337A	fair	The referee made a [...] decision during the game.	The referee made a fair decision during the game.	[Adj] treating people equally and according to rules	justo/a
+1337B	fair	We bought candy at the county [...] last summer.	We bought candy at the county fair last summer.	[Noun] an outdoor event with games, rides, and food	feria
+1337C	fair	She has [...] skin and light blonde hair.	She has fair skin and light blonde hair.	[Adj] pale or light in color or complexion	claro/a / rubio/a
+1337D	fair	We spent a [...] amount of money on our trip.	We spent a fair amount of money on our trip.	[Adj] reasonable, moderate, or considerable in size or amount	bastante / considerable
+1338A	pair	I need a new [...] of shoes for running.	I need a new pair of shoes for running.	[Noun] two things of the same kind used together	par / pareja
+1338B	pair up	Students should [...] with a partner for the activity.	Students should pair up with a partner for the activity.	[Phrasal Verb] to join together in pairs to do something	ponerser en parejas / emparejarse
+1339A	famous	The actor became [...] after starring in that film.	The actor became famous after starring in that film.	[Adj] known by many people in many places	famoso/a
+1340A	exercise	Regular [...] is important for maintaining good health.	Regular exercise is important for maintaining good health.	[Noun] physical activity done to stay healthy	ejercicio
+1340B	exercise	They [...] at the gym three times every week.	They exercise at the gym three times every week.	[Verb] to do physical activity to improve health	hacer ejercicio / ejercitarse
+1340C	exercise	Complete the grammar [...] at the end of the chapter.	Complete the grammar exercise at the end of the chapter.	[Noun] a task or set of questions for practicing a skill	ejercicio (actividad)
+1340D	exercise	Drivers must [...] caution when driving in the snow.	Drivers must exercise caution when driving in the snow.	[Verb] to use or apply a right, power, or quality like caution	ejercer / aplicar / tener
+1341A	knee	He fell on the floor and hurt his right [...].	He fell on the floor and hurt his right knee.	[Noun] the middle joint of the leg	rodilla
+1342A	flower	She planted a beautiful pink [...] in her garden.	She planted a beautiful pink flower in her garden.	[Noun] the colorful part of a plant	flor
+1343A	tape	Use clear [...] to seal the cardboard box properly.	Use clear tape to seal the cardboard box properly.	[Noun] a narrow strip of material with sticky backing	cinta adhesiva
+1343B	tape	Please [...] the poster to the wall near the door.	Please tape the poster to the wall near the door.	[Verb] to attach something using sticky material	pegar con cinta
+1343C	tape	They used to [...] their favorite shows on cassette.	They used to tape their favorite shows on cassette.	[Verb] to record sound or pictures on electronic tape	grabar
+1343D	tape	We had to deal with a lot of red [...] to get the permit.	We had to deal with a lot of red tape to get the permit.	[Idiom] official rules and processes that seem unnecessary and cause delay	papeleo excesivo / burocracia
+1344A	hire	The company plans to [...] three new workers this month.	The company plans to hire three new workers this month.	[Verb] to employ someone to do a job	contratar
+1344B	hire	We decided to [...] a car to explore the countryside.	We decided to hire a car to explore the countryside.	[Verb - Chiefly UK] to pay money to use something for a short time	alquilar / rentar
+1345A	familiar	His face looked very [...] to me at the party.	His face looked very familiar to me at the party.	[Adj] well known to someone from past experience	familiar / conocido/a
+1345B	familiar with	Are you [...] the new company policies yet?	Are you familiar with the new company policies yet?	[Adj + Prep] having good knowledge or understanding of something	familiarizado/a con / al tanto de
+1346A	appropriate	Please wear [...] clothes for the cold weather outside.	Please wear appropriate clothes for the cold weather outside.	[Adj] suitable or right for a particular situation	adecuado/a / apropiado/a
+1347A	supply	The city faced a limited [...] of clean drinking water.	The city faced a limited supply of clean drinking water.	[Noun] an amount of something available for use	suministro / provisión
+1347B	supply	Farm animals [...] us with milk, wool, and meat.	Farm animals supply us with milk, wool, and meat.	[Verb] to provide something that is needed	suministrar / proveer
+1347C	supplies	The school ordered new classroom [...] for the term.	The school ordered new classroom supplies for the term.	[Noun Plural] food, equipment, or materials needed for a purpose	suministros / provisiones / materiales
+1347D	supply	Prices change according to the laws of [...] and demand.	Prices change according to the laws of supply and demand.	[Idiom/Phrase] the economic relationship between availability and desire	oferta y demanda
+1348A	fully	I [...] understand the instructions you gave me.	I fully understand the instructions you gave me.	[Adv] completely or to the maximum degree	completamente / totalmente
+1349A	actor	The main [...] gave a great performance in the play.	The main actor gave a great performance in the play.	[Noun] a person who performs in movies or plays	actor
+1350A	birth	Her family celebrated the [...] of her baby boy.	Her family celebrated the birth of her baby boy.	[Noun] the time when a baby comes into the world	nacimiento
+1350B	give birth	She is expected to [...] to her second child next month.	She is expected to give birth to her second child next month.	[Idiom] to produce a baby from the body	dar a luz / tener un bebé
+1351A	search	We spent two hours [...] for the missing keys.	We spent two hours searching for the missing keys.	[Verb] to look carefully to find something	buscar
+1351B	search	The police started a [...] for the lost child.	The police started a search for the lost child.	[Noun] an attempt to find something or someone	búsqueda
+1352A	tie	Remember to [...] your shoes before going for a run.	Remember to tie your shoes before going for a run.	[Verb] to fasten or bind something with string	atar / amarrar
+1352B	tie	He wore a silk [...] to his job interview.	He wore a silk tie to his job interview.	[Noun] a narrow strip of cloth worn around the neck	corbata
+1352C	tie	The football game ended in a two-two [...].	The football game ended in a two-two tie.	[Noun] an equal score at the end of a game	empate
+1352D	tie the knot	They decided to [...] after dating for five years.	They decided to tie the knot after dating for five years.	[Idiom - Informal] to get married	casarse
+1352E	ties	The two countries maintain strong economic [...].	The two countries maintain strong economic ties.	[Noun Plural] strong relationships or connections between people or places	lazos / vínculos
+1353A	democracy	Citizens vote for their leaders in a modern [...].	Citizens vote for their leaders in a modern democracy.	[Noun] a system of government where citizens vote for leaders	democracia
+1354A	eastern	They live on the [...] coast of the island.	They live on the eastern coast of the island.	[Adj] located in or coming from the east	del este / oriental
+1355A	primary	Her [...] goal is to complete her college degree.	Her primary goal is to complete her college degree.	[Adj] main, most important, or coming first in order	principal / primario/a
+1355B	primary school	My younger daughter starts [...] this September.	My younger daughter starts primary school this September.	[Noun] a school for young children, typically aged 5 to 11	escuela primaria / colegio
+1356A	yesterday	I met an old friend at the cafe [...].	I met an old friend at the cafe yesterday.	[Adv] on the day before today	ayer
+1357A	circle	Draw a red [...] on the paper with your pen.	Draw a red circle on the paper with your pen.	[Noun] a completely round flat shape	círculo
+1357B	circle	The birds [...] high in the sky looking for food.	The birds circled high in the sky looking for food.	[Verb] to move in a ring shape around something	volar en círculos / rodear
+1357C	circle	She is well known within her close [...] of friends.	She is well known within her close circle of friends.	[Noun] a group of people connected by shared interests or friendship	círculo (de amigos/gente)
+1357D	circle	Let us [...] back to this topic at the end of the meeting.	Let us circle back to this topic at the end of the meeting.	[Phrasal Verb] to return to a topic or subject later	retomar un tema / volver a hablar de esto
+1358A	device	This small [...] tracks your daily physical steps.	This small device tracks your daily physical steps.	[Noun] a tool or piece of equipment made for a purpose	dispositivo / aparato
+1359A	progress	The student made great [...] in learning mathematics.	The student made great progress in learning mathematics.	[Noun] movement toward a goal or improvement	progreso / avance
+1359B	progress	Work on the new bridge will [...] slowly during winter.	Work on the new bridge will progress slowly during winter.	[Verb] to move forward or improve over time	progresar / avanzar
+1360A	bottom	I found my lost shoe at the [...] of the closet.	I found my lost shoe at the bottom of the closet.	[Noun] the lowest part or base of something	fondo / parte inferior
+1360B	bottom line	The [...] is that we need to finish this project today.	The bottom line is that we need to finish this project today.	[Idiom] the most important fact or main point	lo esencial / la conclusión
+1360C	bottom	The toddler fell hard right on his [...].	The toddler fell hard right on his bottom.	[Noun - Informal] the buttocks or rear part of the body	trasero / nalga / pompis
+1361A	island	They spent their vacation on a small tropical [...].	They spent their vacation on a small tropical island.	[Noun] an area of land surrounded completely by water	isla
+1362A	exchange	Students can [...] phone numbers after the lesson.	Students can exchange phone numbers after the lesson.	[Verb] to give something and receive something else in return	intercambiar
+1362B	exchange	We had a quick [...] of ideas during our break.	We had a quick exchange of ideas during our break.	[Noun] an act of giving and receiving things	intercambio
+1363A	clean	Keep your hands [...] by washing them with soap.	Keep your hands clean by washing them with soap.	[Adj] free from dirt, dust, or stains	limpio/a
+1363B	clean	Please [...] your bedroom before your friends arrive.	Please clean your bedroom before your friends arrive.	[Verb] to remove dirt or marks from something	limpiar
+1363C	clean up	We need to [...] the kitchen after dinner tonight.	We need to clean up the kitchen after dinner tonight.	[Phrasal Verb] to make a place tidy by removing mess	limpiar / recoger
+1363D	clean	Moving to a new city gave her a [...] slate.	Moving to a new city gave her a clean slate.	[Idiom] a fresh start without past mistakes or obligations	borrón y cuenta nueva / comienzo desde cero
+1364A	studio	The painter spent all afternoon inside her artist [...].	The painter spent all afternoon inside her artist studio.	[Noun] a room where an artist works or records music	estudio
+1364B	studio apartment	He rented a small [...] in the center of the city.	He rented a small studio apartment in the center of the city.	[Noun] a small apartment with one main living area and kitchen	apartamento estudio / monoambiente
+1365A	train	The fast [...] arrived at the station right on time.	The fast train arrived at the station right on time.	[Noun] a line of railroad cars pulled by an engine	tren
+1365B	train	Athletes [...] every single day before the competition.	Athletes train every single day before the competition.	[Verb] to practice skills for a sport or job	entrenar / capacitar
+1365C	train	Sorry, the loud noise made me lose my [...] of thought.	Sorry, the loud noise made me lose my train of thought.	[Idiom] a continuous series of connected thoughts	hilo de pensamiento
+1366A	lady	An old [...] offered me a seat on the bus.	An old lady offered me a seat on the bus.	[Noun] a polite term for a woman	dama / señora
+1367A	colleague	My [...] helped me complete the report yesterday.	My colleague helped me complete the report yesterday.	[Noun] a person who works with you in a job	compañero/a de trabajo / colega
+1368A	application	She submitted her job [...] to the company online.	She submitted her job application to the company online.	[Noun] a formal request for a job, loan, or place	solicitud
+1368B	application	I downloaded a useful [...] to track my daily spending.	I downloaded a useful application to track my daily spending.	[Noun] a computer program designed for a specific purpose	aplicación / app
+1369A	neck	He wore a warm wool scarf around his [...].	He wore a warm wool scarf around his neck.	[Noun] the body part connecting head to shoulders	cuello
+1369B	pain in the neck	Fixing this broken printer is a real [...].	Fixing this broken printer is a real pain in the neck.	[Idiom - Informal] a person or thing that is very annoying or troublesome	un fastidio / un dolor de cabeza
+1369C	neck	What brings you to our [...] of the woods today?	What brings you to our neck of the woods today?	[Idiom - Informal] a particular area, neighborhood, or region	estos lares / esta zona / por aquí
+1370A	lean	Do not [...] against the wet paint on the door.	Do not lean against the wet paint on the door.	[Verb] to rest or slope against something for support	apoyarse / inclinarse
+1370B	lean	The runner has a very [...] and strong body.	The runner has a very lean and strong body.	[Adj] thin and healthy with little body fat	delgado/a / esbelto/a
+1370C	lean on	You can always [...] your family during tough times.	You can always lean on your family during tough times.	[Phrasal Verb] to depend on someone for support or help	apoyarse en / contar con
+1371A	damage	The heavy storm caused severe [...] to the roof.	The heavy storm caused severe damage to the roof.	[Noun] physical harm that reduces value or usefulness	daño / perjuicio
+1371B	damage	Strong sunlight can [...] your skin if you stay out long.	Strong sunlight can damage your skin if you stay out long.	[Verb] to harm or spoil something physically	dañar / perjudicar
+1372A	plastic	Put the empty [...] bottles into the recycling bin.	Put the empty plastic bottles into the recycling bin.	[Adj] made of synthetic material	de plástico
+1372B	plastic	This toy car is made of cheap red [...].	This toy car is made of cheap red plastic.	[Noun] a light synthetic material shaped into objects	plástico
+1373A	tall	My older brother is very [...] and plays basketball.	My older brother is very tall and plays basketball.	[Adj] greater than average height	alto/a
+1374A	plate	She placed a hot [...] of pasta on the dining table.	She placed a hot plate of pasta on the dining table.	[Noun] a flat round dish used for serving food	plato
+1374B	on one's plate	She cannot take more work because she has a lot on her [...].	She cannot take more work because she has a lot on her plate.	[Idiom] having a lot of work or problems to deal with	tener mucho trabajo / estar ocupado/a
+1374C	license plate	Write down the vehicle's [...] before calling the police.	Write down the vehicle's license plate before calling the police.	[Noun] a metal or plastic plate on a vehicle with numbers and letters	placa / matrícula
+1375A	hate	I really [...] waking up early on Sunday mornings.	I really hate waking up early on Sunday mornings.	[Verb] to feel strong dislike for something	odiar
+1375B	hate	There is too much [...] on social media these days.	There is too much hate on social media these days.	[Noun] extreme dislike or hostility, especially online	odio
+1376A	otherwise	Wear your warm coat, [...] you will feel cold outside.	Wear your warm coat, otherwise you will feel cold outside.	[Adv] if not, or in different circumstances	de lo contrario / si no
+1377A	writing	His clear [...] made the story very easy to read.	His clear writing made the story very easy to read.	[Noun] text or words composed on paper or screen	escritura / redacción
+1378A	male	The [...] lion guarded the young cubs in the grass.	The male lion guarded the young cubs in the grass.	[Adj] belonging to the sex that does not give birth	masculino / macho
+1378B	male	The clinic treated two female patients and one [...].	The clinic treated two female patients and one male.	[Noun] a person or animal of the male sex	varón / macho
+1379A	alive	The old plant is still [...] after weeks without water.	The old plant is still alive after weeks without water.	[Adj] living and not dead	vivo/a
+1380A	expression	She had a surprised [...] on her face.	She had a surprised expression on her face.	[Noun] a look on someone's face showing emotion	expresión (facial)
+1380B	expression	Piece of cake is a common English [...].	Piece of cake is a common English expression.	[Noun] a word or phrase used to convey an idea	expresión (frase)
+1381A	football	We watched a live [...] game on television last night.	We watched a live football game on television last night.	[Noun] a game played with an oval ball using hands and feet	fútbol americano / fútbol
+1382A	intend	I [...] to visit my grandparents this coming weekend.	I intend to visit my grandparents this coming weekend.	[Verb] to have a plan or purpose in mind	tener la intención de / pretender
+1383A	chicken	We ordered grilled [...] with rice for our lunch.	We ordered grilled chicken with rice for our lunch.	[Noun] meat from a common farm bird	pollo / gallina
+1383B	chicken	Don't be such a [...], just jump into the pool!	Don't be such a chicken, just jump into the pool!	[Noun - Informal] a person who is afraid or lacks courage	gallina / cobarde
+1383C	chicken out	He wanted to go skydiving but decided to [...] at the last minute.	He wanted to go skydiving but decided to chicken out at the last minute.	[Phrasal Verb - Informal] to decide not to do something out of fear	acobardarse / echarse para atrás
+1384A	army	He joined the [...] right after finishing high school.	He joined the army right after finishing high school.	[Noun] a large organized military force fighting on land	ejército
+1385A	abuse	The landlord suffered from severe verbal [...] from neighbors.	The landlord suffered from severe verbal abuse from neighbors.	[Noun] cruel, violent, or unfair treatment of someone	abuso / maltrato
+1385B	abuse	Some people [...] power when given authority at work.	Some people abuse power when given authority at work.	[Verb] to treat someone or something badly or unfairly	abusar de / maltratar
+1386A	theater	We bought two tickets for the movie at the [...].	We bought two tickets for the movie at the theater.	[Noun] a building where plays, shows, or movies are shown	teatro / cine
+1387A	shut	Please [...] the front door to keep the cold air out.	Please shut the front door to keep the cold air out.	[Verb] to close something or become closed	cerrar
+1387B	shut down	The company had to [...] its old factory last month.	The company had to shut down its old factory last month.	[Phrasal Verb] to stop operating or close a business permanently	cerrar / apagar
+1387C	shut up	Please [...] and listen carefully to the instructions.	Please shut up and listen carefully to the instructions.	[Phrasal Verb - Informal] to stop talking or making noise	callarse / cerrar la boca
+1388A	map	Check the road [...] before driving to the new city.	Check the road map before driving to the new city.	[Noun] a visual representation of an area or land	mapa
+1388B	map out	We need to [...] our strategy for the next year.	We need to map out our strategy for the next year.	[Phrasal Verb] to plan or arrange something in detail	planificar / trazar
+1389A	extra	She ordered an [...] plate of fries for the table.	She ordered an extra plate of fries for the table.	[Adj] added, additional, or more than usual	extra / adicional
+1389B	extra	She worked as an [...] in a famous movie scene.	She worked as an extra in a famous movie scene.	[Noun] a person hired to play a small background role in a movie or show	extra (de cine/tv)
+1389C	extra	She always goes the [...] mile to help her clients.	She always goes the extra mile to help her clients.	[Idiom] to make a special effort to achieve something	hacer un esfuerzo extra / dar el millaje extra
+1390A	session	The morning workout [...] lasted for forty-five minutes.	The morning workout session lasted for forty-five minutes.	[Noun] a period of time devoted to a specific activity	sesión
+1391A	danger	The warning sign warned tourists about the [...] ahead.	The warning sign warned tourists about the danger ahead.	[Noun] the possibility of suffering harm or injury	peligro
+1392A	welcome	The hotel staff will [...] guests with warm tea.	The hotel staff will welcome guests with warm tea.	[Verb] to greet someone happily upon their arrival	dar la bienvenida / acoger
+1392B	welcome	New ideas are always [...] during our team meetings.	New ideas are always welcome during our team meetings.	[Adj] pleasing and acceptable	bienvenido/a
+1392C	you are welcome	Thank you for the help. — [...].	Thank you for the help. — You are welcome.	[Idiom] polite phrase used as a response to thanks	de nada
+1393A	domestic	Flight delays affected many [...] flights across the country.	Flight delays affected many domestic flights across the country.	[Adj] relating to the home or inside one country	doméstico/a / nacional
+1394A	lots of	There are [...] people waiting outside the theater today.	There are lots of people waiting outside the theater today.	[Idiom] a large number or amount of things	mucho/a / muchos/as
+1395A	literature	She reads classic English [...] in her free time.	She reads classic English literature in her free time.	[Noun] written works such as novels, poems, and plays	literatura
+1396A	rain	The heavy [...] made the dirt road very muddy.	The heavy rain made the dirt road very muddy.	[Noun] water falling from clouds in drop form	lluvia
+1396B	rain	It began to [...] heavily right as we left home.	It began to rain heavily right as we left home.	[Verb] to fall as drops of water from clouds	llover
+1396C	take a rain check	I cannot go to dinner tonight, but can I [...]?	I cannot go to dinner tonight, but can I take a rain check?	[Idiom - Informal] to decline an invitation now but offer to accept it later	dejarlo para otra ocasión / posponer
+1396D	rain	The football game will take place [...] or shine.	The football game will take place rain or shine.	[Idiom] no matter what the weather or circumstances are	llueva o truene / pase lo que pase
+1397A	desire	She felt a strong [...] to travel around the world.	She felt a strong desire to travel around the world.	[Noun] a strong feeling of wanting to have or do something	deseo
+1397B	desire	Many young people [...] success in their chosen career.	Many young people desire success in their chosen career.	[Verb] to strongly want something	desear
+1398A	assessment	The teacher gave an accurate [...] of her reading skill.	The teacher gave an accurate assessment of her reading skill.	[Noun] the process of evaluating quality or performance	evaluación / valoración
+1399A	injury	The player suffered a serious leg [...] during the match.	The player suffered a serious leg injury during the match.	[Noun] physical damage to a body caused by an accident	lesión / herida
+1400A	respect	Show proper [...] to your teachers and classmates.	Show proper respect to your teachers and classmates.	[Noun] admiration for someone because of their qualities	respeto
+1400B	respect	I [...] my parents for working hard every day.	I respect my parents for working hard every day.	[Verb] to admire someone for their qualities or work	respetar
+1400C	with respect to	We have several questions [...] the new contract.	We have several questions with respect to the new contract.	[Phrase] concerning, regarding, or in relation to something	con respecto a / en relación con
