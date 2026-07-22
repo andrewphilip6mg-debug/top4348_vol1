@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Duolingo bajado ligeramente con <sub> -->
+  <!-- Escena de las Mascotas -->
   <sub><img src="animation/duolingo.png" alt="Duolingo derrotado" width="150"></sub>
   <img src="animation/mascot.png" alt="Mascota del proyecto" width="175">
 
@@ -12,7 +12,14 @@
   ![Palabra Actual](https://img.shields.io/badge/Palabra_Actual-1700-purple?style=for-the-badge&logo=book)
   <br>
   ![Audios](https://img.shields.io/badge/Audios-39.74MB-yellow?style=for-the-badge&logo=applemusic)
-  ![Imágenes](https://img.shields.io/badge/Imágenes-59.62MB-success?style=for-the-badge&logo=image)
+  ![Imágenes](https://img.shields.io/badge/Imágenes-58.08MB-success?style=for-the-badge&logo=image)
+
+  <br>
+
+  <!-- Barra de progreso verde -->
+  ![Progreso](https://progress-bar.dev/39/?scale=100&title=Progreso%20del%20Volumen&width=380&color=2ea043&suffix=%)
+
+  <br>
 
   *Proyecto de aprendizaje de inglés optimizado para Anki.*
 
