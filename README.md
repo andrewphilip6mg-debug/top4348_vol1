@@ -1,6 +1,7 @@
 <div align="center">
 
-  <!-- Imagen/Mascota PNG -->
+  <!-- Mascotas PNG (Duolingo a la izquierda, Mascota a la derecha) -->
+  <img src="animation/duolingo.png" alt="Duolingo" width="160">
   <img src="animation/mascot.png" alt="Mascota del proyecto" width="180">
 
   # Top 4348 English Words - Volumen 1
