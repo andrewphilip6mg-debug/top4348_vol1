@@ -1,9 +1,8 @@
 <div align="center">
 
-  <!-- Escena: Duolingo vs Mascota Anki (alineados al suelo) -->
-  <img src="animation/duolingo.png" alt="Duolingo derrotado" width="150" valign="bottom">
-  &nbsp; 💥 &nbsp;
-  <img src="animation/mascot.png" alt="Mascota del proyecto" width="175" valign="bottom">
+  <!-- Duolingo bajado ligeramente con <sub> -->
+  <sub><img src="animation/duolingo.png" alt="Duolingo derrotado" width="150"></sub>
+  <img src="animation/mascot.png" alt="Mascota del proyecto" width="175">
 
   # Top 4348 English Words - Volumen 1
 
@@ -13,7 +12,7 @@
   ![Palabra Actual](https://img.shields.io/badge/Palabra_Actual-1700-purple?style=for-the-badge&logo=book)
   <br>
   ![Audios](https://img.shields.io/badge/Audios-39.74MB-yellow?style=for-the-badge&logo=applemusic)
-  ![Imágenes](https://img.shields.io/badge/Imágenes-59.62MB-success?style=for-the-badge&logo=image)
+  ![Imágenes](https://img.shields.io/badge/Imágenes-58.08MB-success?style=for-the-badge&logo=image)
 
   *Proyecto de aprendizaje de inglés optimizado para Anki.*
 
