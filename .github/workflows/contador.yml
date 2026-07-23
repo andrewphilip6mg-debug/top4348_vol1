@@ -24,6 +24,7 @@ jobs:
 
           README_FILE = "README.md"
           MEDIA_DIR = "media"
+          TOTAL_WORDS = 4348
 
           # 1. Contar Archivos y Carpetas
           files_count = 0
@@ -58,18 +59,29 @@ jobs:
           audio_size = get_size_mb(".", audio_exts)
           image_size = get_size_mb(".", image_exts)
 
-          # 4. Leer README
+          # 4. Calcular Barra de Progreso y Porcentaje
+          pct = (palabra_max / TOTAL_WORDS) * 100 if TOTAL_WORDS > 0 else 0
+          pct_int = int(round(pct))
+
+          BAR_LENGTH = 20
+          filled = int(round((pct / 100) * BAR_LENGTH))
+          filled = min(max(filled, 0), BAR_LENGTH)
+          empty = BAR_LENGTH - filled
+          progress_bar = "█" * filled + "░" * empty
+
+          # 5. Leer README
           with open(README_FILE, "r", encoding="utf-8") as f:
               content = f.read()
 
-          # 5. Actualizar Badges
+          # 6. Actualizar Badges
           content = re.sub(r'Archivos-\d+-blue', f'Archivos-{files_count}-blue', content)
           content = re.sub(r'Carpetas-\d+-orange', f'Carpetas-{folders_count}-orange', content)
           content = re.sub(r'Palabra_Actual-\d+-purple', f'Palabra_Actual-{palabra_max}-purple', content)
           content = re.sub(r'Audios-[\d.]+MB-yellow', f'Audios-{audio_size:.2f}MB-yellow', content)
           content = re.sub(r'Imágenes-[\d.]+MB-success', f'Imágenes-{image_size:.2f}MB-success', content)
+          content = re.sub(r'PROGRESO-.*?_\d+%25-2ea043', f'PROGRESO-{progress_bar}_{pct_int}%25-2ea043', content)
 
-          # 6. Guardar README
+          # 7. Guardar README
           with open(README_FILE, "w", encoding="utf-8") as f:
               f.write(content)
               

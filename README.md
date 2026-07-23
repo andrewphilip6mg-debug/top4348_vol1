@@ -1,16 +1,24 @@
-# 🗂️ Top 4348 English Words - Volumen 1
-
 <div align="center">
 
-![Tamaño del Repositorio](https://img.shields.io/github/repo-size/andrewphilip6mg-debug/top4348_vol1?color=2ea043&style=for-the-badge&logo=github&cacheSeconds=60)
-![Archivos](https://img.shields.io/badge/Archivos-8644-blue?style=for-the-badge&logo=files)
-![Carpetas](https://img.shields.io/badge/Carpetas-36-orange?style=for-the-badge&logo=folder)
-![Palabra Actual](https://img.shields.io/badge/Palabra_Actual-1500-purple?style=for-the-badge&logo=book)
-<br>
-![Audios](https://img.shields.io/badge/Audios-35.95MB-yellow?style=for-the-badge&logo=applemusic)
-![Imágenes](https://img.shields.io/badge/Imágenes-52.66MB-success?style=for-the-badge&logo=image)
+  <!-- Escena de las Mascotas -->
+  <sub><img src="animation/duolingo.png" alt="Duolingo derrotado" width="150"></sub>
+  <img src="animation/mascot.png" alt="Mascota del proyecto" width="175">
 
-*Proyecto de aprendizaje de inglés optimizado para Anki.*
+  # Top 4348 English Words - Volumen 1
+
+  ![Tamaño del Repositorio](https://img.shields.io/github/repo-size/andrewphilip6mg-debug/top4348_vol1?color=2ea043&style=for-the-badge&logo=github&cacheSeconds=60)
+  ![Archivos](https://img.shields.io/badge/Archivos-9633-blue?style=for-the-badge&logo=files)
+  ![Carpetas](https://img.shields.io/badge/Carpetas-41-orange?style=for-the-badge&logo=folder)
+  ![Palabra Actual](https://img.shields.io/badge/Palabra_Actual-1700-purple?style=for-the-badge&logo=book)
+  <br>
+  ![Audios](https://img.shields.io/badge/Audios-39.74MB-yellow?style=for-the-badge&logo=applemusic)
+  ![Imágenes](https://img.shields.io/badge/Imágenes-59.62MB-success?style=for-the-badge&logo=image)
+  <br>
+  ![Progreso](https://img.shields.io/badge/PROGRESO-████████░░░░░░░░░░░░_39%25-2ea043?style=for-the-badge)
+
+  <br>
+
+  *Proyecto de aprendizaje de inglés optimizado para Anki.*
 
 </div>
 
@@ -30,5 +38,3 @@ Cada tarjeta de Anki ha sido diseñada para maximizar la retención, incluyendo:
 | 🖼️ **Imágenes** | Archivos optimizados para carga rápida sin perder calidad. | `.avif` |
 | 🎧 **Audio Dual** | Pronunciación de la palabra aislada y de la frase en contexto. | `.ogg` (Opus) |
 | 📝 **Contexto** | Definiciones breves y frases de ejemplo reales (polisemia incluida). | Texto |
-
-</div>
