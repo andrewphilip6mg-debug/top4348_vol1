@@ -12,12 +12,9 @@
   ![Palabra Actual](https://img.shields.io/badge/Palabra_Actual-1700-purple?style=for-the-badge&logo=book)
   <br>
   ![Audios](https://img.shields.io/badge/Audios-39.74MB-yellow?style=for-the-badge&logo=applemusic)
-  ![Imágenes](https://img.shields.io/badge/Imágenes-59.62MB-success?style=for-the-badge&logo=image)
-
+  ![Imágenes](https://img.shields.io/badge/Imágenes-58.08MB-success?style=for-the-badge&logo=image)
   <br>
-
-  <!-- Barra de progreso verde -->
-  ![Progreso](https://progress-bar.dev/39/?scale=100&title=Progreso%20del%20Volumen&width=380&color=2ea043&suffix=%)
+  ![Progreso](https://img.shields.io/badge/PROGRESO-████████░░░░░░░░░░░░_39%25-2ea043?style=for-the-badge)
 
   <br>
 
