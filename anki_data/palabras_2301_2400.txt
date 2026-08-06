@@ -1,0 +1,149 @@
+2301A	phrase	Can you explain the meaning of this [...]?	Can you explain the meaning of this phrase?	[Noun] a group of words that express a single idea	frase / expresión
+2301B	phrase	You need to [...] your question more clearly so everyone understands.	You need to phrase your question more clearly so everyone understands.	[Verb] to express something using specific words	redactar / expresar con palabras
+2302A	ingredient	Fresh basil is the main [...] in this tomato sauce.	Fresh basil is the main ingredient in this tomato sauce.	[Noun] one of the items used to make a food dish	ingrediente
+2303A	stake	They drove a wooden [...] into the ground to hold the tent.	They drove a wooden stake into the ground to hold the tent.	[Noun] a pointed piece of wood or metal pushed into the ground	estaca
+2303B	stake	The company owner has a huge [...] in the new business venture.	The company owner has a huge stake in the new business venture.	[Noun] a financial share or investment in a business	participación / interés
+2303C	at stake	His whole future is [...] if he fails this test.	His whole future is at stake if he fails this test.	[Idiom] at risk of being lost or damaged	en juego / en riesgo
+2304A	Muslim	My new neighbor is a [...] from Egypt.	My new neighbor is a Muslim from Egypt.	[Noun] a person who follows the religion of Islam	musulmán / musulmana
+2305A	fiber	Eating fresh vegetables gives your body a lot of dietary [...].	Eating fresh vegetables gives your body a lot of dietary fiber.	[Noun] plant material in food that helps digestion	fibra
+2305B	fiber	Cotton is a natural [...] used to make comfortable clothes.	Cotton is a natural fiber used to make comfortable clothes.	[Noun] a thin thread of natural or artificial material	fibra (textil o material)
+2306A	activist	The environmental [...] spoke at the local community center yesterday.	The environmental activist spoke at the local community center yesterday.	[Noun] a person who works to bring about political or social change	activista
+2307A	Islamic	She spent three years studying [...] art and culture in Spain.	She spent three years studying Islamic art and culture in Spain.	[Adjective] relating to Islam or Muslims	islámico/a
+2308A	snap	The dry tree branch will [...] if you step on it hard.	The dry tree branch will snap if you step on it hard.	[Verb] to break suddenly with a sharp cracking sound	romperse / quebrarse
+2308B	snap	He likes to [...] photos of old buildings when he travels.	He likes to snap photos of old buildings when he travels.	[Verb] to take a quick photograph	tomar (una foto)
+2308C	snap up	She decided to [...] the last ticket for the concert.	She decided to snap up the last ticket for the concert.	[Phrasal Verb] to buy or accept something quickly and eagerly	aprovechar / comprar rápidamente
+2308D	snap	She was so tired that she started to [...] at her brother.	She was so tired that she started to snap at her brother.	[Verb] to speak to someone in a sudden angry tone	hablar de golpe / espetar / perder la paciencia
+2308E	snap out of it	You need to [...] and focus on the exam.	You need to snap out of it and focus on the exam.	[Idiom] to quickly recover from a bad mood or distraction	espabilar / reaccionar / salir de un mal estado
+2309A	terrorism	Governments around the world unite to fight global [...].	Governments around the world unite to fight global terrorism.	[Noun] the unlawful use of violence to intimidate citizens	terrorismo
+2310A	refugee	The local shelter helped every [...] who arrived from the war zone.	The local shelter helped every refugee who arrived from the war zone.	[Noun] a person who flees their country for safety	refugiado/a
+2311A	incorporate	We need to [...] these new suggestions into our main plan.	We need to incorporate these new suggestions into our main plan.	[Verb] to include something as part of a larger whole	incorporar / incluir
+2312A	hip	She fell on the ice and hurt her left [...].	She fell on the ice and hurt her left hip.	[Noun] the joint connecting the leg to the side of the body	cadera
+2312B	hip	That new coffee shop in town is very [...].	That new coffee shop in town is very hip.	[Adjective - Informal] modern, fashionable, and cool	moderno/a / a la moda
+2313A	ultimate	Winning the championship was his [...] goal as an athlete.	Winning the championship was his ultimate goal as an athlete.	[Adjective] final, greatest, or most important	definitivo/a / máximo/a
+2314A	switch	Please press this [...] to turn on the main light.	Please press this switch to turn on the main light.	[Noun] a small device that turns electricity on or off	interruptor
+2314B	switch	They decided to [...] seats so she could sit near the window.	They decided to switch seats so she could sit near the window.	[Verb] to change or swap one thing for another	cambiar / intercambiar
+2314C	switch off	Remember to [...] the lights before leaving the house.	Remember to switch off the lights before leaving the house.	[Phrasal Verb] to turn off an electrical appliance	apagar
+2314D	switch on	Could you please [...] the lights in the living room?	Could you please switch on the lights in the living room?	[Phrasal Verb] to turn on an electrical device or light	encender
+2315A	corporation	He works for an international technology [...] based in Tokyo.	He works for an international technology corporation based in Tokyo.	[Noun] a large company or group of companies acting as a single entity	corporación / empresa
+2316A	valuable	Her grandmother gave her a very [...] ring on her birthday.	Her grandmother gave her a very valuable ring on her birthday.	[Adjective] worth a lot of money or extremely useful	valioso/a
+2317A	assumption	He made the wrong [...] that the office was closed today.	He made the wrong assumption that the office was closed today.	[Noun] something accepted as true without proof	suposición / presunción
+2318A	gear	We packed all our camping [...] into the trunk of the car.	We packed all our camping gear into the trunk of the car.	[Noun] equipment or clothing needed for a specific activity	equipo / herramientas
+2318B	gear	He changed [...] to drive up the steep mountain road.	He changed gear to drive up the steep mountain road.	[Noun] a set of toothed wheels in a machine or vehicle	marcha / engranaje
+2318C	gear up	The team is starting to [...] for the final match.	The team is starting to gear up for the final match.	[Phrasal Verb] to prepare for an upcoming activity or event	prepararse / equiparse
+2319A	barrier	Language was the main [...] to communication during the trip.	Language was the main barrier to communication during the trip.	[Noun] an obstacle that prevents movement or progress	barrera / obstáculo
+2320A	minor	Luckily, the car accident caused only [...] damage to the bumper.	Luckily, the car accident caused only minor damage to the bumper.	[Adjective] small, lesser, or not very serious	menor / de poca importancia
+2320B	minor	In this country, anyone under eighteen is legally a [...].	In this country, anyone under eighteen is legally a minor.	[Noun] a person who is under full legal age	menor de edad
+2320C	minor	Her major subject was biology and her [...] was history.	Her major subject was biology and her minor was history.	[Noun] a secondary academic subject studied at college	asignatura secundaria / especialización secundaria
+2321A	provision	The contract includes a special [...] about early termination.	The contract includes a special provision about early termination.	[Noun] a condition or requirement in a legal document	cláusula / disposición
+2321B	provisions	The rescuers brought fresh water and [...] to the villagers.	The rescuers brought fresh water and provisions to the villagers.	[Noun] supplies of food and other necessary items	víveres / provisiones
+2322A	killer	The police are still searching for the dangerous [...].	The police are still searching for the dangerous killer.	[Noun] a person or thing that causes death	asesino/a
+2323A	assign	The manager will [...] new tasks to the team tomorrow.	The manager will assign new tasks to the team tomorrow.	[Verb] to give a specific job or duty to someone	asignar
+2324A	gang	Police arrested three members of a local street [...].	Police arrested three members of a local street gang.	[Noun] an organized group of criminals or young people	banda / pandilla
+2325A	developing	Many [...] countries need better access to clean water.	Many developing countries need better access to clean water.	[Adjective] growing or becoming more advanced economically	en desarrollo
+2326A	classic	She loves reading [...] novels from the nineteenth century.	She loves reading classic novels from the nineteenth century.	[Adjective] accepted as high quality and traditional	clásico/a
+2326B	classic	This short film is a true [...] of modern cinema.	This short film is a true classic of modern cinema.	[Noun] a work of art that is recognized as outstanding	un clásico
+2327A	chemical	Never mix this cleaning [...] with hot water or ammonia.	Never mix this cleaning chemical with hot water or ammonia.	[Noun] a substance produced by or used in chemistry	producto químico
+2327B	chemical	The plant produces a strong [...] reaction when mixed with acid.	The plant produces a strong chemical reaction when mixed with acid.	[Adjective] related to chemistry or substances of chemistry	químico/a
+2328A	label	Always read the price [...] before buying food products.	Always read the price label before buying food products.	[Noun] a small piece of paper or plastic with information	etiqueta
+2328B	label	Remember to [...] each box before moving to the new apartment.	Remember to label each box before moving to the new apartment.	[Verb] to attach information or a tag to something	etiquetar / marcar
+2329A	teen	Most [...] students enjoy spending time online with friends.	Most teen students enjoy spending time online with friends.	[Noun/Adjective] a teenager or relating to teenagers	adolescente
+2330A	index	Check the [...] at the back of the book to find that topic.	Check the index at the back of the book to find that topic.	[Noun] an alphabetical list of topics at the end of a publication	índice
+2330B	index finger	He pointed to the map with his right [...].	He pointed to the map with his right index finger.	[Noun] the finger next to the thumb	dedo índice
+2331A	vacation	We are planning a sunny beach [...] for next summer.	We are planning a sunny beach vacation for next summer.	[Noun] a period of time spent away from work or school for rest	vacaciones
+2332A	advocate	She is a strong [...] for women's equal rights at work.	She is a strong advocate for women's equal rights at work.	[Noun] a person who publicly supports a cause	defensor/a / propugnador/a
+2332B	advocate	Doctors [...] eating more fresh fruit and vegetables every day.	Doctors advocate eating more fresh fruit and vegetables every day.	[Verb] to publicly recommend or support something	defender / abogar por
+2333A	draft	He wrote a quick [...] of the report before the meeting.	He wrote a quick draft of the report before the meeting.	[Noun] a preliminary or early version of a document	borrador
+2333B	draft	Close the window because there is a cold [...] in here.	Close the window because there is a cold draft in here.	[Noun] a current of cool air in an enclosed space	corriente de aire
+2333C	draft	The lawyer will [...] a new contract for the business.	The lawyer will draft a new contract for the business.	[Verb] to write or draw the first version of a document	redactar / elaborar un borrador
+2334A	extraordinary	She has an [...] talent for playing the acoustic guitar.	She has an extraordinary talent for playing the acoustic guitar.	[Adjective] very unusual, special, or remarkable	extraordinario/a
+2335A	heaven	Many people believe good souls go to [...] after death.	Many people believe good souls go to heaven after death.	[Noun] the abode of God or a place of perfect peace	cielo / paraíso
+2336A	rough	The wooden surface of the table feels very [...].	The wooden surface of the table feels very rough.	[Adjective] not smooth or even to the touch	áspero/a / rugoso/a
+2336B	rough	We had a [...] journey because of the stormy weather.	We had a rough journey because of the stormy weather.	[Adjective] difficult, uncomfortable, or full of hardship	difícil / duro/a
+2336C	rough	Can you give me a [...] estimate of the total cost?	Can you give me a rough estimate of the total cost?	[Adjective] approximate or not exact	aproximado/a / a grandes rasgos
+2337A	yell	Please do not [...] at me when I make a mistake.	Please do not yell at me when I make a mistake.	[Verb] to shout or cry out loudly	gritar
+2338A	pregnant	His wife is six months [...] with their first child.	His wife is six months pregnant with their first child.	[Adjective] expecting a baby	embarazada
+2339A	distant	We could hear the sound of [...] thunder over the hills.	We could hear the sound of distant thunder over the hills.	[Adjective] far away in space or time	distante / lejano/a
+2340A	drama	She loves watching television [...] series about medical doctors.	She loves watching television drama series about medical doctors.	[Noun] an exciting or emotional story for theater or television	drama / obra dramática
+2340B	drama	She left the group because she wanted to avoid unnecessary [...].	She left the group because she wanted to avoid unnecessary drama.	[Noun - Informal] exaggerated emotion or unnecessary trouble	drama / lío / conflicto
+2341A	satellite	The television company launched a new [...] into orbit last month.	The television company launched a new satellite into orbit last month.	[Noun] an electronic device placed in orbit around the earth	satélite
+2342A	personally	I [...] believe that reading books is better than watching movies.	I personally believe that reading books is better than watching movies.	[Adverb] from one's own direct experience or opinion	personalmente
+2343A	clock	The large [...] on the wall shows that it is ten past three.	The large clock on the wall shows that it is ten past three.	[Noun] an instrument used to measure and indicate time	reloj (de pared o mesa)
+2343B	clock in	All employees must [...] when they arrive at eight.	All employees must clock in when they arrive at eight.	[Phrasal Verb] to record the time you arrive at work	fichar al entrar / registrar la entrada
+2343C	clock out	I usually [...] at five in the afternoon.	I usually clock out at five in the afternoon.	[Phrasal Verb] to record the time you leave work	fichar al salir / registrar la salida
+2344A	chocolate	She bought a sweet bar of dark [...] at the corner store.	She bought a sweet bar of dark chocolate at the corner store.	[Noun] a sweet food material made from cacao seeds	chocolate
+2345A	Italian	We ate fresh pasta at a cozy [...] restaurant downtown.	We ate fresh pasta at a cozy Italian restaurant downtown.	[Adjective] relating to Italy, its people, or language	italiano/a
+2346A	Canadian	Her father is a [...] citizen who lives in Toronto.	Her father is a Canadian citizen who lives in Toronto.	[Adjective/Noun] relating to Canada or a native of Canada	canadiense
+2347A	ceiling	The tall man could almost touch the room's [...].	The tall man could almost touch the room's ceiling.	[Noun] the top inside surface of a room	techo / cielorraso
+2347B	ceiling	The bank placed a strict [...] on daily card withdrawals.	The bank placed a strict ceiling on daily card withdrawals.	[Noun] an upper limit set on prices, wages, or spending	tope / límite máximo
+2348A	sweep	Use a broom to [...] the dirt off the kitchen floor.	Use a broom to sweep the dirt off the kitchen floor.	[Verb] to clean a surface using a broom or brush	barrer
+2348B	sweep up	Please help me [...] the broken glass from the floor.	Please help me sweep up the broken glass from the floor.	[Phrasal Verb] to clean or remove dirt using a broom	barrer / recoger barriendo
+2349A	advertising	The company spends a lot of money on online [...].	The company spends a lot of money on online advertising.	[Noun] the business of creating public promotions for products	publicidad
+2350A	universal	Music is often called a [...] language that everyone understands.	Music is often called a universal language that everyone understands.	[Adjective] existing everywhere or involving all people	universal
+2351A	spin	Watch how fast the child can [...] the plastic toy.	Watch how fast the child can spin the plastic toy.	[Verb] to turn around rapidly on a central axis	girar / hacer girar
+2352A	button	He lost a shirt [...] while playing sports in the park.	He lost a shirt button while playing sports in the park.	[Noun] a small disk sewn onto clothing to fasten it	botón
+2352B	button	Press the green [...] to start the washing machine.	Press the green button to start the washing machine.	[Noun] a small part on a device pushed to operate it	botón / pulsador
+2352C	button up	Make sure to [...] your warm coat before going outside.	Make sure to button up your warm coat before going outside.	[Phrasal Verb] to fasten clothes with buttons	abotonarse / abrocharse
+2353A	bell	The school [...] rang to announce the end of class.	The school bell rang to announce the end of class.	[Noun] a hollow metal device that makes a ringing sound	campana / timbre
+2353B	ring a bell	His name sounds familiar, but it does not [...].	His name sounds familiar, but it does not ring a bell.	[Idiom] to sound vaguely familiar	sonar familiar / sonar de algo
+2354A	rank	He reached the top [...] of captain after ten years in the army.	He reached the top rank of captain after ten years in the army.	[Noun] a official position or grade in a system	rango / grado
+2354B	rank	The university [...] high among European law schools.	The university ranks high among European law schools.	[Verb] to hold or give a particular place in a order	clasificar / figurar en un puesto
+2355A	darkness	We sat together in complete [...] waiting for the power to return.	We sat together in complete darkness waiting for the power to return.	[Noun] the total state of being without light	oscuridad
+2356A	clothing	They donated warm winter [...] to families in need.	They donated warm winter clothing to families in need.	[Noun] clothes worn on the human body	ropa / vestimenta
+2357A	super	This new camera is [...] easy to use for beginners.	This new camera is super easy to use for beginners.	[Adverb - Informal] extremely or very	súper / muy
+2358A	yield	This fertile land will [...] a rich corn crop this season.	This fertile land will yield a rich corn crop this season.	[Verb] to produce or provide a crop, profit, or result	producir / rendir
+2358B	yield	Drivers must [...] the right of way to pedestrians at the crosswalk.	Drivers must yield the right of way to pedestrians at the crosswalk.	[Verb] to give way or cede control under pressure	ceder / dar el paso
+2359A	fence	Our dog jumped over the wooden [...] into the neighbor's yard.	Our dog jumped over the wooden fence into the neighbor's yard.	[Noun] a barrier enclosing an area of outdoor ground	cerca / valla
+2359B	on the fence	She is still [...] about which job offer to accept.	She is still on the fence about which job offer to accept.	[Idiom] undecided or neutral between two choices	indeciso/a / con dudas
+2360A	portrait	An artist painted a beautiful [...] of her grandmother last year.	An artist painted a beautiful portrait of her grandmother last year.	[Noun] a painting, photo, or likeness of a person's face	retrato
+2361A	survival	Water is essential for the basic [...] of human life.	Water is essential for the basic survival of human life.	[Noun] the state of continuing to live or exist	supervivencia
+2362A	roughly	The walk to the train station takes [...] twenty minutes.	The walk to the train station takes roughly twenty minutes.	[Adverb] approximately or about, not precisely	aproximadamente / más o menos
+2363A	lawsuit	The injured worker filed a legal [...] against the company.	The injured worker filed a legal lawsuit against the company.	[Noun] a legal action brought before a court	demanda / pleito
+2364A	testimony	The witness gave clear [...] during the criminal trial.	The witness gave clear testimony during the criminal trial.	[Noun] a formal written or spoken statement in court	testimonio
+2365A	bunch	He brought a fresh [...] of red roses for his mother.	He brought a fresh bunch of red roses for his mother.	[Noun] a number of similar things growing or grouped together	ramo / manojo / grupo
+2366A	found	The business partners plan to [...] a tech startup next year.	The business partners plan to found a tech startup next year.	[Verb] to establish or originate an organization or city	fundar / establecer
+2367A	burden	Carrying the heavy bag was a huge [...] on his tired shoulders.	Carrying the heavy bag was a huge burden on his tired shoulders.	[Noun] a heavy load or difficult responsibility	carga / peso
+2367B	burden	I do not want to [...] you with my personal problems.	I do not want to burden you with my personal problems.	[Verb] to cause someone worry, trouble, or heavy work	agobiar / cargar
+2368A	react	How did your boss [...] when you told her the bad news?	How did your boss react when you told her the bad news?	[Verb] to act in response to something	reaccionar
+2369A	chamber	The official meeting took place in the main Council [...].	The official meeting took place in the main Council chamber.	[Noun] a large room used for official or formal meetings	cámara / salón
+2370A	furniture	We need to buy new wooden [...] for the living room.	We need to buy new wooden furniture for the living room.	[Noun] movable items like tables and chairs used in rooms	muebles / mobiliario
+2371A	cooperation	International [...] is necessary to solve the global problem.	International cooperation is necessary to solve the global problem.	[Noun] working together toward a shared goal	cooperación
+2372A	string	Tie the small package tightly with a piece of [...].	Tie the small package tightly with a piece of string.	[Noun] thin cord used for tying or binding things	cuerda / hilo
+2372B	string	He accidentally broke a guitar [...] while playing music.	He accidentally broke a guitar string while playing music.	[Noun] a tight wire or cord on a musical instrument	cuerda (de instrumento)
+2372C	no strings attached	They offered him a free trip with [...].	They offered him a free trip with no strings attached.	[Idiom] without any special conditions or obligations	sin compromisos / sin condiciones
+2373A	ceremony	The graduation [...] will begin promptly at nine in the morning.	The graduation ceremony will begin promptly at nine in the morning.	[Noun] a formal event performed on a special occasion	ceremonia
+2374A	communicate	They use video calls to [...] with relatives living abroad.	They use video calls to communicate with relatives living abroad.	[Verb] to share information or news with others	comunicarse
+2375A	cheek	She kissed her grandmother softly on the [...].	She kissed her grandmother softly on the cheek.	[Noun] either side of the face below the eye	mejilla / cachete
+2376A	lost	We got completely [...] in the old city streets without a map.	We got completely lost in the old city streets without a map.	[Adjective] unable to find one's way	perdido/a
+2377A	profile	She updated her personal photo on her social media [...].	She updated her personal photo on her social media profile.	[Noun] a description or page of public user information	perfil
+2377B	keep a low profile	The famous actor preferred to [...] while on holiday.	The famous actor preferred to keep a low profile while on holiday.	[Idiom] to avoid attracting public attention	mantener un perfil bajo
+2378A	mechanism	The internal [...] of the old clock stopped working yesterday.	The internal mechanism of the old clock stopped working yesterday.	[Noun] a system or group of moving parts in a machine	mecanismo
+2379A	disagree	I respect your opinion even though I strongly [...] with it.	I respect your opinion even though I strongly disagree with it.	[Verb] to hold a different view or opinion	estar en desacuerdo / discrepar
+2380A	penalty	The player received a harsh [...] for committing a dangerous foul.	The player received a harsh penalty for committing a dangerous foul.	[Noun] a punishment imposed for breaking a rule or law	sanción / penalización / penalti
+2381A	ie	The hotel offers full room service, [...] food brought to your door.	The hotel offers full room service, ie food brought to your door.	[Abbreviation] that is to say / in other words	es decir / o sea
+2382A	resort	We spent our family holiday at a luxury beach [...].	We spent our family holiday at a luxury beach resort.	[Noun] a place frequented for holidays or recreation	centro turístico / complejo residencial
+2382B	resort to	You should not [...] violence to solve a minor argument.	You should not resort to violence to solve a minor argument.	[Phrasal Verb] to turn to an extreme measure as a last option	recurrir a
+2383A	destruction	The storm caused massive [...] to houses near the coast.	The storm caused massive destruction to houses near the coast.	[Noun] the action of destroying or damaging something severely	destrucción
+2384A	unlikely	It is very [...] to rain when the sky is completely clear.	It is very unlikely to rain when the sky is completely clear.	[Adjective] not expected to happen	improbable / poco probable
+2385A	tissue	Please pass me a paper [...] to blow my nose.	Please pass me a paper tissue to blow my nose.	[Noun] a soft piece of paper used for wiping	pañuelo de papel / klenex
+2385B	tissue	Smoking tobacco causes severe damage to lung [...].	Smoking tobacco causes severe damage to lung tissue.	[Noun] organic material forming animal or plant cells	tejido (biológico)
+2386A	constitutional	Freedom of speech is a fundamental [...] right in our country.	Freedom of speech is a fundamental constitutional right in our country.	[Adjective] related to or permitted by a constitution	constitucional
+2387A	pant	The tired dog began to [...] after running in the hot sun.	The tired dog began to pant after running in the hot sun.	[Verb] to breathe quickly and loudly with an open mouth	jadear
+2387B	pants	He bought a new pair of black [...] for the interview.	He bought a new pair of black pants for the interview.	[Noun - AmE] an outer garment covering the body from waist to ankles	pantalones
+2388A	stranger	Never accept a car ride from a complete [...].	Never accept a car ride from a complete stranger.	[Noun] a person whom one does not know	desconocido/a / extraño/a
+2389A	infection	Take these medical pills to clear up the ear [...].	Take these medical pills to clear up the ear infection.	[Noun] an illness caused by bacteria or viruses	infección
+2390A	cabinet	Store the clean coffee mugs in the top kitchen [...].	Store the clean coffee mugs in the top kitchen cabinet.	[Noun] a piece of furniture with shelves and doors	armario / alacena / mueble
+2390B	cabinet	The prime minister met with her [...] to discuss the budget.	The prime minister met with her cabinet to discuss the budget.	[Noun] a group of senior government ministers	gabinete / ministerio
+2391A	broken	He tried to fix the [...] window frame before the storm started.	He tried to fix the broken window frame before the storm started.	[Adjective] damaged or separated into pieces	roto/a / quebrado/a
+2392A	apple	She ate a crisp red [...] as an afternoon snack.	She ate a crisp red apple as an afternoon snack.	[Noun] a round edible fruit with red or green skin	manzana
+2393A	electric	They bought an [...] car to save money on expensive gas.	They bought an electric car to save money on expensive gas.	[Adjective] operated by or producing electricity	eléctrico/a
+2394A	proceed	You may [...] to the boarding gate now that your passport is checked.	You may proceed to the boarding gate now that your passport is checked.	[Verb] to go forward or continue after stopping	proceder / avanzar / continuar
+2395A	bet	I [...] ten dollars that our team wins the football game.	I bet ten dollars that our team wins the football game.	[Verb] to risk money on the outcome of a future event	apostar
+2395B	bet	He placed a friendly [...] on the horse race yesterday.	He placed a friendly bet on the horse race yesterday.	[Noun] an agreement risking money on a future outcome	apuesta
+2395C	you bet	Thanks for driving me to the airport! — [...], anytime!	Thanks for driving me to the airport! — You bet, anytime!	[Idiom - Informal] certainly / you are welcome	¡de nada! / ¡por supuesto!
+2396A	literary	She won a prestigious [...] award for her new historical novel.	She won a prestigious literary award for her new historical novel.	[Adjective] concerning the writing, study, or content of literature	literario/a
+2397A	virus	The computer was infected with a dangerous digital [...].	The computer was infected with a dangerous digital virus.	[Noun] an infective agent or harmful software code	virus
+2398A	stupid	Leaving your house key in the front door was a [...] mistake.	Leaving your house key in the front door was a stupid mistake.	[Adjective] lacking intelligence or common sense	estúpido/a / tonto/a
+2399A	dispute	The two neighbors resolved their land [...] without going to court.	The two neighbors resolved their land dispute without going to court.	[Noun] a serious disagreement or argument	disputa / conflicto
+2399B	dispute	The team members [...] the decision made by the match referee.	The team members dispute the decision made by the match referee.	[Verb] to question or argue against a statement or decision	disputar / cuestionar
+2400A	fortune	He inherited a vast [...] from his rich family business.	He inherited a vast fortune from his rich family business.	[Noun] a large amount of money or valuable assets	fortuna / riqueza
+2400B	fortune	We had the good [...] to find seats on the crowded train.	We had the good fortune to find seats on the crowded train.	[Noun] chance or good luck in life	suerte / fortuna

@@ -1,0 +1,144 @@
+2001A	racial	The city faced serious [...] tensions last year.	The city faced serious racial tensions last year.	[Adjective] relating to or based on human races	racial
+2002A	phase	We are in the first [...] of the project.	We are in the first phase of the project.	[Noun] a distinct stage in a process	fase
+2002B	phase out	The company will [...] old models next month.	The company will phase out old models next month.	[Phrasal Verb] to stop using or offering something gradually	retirar gradualmente
+2002C	phase in	The new policy will be [...] over the next six months.	The new policy will be phased in over the next six months.	[Phrasal Verb] to introduce or implement something gradually	introducir / implementar gradualmente
+2003A	joke	He told a funny [...] at dinner.	He told a funny joke at dinner.	[Noun] something said to cause laughter	chiste
+2003B	joke	Are you [...]? That cannot be true.	Are you joking? That cannot be true.	[Verb] to say something to be funny, not serious	bromear
+2004A	coat	Put on your warm [...] before going outside.	Put on your warm coat before going outside.	[Noun] a warm outer piece of clothing	abrigo
+2004B	coat	The wall needs another [...] of paint.	The wall needs another coat of paint.	[Noun] a single layer of a substance covering a surface	capa
+2004C	coat	She decided to [...] the strawberries in melted chocolate.	She decided to coat the strawberries in melted chocolate.	[Verb] to cover something with a thin layer of liquid or substance	cubrir / recubrir
+2005A	Mexican	We ate delicious [...] food last night.	We ate delicious Mexican food last night.	[Adjective] relating to Mexico or its culture	mexicano/a
+2006A	symptom	A high fever is a common [...] of flu.	A high fever is a common symptom of flu.	[Noun] a sign of illness in the body	síntoma
+2007A	manufacturer	The car [...] opened a new factory.	The car manufacturer opened a new factory.	[Noun] a company that makes goods in large quantities	fabricante
+2008A	philosophy	She studied ancient [...] at university.	She studied ancient philosophy at university.	[Noun] the study of basic ideas about knowledge and life	filosofía
+2009A	potato	I boiled a [...] for dinner.	I boiled a potato for dinner.	[Noun] a round starchy root vegetable	papa / patata
+2010A	foundation	The house has a strong concrete [...].	The house has a strong concrete foundation.	[Noun] the solid base supporting a structure	cimiento / base
+2010B	foundation	He donated money to a medical [...].	He donated money to a medical foundation.	[Noun] an organization that supports good causes	fundación
+2010C	foundation	She applied liquid [...] before putting on her makeup.	She applied liquid foundation before putting on her makeup.	[Noun] a skin-colored makeup applied to the face	base de maquillaje
+2011A	quote	Can you [...] a line from your favorite book?	Can you quote a line from your favorite book?	[Verb] to repeat exact words spoken or written by someone	citar
+2011B	quote	The mechanic gave me a cheap [...] for repairs.	The mechanic gave me a cheap quote for repairs.	[Noun] a statement of estimated price for a job	presupuesto / cotización
+2012A	online	I bought my train ticket [...] yesterday.	I bought my train ticket online yesterday.	[Adverb] connected to or operating through the internet	en línea / por internet
+2013A	negotiation	Peace [...] continued late into the night.	Peace negotiations continued late into the night.	[Noun] formal discussions to reach an agreement	negociación
+2014A	urge	Doctors [...] people to drink more water.	Doctors urge people to drink more water.	[Verb] to strongly advise or encourage someone	instar / exhortar / animar
+2014B	urge	I felt a sudden [...] to eat something sweet.	I felt a sudden urge to eat something sweet.	[Noun] a strong desire to do something	impulso / deseo fuerte
+2015A	occasion	A wedding is a very special [...].	A wedding is a very special occasion.	[Noun] a particular event or special time	ocasión / evento
+2015B	on occasion	He plays tennis [...], but he prefers running.	He plays tennis on occasion, but he prefers running.	[Idiom] sometimes, but not very often	de vez en cuando / ocasionalmente
+2016A	dust	There was a thick layer of [...] on the shelf.	There was a thick layer of dust on the shelf.	[Noun] fine dry powder on surfaces or ground	polvo
+2016B	dust	Please [...] the wooden table in the living room.	Please dust the wooden table in the living room.	[Verb] to clean fine dirt particles off surfaces	desempolvar / limpiar el polvo
+2016C	dust off	It is time to [...] my old guitar and start playing again.	It is time to dust off my old guitar and start playing again.	[Phrasal Verb] to prepare to use something that has not been used for a long time	desempolvar / retomar (algo olvidado)
+2017A	breathe	It is hard to [...] in high mountains.	It is hard to breathe in high mountains.	[Verb] to take air into the lungs and let it out	respirar
+2017B	breathe in	[...] slowly through your nose.	Breathe in slowly through your nose.	[Phrasal Verb] to inhale air into the lungs	inhalar
+2017C	breathe out	[...] slowly through your mouth.	Breathe out slowly through your mouth.	[Phrasal Verb] to exhale air from the lungs	exhalar / espirar
+2018A	elect	Citizens will [...] a new mayor this Sunday.	Citizens will elect a new mayor this Sunday.	[Verb] to choose someone for a position by voting	elegir / votar
+2019A	investigator	The police [...] looked for fingerprints.	The police investigator looked for fingerprints.	[Noun] a person who examines facts to uncover the truth	investigador/a
+2020A	jacket	He wore a black leather [...] to the party.	He wore a black leather jacket to the party.	[Noun] a short coat that extends to the waist	chaqueta / chamarra
+2021A	glad	I am so [...] that you could come today.	I am so glad that you could come today.	[Adjective] feeling happy or pleased	contento/a / alegre
+2022A	ordinary	It was just an [...] Tuesday at the office.	It was just an ordinary Tuesday at the office.	[Adjective] normal and not special or unusual	ordinario/a / común
+2023A	reduction	There was a big [...] in food prices.	There was a big reduction in food prices.	[Noun] the act of making something smaller or less	reducción / rebaja
+2024A	rarely	He [...] eats fast food because he prefers cooking.	He rarely eats fast food because he prefers cooking.	[Adverb] not often or almost never	rara vez / casi nunca
+2025A	pack	Remember to [...] your toothbrush before traveling.	Remember to pack your toothbrush before traveling.	[Verb] to put items into a bag or box for travel	empacar / hacer la maleta
+2025B	pack	A [...] of wolves hunted in the snow.	A pack of wolves hunted in the snow.	[Noun] a group of wild animals that hunt together	manada
+2025C	pack up	Let us [...] our tools and go home.	Let us pack up our tools and go home.	[Phrasal Verb] to gather belongings or equipment together	empacar todo / recoger
+2025D	pack	He bought a [...] of chewing gum at the store.	He bought a pack of chewing gum at the store.	[Noun] a small paper or cardboard container of goods	paquete / cajetilla
+2025E	packed with	The train was [...] commuters during peak hour.	The train was packed with commuters during peak hour.	[Idiom / Adjective] completely full of people or things	repleto de / lleno de
+2026A	suicide	The news reported a sad case of [...].	The news reported a sad case of suicide.	[Noun] the act of intentionally ending one's own life	suicidio
+2027A	numerous	She made [...] attempts to call him back.	She made numerous attempts to call him back.	[Adjective] existing in large numbers	numerosos/as
+2028A	substance	Water is a vital [...] for all living things.	Water is a vital substance for all living things.	[Noun] a material with particular physical properties	sustancia
+2029A	discipline	Learning an instrument requires a lot of [...].	Learning an instrument requires a lot of discipline.	[Noun] ability to control behavior and work hard	disciplina
+2029B	discipline	Parents must [...] their children with care.	Parents must discipline their children with care.	[Verb] to train or punish someone for bad behavior	disciplinar
+2030A	elsewhere	If this shop is closed, we can buy food [...].	If this shop is closed, we can buy food elsewhere.	[Adverb] in or to another place	en otro lugar
+2031A	iron	The heavy bridge was made of [...].	The heavy bridge was made of iron.	[Noun] a strong heavy metal used in construction	hierro
+2031B	iron	Press your shirt with a hot [...].	Press your shirt with a hot iron.	[Noun] an electrical appliance used to smooth clothes	plancha
+2031C	iron	I need to [...] my trousers for work.	I need to iron my trousers for work.	[Verb] to smooth clothes with a heated appliance	planchar
+2031D	iron out	We need to [...] the details of the agreement.	We need to iron out the details of the agreement.	[Phrasal Verb] to solve or settle small problems or details	resolver / solucionar (detalles)
+2032A	practical	Wearing comfortable shoes is a [...] choice.	Wearing comfortable shoes is a practical choice.	[Adjective] useful or realistic rather than theoretical	práctico/a
+2033A	moreover	The car is cheap. [...], it uses very little fuel.	The car is cheap. Moreover, it uses very little fuel.	[Adverb] in addition to what has been said	además / es más
+2034A	passion	He plays guitar with great [...].	He plays guitar with great passion.	[Noun] powerful enthusiasm or love for something	pasión
+2035A	volunteer	She works as a [...] at the animal shelter.	She works as a volunteer at the animal shelter.	[Noun] a person who offers to do work without pay	voluntario/a
+2035B	volunteer	They [...] to clean the park on Sunday.	They volunteered to clean the park on Sunday.	[Verb] to offer to do work without payment	ofrecerse como voluntario/a
+2036A	implement	The school will [...] new rules next week.	The school will implement new rules next week.	[Verb] to put a plan or decision into effect	implementar / poner en marcha
+2037A	essentially	The two plans are [...] the same thing.	The two plans are essentially the same thing.	[Adverb] basically or in the most important ways	esencialmente / en el fondo
+2038A	gene	Eye color is passed down through a [...].	Eye color is passed down through a gene.	[Noun] a unit of DNA carrying inherited characteristics	gen
+2039A	enforcement	Strict law [...] keeps the streets safe.	Strict law enforcement keeps the streets safe.	[Noun] the act of compelling observance of laws	aplicación / cumplimiento (de la ley)
+2040A	vs	Tonight is the big match: Spain [...] Italy.	Tonight is the big match: Spain vs Italy.	[Preposition] versus, showing two opposing sides	contra / versus
+2041A	sauce	I love fresh tomato [...] on my pasta.	I love fresh tomato sauce on my pasta.	[Noun] a thick liquid served with food for flavor	salsa
+2042A	independence	The nation celebrated fifty years of [...].	The nation celebrated fifty years of independence.	[Noun] freedom from control by another country	independencia
+2043A	marketing	She works in the digital [...] department.	She works in the digital marketing department.	[Noun] the action of promoting and selling products	mercadotecnia / marketing
+2044A	priest	The [...] spoke softly to the church members.	The priest spoke softly to the church members.	[Noun] a religious leader authorized to perform rites	sacerdote / cura
+2045A	amazing	We saw an [...] sunset over the ocean.	We saw an amazing sunset over the ocean.	[Adjective] causing great surprise or wonder	increíble / asombroso/a
+2046A	intense	The runners felt [...] heat during the race.	The runners felt intense heat during the race.	[Adjective] extreme or very strong in degree	intenso/a
+2047A	advance	Technology continues to [...] at a fast pace.	Technology continues to advance at a fast pace.	[Verb] to move forward or make progress	avanzar
+2047B	advance	Scientists made a major [...] in medicine.	Scientists made a major advance in medicine.	[Noun] forward movement or improvement	avance
+2047C	in advance	You must book your hotel room [...].	You must book your hotel room in advance.	[Idiom] before a particular time or event	con antelación / por adelantado
+2048A	employer	My [...] offers good health insurance.	My employer offers good health insurance.	[Noun] a person or company that hires workers	empleador/a / empresa
+2049A	shock	Hearing the bad news gave her a severe [...].	Hearing the bad news gave her a severe shock.	[Noun] a sudden feeling of surprise or distress	conmoción / shock
+2049B	shock	The unexpected test results [...] everyone.	The unexpected test results shocked everyone.	[Verb] to cause sudden surprise or upset	conmocionar / impresionar
+2050A	inspire	Her success story will [...] many young artists.	Her success story will inspire many young artists.	[Verb] to fill someone with the desire to do something	inspirar
+2051A	adjust	Please [...] your seatbelt before we drive.	Please adjust your seatbelt before we drive.	[Verb] to alter slightly to achieve a better fit	ajustar / adaptar
+2051B	adjust to	It took her a few months to [...] the new climate.	It took her a few months to adjust to the new climate.	[Phrasal Verb] to become accustomed to a new situation	adaptarse a / acostumbrarse a
+2052A	retire	My father plans to [...] when he turns sixty-five.	My father plans to retire when he turns sixty-five.	[Verb] to leave one's job after reaching a certain age	jubilarse / retirarse
+2053A	visible	The mountain top was [...] through the fog.	The mountain top was visible through the fog.	[Adjective] able to be seen	visible
+2054A	kiss	She [...] her child goodnight.	She kissed her child goodnight.	[Verb] to touch with the lips as a sign of affection	besar
+2054B	kiss	He gave his wife a quick [...] on the cheek.	He gave his wife a quick kiss on the cheek.	[Noun] a touch with the lips	beso
+2055A	illness	She missed school due to a sudden [...].	She missed school due to a sudden illness.	[Noun] a state of being sick or unhealthy	enfermedad
+2056A	cap	He wore a baseball [...] to shade his eyes.	He wore a baseball cap to shade his eyes.	[Noun] a soft hat with a curved front brim	gorra
+2056B	cap	Put the [...] back on the pen so it does not dry.	Put the cap back on the pen so it does not dry.	[Noun] a top cover for a bottle or pen	tapa / tapón
+2056C	cap	The government plans to [...] energy prices this winter.	The government plans to cap energy prices this winter.	[Verb] to place a maximum limit on an amount or price	topar / limitar
+2056D	to cap it all off	It rained all day, and [...], I lost my wallet.	It rained all day, and to cap it all off, I lost my wallet.	[Idiom] as an ultimate event, finishing touch, or final complication	para rematar / para colmo de males
+2057A	habit	Biting your nails is a bad [...].	Biting your nails is a bad habit.	[Noun] something done regularly without thinking	hábito / costumbre
+2058A	competitive	Basketball is a highly [...] sport.	Basketball is a highly competitive sport.	[Adjective] involving strong competition or wanting to win	competitivo/a
+2059A	juice	I drank a cold glass of orange [...] with breakfast.	I drank a cold glass of orange juice with breakfast.	[Noun] liquid extracted from fruit or vegetables	jugo / zumo
+2060A	congressional	The committee held a [...] hearing today.	The committee held a congressional hearing today.	[Adjective] relating to a national congress	congresional / del congreso
+2061A	involvement	Parents encourage community [...] in local schools.	Parents encourage community involvement in local schools.	[Noun] the state of taking part in an activity	participación / implicación
+2062A	dominate	That tall building [...] the city skyline.	That tall building dominates the city skyline.	[Verb] to have power or strong influence over something	dominar
+2063A	previously	She [...] worked as a nurse before changing careers.	She previously worked as a nurse before changing careers.	[Adverb] at an earlier time	previamente / antes
+2064A	whenever	Call me [...] you arrive at the hotel.	Call me whenever you arrive at the hotel.	[Conjunction] at whatever time or every time that	siempre que / cada vez que
+2065A	transfer	I need to [...] money to my bank account.	I need to transfer money to my bank account.	[Verb] to move from one place or account to another	transferir / trasladar
+2065B	transfer	The player asked for a [...] to another team.	The player asked for a transfer to another team.	[Noun] the act of moving someone or something	transferencia / traslado
+2066A	analyze	Scientists need time to [...] the laboratory results.	Scientists need time to analyze the laboratory results.	[Verb] to examine something in detail	analizar
+2067A	attach	Please [...] the file to your email message.	Please attach the file to your email message.	[Verb] to join or fasten one thing to another	adjuntar / unir
+2067B	attached to	She became very [...] her rescue dog.	She became very attached to her rescue dog.	[Idiom] feeling deep affection or emotional connection to	apegado/a a / encariñado/a con
+2068A	disaster	The severe earthquake was a natural [...].	The severe earthquake was a natural disaster.	[Noun] a sudden event causing great damage or distress	desastre
+2069A	parking	Finding a [...] space downtown is very difficult.	Finding a parking space downtown is very difficult.	[Noun] space or act of leaving a vehicle	estacionamiento / aparcamiento
+2070A	prospect	Finding a new job offers a good career [...].	Finding a new job offers a good career prospect.	[Noun] the possibility or likelihood of something happening	perspectiva / posibilidad
+2071A	boss	My [...] approved my vacation request.	My boss approved my vacation request.	[Noun] a person in charge of a worker or organization	jefe/a
+2071B	boss around	Stop trying to [...] everyone in the office!	Stop trying to boss around everyone in the office!	[Phrasal Verb] to give people orders in an annoying way	mandonear / dar órdenes a
+2072A	complaint	The customer filed a written [...] about the service.	The customer filed a written complaint about the service.	[Noun] a statement that something is unsatisfactory	queja / reclamo
+2073A	championship	Our team won the national football [...].	Our team won the national football championship.	[Noun] a high-level contest to decide a winner	campeonato
+2074A	fundamental	Reading is a [...] skill for learning.	Reading is a fundamental skill for learning.	[Adjective] forming a necessary base or core	fundamental / básico
+2075A	severe	The storm caused [...] damage to several homes.	The storm caused severe damage to several homes.	[Adjective] very serious or harsh	severo/a / grave
+2076A	enhance	Good lighting can [...] the beauty of a room.	Good lighting can enhance the beauty of a room.	[Verb] to improve the quality or value of something	mejorar / realzar
+2077A	mystery	The cause of the fire remains a [...].	The cause of the fire remains a mystery.	[Noun] something strange that is difficult to explain	misterio
+2078A	impose	The government will [...] a new tax on sugar.	The government will impose a new tax on sugar.	[Verb] to force a rule or decision on others	imponer
+2079A	poverty	Many charities work to reduce global [...].	Many charities work to reduce global poverty.	[Noun] the state of being extremely poor	pobreza
+2080A	entry	Visitors must show a ticket at the [...].	Visitors must show a ticket at the entry.	[Noun] a place or way of entering	entrada
+2080B	entry	She wrote a short [...] in her journal last night.	She wrote a short entry in her journal last night.	[Noun] an item written in a diary or book	entrada / anotación
+2081A	spending	The family cut down on monthly [...] to save money.	The family cut down on monthly spending to save money.	[Noun] the amount of money used	gasto / gastos
+2082A	king	The royal castle belonged to an ancient [...].	The royal castle belonged to an ancient king.	[Noun] a male ruler of an independent country	rey
+2083A	evaluate	Teachers [...] student performance with tests.	Teachers evaluate student performance with tests.	[Verb] to form an idea of the value or quality of something	evaluar
+2084A	symbol	The red heart is a universal [...] of love.	The red heart is a universal symbol of love.	[Noun] a mark or sign that represents an idea or object	símbolo
+2085A	maker	The car [...] announced a new electric vehicle.	The car maker announced a new electric vehicle.	[Noun] a person or company that creates something	fabricante / hacedor
+2086A	mood	Listening to music always puts me in a good [...].	Listening to music always puts me in a good mood.	[Noun] a temporary state of mind or feeling	estado de ánimo / humor
+2086B	in the mood for	I am really [...] a pizza tonight.	I am really in the mood for a pizza tonight.	[Idiom] wanting to do or have something at that moment	con ganas de / tener ganas de
+2087A	accomplish	We worked hard to [...] our goals on time.	We worked hard to accomplish our goals on time.	[Verb] to achieve or complete something successfully	lograr / cumplir
+2088A	emphasis	The teacher put extra [...] on grammar rules.	The teacher put extra emphasis on grammar rules.	[Noun] special importance or value given to something	énfasis
+2089A	illustrate	The charts help to [...] the sales growth clearly.	The charts help to illustrate the sales growth clearly.	[Verb] to explain something using examples or pictures	ilustrar / ejemplificar
+2089B	illustrate	An artist was hired to [...] the children's storybook.	An artist was hired to illustrate the children's storybook.	[Verb] to draw pictures or diagrams for a book	ilustrar (un libro / dibujar)
+2090A	boot	He put on his leather [...] before walking in the mud.	He put on his leather boots before walking in the mud.	[Noun] a heavy shoe covering the foot and ankle	bota
+2090B	boot	Put your luggage in the [...] of the car.	Put your luggage in the boot of the car.	[Noun - BrE] the main storage compartment at the back of a car	maletero / cajuela
+2090C	boot up	Wait a moment while the computer [...] completely.	Wait a moment while the computer boots up completely.	[Phrasal Verb] to turn on and start operating (a computer system)	iniciar / arrancar (computadora)
+2090D	get the boot	He [...] from his job for constantly coming late.	He got the boot from his job for constantly coming late.	[Idiom - Informal] to be dismissed from a job or relationship	ser despedido / ser echado / recibir la patada
+2091A	monitor	I bought a larger computer [...] for my desk.	I bought a larger computer monitor for my desk.	[Noun] a screen used to display images or text	monitor / pantalla
+2091B	monitor	Doctors will [...] his heart rate during the night.	Doctors will monitor his heart rate during the night.	[Verb] to observe and check progress over time	monitorear / supervisar
+2092A	Asian	We tried various [...] dishes at the food festival.	We tried various Asian dishes at the food festival.	[Adjective] belonging to or coming from Asia	asiático/a
+2093A	entertainment	Movies and video games are popular forms of [...].	Movies and video games are popular forms of entertainment.	[Noun] activities that provide enjoyment or diversion	entretenimiento
+2094A	bean	She added green [...] to the vegetable soup.	She added green beans to the vegetable soup.	[Noun] an edible seed or pod from a plant	frijol / judía / habichuela
+2094B	spill the beans	Don't [...] about the surprise party!	Don't spill the beans about the surprise party!	[Idiom - Informal] to reveal a secret accidentally or prematurely	revelar el secreto / soltar la sopa
+2095A	evaluation	The employee received a positive performance [...].	The employee received a positive performance evaluation.	[Noun] a judgment or calculation of worth or quality	evaluación
+2096A	creature	Deep oceans are home to strange living [...].	Deep oceans are home to strange living creatures.	[Noun] any living animal or organism	criatura
+2097A	commander	The military [...] gave strict orders to his troops.	The military commander gave strict orders to his troops.	[Noun] a person in official control of a force	comandante
+2098A	digital	I prefer reading books on a [...] device.	I prefer reading books on a digital device.	[Adjective] using computer technology or electronic signals	digital
+2099A	arrangement	We made an [...] to meet for lunch on Friday.	We made an arrangement to meet for lunch on Friday.	[Noun] a plan or preparation for a future event	acuerdo / arreglo / plan
+2099B	arrangement	She admired the beautiful flower [...] on the table.	She admired the beautiful flower arrangement on the table.	[Noun] an orderly grouping or display of items	arreglo / composición
+2100A	concentrate	It is hard to [...] when there is loud music.	It is hard to concentrate when there is loud music.	[Verb] to direct one's attention or effort toward an activity	concentrarse
+2100B	concentrate on	You should [...] your studies right now.	You should concentrate on your studies right now.	[Phrasal Verb] to focus exclusively on one thing	concentrarse en / enfocarse en

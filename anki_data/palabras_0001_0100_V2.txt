@@ -1,0 +1,364 @@
+1A	the	Please give me [...] blue book.	Please give me the blue book.	[Definite Article] specific item	el / la / los / las
+2A	be	I like helping sick people. That's why I want to [...] a doctor.	I like helping sick people. That's why I want to be a doctor.	[Verb] to exist or have a specified state	ser
+2B	be	They will [...] playing soccer.	They will be playing soccer.	[Auxiliary Verb] used with a present participle to form continuous tenses	estar
+2C	be	I didn't eat breakfast. Now I [...] very hungry.	I didn't eat breakfast. Now I am very hungry.	[Verb] used to describe a state of being, age, or physical feeling	ser/estar (o "tener" para edad y sensaciones físicas como hambre/sed)
+2D	be able to	After some practice, she [...] swim across the lake.	After some practice, she was able to swim across the lake.	[Modal Phrase] having the power, skill, or means to do something	ser capaz de / poder
+2E	be going to	I [...] study for the exam tonight.	I am going to study for the exam tonight.	[Modal/Future Pattern] used to express future plans or intentions	ir a (planes o intenciones futuros)
+2F	be supposed to	You [...] be here at 8 AM, but you are late.	You are supposed to be here at 8 AM, but you are late.	[Modal Phrase] expected or required to do something according to a rule or plan	se supone que / deber (obligación)
+2G	be into	I love music. I [...] jazz these days.	I love music. I am into jazz these days.	[Idiom] to be very interested in or enjoy something a lot	gustar mucho / estar metido en
+3A	and	I bought apples [...] oranges.	I bought apples and oranges.	[Conjunction] in addition to	y
+4A	of	Paris is the capital [...] France.	Paris is the capital of France.	[Preposition] belonging to or possession	de (posesión o pertenencia)
+4B	of	This table is made [...] wood.	This table is made of wood.	[Preposition] origin or composition	de (origen o material)
+4C	of	Could you bring me a cup [...] water?	Could you bring me a cup of water?	[Preposition] expressing container, measure, or contents	de (medida o contenido)
+4D	because of	The flight was delayed because [...] the heavy rain.	The flight was delayed because of the heavy rain.	[Preposition Phrase] as a result of something	debido a / a causa de
+4E	kind of	The movie was good, but it was [...] long.	The movie was good, but it was kind of long.	[Adverb] slightly, moderately, or to some degree (informal)	un poco / algo / medio
+5A	a	I have [...] cat.	I have a cat.	[Indefinite Article] one non-specific item	un / una
+6A	in	My keys are [...] the box.	My keys are in the box.	[Preposition] location inside	en (dentro de)
+6B	in	My birthday is [...] December.	My birthday is in December.	[Preposition] time period	en (período de tiempo)
+6C	in	Oh no, I am [...] trouble.	Oh no, I am in trouble.	[Preposition] state or condition	en (estado o condición)
+6D	in order to	She woke up early [...] arrive at school on time.	She woke up early in order to arrive at school on time.	[Preposition Phrase] with the purpose or intention of doing something	para / con el fin de
+6E	in fact	I like her. [...], she is my best friend.	I like her. In fact, she is my best friend.	[Idiom] used to add emphasis or a surprising fact	de hecho / en realidad
+7A	to	I want to go [...] the park.	I want to go to the park.	[Preposition] direction or destination	a / hacia (dirección)
+7B	to	I need [...] sleep.	I need to sleep.	[Particle] infinitive marker	a / para (marcador de infinitivo)
+8A	have	I [...] two brothers and a sister.	I have two brothers and a sister.	[Verb] to possess, own, or hold	tener
+8B	have	I [...] eaten pizza.	I have eaten pizza.	[Auxiliary Verb] perfect tense indicator	haber (verbo auxiliar)
+8C	have to	Your room is dirty. You [...] clean it right now.	Your room is dirty. You have to clean it right now.	[Modal Verb] necessity or obligation	tener que (obligación)
+8D	have	I wake up early and usually [...] breakfast at 8 AM.	I wake up early and usually have breakfast at 8 AM.	[Verb] consuming food or drink	desayunar / almorzar / cenar
+8E	have a good time	We went to the beach and [...] last weekend.	We went to the beach and had a good time last weekend.	[Idiom] to enjoy oneself or have fun	pasarla bien / divertirse
+8F	have a look	Please [...] at my report and tell me your opinion.	Please have a look at my report and tell me your opinion.	[Idiom] to look at something quickly in order to evaluate it	echar un vistazo / mirar
+9A	it	I cannot find [...].	I cannot find it.	[Pronoun] inanimate object or animal	lo / la / ello
+9B	it	[...] is very cold today.	It is very cold today.	[Pronoun] dummy subject for weather or time	pronombre impersonal (sin traducción directa)
+10A	I	[...] live in a city.	I live in a city.	[Pronoun] first person singular subject	yo
+11A	that	Look at [...] bird.	Look at that bird.	[Demonstrative Pronoun] referring to a specific distant thing	ese / esa / aquel / aquella
+11B	that	The car [...] I bought is red.	The car that I bought is red.	[Conjunction] relative clause linker	que (pronombre relativo)
+11C	that	He was so tired [...] he slept.	He was so tired that he slept.	[Conjunction] expressing cause or result	que (conjunción de resultado)
+11D	that	I know [...] you are right.	I know that you are right.	[Conjunction] introducing a statement or fact	que (conjunción subordinante)
+11E	that's why	The weather was terrible. [...] we stayed home all day.	The weather was terrible. That's why we stayed home all day.	[Idiom] for that specific reason or cause	por eso / es por eso que
+12A	for	I bought this gift [...] you.	I bought this gift for you.	[Preposition] intended recipient or purpose	para (destinatario)
+12B	for	I lived there [...] five years.	I lived there for five years.	[Preposition] duration of time	durante / por (duración)
+12C	for free	The local library is giving away these old books [...].	The local library is giving away these old books for free.	[Idiom] without having to pay any money	gratis / gratuitamente
+12E	for sure	I don't know if he will come, but I will be there [...].	I don't know if he will come, but I will be there for sure.	[Idiom] definitely, certainly, or without any doubt	seguro / sin duda
+13A	you	Are [...] happy?	Are you happy?	[Pronoun] second person subject or object	tú / usted / ustedes / te
+14A	he	[...] is my friend.	He is my friend.	[Pronoun] third person male subject	él
+15A	with	I went [...] my dog.	I went with my dog.	[Preposition] accompaniment or alongside	con (acompañamiento)
+15B	with	I cut the apple [...] a knife.	I cut the apple with a knife.	[Preposition] using a tool or instrument	con (medio o herramienta)
+15C	along with	She packed her laptop [...] some notebooks for the class.	She packed her laptop along with some notebooks for the class.	[Preposition Phrase] in addition to or together with someone or something	junto con / además de
+16A	on	The book is [...] the table.	The book is on the table.	[Preposition] resting upon a surface	sobre / encima de
+16B	on	I do not work [...] Sundays.	I do not work on Sundays.	[Preposition] indicating days or dates	el / los (referido a días de la semana)
+16C	on	It is very dark. Please turn [...] the light.	It is very dark. Please turn on the light.	[Adverb/Particle] causing an electronic device to operate	encendido / activar
+16D	on purpose	I am sorry, I did not break your favorite cup [...].	I am sorry, I did not break your favorite cup on purpose.	[Idiom] intentionally or with a specific plan; not by accident	a propósito / queriendo
+16E	on the other hand	The laptop is cheap. [...], the battery life is very short.	The laptop is cheap. On the other hand, the battery life is very short.	[Idiom] used to introduce a contrasting point of view	por otro lado / por otra parte
+17A	do	The teacher gave us an assignment. I usually [...] my homework at night.	The teacher gave us an assignment. I usually do my homework at night.	[Verb] perform an action, activity, or job	hacer (una tarea o actividad)
+17B	do	[...] you like soccer?	Do you like soccer?	[Auxiliary Verb] forming questions or negations	auxiliar de pregunta / negación (sin traducción directa)
+17C	do	I really [...] want to go!	I really do want to go!	[Auxiliary Verb] emphasis	sí (auxiliar de énfasis)
+17D	do one's best	The test is very hard, but just [...]!	The test is very hard, but just do your best!	[Collocation] to try as hard as possible to achieve something	hacer el mayor esfuerzo / dar lo mejor
+17E	do a favor	I always try to [...] for my friends when they need help.	I always try to do a favor for my friends when they need help.	[Collocation] to do something helpful for someone	hacer un favor
+17F	do the dishes	I always [...] after we eat dinner.	I always do the dishes after we eat dinner.	[Collocation] to wash the plates, cups, and cutlery used during a meal	lavar los platos
+17G	do a good job	You worked very hard. You really [...] on this project.	You worked very hard. You really did a good job on this project.	[Collocation] to perform a task well or satisfactorily	hacer un buen trabajo
+18A	say	I didn't hear her, so what did she [...]?	I didn't hear her, so what did she say?	[Verb] speak words or express verbally	decir
+19A	this	[...] is my song.	This is my song.	[Demonstrative Pronoun] referring to a specific close thing	este / esta / esto
+20A	they	[...] are at work.	They are at work.	[Pronoun] third person plural subject	ellos / ellas
+21A	at	I am waiting [...] the bus stop.	I am waiting at the bus stop.	[Preposition] specific physical location	en (lugar específico)
+21B	at	The class starts [...] 8 AM.	The class starts at 8 AM.	[Preposition] specific point in time	a las (punto en el tiempo)
+21C	at least	It will take [...] two hours to finish this work.	It will take at least two hours to finish this work.	[Idiom] not less than or at the minimum	al menos / por lo menos
+21D	at once	When the alarm rang, everyone left the building [...].	When the alarm rang, everyone left the building at once.	[Idiom] immediately, instantly, or without any delay	de inmediato / al instante
+21E	at all	The soup is not delicious [...].	The soup is not delicious at all.	[Idiom] in any way; to any degree (used in negative contexts)	para nada / en absoluto
+21F	at last	We waited for hours. The train arrived [...].	We waited for hours. The train arrived at last.	[Idiom] after a long period of waiting; finally	por fin / al fin
+22A	but	I am small [...] strong.	I am small but strong.	[Conjunction] introducing a contrast or exception	pero
+23A	we	[...] are going home.	We are going home.	[Pronoun] first person plural subject	nosotros / nosotras
+24A	his	John lost [...] keys.	John lost his keys.	[Possessive Adjective] belonging to a male	su / sus (de él)
+24B	his	This pen is [...].	This pen is his.	[Pronoun] masculine possessive standalone	suyo / suya / suyos / suyas (de él)
+25A	from	I am [...] Mexico.	I am from Mexico.	[Preposition] indicating point of origin	de / desde (origen)
+25B	from	The store is open [...] Monday to Friday.	The store is open from Monday to Friday.	[Preposition] indicating the starting point of a range or limit	de (rango o límite)
+25C	from time to time	I do not eat fast food often, but I enjoy a burger [...].	I do not eat fast food often, but I enjoy a burger from time to time.	[Idiom] occasionally or sometimes, but not regularly	de vez en cuando
+26A	not	I am [...] tired.	I am not tired.	[Adverb] indicating negation or refusal	no
+27A	by	The picture was drawn [...] my son.	The picture was drawn by my son.	[Preposition] identifying the agent performing an action	por (agente de pasiva)
+27B	by	I go to school [...] bus.	I go to school by bus.	[Preposition] method or means of doing something	en / por medio de (transporte)
+27C	by	I need the money [...] tomorrow.	I need the money by tomorrow.	[Preposition] deadline or not later than	para (antes de un límite de tiempo)
+27D	by	I learned to play all [...] myself.	I learned to play all by myself.	[Preposition] used with a reflexive pronoun to show that someone does something alone	por (en solitario / sin ayuda)
+27E	by the way	[...], what is your name?	By the way, what is your name?	[Idiom] used to introduce a new topic in conversation	por cierto / a propósito
+27F	by chance	I ran into my old teacher yesterday completely [...].	I ran into my old teacher yesterday completely by chance.	[Idiom] without planning; accidentally or by luck	por casualidad / sin querer
+27G	by mistake	I took your umbrella [...] since they look exactly the same.	I took your umbrella by mistake since they look exactly the same.	[Idiom] accidentally or because of an error; not on purpose	por error / sin querer
+27H	by far	This is [...] the best movie of the year.	This is by far the best movie of the year.	[Idiom] by a very large amount or degree	por mucho / de lejos
+27I	by heart	I learned the vocabulary [...].	I learned the vocabulary by heart.	[Idiom] from memory; without looking	de memoria
+28A	she	[...] is reading.	She is reading.	[Pronoun] third person female subject	ella
+29A	or	Do you prefer tea [...] coffee?	Do you prefer tea or coffee?	[Conjunction] linking alternatives or choices	o
+29B	or so	The meeting lasted an hour [...].	The meeting lasted an hour or so.	[Idiom] approximately or roughly around a certain amount	más o menos / aproximadamente
+30A	as	He works [...] a teacher.	He works as a teacher.	[Preposition] in the role or capacity of	como (en el rol de)
+30B	as	My house is [...] big as yours.	My house is as big as yours.	[Conjunction] used in comparisons	tan (en comparaciones)
+30C	as	I saw a dog [...] I was walking.	I saw a dog as I was walking.	[Conjunction] simultaneous time or while	mientras / a medida que
+30D	as	We stayed home [...] it was raining.	We stayed home as it was raining.	[Conjunction] because or since	ya que / dado que
+30E	as well	I like tea [...].	I like tea as well.	[Adverb Phrase] in addition or also	también
+30F	as soon as	Call me [...] you arrive.	Call me as soon as you arrive.	[Conjunction] immediately after something happens	tan pronto como
+30G	as long as	You can borrow my car [...] you drive carefully.	You can borrow my car as long as you drive carefully.	[Conjunction] on the condition that; provided that	siempre y cuando / con tal de que
+30H	as if	He ran very fast [...] he were in a huge hurry.	He ran very fast as if he were in a huge hurry.	[Conjunction] in a way that suggests something is true or is happening	como si
+31A	what	[...] is your name?	What is your name?	[Interrogative Pronoun] asking for specific information	qué / cuál
+31B	what	[...] a fast car!	What a fast car!	[Determiner] expressing strong emotion	qué (exclamativo)
+31C	what about	[...] going to the cinema?	What about going to the cinema?	[Preposition Phrase] asking for an opinion or making a suggestion	qué tal si / qué te parece
+31D	what's more	The house is cheap, and [...], it is near the subway.	The house is cheap, and what's more, it is near the subway.	[Idiom] in addition; moreover	además / lo que es más
+31E	what for	I bought a hammer. —[...]? —To fix the door.	I bought a hammer. —What for? —To fix the door.	[Idiom] asking for the purpose, reason, or explanation of something	para qué / por qué
+32A	go	We have no food at home. I need to [...] to the store.	We have no food at home. I need to go to the store.	[Verb] move or travel to a place	ir
+32B	go on	You stopped talking, but please [...].	You stopped talking, but please go on.	[Phrasal Verb] to continue doing something without stopping	continuar / seguir
+32C	go out	Today is Friday. I will [...] with my friends tonight.	Today is Friday. I will go out with my friends tonight.	[Phrasal Verb] to leave one's home to socialize or have fun	salir (socializar)
+32D	go ahead	I am not ready yet. Please [...] without me.	I am not ready yet. Please go ahead without me.	[Phrasal Verb] to begin to do something or proceed	proceder / seguir adelante / adelante
+32E	go back	I forgot my wallet at home, so I must [...].	I forgot my wallet at home, so I must go back.	[Phrasal Verb] to return to a place	regresar / volver
+32F	go off	My alarm [...] at 5 AM and woke me up.	My alarm went off at 5 AM and woke me up.	[Phrasal Verb] to make a sudden loud noise, such as an alarm or bomb	sonar (alarma / timbre)
+32G	go wrong	We had a perfect plan, but everything [...].	We had a perfect plan, but everything went wrong.	[Idiom] to develop problems or fail; not happen as expected	salir mal / fallar
+32H	go through	She had to [...] a very difficult time after losing her job.	She had to go through a very difficult time after losing her job.	[Phrasal Verb] to experience a difficult, painful, or unpleasant situation	pasar por / atravesar (una situación)
+32I	go over	Let's [...] the main points of the contract one more time.	Let's go over the main points of the contract one more time.	[Phrasal Verb] to examine, study, or review something carefully	revisar / repasar
+32J	go down	The temperature is [...] now.	The temperature is going down now.	[Phrasal Verb] to become lower in price, temperature, or value	bajar / disminuir
+32K	go up	The price of bread is [...] again.	The price of bread is going up again.	[Phrasal Verb] to become higher in price, temperature, or value	subir / aumentar
+32L	go shopping	We have no food, so we need to [...] today.	We have no food, so we need to go shopping today.	[Pattern] 'go + -ing' to describe participating in a recreational or routine activity	ir a comprar / ir de compras
+32M	go for	If you want that job, just [...] it!	If you want that job, just go for it!	[Phrasal Verb / Idiom] to try to achieve or get something; to choose	ir a por ello / intentar / elegir
+33A	their	The children play with [...] toys.	The children play with their toys.	[Possessive Adjective] belonging to them	su / sus (de ellos/ellas)
+34A	can	I [...] swim well.	I can swim well.	[Modal Verb] expressing ability or capability	poder (capacidad)
+34B	can	I was very thirsty and drank a cold [...] of cola.	I was very thirsty and drank a cold can of cola.	[Noun] a metal container for food or drink	lata
+34C	can	[...] you help me?	Can you help me?	[Modal Verb] polite request or permission	poder (petición o permiso)
+34D	can't stand	I [...] the sound of loud traffic when I am sleeping.	I can't stand the sound of loud traffic when I am sleeping.	[Verb Phrase] to strongly dislike or be unable to tolerate something	no soportar / no aguantar
+34E	can't help	The joke was so funny that I [...] laughing.	The joke was so funny that I couldn't help laughing.	[Idiom] to be unable to prevent or stop oneself from doing something	no poder evitar
+35A	who	The boy [...] is running is my son.	The boy who is running is my son.	[Pronoun] referring to a person in questions or clauses	quien / que (referido a personas)
+36A	get	It was my birthday yesterday. I [...] a nice gift.	It was my birthday yesterday. I got a nice gift.	[Verb] receive or obtain	recibir / obtener
+36B	get	It is very cold. Wear a jacket or you will [...] sick.	It is very cold. Wear a jacket or you will get sick.	[Verb] become or transition state	ponerse / enfermarse
+36C	get	I finish work late. I usually [...] home around 9 PM.	I finish work late. I usually get home around 9 PM.	[Verb] arrive or reach destination	llegar
+36D	get	The math problem is hard. I don't [...] it.	The math problem is hard. I don't get it.	[Verb] to understand or comprehend something (informal)	entender / pillar
+36E	get used to	The weather is always cold, but I can't [...] it.	The weather is always cold, but I can't get used to it.	[Verb Phrase] to become accustomed to a new situation or environment	acostumbrarse a
+36F	get up	I start work early. I must [...] at 6 AM.	I start work early. I must get up at 6 AM.	[Phrasal Verb] to rise from bed after sleeping	levantarse
+36G	get along with	My sister is very nice. I [...] her very well.	My sister is very nice. I get along with her very well.	[Phrasal Verb] to have a friendly relationship with someone	llevarse bien con
+36H	get over	It took him a long time to [...] the flu.	It took him a long time to get over the flu.	[Phrasal Verb] to recover from an illness, shock, or bad experience	recuperarse de / superar
+36I	get off	Please [...] the bus at the next stop.	Please get off the bus at the next stop.	[Phrasal Verb] to leave a bus, train, plane, or bicycle	bajar de / bajarse de
+36J	get on	We need to [...] the train before it leaves.	We need to get on the train before it leaves.	[Phrasal Verb] to enter a bus, train, plane, or bicycle	subir a / subirse a
+36K	get lost	We didn't have a map and [...] in the city.	We didn't have a map and got lost in the city.	[Idiom] to lose one's way or direction	perderse / perder el rumbo
+36L	get in	Please [...] the car quickly so we can leave the area.	Please get in the car quickly so we can leave the area.	[Phrasal Verb] to enter a car, taxi, or small vehicle	subirse a / entrar a (un auto)
+36M	get rid of	I want to [...] these old papers to clear my desk.	I want to get rid of these old papers to clear my desk.	[Phrasal Verb] to throw away, remove, or destroy something unwanted	deshacerse de / tirar
+36N	get in touch	We should [...] next week to talk about the project.	We should get in touch next week to talk about the project.	[Idiom] to establish communication or make contact with someone	ponerse en contacto / comunicarse
+36O	get ready	Please [...] quickly; the taxi is already outside.	Please get ready quickly; the taxi is already outside.	[Phrasal Verb] to prepare yourself for something that is about to happen	prepararse / alistarse
+36P	get dressed	I need to [...] before we go to the restaurant.	I need to get dressed before we go to the restaurant.	[Phrasal Verb] to put on clothes	vestirse
+36Q	get to	I [...] travel to Japan next year.	I get to travel to Japan next year.	[Verb Phrase] to have the opportunity or privilege to do something	tener la oportunidad / el privilegio de
+36R	get away with	He stole a cookie, but he [...] it because nobody saw him.	He stole a cookie, but he got away with it because nobody saw him.	[Phrasal Verb] to escape punishment or negative consequences for a wrong action	salirse con la suya / irse de rositas
+36S	get by	It's hard to [...] on such a low salary.	It's hard to get by on such a low salary.	[Phrasal Verb] to manage to survive or live with few resources	apañárselas / sobrevivir (económicamente)
+36T	get across	The teacher used simple examples to [...] her message.	The teacher used simple examples to get across her message.	[Phrasal Verb] to successfully communicate an idea or make it understood	hacerse entender / transmitir (una idea)
+37A	if	We will stay home [...] it rains.	We will stay home if it rains.	[Conjunction] introducing a conditional clause	si (condicional)
+37B	what if	[...] we miss the last train tonight?	What if we miss the last train tonight?	[Idiom] used to ask about the consequences of a hypothetical situation	¿y si...? / qué pasa si
+38A	would	I [...] buy a car.	I would buy a car.	[Modal Verb] expressing conditional or hypothetical situations	terminación -ría (condicional)
+38B	would	When I was a kid, I [...] play outside.	When I was a kid, I would play outside.	[Modal Verb] expressing a past habit	solía (hábito en el pasado)
+38C	would rather	I [...] stay home tonight than go to the party.	I would rather stay home tonight than go to the party.	[Modal Phrase] expressing a preference for one thing over another	preferir / preferiría
+39A	her	I call [...] every day.	I call her every day.	[Pronoun] female object of a verb or preposition	la / a ella (objeto)
+39B	her	She put on [...] coat.	She put on her coat.	[Possessive Adjective] belonging to a female	su / sus (de ella)
+40A	all	[...] the kids are playing.	All the kids are playing.	[Determiner] the whole quantity or extent	todos / todas / todo
+40B	all of a sudden	We were walking when, [...], a black cat jumped out.	We were walking when, all of a sudden, a black cat jumped out.	[Idiom] quickly, unexpectedly, and without any warning	de repente / de un momento a otro
+40C	after all	You should help him. [...], he is your brother.	You should help him. After all, he is your brother.	[Idiom] despite what was said or expected; used to introduce a significant fact	después de todo / al fin y al cabo
+40D	all right	Are you [...] after that bad fall?	Are you all right after that bad fall?	[Adj/Adv] safe, well, or in a satisfactory condition; okay	bien / de acuerdo / vale
+41A	my	[...] favorite color is blue.	My favorite color is blue.	[Possessive Adjective] belonging to the speaker	mi / mis
+42A	make	Tomorrow is her birthday. I will [...] a cake for her.	Tomorrow is her birthday. I will make a cake for her.	[Verb] to create, produce, or build something	hacer / crear
+42B	make	The movie is very sad. It always [...] me cry.	The movie is very sad. It always makes me cry.	[Verb] to cause someone or something to do an action	hacer / obligar
+42C	make up	He didn't read the book. He just [...] the story.	He didn't read the book. He just made up the story.	[Phrasal Verb] to invent a story, lie, or explanation	inventar
+42D	make it	I have too much work. I can't [...] to the party.	I have too much work. I can't make it to the party.	[Idiom] to succeed in attending an event or arriving on time	lograr llegar / asistir
+42E	make sense	The teacher speaks too fast. The lesson doesn't [...].	The teacher speaks too fast. The lesson doesn't make sense.	[Idiom] to be logical, clear, or easy to understand	tener sentido
+42F	make sure	The neighborhood is dangerous. Please [...] the door is locked.	The neighborhood is dangerous. Please make sure the door is locked.	[Collocation] to establish or confirm that something is true or done	asegurarse
+42G	make up one's mind	Both shirts are nice. I can't [...] yet.	Both shirts are nice. I can't make up my mind yet.	[Idiom] to make a final decision about something	decidirse
+42K	make a difference	Even a small donation can [...] to a poor family.	Even a small donation can make a difference to a poor family.	[Idiom] to have a significant, positive effect on a situation	marcar una diferencia / hacer la diferencia
+42L	make progress	She practices every day. That's why she is [...] with her English.	She practices every day. That's why she is making progress with her English.	[Collocation] to develop, improve, or move closer to a goal	progresar / hacer progresos
+42N	make a living	He works two different jobs just to [...] in this expensive city.	He works two different jobs just to make a living in this expensive city.	[Idiom] to earn enough money to buy the things you need to live	ganarse la vida
+42O	make up for	I bought her flowers to [...] being late.	I bought her flowers to make up for being late.	[Phrasal Verb] to compensate for something bad or a mistake	compensar / reparar
+42P	make out	The writing is very messy. I cannot [...] his signature.	The writing is very messy. I cannot make out his signature.	[Phrasal Verb] to see, hear, or understand something with difficulty	distinguir / descifrar / entender
+42Q	make do	We don't have a kitchen, so we have to [...] with a microwave.	We don't have a kitchen, so we have to make do with a microwave.	[Idiom] to manage or get by with what is available, even if it's not ideal	apañarse / conformarse con lo que hay
+43A	about	We talked [...] movies.	We talked about movies.	[Preposition] concerning or regarding a subject	sobre / acerca de
+43B	about	He is [...] ten years old.	He is about ten years old.	[Adverb] approximately or roughly	aproximadamente / unos
+43C	about to	The movie is [...] start.	The movie is about to start.	[Preposition Phrase] on the point of doing something	a punto de
+43D	how about	[...] we order some pizza for dinner tonight?	How about we order some pizza for dinner tonight?	[Idiom] used to make a suggestion or offer a possibility	qué tal si / qué te parece
+44A	know	I am a tourist here, so I don't [...] where the station is.	I am a tourist here, so I don't know where the station is.	[Verb] have information or be aware of	saber
+44B	know	We are going to the pool, but do you [...] how to swim?	We are going to the pool, but do you know how to swim?	[Verb] have information or be aware of	saber / conocer (una habilidad)
+44C	know	I [...] him from school, but we are not close friends.	I know him from school, but we are not close friends.	[Verb] to be familiar or acquainted with a person	conocer (a alguien)
+44D	let [someone] know	Please [...] if you are coming to my party tomorrow.	Please let me know if you are coming to my party tomorrow.	[Idiom] to inform or notify someone about some information	avisar / hacer saber
+44E	as far as I know	[...], the office is closed on weekends.	As far as I know, the office is closed on weekends.	[Idiom] used to say that you think something is true but cannot be certain	que yo sepa / por lo que sé
+44F	get to know	We spent the whole afternoon talking to [...] each other better.	We spent the whole afternoon talking to get to know each other better.	[Phrasal Verb] to spend time with someone so you can learn more about them	conocer a fondo / llegar a conocer
+45A	will	I [...] call you tomorrow.	I will call you tomorrow.	[Modal Verb] expressing future intention or certainty	terminación -ré, -rá (futuro)
+45B	will	My grandpa died last week. He left a house in his [...].	My grandpa died last week. He left a house in his will.	[Noun] legal document declaring desires after death	testamento
+46A	up	Look [...] at the stars.	Look up at the stars.	[Adverb] towards a higher position	hacia arriba
+46B	up	You are sleeping late, so please wake [...]!	You are sleeping late, so please wake up!	[Particle] completion of an action or upward movement	arriba (partícula de despertar)
+46C	up to	The choice is [...] you.	The choice is up to you.	[Preposition Phrase] dependent on someone's choice or decision	depender de
+46D	up to date	We must keep our business systems [...] with the latest software.	We must keep our business systems up to date with the latest software.	[Preposition Phrase] incorporating the most recent facts, ideas, or technology	al día / actualizado
+46E	be up to	What are you [...] this weekend?	What are you up to this weekend?	[Idiom - Informal] to be doing or planning something	estar tramando / andar haciendo
+47A	one	I have [...] apple.	I have one apple.	[Number] a single unit or thing	uno / una
+47B	one	I prefer the blue [...].	I prefer the blue one.	[Pronoun] noun replacement	pronombre de reemplazo (sin traducción directa)
+47C	one another	The students always help [...] when they do their homework.	The students always help one another when they do their homework.	[Pronoun] used to show reciprocal action among a group of people	unos a otros / mutuamente
+48A	time	I don't have a watch. What [...] is it?	I don't have a watch. What time is it?	[Noun] duration or continuous progress of existence	hora / tiempo
+48B	on time	The train leaves in five minutes. We must arrive [...].	The train leaves in five minutes. We must arrive on time.	[Noun Phrase] punctual, not late	a tiempo
+48C	times	I have visited London three [...] this year.	I have visited London three times this year.	[Noun - Plural] occasions or instances of an event	veces
+48D	have a hard time	I always [...] understanding his thick accent.	I always have a hard time understanding his thick accent.	[Idiom] to experience difficulty, trouble, or struggle doing something	pasarla mal / tener dificultades
+48E	in time	We ran very fast and arrived just [...] to catch the bus.	We ran very fast and arrived just in time to catch the bus.	[Noun Phrase] early enough; with some time to spare	a tiempo (con margen)
+48F	take one's time	There is no rush, so you can [...] to finish eating.	There is no rush, so you can take your time to finish eating.	[Idiom] to do something slowly or carefully, without any hurry	tomarse su tiempo
+48G	for the time being	We are staying at a hotel [...] while we search for an apartment.	We are staying at a hotel for the time being while we search for an apartment.	[Idiom] for the present moment; temporarily	por el momento / por ahora
+48H	in no time	Do not worry about the mess; we can clean this room [...].	Do not worry about the mess; we can clean this room in no time.	[Idiom] very quickly or almost immediately	en un santiamén / de inmediato
+49A	there	Look at the tree over [...].	Look at the tree over there.	[Adverb] in, at, or to that specific place	allá / allí
+49B	there	[...] is a dog here.	There is a dog here.	[Pronoun] existential use indicating presence or existence	haber (impersonal, ej. "hay")
+50A	year	I celebrate my birthday once every [...].	I celebrate my birthday once every year.	[Noun] period of 365 days	año
+51A	so	I am [...] happy!	I am so happy!	[Adverb] to such a great extent or degree	tan
+51B	so	I was sick [...] i stayed home.	I was sick so I stayed home.	[Conjunction] therefore or for that reason	así que
+51C	so	I love pizza and [...] does he.	I love pizza and so does he.	[Adverb] in the same way or agreement	también
+51D	so far	I have read fifty pages of this book [...] and love it.	I have read fifty pages of this book so far and love it.	[Idiom] up to the present time or point in a process	hasta ahora / de momento
+51E	so that	He saved money [...] he could buy a new laptop.	He saved money so that he could buy a new laptop.	[Conjunction] in order that; with the purpose that	para que / de manera que
+51F	so	"Will it rain tomorrow?" "I think [...]"	"Will it rain tomorrow?" "I think so"	[Pronoun] used to agree with a previous statement or express belief	creer que sí / pensar que sí
+52A	think	The sky is very dark. I [...] it will rain soon.	The sky is very dark. I think it will rain soon.	[Verb] have a particular belief or opinion	pensar / creer
+52B	think about	I need to [...] your offer before I make a decision.	I need to think about your offer before I make a decision.	[Phrasal Verb] to consider or ponder something carefully	pensar en / reflexionar sobre
+52C	think of	What do you [...] my new haircut?	What do you think of my new haircut?	[Phrasal Verb] to have a particular opinion or image of someone or something	opinar de / parecer (opinión)
+52D	think twice	You should [...] before buying that expensive car.	You should think twice before buying that expensive car.	[Idiom] to consider a decision very carefully before acting	pensarlo dos veces
+53A	when	I will text you [...] I arrive.	I will text you when I arrive.	[Conjunction] at or during the time that	cuando
+54A	which	[...] color do you prefer?	Which color do you prefer?	[Pronoun] asking or identifying a specific choice	cuál / cuáles
+55A	them	I wear [...] every day.	I wear them every day.	[Pronoun] third person plural object	los / las / a ellos / a ellas
+56A	some	I need to buy [...] water.	I need to buy some water.	[Determiner] an unspecified amount or quantity	un poco de / algo de
+56B	some	[...] of the boys are tall.	Some of the boys are tall.	[Pronoun] unspecified portion of a group	algunos / algunas
+57A	me	Please give [...] the water.	Please give me the water.	[Pronoun] first person singular object	me / a mí
+58A	people	The concert is very famous. There are a lot of [...] here.	The concert is very famous. There are a lot of people here.	[Noun] human beings in general or plural of person	personas / gente
+59A	take	It is raining outside. Don't forget to [...] your umbrella.	It is raining outside. Don't forget to take your umbrella.	[Verb] carry or bring with oneself	llevar / tomar
+59B	take	The city is very far. It [...] three hours to drive there.	The city is very far. It takes three hours to drive there.	[Verb] to require or need a specific amount of time	tomar / tardar (tiempo)
+59C	take off	We are sitting in the plane. We will [...] soon.	We are sitting in the plane. We will take off soon.	[Phrasal Verb] to leave the ground and begin to fly	despegar
+59D	take care of	I am going on vacation. My mother will [...] my dog.	I am going on vacation. My mother will take care of my dog.	[Phrasal Verb] to look after and protect someone or something	cuidar de
+59E	take place	We need to discuss the project. The meeting will [...] tomorrow.	We need to discuss the project. The meeting will take place tomorrow.	[Idiom] to happen or occur in a specific place	llevarse a cabo / tener lugar
+59F	take advantage of	The shoes are very cheap today. You should [...] this sale.	The shoes are very cheap today. You should take advantage of this sale.	[Collocation] to make good use of an opportunity or situation	aprovechar
+59G	take	I usually [...] the bus to work because it is cheaper than driving.	I usually take the bus to work because it is cheaper than driving.	[Verb] to use a form of transport to travel	tomar / agarrar (transporte)
+59H	take off	Please [...] your shoes before entering the house.	Please take off your shoes before entering the house.	[Phrasal Verb] to remove a piece of clothing or footwear	quitarse (ropa o calzado)
+59I	take a photo	We had a great view, so we decided to [...].	We had a great view, so we decided to take a photo.	[Collocation] to capture an image using a camera	sacar una foto / tomar una foto
+59J	take a break	We have been studying for hours. Let's [...].	We have been studying for hours. Let's take a break.	[Collocation] to stop working or resting for a short period of time	tomarse un descanso
+59K	take part in	Many young students wanted to [...] the school soccer match.	Many young students wanted to take part in the school soccer match.	[Phrasal Verb] to participate or be actively involved in an activity	participar en / formar parte de
+59L	take for granted	It is easy to [...] your health until you get sick.	It is easy to take for granted your health until you get sick.	[Idiom] to fail to appreciate someone or something because of familiarity	dar por sentado / dar por hecho
+59M	take a look	Could you please [...] at this document?	Could you please take a look at this document?	[Idiom] to examine or look at something quickly	echar un vistazo / mirar
+59N	take a shower	I always [...] in the morning to wake up.	I always take a shower in the morning to wake up.	[Collocation] to wash oneself in a shower	ducharse / bañarse
+59O	take after	He is very creative; he [...] his father.	He is very creative; he takes after his father.	[Phrasal Verb] to resemble a parent or relative in appearance or character	parecerse a (un familiar)
+59P	take over	The assistant will [...] the meeting while the manager is away.	The assistant will take over the meeting while the manager is away.	[Phrasal Verb] to take control of something or assume responsibility	asumir el control / encargarse de
+59Q	take it easy	You look stressed. You should just [...] this weekend.	You look stressed. You should just take it easy this weekend.	[Idiom] to relax and not work too hard	tomárselo con calma / relajarse
+60A	out	I looked [...] the window.	I looked out the window.	[Adverb] moving away from the inside	hacia afuera / fuera
+60B	out	I thought the movie was good, but it turned [...] to be boring.	I thought the movie was good, but it turned out to be boring.	[Particle] result or end up	resultar (partícula)
+60C	out of	I cannot make coffee because we are [...] milk.	I cannot make coffee because we are out of milk.	[Preposition Phrase] having no more of something left	sin / quedarse sin
+60D	out of order	The old elevator is [...] so we must use the stairs.	The old elevator is out of order so we must use the stairs.	[Preposition Phrase] not working or not functioning correctly	fuera de servicio / averiado
+60E	out of work	He has been [...] for six months now.	He has been out of work for six months now.	[Preposition Phrase] unemployed; without a job	sin trabajo / desempleado
+60F	out of date	These statistics are [...] and we cannot use them.	These statistics are out of date and we cannot use them.	[Preposition Phrase] old, obsolete, or no longer useful	anticuado / desactualizado
+60G	out of the blue	I had not heard from him in years when, [...], he called me.	I had not heard from him in years when, out of the blue, he called me.	[Idiom] completely unexpectedly or without warning	de la nada / de repente
+60H	out of the question	Traveling to Europe this year is completely [...] due to my budget.	Traveling to Europe this year is completely out of the question due to my budget.	[Preposition Phrase] impossible or not allowed; not to be considered	fuera de discusión / totalmente descartado
+61A	into	She put the water [...] the cup.	She put the water into the cup.	[Preposition] moving to the inside or interior of	en / dentro de
+62A	just	I [...] finished my lunch.	I just finished my lunch.	[Adverb] very recently or a moment ago	acabar de
+62B	just	I am [...] a student.	I am just a student.	[Adverb] merely, exactly or only	solo / solamente
+62C	just in case	The sky is dark. Take an umbrella [...] it rains.	The sky is dark. Take an umbrella just in case it rains.	[Idiom] as a precaution	por si acaso
+63A	see	I lost my glasses. I cannot [...] the board.	I lost my glasses. I cannot see the board.	[Verb] perceive with the eyes	ver
+63B	see	You explained it very well. Now I [...] what you mean.	You explained it very well. Now I see what you mean.	[Verb] understand or comprehend a concept	entender / ver
+63C	see	I have to go now, but I will [...] you later.	I have to go now, but I will see you later.	[Idiom] farewell phrase	ver (despedida)
+64A	him	I like [...].	I like him.	[Pronoun] third person male object	lo / a él
+65A	your	Is this [...] jacket?	Is this your jacket?	[Possessive Adjective] belonging to the person being spoken to	tu / tus / su / sus (de ustedes)
+66A	come	I am having a party. Please [...] to my house tonight.	I am having a party. Please come to my house tonight.	[Verb] move toward the speaker or a specified place	venir
+66B	come up with	The problem was very difficult, but he [...] a great solution.	The problem was very difficult, but he came up with a great solution.	[Phrasal Verb] to suggest or think of an idea, plan, or solution	ocurrirse
+66C	come on	The movie starts in five minutes. [...] or we will be late!	The movie starts in five minutes. Come on or we will be late!	[Phrasal Verb] used to tell someone to hurry or to encourage them	vamos / apúrate
+66D	come back	I miss you a lot. Please [...] soon.	I miss you a lot. Please come back soon.	[Phrasal Verb] to return to a place where you were before	regresar / volver
+66E	come across	I was cleaning my room and I [...] an old photo.	I was cleaning my room and I came across an old photo.	[Phrasal Verb] to find or meet someone or something by chance	toparse con
+66F	come in	It is cold outside. Please [...] and close the door.	It is cold outside. Please come in and close the door.	[Phrasal Verb] to enter a room, building, or space	entrar
+66G	come true	He worked hard for years, and his dream finally [...].	He worked hard for years, and his dream finally came true.	[Idiom] to become reality or actually happen	hacerse realidad
+66H	come out	The singer's new album will [...] next Friday.	The singer's new album will come out next Friday.	[Phrasal Verb] to be published, released, or made available to the public	publicarse / salir (a la venta)
+66I	come down with	I stayed in the rain and [...] a bad cold.	I stayed in the rain and came down with a bad cold.	[Phrasal Verb] to start to suffer from a minor illness	caer enfermo de / enfermarse de
+66J	come up	I am sorry, but something [...] so I cannot go tonight.	I am sorry, but something came up so I cannot go tonight.	[Phrasal Verb] to happen or arise unexpectedly, requiring attention	surgir / presentarse (un imprevisto)
+66K	come along	How is your science project [...]?	How is your science project coming along?	[Phrasal Verb] to make progress or develop	progresar / ir (un asunto)
+67A	could	I [...] swim when I was five.	I could swim when I was five.	[Modal Verb] expressing past ability or possibility	podía / podría
+67B	could	[...] you please pass the salt?	Could you please pass the salt?	[Modal Verb] used to make a polite request	podría / podrías
+68A	now	I am studying right [...].	I am studying right now.	[Adverb] at the present time or moment	now
+68B	by now	They left early. They should be there [...].	They left early. They should be there by now.	[Idiom] at or before the present time	a estas alturas / ya
+68C	now and then	I don't play soccer often, but I enjoy a match [...].	I don't play soccer often, but I enjoy a match now and then.	[Idiom] occasionally; from time to time	de vez en cuando / cada tanto
+69A	than	A car is faster [...] a bicycle.	A car is faster than a bicycle.	[Conjunction] used to introduce the second element in a comparison	que (en comparaciones)
+70A	like	Soccer is my favorite sport. I really [...] playing it.	Soccer is my favorite sport. I really like playing it.	[Verb] find pleasant or enjoy	gustar
+70B	like	He looks [...] his father.	He looks like his father.	[Preposition] having the same characteristics or similar to	como (similar a)
+70C	like	I eat fruit [...] apples.	I eat fruit like apples.	[Preposition] such as or for example	como (por ejemplo)
+70D	would like	I [...] a cup of coffee, please.	I would like a cup of coffee, please.	[Verb Phrase] used to express a polite desire or request	desearía / me gustaría
+70E	feel like	I do not [...] cooking tonight. Let's order food.	I do not feel like cooking tonight. Let's order food.	[Phrasal Verb] to have a desire or wish to do or have something	tener ganas de / apetecer
+70F	like	And then she was [...], "I don't believe you!"	And then she was like, "I don't believe you!"	[Filler] used in speech to report what someone said or felt (informal)	decir / estar en plan (coloquial)
+71A	other	I only have one shoe. Where is the [...] one?	I only have one shoe. Where is the other one?	[Adjective] different or additional	otro / otra
+71B	each other	They are best friends and talk to [...] every day.	They are best friends and talk to each other every day.	[Pronoun] used to show reciprocal action between two people	el uno al otro / mutuamente
+71C	other than	She has no hobbies [...] playing the piano.	She has no hobbies other than playing the piano.	[Preposition Phrase] except for; apart from	aparte de / a excepción de
+72A	how	[...] do you make this soup?	How do you make this soup?	[Adverb] in what way or manner	cómo
+72B	how old	[...] is your dog?	How old is your dog?	[Adverb] asking about extent or degree with adjectives	qué tan / cuánto
+72C	how much	[...] is this blue jacket?	How much is this blue jacket?	[Adverb Phrase] asking about price or uncountable quantity	cuánto cuesta / cuánto
+72D	how come	You look sad today. [...] you did not go to the party?	You look sad today. How come you did not go to the party?	[Idiom - Informal] used to ask why something happened or is true	cómo es que / por qué
+73A	then	We ate dinner and [...] we watched TV.	We ate dinner and then we watched TV.	[Adverb] at that time or next in a sequence	luego / entonces
+74A	its	The dog is playing with [...] toy.	The dog is playing with its toy.	[Possessive Adjective] belonging to an animal or inanimate thing	su / sus (de un animal o cosa)
+75A	our	This is [...] house.	This is our house.	[Possessive Adjective] belonging to us	nuestro / nuestra / nuestros / nuestras
+76A	two	I have [...] eyes.	I have two eyes.	[Number] the quantity of 2	dos
+77A	more	I am still hungry, so I want [...] food.	I am still hungry, so I want more food.	[Adjective] a greater or additional amount	más
+77B	more	This book is [...] interesting than the movie.	This book is more interesting than the movie.	[Adverb] used to form the comparative of many adjectives	más (adverbio comparativo)
+77C	more or less	The kitchen remodeling is [...] done.	The kitchen remodeling is more or less done.	[Idiom] approximately, almost, or to a certain extent	más o menos / aproximadamente
+78A	these	[...] shoes are small.	These shoes are small.	[Demonstrative Pronoun] referring to plural items close by	estos / estas
+79A	want	I am very hungry, so I [...] to eat a burger.	I am very hungry, so I want to eat a burger.	[Verb] have a desire or wish for something	querer
+80A	way	The math problem is hard. What is the best [...] to solve it?	The math problem is hard. What is the best way to solve it?	[Noun] method, style or manner of doing something	manera / forma
+80B	way	I am lost in the city. Can you show me the [...] to the hotel?	I am lost in the city. Can you show me the way to the hotel?	[Noun] route, direction or path	camino / ruta
+80C	way	That house is [...] too expensive.	That house is way too expensive.	[Adverb] emphasizing degree with 'too', much	mucho / de lejos
+80D	on my way	I am driving my car right now. I am already [...].	I am driving my car right now. I am already on my way.	[Idiom] traveling towards a place or destination	en camino
+80E	the other way around	I thought he was her brother, but it is [...].	I thought he was her brother, but it is the other way around.	[Idiom] the opposite of what has been stated or expected	al revés / al contrario
+80F	in a way	The story is very sad, but [...] it is also beautiful.	The story is very sad, but in a way it is also beautiful.	[Idiom] to some extent, in a certain respect, or partly	en cierto modo / de alguna manera
+81A	look	[...] at that bird!	Look at that bird!	[Verb] direct one's gaze toward someone or something	mirar
+81B	look	You are smiling a lot. You [...] very happy today.	You are smiling a lot. You look very happy today.	[Verb] have a specific appearance or seem	verse / parecer
+81C	look for	I lost my keys. I need to [...] them.	I lost my keys. I need to look for them.	[Phrasal Verb] to search or try to find someone or something	buscar
+81D	look forward to	I miss you a lot. I [...] seeing you.	I miss you a lot. I look forward to seeing you.	[Phrasal Verb] to feel excited and happy about something that is going to happen	esperar con ansias
+81E	look after	I am going on vacation. Can you [...] my dog?	I am going on vacation. Can you look after my dog?	[Phrasal Verb] to take care of and be responsible for someone or something	cuidar de
+81F	look up	If you do not know the word, please [...] in the dictionary.	If you do not know the word, please look it up in the dictionary.	[Phrasal Verb] to search for information in a book, computer, or list	buscar (información/palabras)
+81G	look out	[...]! There is a car coming toward you.	Look out! There is a car coming toward you.	[Phrasal Verb] used to warn someone to be careful or pay attention	tener cuidado / ojo
+81H	look into	The school principal promised to [...] the student's serious complaint.	The school principal promised to look into the student's serious complaint.	[Phrasal Verb] to investigate, examine, or find out facts about something	investigar / examinar
+81I	look down on	You should never [...] others just for being poor.	You should never look down on others just for being poor.	[Phrasal Verb] to think that you are better or more important than someone	menospreciar / mirar por encima del hombro
+81J	look up to	Young children often [...] their older brothers as role models.	Young children often look up to their older brothers as role models.	[Phrasal Verb] to admire, respect, and want to be like someone	admirar / tener respeto
+81K	look through	She [...] the magazine while waiting for the doctor.	She looked through the magazine while waiting for the doctor.	[Phrasal Verb] to read or examine something quickly	hojear / revisar por encima
+82A	first	January is the [...] month.	January is the first month.	[Adjective] coming before all others in time or order	primer / primero / primera
+82B	at first	[...], I did not like this city, but now I love it.	At first, I did not like this city, but now I love it.	[Idiom] in the beginning or initially	al principio / al comienzo
+82C	first of all	[...], I want to thank you for inviting me.	First of all, I want to thank you for inviting me.	[Idiom] before doing anything else; primarily	en primer lugar / antes que nada
+83A	also	She speaks English and [...] French.	She speaks English and also French.	[Adverb] in addition or similarly	también
+84A	new	My old phone broke. I bought a [...] one yesterday.	My old phone broke. I bought a new one yesterday.	[Adjective] recently created or acquired; not old	nuevo / nueva
+85A	because	I am tired [...] I slept little.	I am tired because I slept little.	[Conjunction] for the reason that	porque
+86A	day	The week is long, because there are seven [...] in it.	The week is long, because there are seven days in it.	[Noun] a period of twenty-four hours	día (período de 24 horas)
+86B	day	The sun is shining, so I work during the [...] and sleep at night.	The sun is shining, so I work during the day and sleep at night.	[Noun] daylight hours	día (horas de luz)
+86C	day off	I don't have to work tomorrow. It is my [...].	I don't have to work tomorrow. It is my day off.	[Noun Phrase] a day when you do not have to work or go to school	día libre / día de descanso
+86D	every other day	I go to the gym [...] to stay healthy.	I go to the gym every other day to stay healthy.	[Idiom] each alternate day; every second day	un día sí y otro no / cada dos días
+86E	these days	Most people buy books online [...].	Most people buy books online these days.	[Noun Phrase] at the present time; in modern times or nowadays	hoy en día / actualmente
+87A	use	My battery is dead, so can I [...] your phone?	My battery is dead, so can I use your phone?	[Verb] employ or utilize for a specific purpose	usar / utilizar
+87B	use	I don't understand this machine, so what is the [...] of this tool?	I don't understand this machine, so what is the use of this tool?	[Noun] purpose or application	uso / utilidad
+87C	used to	I [...] to play video games.	I used to play video games.	[Modal Phrase] expressing a past habit or state	solía
+87D	be used to	I am from Canada, so I [...] the cold weather.	I am from Canada, so I am used to the cold weather.	[Modal Phrase] to be accustomed to or familiar with something	estar acostumbrado a
+87E	use up	Please do not [...] all the milk. I need some tomorrow.	Please do not use up all the milk. I need some tomorrow.	[Phrasal Verb] to consume or finish something completely so none is left	gastar todo / acabar con
+88A	no	I have [...] money.	I have no money.	[Determiner] not any or indicating zero quantity	ningún / ninguna / nada de
+88B	no	The answer is [...].	The answer is no.	[Noun] refusal or negative answer	no
+88C	no way	That story is impossible. There is [...] it is true!	That story is impossible. There is no way it is true!	[Idiom] used to say that something is completely impossible (informal)	de ninguna manera / ni de broma
+88D	no one	The room was empty. [...] came to my party.	The room was empty. No one came to my party.	[Pronoun] no person or nobody	nadie
+88E	no matter	I will always support you [...] what path you choose.	I will always support you no matter what path you choose.	[Idiom] regardless of what happens, who is involved, or the situation	sin importar / no importa
+88F	never mind	I lost the pen, but [...], I found another one.	I lost the pen, but never mind, I found another one.	[Idiom] used to tell someone not to worry about something; forget it	no importa / olvídalo
+88G	do you mind	[...] opening the window? It's hot here.	Do you mind opening the window? It's hot here.	[Idiom] polite way of asking for permission or requesting something	¿te importa / le molesta?
+89A	man	He has a beard and a deep voice. That tall [...] is my uncle.	He has a beard and a deep voice. That tall man is my uncle.	[Noun] an adult human male	hombre
+90A	find	My room is very messy. I can't [...] my socks.	My room is very messy. I can't find my socks.	[Verb] discover something by chance or searching	encontrar
+90B	find	The rules are very easy. I [...] this game very fun.	The rules are very easy. I find this game very fun.	[Verb] realize or conclude an opinion	considerar / encontrar
+90C	find out	We need to go to the airport. Did you [...] what time the flight leaves?	We need to go to the airport. Did you find out what time the flight leaves?	[Phrasal Verb] to discover information or learn a fact after searching	averiguar / enterarse
+91A	here	Come [...] right now.	Come here right now.	[Adverb] in, at, or to this specific place	aquí / acá
+92A	thing	I don't know what that is, so what is that [...] on the table?	I don't know what that is, so what is that thing on the table?	[Noun] an inanimate object, concept or abstract entity	cosa
+92B	first thing	I will call you [...] in the morning.	I will call you first thing in the morning.	[Idiom] before anything else; at the very beginning of the day	a primera hora / antes que nada
+92C	the thing is	I want to go, but [...] I have no money.	I want to go, but the thing is I have no money.	[Idiom] introduce the main problem, point, or explanation	el caso es que / la cuestión es que
+93A	give	She [...] me a book for my birthday yesterday.	She gave me a book for my birthday yesterday.	[Verb] freely transfer possession of something to someone	dar / regalar
+93B	give up	This game is too hard. I [...].	This game is too hard. I give up.	[Phrasal Verb] to stop trying or admit defeat	rendirse / dejar
+93C	give back	That is my pen. Please [...] my pen.	That is my pen. Please give back my pen.	[Phrasal Verb] to return something to the person who owns it	devolver
+93D	give away	They are [...] free food to the people outside.	They are giving away free food to the people outside.	[Phrasal Verb] to donate or distribute something for free	regalar / donar
+93E	give in	I did not want to buy the toy, but I finally [...] because my son cried.	I did not want to buy the toy, but I finally gave in because my son cried.	[Phrasal Verb] to agree to something you do not want after refusing	ceder / rendirse (ante presión)
+93F	give a ride	I had to [...] to my brother because his car broke down.	I had to give a ride to my brother because his car broke down.	[Collocation] to take or drive someone somewhere in a vehicle	llevar / dar un aventón
+94A	many	How [...] brothers do you have?	How many brothers do you have?	[Determiner] a large number of things or people	muchos / muchas
+94B	as many as	There were [...] fifty people at the small party.	There were as many as fifty people at the small party.	[Idiom] up to a particular large number of people or things	tanto como / hasta (cantidad)
+95A	well	He practices every day. He plays the guitar very [...].	He practices every day. He plays the guitar very well.	[Adverb] in a good, satisfactory or effective way	bien
+95B	well	The town has no river. The farm has a deep [...] for water.	The town has no river. The farm has a deep well for water.	[Noun] a deep hole made to get water	pozo
+95C	well	[...], I don't know.	Well, I don't know.	[Interjection] discourse marker or hesitation	bueno
+95D	well	I have a fever. I don't feel [...] today.	I have a fever. I don't feel well today.	[Adjective] healthy or in good condition	bien / de salud
+95E	as well as	She is a very talented singer [...] an excellent modern dancer.	She is a very talented singer as well as an excellent modern dancer.	[Conjunction] in addition to; also or together with	así como / además de
+95F	well-known	He is a [...] actor in his country.	He is a well-known actor in his country.	[Adjective] famous or widely recognized by many people	bien conocido / famoso
+96A	only	I have [...] five dollars.	I have only five dollars.	[Adverb] single, solitary or exclusive	solo / solamente
+96B	only	She is the [...] child in her family.	She is the only child in her family.	[Adjective] being the single one of its kind	único / única
+96C	if only	[...] i had more free time to travel the world.	If only I had more free time to travel the world.	[Idiom] used to express a strong wish or hope that is unlikely	ojalá / si tan solo
+97A	those	Look at [...] birds.	Look at those birds.	[Demonstrative Pronoun] referring to plural items far away	esos / esas / aquellos / aquellas
+98A	tell	The children are bored. Please [...] them a story.	The children are bored. Please tell them a story.	[Verb] communicate information to someone in spoken or written words	contar / decir
+98B	tell	The twins look exactly the same. I cannot [...] the difference.	The twins look exactly the same. I cannot tell the difference.	[Verb] distinguish or recognize difference	notar / distinguir
+98C	tell the truth	You must always [...] to your parents.	You must always tell the truth to your parents.	[Collocation] to speak honestly and avoid lying	decir la verdad
+98D	tell a lie	I trust him. He would never [...] to his friends.	I trust him. He would never tell a lie to his friends.	[Collocation] to say something that is not true or cheat	decir una mentira / mentir
+98E	tell apart	It is very hard to [...] the two young brothers.	It is very hard to tell apart the two young brothers.	[Phrasal Verb] to distinguish or recognize the difference between two things/people	distinguir / diferenciar
+99A	very	The soup is [...] hot.	The soup is very hot.	[Adverb] to a high degree or emphasizing an adjective	muy
+100A	even	Everyone likes pizza, [...] my dog.	Everyone likes pizza, even my dog.	[Adverb] used to emphasize something surprising or extreme	incluso / aun
+100B	even	The table is shaking. Make sure the floor is [...].	The table is shaking. Make sure the floor is even.	[Adjective] flat, smooth or equal in level	plano / nivelado
+100C	even	You can divide them by two, because two and four are [...] numbers.	You can divide them by two, because two and four are even numbers.	[Adjective] divisible by two	par (número)
+100D	even though	We went for a walk [...] it was raining outside.	We went for a walk even though it was raining outside.	[Conjunction] despite the fact that; although	a pesar de que / aunque
+100E	even if	We will go to the beach [...] the weather is cold.	We will go to the beach even if the weather is cold.	[Conjunction] whether or not a specific condition is true or happens	incluso si / aun si
+100F	even so	The test was difficult. [...], she passed it.	The test was difficult. Even so, she passed it.	[Idiom] despite that; nevertheless	aun así / con todo
+100G	get even	He made fun of me, but I will [...] with him tomorrow.	He made fun of me, but I will get even with him tomorrow.	[Idiom] to inflict counter-injury or take revenge on someone	vengarse / quedar a mano

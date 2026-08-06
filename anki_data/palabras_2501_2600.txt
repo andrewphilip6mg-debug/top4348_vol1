@@ -1,0 +1,155 @@
+2501A	evolve	Animals [...] over thousands of years to survive in their environment.	Animals evolve over thousands of years to survive in their environment.	[Verb] to develop gradually over time	evolucionar / desarrollarse
+2502A	shooting	The police arrived quickly after the [...] in the city center.	The police arrived quickly after the shooting in the city center.	[Noun] an event where someone fires a gun	tiroteo / disparo
+2502B	shooting	The movie [...] was delayed for two weeks because of heavy rain.	The movie shooting was delayed for two weeks because of heavy rain.	[Noun] the process of filming a movie or photo session	rodaje / sesión de fotos
+2503A	partly	The delay was [...] my fault because I woke up late today.	The delay was partly my fault because I woke up late today.	[Adverb] to some extent but not completely	en parte / parcialmente
+2504A	unknown	The writer was completely [...] before her first book became a hit.	The writer was completely unknown before her first book became a hit.	[Adjective] not known or recognized by people	desconocido/a
+2505A	offense	Parking your car near a fire hydrant is a minor [...].	Parking your car near a fire hydrant is a minor offense.	[Noun] an illegal act or crime	delito / infracción
+2505B	offense	I am sorry, I did not mean to cause any [...].	I am sorry, I did not mean to cause any offense.	[Noun] feelings of anger caused by an insult	ofensa / molestia
+2505C	take offense	Please do not [...] at my comment; I was only joking.	Please do not take offense at my comment; I was only joking.	[Idiom] to feel insulted by something someone said	ofenderse / tomarse a mal
+2506A	counter	She left her keys on the kitchen [...] this morning.	She left her keys on the kitchen counter this morning.	[Noun] a long flat surface in a kitchen or shop	mostrador / encimera
+2506B	counter	He tried to [...] her argument with new facts.	He tried to counter her argument with new facts.	[Verb] to respond or act against something	contrarrestar / responder
+2506C	over the counter	You can buy this medicine [...] without a prescription.	You can buy this medicine over the counter without a prescription.	[Adverb] sold legally without needing a doctor's order	de venta libre / sin receta
+2507A	DNA	Police used [...] evidence to identify the suspect.	Police used DNA evidence to identify the suspect.	[Noun] the chemical in cells that carries genetic information	ADN
+2508A	potentially	This new drug is [...] dangerous if you take too much.	This new drug is potentially dangerous if you take too much.	[Adverb] possibly in the future	potencialmente / posiblemente
+2509A	thirty	My older brother will turn [...] years old next week.	My older brother will turn thirty years old next week.	[Number] the number 30	treinta
+2510A	justify	You cannot [...] taking money that does not belong to you.	You cannot justify taking money that does not belong to you.	[Verb] to give a good reason for something	justificar
+2511A	protest	Thousands of students joined the [...] against the high fees.	Thousands of students joined the protest against the high fees.	[Noun] a public meeting to show strong disagreement	protesta / manifestación
+2511B	protest	Workers gathered outside the factory to [...] the low pay.	Workers gathered outside the factory to protest the low pay.	[Verb] to express strong disagreement publicly	protestar
+2512A	crash	Luckily, nobody was hurt in the car [...].	Luckily, nobody was hurt in the car crash.	[Noun] a violent accident involving vehicles	accidente / choque
+2512B	crash	The driver lost control and [...] into a tree.	The driver lost control and crashed into a tree.	[Verb] to hit something violently with a vehicle	chocar / estrellarse
+2512C	crash	My computer [...] while I was writing the final report.	My computer crashed while I was writing the final report.	[Verb] to stop working suddenly, used for computers	colapsar / fallar
+2512D	crash course	She took a [...] in Spanish before moving to Madrid.	She took a crash course in Spanish before moving to Madrid.	[Noun] a quick and intensive learning course	curso intensivo
+2512E	crash	After the long concert, I just wanted to [...] on the sofa.	After the long concert, I just wanted to crash on the sofa.	[Verb - Informal] to sleep somewhere temporarily or go to sleep	dormirse / quedarse a dormir
+2512F	crash	They decided to [...] the party without an invitation.	They decided to crash the party without an invitation.	[Idiom] to go to an event or party uninvited	colarse en / ir sin invitación
+2513A	craft	She learned the [...] of making shoes from her father.	She learned the craft of making shoes from her father.	[Noun] an activity involving skill in making things by hand	artesanía / oficio
+2513B	craft	The wooden table was carefully [...] by a local carpenter.	The wooden table was carefully crafted by a local carpenter.	[Verb] to make something skillfully	elaborar / hacer a mano
+2514A	treaty	Both leaders signed a peace [...] to end the war.	Both leaders signed a peace treaty to end the war.	[Noun] a formal written agreement between countries	tratado / acuerdo
+2515A	terrorist	The police captured the [...] before he could escape.	The police captured the terrorist before he could escape.	[Noun] a person who uses violence for political goals	terrorista
+2516A	insight	Her book offers great [...] into how young children learn.	Her book offers great insight into how young children learn.	[Noun] a deep understanding of a complex situation	visión / comprensión
+2517A	possess	He does not [...] the skills needed for this job.	He does not possess the skills needed for this job.	[Verb] to have or own something	poseer / tener
+2518A	politically	The local population is [...] active during every election.	The local population is politically active during every election.	[Adverb] in a way that relates to government or politics	políticamente
+2519A	tap	Do not leave the kitchen [...] dripping all night.	Do not leave the kitchen tap dripping all night.	[Noun] a device for controlling the flow of water from a pipe	grifo / llave de agua
+2519B	tap	She [...] me on the shoulder to get my attention.	She tapped me on the shoulder to get my attention.	[Verb] to touch lightly and quickly with a finger or foot	dar un toque / golpetear
+2519C	tap water	Is it safe to drink [...] in this country?	Is it safe to drink tap water in this country?	[Noun] water from a piped supply	agua del grifo / agua de la llave
+2519D	tap into	The company wants to [...] new markets in Asia next year.	The company wants to tap into new markets in Asia next year.	[Phrasal Verb] to access and make use of a resource	aprovechar / recurrir a
+2519E	tap	Just [...] the icon on the screen to open the app.	Just tap the icon on the screen to open the app.	[Verb] to touch a touchscreen device quickly	pulsar / tocar (pantalla)
+2520A	extensive	The storm caused [...] damage to houses near the coast.	The storm caused extensive damage to houses near the coast.	[Adjective] covering a large area or involving many details	extenso/a / amplio/a
+2521A	episode	We watched the last [...] of the show last night.	We watched the last episode of the show last night.	[Noun] one part of a television series	episodio / capítulo
+2522A	swim	Children love to [...] in the lake during summer.	Children love to swim in the lake during summer.	[Verb] to move through water using arms and legs	nadar
+2522B	go for a swim	Let us [...] in the hotel pool after lunch.	Let us go for a swim in the hotel pool after lunch.	[Idiom] to spend time swimming for fun	ir a nadar
+2523A	tire	I had to replace a flat [...] on my bicycle.	I had to replace a flat tire on my bicycle.	[Noun] a thick ring of rubber on a wheel	neumático / llanta
+2523B	tire out	Playing soccer all afternoon will [...] the children.	Playing soccer all afternoon will tire out the children.	[Phrasal Verb] to make someone feel very exhausted	agotar / cansar
+2523C	tire	She is so fond of music that she never [...] of practicing.	She is so fond of music that she never tires of practicing.	[Verb] to become weary or lose interest	cansarse / aburrirse
+2524A	fault	It was not my [...] that the train arrived late.	It was not my fault that the train arrived late.	[Noun] responsibility for a mistake or bad situation	culpa
+2524B	find fault with	My manager always tries to [...] my work.	My manager always tries to find fault with my work.	[Idiom] to criticize someone or something constantly	criticar / buscarle pegas a
+2525A	loose	One of the screws on my chair is [...].	One of the screws on my chair is loose.	[Adjective] not firmly fixed or tight	suelto/a / flojo/a
+2525B	let loose	After working hard all week, they decided to [...] at the party.	After working hard all week, they decided to let loose at the party.	[Idiom - Informal] to relax and enjoy yourself without control	soltarse / desmelenarse
+2525C	loose end	We need to tie up a few [...] before finishing the project.	We need to tie up a few loose ends before finishing the project.	[Idiom] minor details that are not yet finished	cabos sueltos / detalles pendientes
+2526A	shortly	The doctor will see you [...] in room three.	The doctor will see you shortly in room three.	[Adverb] in a brief amount of time	en breve / pronto
+2527A	originally	This building was [...] built as a small school.	This building was originally built as a small school.	[Adverb] at first, before changes were made	originalmente / en un principio
+2528A	considerable	She spent a [...] amount of time fixing the car.	She spent a considerable amount of time fixing the car.	[Adjective] large in amount or importance	considerable / importante
+2529A	prior	You need [...] experience to apply for this job.	You need prior experience to apply for this job.	[Adjective] existing or happening before something else	previo/a / anterior
+2529B	prior to	Please arrive fifteen minutes [...] your interview.	Please arrive fifteen minutes prior to your interview.	[Preposition] before a specific time or event	antes de / previo a
+2530A	intellectual	Reading good books helps develop a child's [...] skills.	Reading good books helps develop a child's intellectual skills.	[Adjective] relating to the ability to think and understand	intelectual
+2531A	assault	The police officer investigated the [...] outside the bank.	The police officer investigated the assault outside the bank.	[Noun] a sudden physical attack on someone	agresión / ataque
+2531B	assault	He was arrested after trying to [...] a guard.	He was arrested after trying to assault a guard.	[Verb] to attack someone physically	agredir / atacar
+2532A	relax	I like to [...] on the sofa after work.	I like to relax on the sofa after work.	[Verb] to become calm and less tense	relajarse / descansar
+2533A	stair	Be careful, the bottom [...] is wet and slippery.	Be careful, the bottom stair is wet and slippery.	[Noun] one of a set of steps for going up or down	escalón / peldaño
+2534A	adventure	Camping in the mountains was a fun [...] for them.	Camping in the mountains was a fun adventure for them.	[Noun] an exciting and unusual experience	aventura
+2535A	external	The [...] walls of the house need new paint.	The external walls of the house need new paint.	[Adjective] belonging to or located on the outside	externo/a
+2536A	proof	Show me your passport as [...] of your identity.	Show me your passport as proof of your identity.	[Noun] information showing that something is true	prueba / evidencia
+2537A	confident	She feels [...] about passing her final English test.	She feels confident about passing her final English test.	[Adjective] feeling sure about your abilities or success	seguro/a / confiado/a
+2538A	headquarters	The company moved its [...] to New York last year.	The company moved its headquarters to New York last year.	[Noun] the main office of an organization	sede central / oficinas centrales
+2539A	sudden	A [...] loud noise woke everyone up at midnight.	A sudden loud noise woke everyone up at midnight.	[Adjective] happening quickly and without warning	repentino/a / súbito/a
+2539B	all of a sudden	It started to rain heavily [...].	It started to rain heavily all of a sudden.	[Idiom] quickly and without warning	de repente / de la nada
+2540A	dirty	Please put your [...] shoes outside the front door.	Please put your dirty shoes outside the front door.	[Adjective] not clean or covered with dirt	sucio/a
+2540B	dirty	Wash your hands so you do not [...] the clean sheets.	Wash your hands so you do not dirty the clean sheets.	[Verb] to make something unclean	ensuciar
+2541A	violation	Driving without a seatbelt is a traffic [...].	Driving without a seatbelt is a traffic violation.	[Noun] an action that breaks a law or rule	violación / infracción
+2542A	tongue	I accidentally bit my [...] while eating lunch today.	I accidentally bit my tongue while eating lunch today.	[Noun] the soft organ inside the mouth used for tasting	lengua
+2542B	mother tongue	Her [...] is Spanish, but she speaks English well.	Her mother tongue is Spanish, but she speaks English well.	[Noun] the first language you learned as a child	lengua materna / idioma materno
+2542C	on the tip of one's tongue	His name was [...] during the entire conversation.	His name was on the tip of my tongue during the entire conversation.	[Idiom] almost remembered but difficult to recall	en la punta de la lengua
+2542D	hold one's tongue	I had to [...] during the heated argument.	I had to hold my tongue during the heated argument.	[Idiom] to stay silent when you want to speak	morderse la lengua / callarse
+2543A	license	You must carry your driver's [...] while driving.	You must carry your driver's license while driving.	[Noun] an official document giving permission to do something	licencia / carné / permiso
+2543B	license plate	The police noted the number on the car's [...].	The police noted the number on the car's license plate.	[Noun] an official metal plate on a vehicle with numbers and letters	placa / matrícula
+2544A	shelter	They found a small [...] during the heavy rain.	They found a small shelter during the heavy rain.	[Noun] a place that gives protection from bad weather or danger	refugio / albergue
+2544B	shelter	We [...] from the wind behind a high wall.	We sheltered from the wind behind a high wall.	[Verb] to protect or stay in a safe place	refugiarse / proteger
+2545A	rub	He [...] his hands together to warm them up.	He rubbed his hands together to warm them up.	[Verb] to press and move your hand over a surface	frotar / sobar
+2545B	rub off on	Her positive attitude will soon [...] her friends.	Her positive attitude will soon rub off on her friends.	[Phrasal Verb] to pass a quality to someone near you	pegarse a / contagiarse a
+2545C	rub in	He won the race, but he did not [...] his victory.	He won the race, but he did not rub in his victory.	[Phrasal Verb - Informal] to keep reminding someone of your success or their failure	recalcar / refregar por la cara
+2545D	rub the wrong way	His rude tone always seems to [...] people the wrong way.	His rude tone always seems to rub people the wrong way.	[Idiom] to irritate or annoy someone	caer mal / irritar a alguien
+2546A	controversy	The new law caused a lot of [...] among citizens.	The new law caused a lot of controversy among citizens.	[Noun] public disagreement or argument about a topic	controversia / polémica
+2547A	entrance	Meet me outside the main [...] of the museum.	Meet me outside the main entrance of the museum.	[Noun] a door or gate where you enter	entrada / acceso
+2548A	properly	Make sure to lock the door [...] before leaving.	Make sure to lock the door properly before leaving.	[Adverb] in a correct or suitable way	adecuadamente / correctamente
+2549A	fade	The blue color of my jeans began to [...].	The blue color of my jeans began to fade.	[Verb] to lose brightness or color gradually	desvanecerse / desteñirse
+2549B	fade away	The sound of the music slowly [...].	The sound of the music slowly faded away.	[Phrasal Verb] to slowly disappear or stop being heard	desvanecerse / desaparecer
+2550A	defensive	The team played a strong [...] game yesterday.	The team played a strong defensive game yesterday.	[Adjective] used to protect someone or something against attack	defensivo/a
+2551A	tragedy	The plane accident was a terrible [...] for everyone.	The plane accident was a terrible tragedy for everyone.	[Noun] an event causing great sadness or loss	tragedia
+2552A	net	The fisherman caught three big fish in his [...].	The fisherman caught three big fish in his net.	[Noun] material made of crossed threads or ropes	red
+2552B	net	Her [...] monthly income is higher than mine.	Her net monthly income is higher than mine.	[Adjective] remaining after all costs or taxes are subtracted	neto/a
+2552C	net worth	The report calculates the founder's total [...].	The report calculates the founder's total net worth.	[Noun] the value of all financial assets minus debts	patrimonio neto / valor neto
+2553A	characterize	High humidity [...] the climate in this city.	High humidity characterizes the climate in this city.	[Verb] to describe the main qualities of something	caracterizar
+2554A	funeral	Many people attended the [...] to pay their respects.	Many people attended the funeral to pay their respects.	[Noun] a ceremony held for a person who has died	funeral / entierro
+2555A	profession	She chose nursing as her future [...].	She chose nursing as her future profession.	[Noun] a type of job that needs special training	profesión
+2556A	alter	We had to [...] our plans due to bad weather.	We had to alter our plans due to bad weather.	[Verb] to change or modify something slightly	alterar / modificar
+2557A	constitute	Twelve months [...] a full calendar year.	Twelve months constitute a full calendar year.	[Verb] to be considered as or form something	constituir / representar
+2558A	establishment	Smoking is not allowed in this [...].	Smoking is not allowed in this establishment.	[Noun] a business, shop, or institution	establecimiento / negocio
+2559A	squeeze	She [...] some fresh lemon juice over her fish.	She squeezed some fresh lemon juice over her fish.	[Verb] to press something firmly with your fingers	exprimir / apretar
+2559B	squeeze in	The doctor can [...] one more patient before noon.	The doctor can squeeze in one more patient before noon.	[Phrasal Verb] to manage to find time for someone in a schedule	hacer un hueco / atender rápidamente
+2560A	imagination	Children use their [...] when playing games together.	Children use their imagination when playing games together.	[Noun] the ability to create ideas or pictures in your mind	imaginación
+2561A	mask	The doctor wore a surgical [...] during the operation.	The doctor wore a surgical mask during the operation.	[Noun] a covering worn over the face for protection	mascarilla / máscara
+2561B	mask	He smiled to [...] his disappointment about the news.	He smiled to mask his disappointment about the news.	[Verb] to hide or disguise a feeling or truth	ocultar / disimular / enmascarar
+2562A	convert	They want to [...] the old garage into a bedroom.	They want to convert the old garage into a bedroom.	[Verb] to change something from one form to another	convertir / transformar
+2563A	comprehensive	The guide gives a [...] overview of the entire city.	The guide gives a comprehensive overview of the entire city.	[Adjective] including all or nearly all elements	exhaustivo/a / integral
+2564A	prominent	He is a [...] doctor at the main city hospital.	He is a prominent doctor at the main city hospital.	[Adjective] important, famous, or easily seen	prominente / destacado/a
+2565A	presentation	She gave a clear [...] about the new project.	She gave a clear presentation about the new project.	[Noun] a speech or talk giving information	presentación
+2566A	regardless	The game will start on time [...] of the rain.	The game will start on time regardless of the rain.	[Adverb] despite everything or without taking account of	independientemente / sin importar
+2566B	regardless of	Everyone is welcome [...] their age or skill.	Everyone is welcome regardless of their age or skill.	[Preposition] without being affected by	independientemente de / sin importar
+2567A	load	The truck was carrying a heavy [...] of wood.	The truck was carrying a heavy load of wood.	[Noun] a heavy amount of things carried by a vehicle	carga
+2567B	load	Please help me [...] these boxes into the car.	Please help me load these boxes into the car.	[Verb] to put things into a vehicle or container	cargar
+2567C	loads of	There are [...] fun activities to do in this park.	There are loads of fun activities to do in this park.	[Idiom - Informal] a large quantity or amount of something	un montón de / muchísimos
+2568A	stable	The patient is in a [...] condition today.	The patient is in a stable condition today.	[Adjective] not likely to change or fall suddenly	estable
+2568B	stable	The horses were brought back into the [...] before dark.	The horses were brought back into the stable before dark.	[Noun] a building where horses are kept	establo / caballeriza
+2569A	introduction	After a brief [...], the speaker started her presentation.	After a brief introduction, the speaker started her presentation.	[Noun] the action of making someone or something known	presentación / introducción
+2570A	pretend	He [...] to be asleep so his brother would leave.	He pretended to be asleep so his brother would leave.	[Verb] to act as if something is true when it is not	fingir / simular
+2571A	elderly	Give your seat on the bus to an [...] person.	Give your seat on the bus to an elderly person.	[Adjective] polite word for old, used for people	anciano/a / de edad avanzada
+2572A	representation	The workers asked for better [...] in company meetings.	The workers asked for better representation in company meetings.	[Noun] the act of speaking or acting on behalf of someone	representación
+2573A	deer	We saw a small [...] standing near the trees.	We saw a small deer standing near the trees.	[Noun] a wild animal with long legs and brown fur	ciervo / venado
+2574A	split	We decided to [...] the bill equally between us.	We decided to split the bill equally between us.	[Verb] to divide into two or more parts	dividir / repartir
+2574B	split up	They decided to [...] after five years together.	They decided to split up after five years together.	[Phrasal Verb] to end a relationship or separate	romperse / separarse
+2574C	split second	In a [...], the car swerved to avoid the dog.	In a split second, the car swerved to avoid the dog.	[Noun] a very brief fraction of a second	fracción de segundo
+2574D	split the difference	He wanted $100 and I offered $80, so we decided to [...].	He wanted $100 and I offered $80, so we decided to split the difference.	[Idiom] to compromise halfway on a price or decision	partir la diferencia / punto medio
+2575A	violate	Drivers who [...] traffic rules must pay a fine.	Drivers who violate traffic rules must pay a fine.	[Verb] to break a law, rule, or agreement	violar / incumplir
+2576A	partnership	The two companies formed a new business [...].	The two companies formed a new business partnership.	[Noun] a relationship between groups working together	asociación / sociedad
+2577A	pollution	Car exhaust causes a lot of air [...] in cities.	Car exhaust causes a lot of air pollution in cities.	[Noun] harmful substances introduced into the environment	contaminación
+2578A	emission	Electric cars produce zero gas [...] while driving.	Electric cars produce zero gas emission while driving.	[Noun] the production and release of gas or radiation	emisión
+2579A	steady	She made [...] progress in learning to speak French.	She made steady progress in learning to speak French.	[Adjective] developing or changing at an even rate	constante / estable
+2579B	steady	He grabbed the railing to [...] himself on the stairs.	He grabbed the railing to steady himself on the stairs.	[Verb] to make or become calm or balanced	estabilizar / sostener
+2580A	vital	Good communication is [...] for a strong marriage.	Good communication is vital for a strong marriage.	[Adjective] essential or extremely important	vital / fundamental
+2580B	vital signs	The nurse checked the patient's [...] upon arrival.	The nurse checked the patient's vital signs upon arrival.	[Noun] key medical indicators like pulse and blood pressure	signos vitales
+2581A	fate	They left their [...] in the hands of the doctor.	They left their fate in the hands of the doctor.	[Noun] the development of events outside a person's control	destino / suerte
+2582A	earnings	The company reported higher [...] in the second quarter.	The company reported higher earnings in the second quarter.	[Noun] money obtained from working or investments	ganancias / ingresos
+2583A	oven	Bake the bread in the [...] for thirty minutes.	Bake the bread in the oven for thirty minutes.	[Noun] a closed space used for baking or roasting food	horno
+2584A	distinction	There is a clear [...] between facts and opinions.	There is a clear distinction between facts and opinions.	[Noun] a clear difference between two similar things	distinción / diferencia
+2585A	segment	She ate one [...] of the orange before sharing it.	She ate one segment of the orange before sharing it.	[Noun] one of the parts into which something is divided	segmento / parte / sección
+2585B	segment	The marketer decided to [...] the audience by age.	The marketer decided to segment the audience by age.	[Verb] to divide something into distinct parts	segmentar / dividir
+2586A	nowhere	My lost keys were [...] to be found in the house.	My lost keys were nowhere to be found in the house.	[Adverb] not in or to any place	en ninguna parte / a ningún sitio
+2586B	out of nowhere	A car appeared [...] and nearly hit the tree.	A car appeared out of nowhere and nearly hit the tree.	[Idiom] happening suddenly and without warning	de la nada / de repente
+2587A	poet	The famous [...] read her new work to the audience.	The famous poet read her new work to the audience.	[Noun] a person who writes poems	poeta
+2588A	mere	It took a [...] ten minutes to complete the task.	It took a mere ten minutes to complete the task.	[Adjective] used to emphasize how small something is	mero/a / simple
+2589A	exciting	We have some [...] news to share with you today.	We have some exciting news to share with you today.	[Adjective] causing feelings of interest and enthusiasm	emocionante / apasionante
+2590A	variation	There is a wide [...] in temperature between day and night.	There is a wide variation in temperature between day and night.	[Noun] a change or difference in condition or amount	variación / cambio
+2591A	comfort	These shoes offer great [...] for long walking trips.	These shoes offer great comfort for long walking trips.	[Noun] a state of physical ease and freedom from pain	comodidad / confort
+2591B	comfort	She tried to [...] her friend after the sad news.	She tried to comfort her friend after the sad news.	[Verb] to make someone feel less worried or sad	consolar / reconfortar
+2591C	comfort zone	Stepping out of your [...] helps you learn faster.	Stepping out of your comfort zone helps you learn faster.	[Noun] a psychological state where things feel safe and familiar	zona de confort
+2592A	radical	The town needs a [...] change in its transport system.	The town needs a radical change in its transport system.	[Adjective] relating to basic or fundamental change	radical / drástico/a
+2593A	adapt	It takes time to [...] to living in a new country.	It takes time to adapt to living in a new country.	[Verb] to adjust to new conditions	adaptarse / amoldarse
+2594A	Irish	We enjoyed traditional [...] music at the local pub.	We enjoyed traditional Irish music at the local pub.	[Adjective] relating to Ireland or its people	irlandés/esa
+2595A	honey	I like to put a spoonful of [...] in my tea.	I like to put a spoonful of honey in my tea.	[Noun] a sweet sticky yellow liquid made by bees	miel
+2595B	honey	Can you pass me the salt, [...]?	Can you pass me the salt, honey?	[Noun - Informal] term of endearment for a loved one	cariño / cielo / mi amor
+2596A	correspondent	The news [...] reported live from the flood area.	The news correspondent reported live from the flood area.	[Noun] a journalist who reports news from a place	corresponsal
+2597A	pale	Her face looked [...] because she felt sick this morning.	Her face looked pale because she felt sick this morning.	[Adjective] light in color or lacking color in the face	pálido/a
+2597B	pale in comparison	Her previous achievements [...] to this new world record.	Her previous achievements pale in comparison to this new world record.	[Idiom] to seem much less impressive when compared	palidecer en comparación
+2598A	musician	The [...] played a soft song on his guitar.	The musician played a soft song on his guitar.	[Noun] a person who plays a musical instrument	músico/a
+2599A	significance	They did not realize the [...] of the historic decision.	They did not realize the significance of the historic decision.	[Noun] the importance or meaning of something	importancia / significado
+2600A	vessel	A large cargo [...] entered the harbor this morning.	A large cargo vessel entered the harbor this morning.	[Noun] a large ship or boat	embarcación / buque
+2600B	blood vessel	Exercise helps keep every [...] in your body healthy.	Exercise helps keep every blood vessel in your body healthy.	[Noun] a small tube that carries blood through the body	vaso sanguíneo

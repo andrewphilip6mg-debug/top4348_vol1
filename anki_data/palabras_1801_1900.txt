@@ -1,0 +1,144 @@
+1801A	solid	Water turns into a [...] state when frozen below zero.	Water turns into a solid state when frozen below zero.	[Adjective] firm and hard; not liquid or gas	sólido / firme
+1801B	solid	He gave us a [...] plan for the project.	He gave us a solid plan for the project.	[Adjective] dependable and well-supported	sólido / confiable
+1801C	do a solid	Can you [...] for me and lend me five dollars?	Can you do a solid for me and lend me five dollars?	[Idiom - Informal] to do someone a favor	hacer un favor
+1802A	hill	They walked up the steep [...] to see the town below.	They walked up the steep hill to see the town below.	[Noun] an elevated area of land smaller than a mountain	colina / cerro
+1803A	typically	She [...] drinks coffee in the morning before work.	She typically drinks coffee in the morning before work.	[Adverb] in a usual or customary way	típicamente / por lo general
+1804A	noise	The loud [...] woke the sleeping baby.	The loud noise woke the sleeping baby.	[Noun] a sound, especially one that is loud or unpleasant	ruido
+1805A	grass	The children ran freely on the green [...].	The children ran freely on the green grass.	[Noun] low green plants covering the ground	césped / pasto
+1806A	unfortunately	I wanted to come, but [...] I missed my bus.	I wanted to come, but unfortunately I missed my bus.	[Adverb] used to express regret about an unlucky situation	desafortunadamente / desgraciadamente
+1807A	hat	He wore a warm black [...] to protect his head from the cold.	He wore a warm black hat to protect his head from the cold.	[Noun] a head covering	sombrero / gorro
+1807B	wear many hats	As a small business owner, I have to [...] every day.	As a small business owner, I have to wear many hats every day.	[Idiom] to have many different roles or responsibilities	hacer de todo / asumir varios roles
+1808A	legislation	Congress passed new [...] to protect the environment.	Congress passed new legislation to protect the environment.	[Noun] a law or group of laws passed by a government	legislación / leyes
+1809A	succeed	If you work hard, you will eventually [...].	If you work hard, you will eventually succeed.	[Verb] to achieve a desired result or goal	tener éxito / triunfar
+1809B	succeed	He will [...] the retiring director next month.	He will succeed the retiring director next month.	[Verb] to take over an official position after someone	suceder / reemplazar
+1810A	celebrate	We gathered at a restaurant to [...] her birthday.	We gathered at a restaurant to celebrate her birthday.	[Verb] to do something special for an occasion	celebrar / festejar
+1811A	achievement	Graduating from college was a major [...] for him.	Graduating from college was a major achievement for him.	[Noun] a successful result brought about by hard work	logro / éxito
+1812A	fishing	My uncle takes his small boat out for [...] every Sunday.	My uncle takes his small boat out for fishing every Sunday.	[Noun] the activity of catching sea animals	pesca
+1813A	accuse	Do not [...] him of stealing without real evidence.	Do not accuse him of stealing without real evidence.	[Verb] to say that someone has done something wrong	acusar
+1814A	useful	This phone app is very [...] for learning new words.	This phone app is very useful for learning new words.	[Adjective] helpful for doing a task	útil
+1815A	reject	The company had to [...] his job application.	The company had to reject his job application.	[Verb] to refuse to accept or agree to something	rechazar
+1816A	talent	She showed a natural [...] for playing the piano.	She showed a natural talent for playing the piano.	[Noun] a natural ability to do something well	talento
+1817A	taste	This soup has a very rich and delicious [...].	This soup has a very rich and delicious taste.	[Noun] the flavor of something in the mouth	sabor
+1817B	taste	Please [...] the sauce and see if it needs more salt.	Please taste the sauce and see if it needs more salt.	[Verb] to test the flavor of food or drink	probar / saborear
+1817C	taste	She has excellent [...] in classical music and art.	She has excellent taste in classical music and art.	[Noun] personal preference or judgment in style or art	gusto
+1818A	characteristic	Patience is a key [...] of a good teacher.	Patience is a key characteristic of a good teacher.	[Noun] a typical feature or quality of someone or something	característica / rasgo
+1818B	characteristic	Red fur is a [...] feature of foxes.	Red fur is a characteristic feature of foxes.	[Adjective] typical of a particular person or thing	característico / típico
+1819A	milk	He poured cold [...] into his cereal bowl.	He poured cold milk into his cereal bowl.	[Noun] white liquid produced by cows or goats	leche
+1819B	milk	He tried to [...] the injury to stay home from work.	He tried to milk the injury to stay home from work.	[Verb - Informal] to exploit or take unfair advantage of something	sacar provecho / exprimir una situación
+1820A	escape	Two prisoners tried to [...] from the building last night.	Two prisoners tried to escape from the building last night.	[Verb] to get away from a place or dangerous situation	escapar / huir
+1820B	escape	Reading books provides a nice [...] from daily stress.	Reading books provides a nice escape from daily stress.	[Noun] an act or means of getting away from trouble	escape / evasión
+1821A	cast	The director will [...] a famous actor for the main role.	The director will cast a famous actor for the main role.	[Verb] to choose an actor for a part in a show	elegir el reparto / seleccionar
+1821B	cast	The entire [...] of the play took a bow after the show.	The entire cast of the play took a bow after the show.	[Noun] all the actors in a play or movie	reparto / elenco
+1821C	cast	He broke his arm and must wear a plaster [...] for a month.	He broke his arm and must wear a plaster cast for a month.	[Noun] a hard bandage worn to protect a broken bone	escayola / yeso
+1821D	cast a vote	Millions of citizens will [...] in the election today.	Millions of citizens will cast a vote in the election today.	[Collocation] to officially enter a choice in an election	votar / emitir un voto
+1822A	sentence	Every paragraph should start with a clear [...].	Every paragraph should start with a clear sentence.	[Noun] a group of words that expresses a complete thought	oración / frase
+1822B	sentence	The judge gave the thief a light [...].	The judge gave the thief a light sentence.	[Noun] a punishment assigned by a court of law	condena / sentencia
+1822C	sentence	The judge will [...] the criminal tomorrow morning.	The judge will sentence the criminal tomorrow morning.	[Verb] to assign a punishment in a court	sentenciar / condenar
+1823A	unusual	It is very [...] to see snow in this city.	It is very unusual to see snow in this city.	[Adjective] not common or ordinary	inusual / poco común
+1824A	closely	The doctor monitored the patient [...] after the surgery.	The doctor monitored the patient closely after the surgery.	[Adverb] with great attention to detail	de cerca / atentamente
+1825A	convince	She managed to [...] her parents to buy a dog.	She managed to convince her parents to buy a dog.	[Verb] to persuade someone to believe or do something	convencer
+1826A	height	Standing at six feet, his [...] makes him good at basketball.	Standing at six feet, his height makes him good at basketball.	[Noun] the measurement of someone from head to foot	estatura / altura
+1827A	physician	You should consult a [...] if the headache continues.	You should consult a physician if the headache continues.	[Noun] a qualified doctor of medicine	médico / doctor
+1828A	assess	Teachers must [...] student progress through regular tests.	Teachers must assess student progress through regular tests.	[Verb] to judge or evaluate the quality or value of something	evaluar / valorar
+1829A	plenty	Take your time because we have [...] of time today.	Take your time because we have plenty of time today.	[Pronoun] a large amount or enough of something	de sobra / suficiente
+1830A	virtually	The stadium was [...] empty by the end of the game.	The stadium was virtually empty by the end of the game.	[Adverb] almost entirely; nearly	prácticamente / casi
+1831A	addition	The new baby is a wonderful [...] to their family.	The new baby is a wonderful addition to their family.	[Noun] a person or thing added to something	adición / incorporación
+1831B	in addition	[...], the hotel offers a free breakfast.	In addition, the hotel offers a free breakfast.	[Idiom / Transition] as an extra detail or point	además
+1832A	sharp	Be careful because this kitchen knife is extremely [...].	Be careful because this kitchen knife is extremely sharp.	[Adjective] having a thin edge that can cut	afilado / cortante
+1832B	sharp	The meeting starts at nine o'clock [...].	The meeting starts at nine o'clock sharp.	[Adverb] exactly at a specific time	en punto
+1832C	sharp	There was a [...] increase in temperature this morning.	There was a sharp increase in temperature this morning.	[Adjective] sudden, rapid, and noticeable	brusco / repentino
+1833A	creative	She came up with a very [...] solution to the problem.	She came up with a very creative solution to the problem.	[Adjective] having original or imaginative ideas	creativo
+1834A	lower	The store had to [...] its prices to attract customers.	The store had to lower its prices to attract customers.	[Verb] to reduce the amount or level of something	bajar / reducir
+1834B	lower	He sat on the [...] step of the wooden stairs.	He sat on the lower step of the wooden stairs.	[Adjective] located below something else	inferior / de abajo
+1835A	approve	The boss must [...] your vacation request first.	The boss must approve your vacation request first.	[Verb] to officially accept or agree to something	aprobar / autorizar
+1836A	explanation	He offered a clear [...] for why he arrived late.	He offered a clear explanation for why he arrived late.	[Noun] a statement that makes something clear	explicación
+1837A	gay	My uncle came out as [...] many years ago.	My uncle came out as gay many years ago.	[Adjective] sexually attracted to people of one's own sex	gay / homosexual
+1838A	campus	Students walked across the university [...] to reach class.	Students walked across the university campus to reach class.	[Noun] the grounds and buildings of a college or school	campus / predio universitario
+1839A	proper	Eating with your hands is not considered [...] behavior here.	Eating with your hands is not considered proper behavior here.	[Adjective] appropriate or suitable for a situation	adecuado / apropiado
+1840A	guilty	The jury found the defendant [...] of the crime.	The jury found the defendant guilty of the crime.	[Adjective] responsible for doing something illegal or wrong	culpable
+1840B	guilty	I felt [...] about forgetting my friend's birthday.	I felt guilty about forgetting my friend's birthday.	[Adjective] feeling remorse or regret for doing wrong	culpable / con culpa
+1840C	guilty pleasure	Watching reality TV is my [...].	Watching reality TV is my guilty pleasure.	[Idiom / Collocation] an activity or pleasure that one enjoys despite feeling some guilt	placer culpable
+1841A	acquire	The company hopes to [...] new customers this year.	The company hopes to acquire new customers this year.	[Verb] to gain or obtain something	adquirir / obtener
+1842A	compete	Athletes from fifty countries will [...] for the medal.	Athletes from fifty countries will compete for the medal.	[Verb] to try to win against others in a contest	competir
+1843A	technical	The user manual contains a lot of [...] language.	The user manual contains a lot of technical language.	[Adjective] relating to specialized skill, science, or machinery	técnico
+1844A	plus	Two [...] two equals four.	Two plus two equals four.	[Preposition] added to	más
+1844B	plus	Good salary is a major [...] in any new job offer.	Good salary is a major plus in any new job offer.	[Noun] an advantage or useful addition	ventaja / punto a favor
+1845A	immigrant	My grandfather arrived in America as a young [...].	My grandfather arrived in America as a young immigrant.	[Noun] a person who comes to live permanently in a foreign country	inmigrante
+1846A	weak	He felt too [...] to get out of bed today.	He felt too weak to get out of bed today.	[Adjective] lacking physical strength or power	débil
+1847A	illegal	Parking in front of a fire hydrant is [...].	Parking in front of a fire hydrant is illegal.	[Adjective] contrary to or forbidden by law	ilegal
+1848A	hi	She smiled and said [...] when I walked in.	She smiled and said hi when I walked in.	[Interjection] an informal greeting meaning hello	hola
+1849A	alternative	We need to find an [...] route due to the roadwork.	We need to find an alternative route due to the roadwork.	[Adjective] available as another choice or possibility	alternativo
+1849B	alternative	If the bus is full, riding a bike is a good [...].	If the bus is full, riding a bike is a good alternative.	[Noun] a choice among two or more possibilities	alternativa / opción
+1850A	interaction	Social [...] is important for a child's development.	Social interaction is important for a child's development.	[Noun] communication or direct contact between people	interacción
+1851A	column	Enter the total amount in the second [...] of the table.	Enter the total amount in the second column of the table.	[Noun] a vertical section of numbers or text	columna
+1851B	column	She writes a weekly [...] for the local newspaper.	She writes a weekly column for the local newspaper.	[Noun] a regular article in a publication	columna de opinión / artículo
+1852A	personality	She has a warm and friendly [...] that everyone likes.	She has a warm and friendly personality that everyone likes.	[Noun] the character traits that make a person unique	personalidad
+1853A	signal	A red traffic light is a [...] to stop your vehicle.	A red traffic light is a signal to stop your vehicle.	[Noun] a gesture, sound, or light that conveys information	señal
+1853B	signal	The referee will [...] the end of the game with a whistle.	The referee will signal the end of the game with a whistle.	[Verb] to give a sign or message through action	señalar / hacer una señal
+1854A	curriculum	History is an essential part of the school [...].	History is an essential part of the school curriculum.	[Noun] the subjects studied in an educational program	plan de estudios / currículo
+1855A	honor	It was a great [...] to receive the award.	It was a great honor to receive the award.	[Noun] high respect or privilege	honor
+1855B	honor	We gathered to [...] the veterans for their service.	We gathered to honor the veterans for their service.	[Verb] to show high respect or praise	honrar
+1856A	passenger	The train was crowded with every [...] sitting quietly.	The train was crowded with every passenger sitting quietly.	[Noun] a person riding in a vehicle driven by someone else	pasajero / pasajera
+1857A	assistance	The old lady needed [...] to carry her heavy bags.	The old lady needed assistance to carry her heavy bags.	[Noun] help or support given to someone	asistencia / ayuda
+1858A	forever	They promised to stay best friends [...].	They promised to stay best friends forever.	[Adverb] for all future time; permanently	para siempre
+1859A	regard	I [...] him as one of my closest friends.	I regard him as one of my closest friends.	[Verb] to consider or think of someone in a specified way	considerar / tener por
+1859B	regard	Give my best [...] to your parents when you call them.	Give my best regard to your parents when you call them.	[Noun] attention, respect, or good wishes	saludos / consideraciones
+1859C	with regard to	I am writing [...] your recent job application.	I am writing with regard to your recent job application.	[Idiom / Collocation] concerning or in relation to	con respecto a / en relación con
+1860A	Israeli	She met an [...] tourist at the museum yesterday.	She met an Israeli tourist at the museum yesterday.	[Adjective/Noun] relating to Israel or a person from Israel	israelí
+1861A	association	He joined the national [...] for small business owners.	He joined the national association for small business owners.	[Noun] an official group of people organized for a joint purpose	asociación
+1862A	twenty	The box contains [...] shiny red apples.	The box contains twenty shiny red apples.	[Number] the number equal to two times ten	veinte
+1863A	knock	Please [...] on the door before you enter the room.	Please knock on the door before you enter the room.	[Verb] to strike a surface loudly to attract attention	llamar / tocar a la puerta
+1863B	knock over	The dog accidentally [...] the vase from the table.	The dog accidentally knocked over the vase from the table.	[Phrasal Verb] to strike something so that it falls	derribar / tirar
+1863C	knock out	The boxer managed to [...] his opponent in the third round.	The boxer managed to knock out his opponent in the third round.	[Phrasal Verb] to make unconscious or eliminate	noquear / dejar inconsciente
+1863D	knock it off	Stop making that annoying noise and [...]!	Stop making that annoying noise and knock it off!	[Idiom - Informal] used to tell someone to stop doing something	párala ya / déjate de tonterías
+1864A	wrap	I need to [...] this birthday gift in colorful paper.	I need to wrap this birthday gift in colorful paper.	[Verb] to cover or enclose something with paper or cloth	envolver
+1864B	wrap up	Let's [...] the meeting and go home for dinner.	Let's wrap up the meeting and go home for dinner.	[Phrasal Verb - Informal] to finish or conclude an activity	concluir / dar por terminado
+1864C	wrap your head around	I still can't [...] this complex new system.	I still can't wrap my head around this complex new system.	[Idiom] to comprehend or process a difficult or unusual concept	entender / asimilar / encajar
+1865A	lab	Scientists are testing new vaccines in the [...].	Scientists are testing new vaccines in the lab.	[Noun - Informal] short form for laboratory	laboratorio
+1866A	display	The museum will [...] ancient gold items next month.	The museum will display ancient gold items next month.	[Verb] to put something in a place where people can see it	exhibir / mostrar
+1866B	display	The shop had a beautiful [...] of fresh flowers in the window.	The shop had a beautiful display of fresh flowers in the window.	[Noun] an arrangement of items for people to view	exhibición / muestra
+1867A	criticism	The author received constructive [...] from her editor.	The author received constructive criticism from her editor.	[Noun] expressions of disapproval or judgment	crítica
+1868A	asset	Fluency in English is a valuable [...] in business.	Fluency in English is a valuable asset in business.	[Noun] a useful or valuable quality, person, or thing	activo / ventaja / recurso
+1869A	depression	Clinical [...] requires proper medical care and support.	Clinical depression requires proper medical care and support.	[Noun] a severe mental condition causing persistent sadness	depresión
+1870A	spiritual	Yoga helps many people find inner peace and [...] growth.	Yoga helps many people find inner peace and spiritual growth.	[Adjective] relating to the human spirit or religion	espiritual
+1871A	musical	She comes from a very [...] family that loves singing.	She comes from a very musical family that loves singing.	[Adjective] talented in or related to playing music	musical / talentoso para la música
+1871B	musical	We bought tickets to see a famous Broadway [...].	We bought tickets to see a famous Broadway musical.	[Noun] a play or movie with singing and dancing	musical / obra musical
+1872A	journalist	The [...] wrote an insightful article about the election.	The journalist wrote an insightful article about the election.	[Noun] a person who collects and reports news	periodista
+1873A	prayer	They said a short [...] before eating their dinner.	They said a short prayer before eating their dinner.	[Noun] a request or expression of thanks to God	oración / plegaria
+1874A	suspect	Police caught the main [...] near the crime scene.	Police caught the main suspect near the crime scene.	[Noun] a person believed to be guilty of a crime	sospechoso / sospechosa
+1874B	suspect	I [...] that he lost his keys on the way home.	I suspect that he lost his keys on the way home.	[Verb] to think that something is true without certain proof	sospechar
+1875A	scholar	The visiting [...] gave an interesting lecture on history.	The visiting scholar gave an interesting lecture on history.	[Noun] an educated person who specializes in a subject	académico / estudioso
+1876A	warning	The dark clouds were a clear [...] of a storm.	The dark clouds were a clear warning of a storm.	[Noun] a statement or sign that informs of possible danger	advertencia / aviso
+1877A	climate	The tropical region has a warm and humid [...] year-round.	The tropical region has a warm and humid climate year-round.	[Noun] the general weather conditions of a region	clima
+1878A	cheese	She loves eating a slice of cheddar [...] on her burger.	She loves eating a slice of cheddar cheese on her burger.	[Noun] a solid dairy food made from milk	queso
+1879A	observation	Careful [...] of birds helped the scientist write her report.	Careful observation of birds helped the scientist write her report.	[Noun] the action of watching something closely	observación
+1880A	childhood	He spent his early [...] living near the beach.	He spent his early childhood living near the beach.	[Noun] the time period of being a child	infancia / niñez
+1881A	payment	You can make your monthly [...] online or by mail.	You can make your monthly payment online or by mail.	[Noun] an amount of money given to pay for something	pago
+1882A	sir	May I help you find your seat, [...]?	May I help you find your seat, sir?	[Noun] a polite form of address for a man	señor
+1883A	permit	You need an official [...] to park your car here.	You need an official permit to park your car here.	[Noun] an official document allowing something	permiso / licencia
+1883B	permit	The school does not [...] students to use phones in class.	The school does not permit students to use phones in class.	[Verb] to allow or give permission	permitir / autorizar
+1884A	cigarette	He stepped outside to smoke a [...] after dinner.	He stepped outside to smoke a cigarette after dinner.	[Noun] a thin tube of paper filled with tobacco	cigarrillo
+1885A	definition	Look up the [...] of the word in the dictionary.	Look up the definition of the word in the dictionary.	[Noun] a statement of the exact meaning of a word	definición
+1886A	priority	Safety is our top [...] in this workplace.	Safety is our top priority in this workplace.	[Noun] something regarded as more important than other things	prioridad
+1887A	bread	She bought a loaf of fresh white [...] at the bakery.	She bought a loaf of fresh white bread at the bakery.	[Noun] a baked food made from flour and water	pan
+1888A	creation	The artist was proud of his newest artistic [...].	The artist was proud of his newest artistic creation.	[Noun] something that has been made or brought into existence	creación
+1889A	graduate	She will [...] from university next May.	She will graduate from university next May.	[Verb] to successfully complete a degree or course	graduarse
+1889B	graduate	He is a recent [...] of Harvard Medical School.	He is a recent graduate of Harvard Medical School.	[Noun] a person who has completed a course of study	graduado / egresado
+1890A	request	She submitted a formal [...] for a week off from work.	She submitted a formal request for a week off from work.	[Noun] an act of asking politely for something	solicitud / petición
+1890B	request	Customers can [...] a refund within thirty days.	Customers can request a refund within thirty days.	[Verb] to ask politely for something	solicitar / pedir
+1891A	emotion	Happiness is a positive [...] that improves my mood.	Happiness is a positive emotion that improves my mood.	[Noun] a strong feeling such as love, anger, or fear	emoción / sentimiento
+1892A	scream	The girl let out a loud [...] when she saw a spider.	The girl let out a loud scream when she saw a spider.	[Noun] a loud, sharp cry of terror or pain	grito
+1892B	scream	People started to [...] when the rollercoaster dropped.	People started to scream when the rollercoaster dropped.	[Verb] to cry out loudly in fear or excitement	gritar
+1893A	dramatic	There was a [...] change in temperature overnight.	There was a dramatic change in temperature overnight.	[Adjective] sudden, striking, or impressive	dramático / drástico
+1894A	universe	Scientists study how stars form across the vast [...].	Scientists study how stars form across the vast universe.	[Noun] all existing matter and space as a whole	universo
+1895A	gap	There is a wide [...] between the rich and the poor.	There is a wide gap between the rich and the poor.	[Noun] a break, hole, or space between two things	brecha / espacio / hueco
+1895B	gap year	She decided to take a [...] before starting university.	She decided to take a gap year before starting university.	[Noun / Collocation] a year taken as a break before starting university	año sabático
+1895C	bridge the gap	The new policy aims to [...] between generation steps.	The new policy aims to bridge the gap between generation steps.	[Collocation] to reduce the difference between two groups or things	reducir la brecha / acercar posiciones
+1896A	excellent	She did an [...] job on her final presentation.	She did an excellent job on her final presentation.	[Adjective] extremely good or outstanding	excelente
+1897A	deeply	He was [...] moved by her kind words.	He was deeply moved by her kind words.	[Adverb] to a great depth or extent; profoundly	profundamente
+1898A	prosecutor	The district [...] presented strong evidence against the suspect.	The district prosecutor presented strong evidence against the suspect.	[Noun] a lawyer who conducts legal proceedings against an accused person	fiscal / acusador
+1899A	lucky	You are very [...] to have such supportive friends.	You are very lucky to have such supportive friends.	[Adjective] having good fortune	afortunado / con suerte
+1899B	lucky break	Getting that internship was the [...] he needed for his career.	Getting that internship was the lucky break he needed for his career.	[Idiom] a sudden stroke of good luck that creates an opportunity	golpe de suerte
+1900A	drag	He had to [...] the heavy suitcase across the room.	He had to drag the heavy suitcase across the room.	[Verb] to pull something along the ground with effort	arrastrar
+1900B	drag on	The long movie started to [...] after two hours.	The long movie started to drag on after two hours.	[Phrasal Verb] to continue for longer than necessary	alargarse / hacerse pesado
+1900C	drag	Waiting in line for hours was such a [...].	Waiting in line for hours was such a drag.	[Noun - Informal] something that is boring or annoying	tostón / lata / aburrimiento
