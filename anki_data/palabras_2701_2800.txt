@@ -1,0 +1,175 @@
+2701A	derive	She [...] great joy from reading books on the weekend.	She derives great joy from reading books on the weekend.	[Verb] to get something from a specific source	obtener / derivar
+2701B	derive from	Many English words [...] Latin roots.	Many English words derive from Latin roots.	[Phrasal Verb] to come or originate from something	derivar de / provenir de
+2702A	scandal	The minister resigned after the financial [...] was exposed.	The minister resigned after the financial scandal was exposed.	[Noun] an event that causes public shock and anger	escándalo
+2703A	PC	He uses his [...] to play games and write emails.	He uses his PC to play games and write emails.	[Noun] a personal computer	ordenador personal / computadora
+2703B	PC	The speaker tried to use [...] language during the speech.	The speaker tried to use PC language during the speech.	[Adjective - Informal] avoiding language that offends particular groups of people	políticamente correcto
+2704A	helpful	The store clerk was very [...] when I was lost.	The store clerk was very helpful when I was lost.	[Adjective] useful or giving assistance	útil / servicial
+2705A	impress	She worked hard to [...] her boss during the meeting.	She worked hard to impress her boss during the meeting.	[Verb] to make someone feel admiration or respect	impresionar
+2706A	heel	My shoe is rubbing against my [...] and causing pain.	My shoe is rubbing against my heel and causing pain.	[Noun] the back part of the human foot	talón
+2706B	heel	She broke the [...] of her shoe while walking down the stairs.	She broke the heel of her shoe while walking down the stairs.	[Noun] the raised back part of a shoe	tacón
+2707A	resemble	The boy really [...] his father in many ways.	The boy really resembles his father in many ways.	[Verb] to look or be like another person or thing	parecerse a
+2708A	privacy	I closed the door to have some [...] while making the phone call.	I closed the door to have some privacy while making the phone call.	[Noun] the state of being free from unwanted public attention	privacidad
+2708B	privacy policy	Please read our [...] before creating a new account.	Please read our privacy policy before creating a new account.	[Noun] a legal statement explaining how a company uses personal data	política de privacidad
+2709A	fabric	This shirt is made from a very soft [...] that feels nice.	This shirt is made from a very soft fabric that feels nice.	[Noun] woven or knitted cloth used for making clothes	tela / tejido
+2709B	fabric	Crime can damage the social [...] of a whole city.	Crime can damage the social fabric of a whole city.	[Noun] the basic structure or framework of a society or organization	entramado / tejido social
+2710A	contest	She entered a photo [...] and won first place.	She entered a photo contest and won first place.	[Noun] a competition to see who is the best	concurso / competición
+2710B	contest	The lawyer decided to [...] the court's final decision.	The lawyer decided to contest the court's final decision.	[Verb] to formally challenge or oppose a decision	impugnar / disputar
+2711A	proportion	A large [...] of the class passed the exam.	A large proportion of the class passed the exam.	[Noun] a part or share of a whole	proporción / parte
+2711B	out of proportion	Don't blow this small mistake [...].	Don't blow this small mistake out of proportion.	[Idiom] greater or more serious than it really is	fuera de proporción / exagerado
+2712A	guideline	Follow this simple [...] to complete the project safely.	Follow this simple guideline to complete the project safely.	[Noun] a general rule or principle for doing something	directriz / pauta
+2713A	rifle	The soldier cleaned his [...] before the target practice.	The soldier cleaned his rifle before the target practice.	[Noun] a long gun fired from the shoulder	rifle / fusil
+2713B	rifle through	She began to [...] her purse to find her keys.	She began to rifle through her purse to find her keys.	[Phrasal Verb] to search quickly and messily through something	hurgar en / buscar rápidamente en
+2714A	maintenance	Regular car [...] helps prevent expensive repairs later.	Regular car maintenance helps prevent expensive repairs later.	[Noun] the work of keeping something in good condition	mantenimiento
+2714B	high-maintenance	Sports cars can be very [...] and costly to keep.	Sports cars can be very high-maintenance and costly to keep.	[Adjective] requiring a lot of time, attention, or money	de alto mantenimiento / exigente
+2715A	conviction	She spoke about her goals with deep [...].	She spoke about her goals with deep conviction.	[Noun] a firm belief or opinion	convicción / creencia firme
+2715B	conviction	His previous criminal [...] made it hard to find a job.	His previous criminal conviction made it hard to find a job.	[Noun] a legal decision that someone is guilty of a crime	condena / fallo de culpabilidad
+2716A	trick	The magician performed a clever [...] with a deck of cards.	The magician performed a clever trick with a deck of cards.	[Noun] an action intended to deceive or entertain	truco / engaño
+2716B	trick	He tried to [...] me into paying more money for the car.	He tried to trick me into paying more money for the car.	[Verb] to deceive someone by using a clever plan	engañar / hacer un truco
+2716C	do the trick	A cup of hot tea usually [...] when I have a cold.	A cup of hot tea usually does the trick when I have a cold.	[Idiom] to achieve the desired result or solve a problem	solucionar la situación / hacer el truco
+2716D	tricky	Fixing this software bug turned out to be very [...].	Fixing this software bug turned out to be very tricky.	[Adjective] complicated or difficult to handle	complicado / delicado / difícil
+2717A	organic	They buy [...] vegetables at the local market every week.	They buy organic vegetables at the local market every week.	[Adjective] produced without chemical fertilizers or pesticides	orgánico / biológico
+2718A	tent	We set up a [...] near the river before it got dark.	We set up a tent near the river before it got dark.	[Noun] a portable shelter made of cloth supported by poles	tienda de campaña / carpa
+2719A	examination	The doctor performed a thorough [...] of her knee.	The doctor performed a thorough examination of her knee.	[Noun] a detailed inspection or medical test	examen / inspección
+2719B	examination	Students must study hard before the final [...] next week.	Students must study hard before the final examination next week.	[Noun] a formal written or practical test of knowledge	examen / prueba académica
+2720A	publisher	The [...] accepted her new novel for release next year.	The publisher accepted her new novel for release next year.	[Noun] a company or person that prints and sells books	editorial / editor
+2721A	strengthen	Doing daily exercises will [...] your back muscles.	Doing daily exercises will strengthen your back muscles.	[Verb] to make or become stronger	fortalecer / reforzar
+2722A	proposed	The council approved the [...] changes to the park layout.	The council approved the proposed changes to the park layout.	[Adjective] suggested as a plan or course of action	propuesto
+2723A	myth	Ancient Greece produced many famous stories about gods and [...].	Ancient Greece produced many famous stories about gods and myths.	[Noun] a traditional story about gods or ancient history	mito
+2723B	myth	It is a [...] that eating late always causes weight gain.	It is a myth that eating late always causes weight gain.	[Noun] a widely held but false belief	mito / creencia falsa
+2724A	sophisticated	The new phone software has a very [...] design.	The new phone software has a very sophisticated design.	[Adjective] complex, advanced, or refined	sofisticado / avanzado
+2725A	cow	The farmer milked the [...] early in the morning.	The farmer milked the cow early in the morning.	[Noun] a large female farm animal kept for milk or meat	vaca
+2725B	have a cow	Don't [...] just because I dropped a glass on the floor.	Don't have a cow just because I dropped a glass on the floor.	[Idiom - Informal] to become extremely angry or upset	ponerse furioso / armar un escándalo
+2725C	cash cow	That popular mobile app became a major [...] for the company.	That popular mobile app became a major cash cow for the company.	[Idiom - Business/Informal] a product or business that provides a steady income	mina de oro / vaca lechera
+2726A	etc	We bought apples, oranges, bananas, [...].	We bought apples, oranges, bananas, etc.	[Adverb] and other similar things	etcétera / etc.
+2727A	standing	He was tired after [...] in line for two hours.	He was tired after standing in line for two hours.	[Adjective] in an upright position on one's feet	de pie / erguido
+2727B	standing	The scandal ruined his [...] in the community.	The scandal ruined his standing in the community.	[Noun] position, status, or reputation in a group	reputación / posición
+2727C	standing ovation	The actor received a [...] at the end of the show.	The actor received a standing ovation at the end of the show.	[Noun] prolonged applause from an audience that stands up	ovación de pie
+2728A	asleep	The baby fell [...] right after finishing her milk bottle.	The baby fell asleep right after finishing her milk bottle.	[Adjective] in a state of sleep	dormido/a
+2728B	fall asleep	I usually [...] while listening to soft background music.	I usually fall asleep while listening to soft background music.	[Idiom] to pass into a state of sleep	dormirse
+2728C	fast asleep	When I checked the bedroom, the children were [...].	When I checked the bedroom, the children were fast asleep.	[Collocation/Idiom] sleeping deeply and peacefully	profundamente dormido/a
+2729A	tennis	They play [...] together every Saturday morning.	They play tennis together every Saturday morning.	[Noun] a sport played with rackets and a ball over a net	tenis
+2730A	nerve	The dentist numbed the [...] before fixing my tooth.	The dentist numbed the nerve before fixing my tooth.	[Noun] a body fiber that transmits senses to the brain	nervio
+2730B	nerve	She did not have the [...] to tell him the truth.	She did not have the nerve to tell him the truth.	[Noun - Informal] courage or confidence in a difficult situation	agallas / valentía
+2730C	get on someone's nerves	His constant whistling is starting to [...].	His constant whistling is starting to get on my nerves.	[Idiom - Informal] to annoy or irritate someone	sacar de quicio / irritar
+2730D	nerve-wracking	Waiting for the medical test results was very [...].	Waiting for the medical test results was very nerve-wracking.	[Adjective] causing stress, worry, or extreme anxiety	enervante / estresante
+2731A	barrel	The wine aged inside an oak [...] for two years.	The wine aged inside an oak barrel for two years.	[Noun] a large wooden or metal cylindrical container	barril / tonel
+2731B	barrel	He cleaned the [...] of his hunting rifle carefully.	He cleaned the barrel of his hunting rifle carefully.	[Noun] the metal tube of a gun	cañón
+2731C	barrel down	The heavy truck came [...] the narrow mountain highway.	The heavy truck came barreling down the narrow mountain highway.	[Phrasal Verb] to move forward very fast and dangerously	avanzar a toda velocidad / abalanzarse
+2732A	bombing	The police investigated the [...] near the government building.	The police investigated the bombing near the government building.	[Noun] an attack using explosives or bombs	bombardeo / atentado con bomba
+2733A	membership	He renewed his gym [...] for another full year.	He renewed his gym membership for another full year.	[Noun] the state of belonging to a group or organization	membresía / afiliación
+2734A	ratio	The school has a low student-to-teacher [...].	The school has a low student-to-teacher ratio.	[Noun] the relationship in quantity between two things	proporción / relación
+2735A	menu	The waiter handed us the [...] as soon as we sat down.	The waiter handed us the menu as soon as we sat down.	[Noun] a list of food and drink in a restaurant	menú / carta
+2735B	menu	Click on the file [...] to save your document.	Click on the file menu to save your document.	[Noun] a list of options on a computer screen	menú
+2736A	controversial	The writer published a [...] book about local politics.	The writer published a controversial book about local politics.	[Adjective] causing public disagreement or discussion	controvertido / polémico
+2737A	desperate	He was [...] to find a job before his rent was due.	He was desperate to find a job before his rent was due.	[Adjective] feeling extreme need or hopelessness	desesperado
+2738A	lifestyle	Living in the countryside offers a very quiet [...].	Living in the countryside offers a very quiet lifestyle.	[Noun] the way in which a person or group lives	estilo de vida
+2739A	humor	His sense of [...] always makes everyone laugh.	His sense of humor always makes everyone laugh.	[Noun] the quality of being amusing or funny	humor / gracia
+2739B	humor	Just [...] him for a moment and listen to his story.	Just humor him for a moment and listen to his story.	[Verb] to comply with someone's wishes to keep them content	seguir la corriente / seguir el juego
+2740A	loud	The music was so [...] that the floor was shaking.	The music was so loud that the floor was shaking.	[Adjective] making or producing a lot of noise	alto / ruidoso
+2740B	out loud	She read the letter [...] so everyone could hear.	She read the letter out loud so everyone could hear.	[Idiom] spoken so that other people can hear	en voz alta
+2740C	loud and clear	The manager's message was received [...] by the whole team.	The manager's message was received loud and clear by the whole team.	[Idiom] very easy to understand without any confusion	fuerte y claro / perfectamente claro
+2741A	glove	I lost a [...] while walking home in the snow.	I lost a glove while walking home in the snow.	[Noun] a piece of clothing worn on the hand	guante
+2741B	fit like a glove	These new leather shoes [...] on my feet.	These new leather shoes fit like a glove on my feet.	[Idiom] to fit someone or something perfectly	quedar como un guante / encajar a la perfección
+2742A	sufficient	We have [...] food in the fridge for the entire week.	We have sufficient food in the fridge for the entire week.	[Adjective] enough for a particular purpose	suficiente
+2743A	narrative	The movie tells a personal [...] about moving to a new city.	The movie tells a personal narrative about moving to a new city.	[Noun] a spoken or written account of connected events	narrativa / relato
+2744A	photographer	A professional [...] took pictures at our wedding.	A professional photographer took pictures at our wedding.	[Noun] a person who takes pictures as a job	fotógrafo/a
+2745A	helicopter	The medical [...] landed on top of the hospital roof.	The medical helicopter landed on top of the hospital roof.	[Noun] an aircraft with rotating overhead blades	helicóptero
+2745B	helicopter parent	His [...] called the college teacher to check his grades.	His helicopter parent called the college teacher to check his grades.	[Noun - Informal] a parent who is overly involved in their child's life	padre/madre helicóptero / sobreprotector/a
+2746A	modest	He is very [...] about his achievements at work.	He is very modest about his achievements at work.	[Adjective] not boasting about one's abilities	modesto / humilde
+2746B	modest	They bought a [...] home in a quiet suburb.	They bought a modest home in a quiet suburb.	[Adjective] small or moderate in size or amount	módico / moderado
+2747A	provider	Choose a reliable Internet [...] for your home office.	Choose a reliable Internet provider for your home office.	[Noun] a company that supplies goods or services	proveedor
+2748A	delay	Heavy rain caused a short [...] in the football match.	Heavy rain caused a short delay in the football match.	[Noun] a period of waiting or time when something is late	retraso / demora
+2748B	delay	Do not [...] your visit to the doctor if you feel sick.	Do not delay your visit to the doctor if you feel sick.	[Verb] to make something happen later than planned	retrasar / demorar
+2749A	agricultural	The valley is known for its rich [...] land and crops.	The valley is known for its rich agricultural land and crops.	[Adjective] relating to farming or growing crops	agrícola
+2750A	explode	The fireworks will [...] into bright lights in the sky.	The fireworks will explode into bright lights in the sky.	[Verb] to burst violently with a loud noise	explotar / estallar
+2750B	explode	Housing prices [...] rapidly in the major cities last year.	Housing prices exploded rapidly in the major cities last year.	[Verb] to increase very quickly in amount or degree	dispararse / aumentar drásticamente
+2751A	stroke	He suffered a mild [...] and was rushed to the hospital.	He suffered a mild stroke and was rushed to the hospital.	[Noun] a sudden brain illness caused by a blocked blood vessel	derrame cerebral / ictus
+2751B	stroke	She calmed the cat with a gentle [...] on its back.	She calmed the cat with a gentle stroke on its back.	[Noun] a gentle movement of the hand over a surface	caricia / movimiento suave
+2751C	stroke of luck	Finding that wallet full of money was a real [...].	Finding that wallet full of money was a real stroke of luck.	[Idiom] a sudden piece of unexpected good fortune	golpe de suerte / chiripa
+2751D	stroke of genius	Hiring that brilliant programmer was a true [...].	Hiring that brilliant programmer was a true stroke of genius.	[Idiom/Collocation] an exceptionally clever idea or action	genialidad / golpe de genio
+2752A	scope	This topic is outside the [...] of today's meeting.	This topic is outside the scope of today's meeting.	[Noun] the range of things that a subject deals with	alcance / ámbito
+2752B	scope out	We should [...] the restaurant before booking a table.	We should scope out the restaurant before booking a table.	[Phrasal Verb - Informal] to inspect or investigate a place or situation	inspeccionar / echar un vistazo a
+2753A	punishment	Losing his phone was a harsh [...] for bad grades.	Losing his phone was a harsh punishment for bad grades.	[Noun] a penalty imposed for doing something wrong	castigo / pena
+2754A	handful	Only a [...] of students attended the voluntary lecture.	Only a handful of students attended the voluntary lecture.	[Noun] a small number of people or things	puñado / unos pocos
+2754B	a handful	Their youngest son can be [...] when he gets tired.	Their youngest son can be a handful when he gets tired.	[Idiom - Informal] a person or child who is difficult to control	difícil de manejar / un dolor de cabeza
+2755A	badly	The team played [...] and lost the game four to zero.	The team played badly and lost the game four to zero.	[Adverb] in a poor or unacceptable way	mal / pésimamente
+2755B	badly	The old building was [...] damaged during the storm.	The old building was badly damaged during the storm.	[Adverb] very much or severely	gravemente / severamente
+2755C	badly	I [...] need a long break after working all weekend.	I badly need a long break after working all weekend.	[Adverb] very much or desperately (used with want/need)	desesperadamente / con muchas ganas
+2756A	horizon	The sun sank slowly below the ocean [...].	The sun sank slowly below the ocean horizon.	[Noun] the line where the earth or sea meets the sky	horizonte
+2756B	on the horizon	Economists say that new economic growth is [...].	Economists say that new economic growth is on the horizon.	[Idiom] likely to happen or appear in the near future	en el horizonte / por venir
+2757A	curious	The child was [...] about how the toy worked.	The child was curious about how the toy worked.	[Adjective] eager to know or learn something	curioso
+2757B	curious	There is a [...] noise coming from the attic tonight.	There is a curious noise coming from the attic tonight.	[Adjective] strange, unusual, or unexpected	curioso / extraño / raro
+2758A	downtown	We decided to walk [...] to visit the new art gallery.	We decided to walk downtown to visit the new art gallery.	[Adverb] in or toward the central commercial part of a city	al centro / en el centro
+2758B	downtown	Parking [...] is usually expensive on weekdays.	Parking downtown is usually expensive on weekdays.	[Noun] the central business area of a city	centro de la ciudad
+2759A	girlfriend	He bought a ring for his [...] on their anniversary.	He bought a ring for his girlfriend on their anniversary.	[Noun] a female romantic partner	novia
+2760A	prompt	Thank you for your [...] reply to my email message.	Thank you for your prompt reply to my email message.	[Adjective] done without delay; immediate	rápido / puntual / inmediato
+2760B	prompt	The teacher had to [...] him to answer the question.	The teacher had to prompt him to answer the question.	[Verb] to encourage or cause someone to act	motivar / incitar
+2760C	prompt	Follow the instructions on the computer [...] on the screen.	Follow the instructions on the computer prompt on the screen.	[Noun] a sign or text message asking for a response	aviso / indicador / prompt
+2761A	cholesterol	Eating healthy food helps lower your blood [...].	Eating healthy food helps lower your blood cholesterol.	[Noun] a fatty substance found in body tissues and blood	colesterol
+2762A	absorb	Dry soil will [...] water very quickly after rain.	Dry soil will absorb water very quickly after rain.	[Verb] to take in liquid, heat, or energy	absorber
+2762B	absorbed in	She was so [...] her book that she missed her bus stop.	She was so absorbed in her book that she missed her bus stop.	[Idiom/Adjective] giving all one's attention to something	absorbido por / enfrascado en
+2763A	adjustment	He made a quick [...] to the height of his office chair.	He made a quick adjustment to the height of his office chair.	[Noun] a small change made to achieve a desired result	ajuste / modificación
+2764A	taxpayer	Every [...] must file a tax return before April.	Every taxpayer must file a tax return before April.	[Noun] a person or company that pays money to the government	contribuyente
+2765A	eager	The dog was [...] to go outside for its morning walk.	The dog was eager to go outside for its morning walk.	[Adjective] strongly wanting to do something	ansioso / entusiasmado
+2766A	principal	The school [...] spoke to the parents during the meeting.	The school principal spoke to the parents during the meeting.	[Noun] the head of a school	director / rector
+2766B	principal	Tourism is the [...] source of income for the island.	Tourism is the principal source of income for the island.	[Adjective] main or most important	principal
+2767A	detailed	She gave me a [...] explanation of the project rules.	She gave me a detailed explanation of the project rules.	[Adjective] giving many facts or full information	detallado
+2768A	motivation	His main [...] for learning English is to travel more.	His main motivation for learning English is to travel more.	[Noun] the reason or desire to do something	motivación
+2769A	assignment	The teacher gave us a reading [...] for the weekend.	The teacher gave us a reading assignment for the weekend.	[Noun] a piece of work given to someone	tarea / asignación
+2770A	restriction	There is a speed [...] of thirty miles per hour here.	There is a speed restriction of thirty miles per hour here.	[Noun] a rule or law that limits action	restricción / limitación
+2771A	laboratory	Scientists tested the new drug inside the [...].	Scientists tested the new drug inside the laboratory.	[Noun] a room or building for scientific experiments	laboratorio
+2772A	workshop	He fixed his bicycle in his garage [...].	He fixed his bicycle in his garage workshop.	[Noun] a room where goods are manufactured or repaired	taller
+2772B	workshop	She attended a two-day [...] on digital marketing.	She attended a two-day workshop on digital marketing.	[Noun] a class for intense discussion or practical training	taller / seminario
+2773A	differently	People often view the same situation very [...].	People often view the same situation very differently.	[Adverb] in a way that is not the same	de forma diferente / de otro modo
+2774A	auto	He works as an [...] mechanic in a local shop.	He works as an auto mechanic in a local shop.	[Noun] a car or automobile	auto / coche
+2775A	romantic	They had a [...] dinner at a quiet restaurant.	They had a romantic dinner at a quiet restaurant.	[Adjective] relating to love or a close loving relationship	romántico
+2776A	cotton	This shirt is made of pure [...] and feels cool.	This shirt is made of pure cotton and feels cool.	[Noun] soft white fibers harvested from plants	algodón
+2776B	cotton on	It took him a while to [...] to what was happening.	It took him a while to cotton on to what was happening.	[Phrasal Verb - Informal] to begin to understand or realize something	darse cuenta / captar la idea
+2777A	motor	The car [...] stopped working in the middle of the road.	The car motor stopped working in the middle of the road.	[Noun] a machine that supplies power for a vehicle	motor
+2777B	motor skills	Drawing pictures helps children develop fine [...].	Drawing pictures helps children develop fine motor skills.	[Noun] physical movements controlled by muscles and brain	habilidades motoras
+2778A	sue	She threatened to [...] the company for breach of contract.	She threatened to sue the company for breach of contract.	[Verb] to take legal action against someone	demandar / pleitear
+2779A	flavor	Vanilla is my favorite [...] of ice cream.	Vanilla is my favorite flavor of ice cream.	[Noun] the distinctive taste of food or drink	sabor
+2779B	flavor of the month	That app is just the [...] among teenagers right now.	That app is just the flavor of the month among teenagers right now.	[Idiom - Informal] something that is temporarily very popular	la moda del momento / el tema del momento
+2780A	overlook	It is easy to [...] small mistakes when reading quickly.	It is easy to overlook small mistakes when reading quickly.	[Verb] to fail to notice or consider something	pasar por alto / ignorar
+2780B	overlook	Our hotel room [...] the beautiful sandy beach below.	Our hotel room overlooks the beautiful sandy beach below.	[Verb] to have a view of a place from above	dar a / mirar a
+2780C	oversee	A manager was hired to [...] the new construction project.	A manager was hired to oversee the new construction project.	[Verb] to supervise or be in charge of a project or team	supervisar / dirigir
+2781A	float	Leaves [...] gently on the surface of the quiet lake.	Leaves float gently on the surface of the quiet lake.	[Verb] to rest or move gently on top of a liquid	flotar
+2781B	float an idea	She wanted to [...] before the main board meeting.	She wanted to float an idea before the main board meeting.	[Idiom] to suggest a plan to test people's opinions	lanzar una idea / proponer una idea
+2782A	undergo	Patients must [...] a health check before the surgery.	Patients must undergo a health check before the surgery.	[Verb] to experience or endure a process	someterse a / experimentar
+2783A	sequence	The steps must be followed in the correct [...].	The steps must be followed in the correct sequence.	[Noun] a particular order in which related events follow	secuencia / orden
+2784A	demonstration	The chef gave a cookery [...] at the food festival.	The chef gave a cookery demonstration at the food festival.	[Noun] an act of showing how something works	demostración
+2784B	demonstration	Thousands of people joined the peaceful [...] in the city.	Thousands of people joined the peaceful demonstration in the city.	[Noun] a public march or protest	manifestación / protesta
+2785A	jet	The businessman flew to Chicago on a private [...].	The businessman flew to Chicago on a private jet.	[Noun] an aircraft powered by jet engines	avión de reacción / jet
+2785B	jet lag	I suffered from terrible [...] after my flight to Japan.	I suffered from terrible jet lag after my flight to Japan.	[Noun] tiredness caused by flying across time zones	desfase horario / jet lag
+2785C	jet black	She dyed her naturally light hair [...] for the party.	She dyed her naturally light hair jet black for the party.	[Adjective/Collocation] extremely dark or deep black in color	negro azabache
+2786A	orange	She peeled a fresh [...] to eat with her lunch.	She peeled a fresh orange to eat with her lunch.	[Noun] a round citrus fruit with a tough orange skin	naranja
+2786B	orange	He wore a bright [...] sweater to the party.	He wore a bright orange sweater to the party.	[Adjective] bright reddish-yellow in color	naranja / anaranjado
+2787A	consumption	High alcohol [...] can cause serious health problems.	High alcohol consumption can cause serious health problems.	[Noun] the act of using or consuming something	consumo
+2788A	assert	He continued to [...] his innocence despite the evidence.	He continued to assert his innocence despite the evidence.	[Verb] to state a fact or belief confidently	afirmar / aseverar
+2788B	assert oneself	You need to [...] more if you want a promotion.	You need to assert yourself more if you want a promotion.	[Verb] to behave in a confident and forceful way	hacerse valer / imponerse
+2788C	assertive	You need to be more [...] when expressing your opinion at work.	You need to be more assertive when expressing your opinion at work.	[Adjective] confident and direct in expressing opinions	asertivo / firme
+2789A	blade	The knife has a sharp [...] made of stainless steel.	The knife has a sharp blade made of stainless steel.	[Noun] the flat cutting edge of a knife or tool	hoja / filo
+2789B	blade of grass	There was a single [...] stuck to his wet shoe.	There was a single blade of grass stuck to his wet shoe.	[Collocation] a single thin piece of grass	brizna de hierba
+2789C	shoulder blade	He felt a sudden sharp pain near his left [...].	He felt a sudden sharp pain near his left shoulder blade.	[Noun] the large flat bone at the back of the shoulder	escápula / omóplato
+2790A	temporary	She found a [...] job for the summer months.	She found a temporary job for the summer months.	[Adjective] lasting for only a limited time	temporal / provisorio
+2791A	medication	Take this [...] twice a day after your meals.	Take this medication twice a day after your meals.	[Noun] a substance used to treat an illness	medicamento / medicina
+2792A	cabin	They rented a wooden [...] in the mountains for vacation.	They rented a wooden cabin in the mountains for vacation.	[Noun] a small house in a remote or forest area	cabaña
+2792B	cabin	The flight attendant walked down the aircraft [...].	The flight attendant walked down the aircraft cabin.	[Noun] a section or room in an airplane or ship	cabina / camarote
+2792C	cabin fever	After three days indoors during the storm, we got [...].	After three days indoors during the storm, we got cabin fever.	[Idiom - Informal] restlessness from being trapped indoors too long	síndrome del encierro / agobio por estar encerrado
+2793A	bite	Be careful the dog does not [...] your hand.	Be careful the dog does not bite your hand.	[Verb] to cut into something using teeth	morder
+2793B	bite	Can I have a [...] of your turkey sandwich?	Can I have a bite of your turkey sandwich?	[Noun] an act of biting or a small piece of food	mordisco / bocado
+2793C	bite the bullet	I decided to [...] and finally go to the dentist.	I decided to bite the bullet and finally go to the dentist.	[Idiom] to face a painful or difficult situation bravely	tragar saliva / hacer de tripas corazón / aguantar el tirón
+2793D	bite off more than one can chew	Don't [...] by taking on three extra projects.	Don't bite off more than you can chew by taking on three extra projects.	[Idiom] to try to do something that is too difficult	abarcar más de lo que se puede apretar
+2794A	edition	The author revised his book for the new [...].	The author revised his book for the new edition.	[Noun] a particular version of a published book	edición
+2795A	valley	The small village sits at the bottom of a green [...].	The small village sits at the bottom of a green valley.	[Noun] a low area of land between hills or mountains	valle
+2796A	yours	Is this blue notebook mine or [...]?	Is this blue notebook mine or yours?	[Pronoun] belonging to the person addressed	tuyo / el tuyo
+2797A	pitch	The football players ran onto the green [...] to train.	The football players ran onto the green pitch to train.	[Noun] an area of ground marked for playing a sport	campo de juego / cancha
+2797B	pitch	She spoke in a high [...] because she was nervous.	She spoke in a high pitch because she was nervous.	[Noun] the highness or lowness of a sound	tono
+2797C	pitch	The team made a sales [...] to the new client.	The team made a sales pitch to the new client.	[Noun] a presentation designed to persuade or sell	presentación de ventas / propuesta
+2797D	pitch in	If everyone [...], we can clean the room very quickly.	If everyone pitches in, we can clean the room very quickly.	[Phrasal Verb] to join in to help with a task	colaborar / arrimar el hombro
+2797E	pitch black	It was [...] inside the cave without a flashlight.	It was pitch black inside the cave without a flashlight.	[Adjective/Idiom] completely dark with no light	negro azabache / totalmente a oscuras
+2798A	pine	The forest was full of tall [...] trees and fresh air.	The forest was full of tall pine trees and fresh air.	[Noun] an evergreen tree with needle-shaped leaves	pino
+2798B	pine for	He began to [...] his family after months away from home.	He began to pine for his family after months away from home.	[Phrasal Verb] to miss someone or something deeply	añorar / suspirar por
+2799A	brilliant	She had a [...] idea to solve the technical problem.	She had a brilliant idea to solve the technical problem.	[Adjective] extremely clever or talented	brillante / genial
+2799B	brilliant	The diamond gave off a [...] shine in the sunlight.	The diamond gave off a brilliant shine in the sunlight.	[Adjective] exceptionally bright or shining	brillante / refulgente
+2800A	versus	It was a great game of navy [...] red in the finals.	It was a great game of navy versus red in the finals.	[Preposition] against or in contrast to	frente a / contra / versus
