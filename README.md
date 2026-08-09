@@ -7,14 +7,14 @@
   # Top 4348 English Words - Volumen 1
 
   ![Tamaño del Repositorio](https://img.shields.io/github/repo-size/andrewphilip6mg-debug/top4348_vol1?color=2ea043&style=for-the-badge&logo=github&cacheSeconds=60)
-  ![Archivos](https://img.shields.io/badge/Archivos-9409-blue?style=for-the-badge&logo=files)
-  ![Carpetas](https://img.shields.io/badge/Carpetas-61-orange?style=for-the-badge&logo=folder)
-  ![Palabra Actual](https://img.shields.io/badge/Palabra_Actual-2700-purple?style=for-the-badge&logo=book)
+  ![Archivos](https://img.shields.io/badge/Archivos-9759-blue?style=for-the-badge&logo=files)
+  ![Carpetas](https://img.shields.io/badge/Carpetas-63-orange?style=for-the-badge&logo=folder)
+  ![Palabra Actual](https://img.shields.io/badge/Palabra_Actual-2800-purple?style=for-the-badge&logo=book)
   <br>
-  ![Audios](https://img.shields.io/badge/Audios-14.93MB-yellow?style=for-the-badge&logo=applemusic)
-  ![Imágenes](https://img.shields.io/badge/Imágenes-83.31MB-success?style=for-the-badge&logo=image)
+  ![Audios](https://img.shields.io/badge/Audios-15.87MB-yellow?style=for-the-badge&logo=applemusic)
+  ![Imágenes](https://img.shields.io/badge/Imágenes-85.69MB-success?style=for-the-badge&logo=image)
   <br>
-  ![Progreso](https://img.shields.io/badge/PROGRESO-████████████░░░░░░░░_62%25-2ea043?style=for-the-badge)
+  ![Progreso](https://img.shields.io/badge/PROGRESO-█████████████░░░░░░░_64%25-2ea043?style=for-the-badge)
 
   <br>
 
