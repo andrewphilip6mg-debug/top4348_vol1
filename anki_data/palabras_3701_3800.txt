@@ -1,0 +1,126 @@
+3701A	intimate	They shared an [...] conversation in the small cafe.	They shared an intimate conversation in the small cafe.	[Adjective] private, personal, and quiet	íntimo / personal
+3701B	intimate	They have been [...] friends since childhood.	They have been intimate friends since childhood.	[Adjective] having a close personal relationship	íntimo / cercano
+3702A	empire	The Roman [...] controlled much of Europe.	The Roman empire controlled much of Europe.	[Noun] a group of countries ruled by a single leader or government	imperio
+3703A	cab	I took a [...] to the airport this morning.	I took a cab to the airport this morning.	[Noun] a car driven by a professional driver for pay	taxi
+3704A	exam	She studied all night for the final [...].	She studied all night for the final exam.	[Noun] a formal test of knowledge or ability	examen
+3705A	documentary	We watched a [...] about ocean life last night.	We watched a documentary about ocean life last night.	[Noun] a film or television show about real events and facts	documental
+3706A	neutral	Switzerland remained [...] during the global war.	Switzerland remained neutral during the global war.	[Adjective] not supporting either side in a conflict or argument	neutral
+3706B	neutral	Put the car in [...] before starting the engine.	Put the car in neutral before starting the engine.	[Noun] the position of gears in a vehicle where no power is transmitted	punto muerto / punto neutro
+3707A	biology	He is studying [...] at the local university.	He is studying biology at the local university.	[Noun] the scientific study of living things	biología
+3708A	flexible	Yoga helps to make your body much more [...].	Yoga helps to make your body much more flexible.	[Adjective] able to bend easily without breaking	flexible
+3708B	flexible	My work schedule is very [...] this month.	My work schedule is very flexible this month.	[Adjective] able to change easily according to situation	flexible / adaptable
+3709A	progressive	The city has very [...] ideas about public transport.	The city has very progressive ideas about public transport.	[Adjective] supporting modern social and political change	progresista / progresivo
+3710A	web	A large spider built a [...] near the window.	A large spider built a web near the window.	[Noun] a net made by a spider to catch insects	telaraña
+3710B	web	You can find more details on our [...] page.	You can find more details on our web page.	[Noun] the internet network	red / web
+3711A	conspiracy	They were arrested for joining a political [...].	They were arrested for joining a political conspiracy.	[Noun] a secret plan by a group to do something illegal	conspiración
+3712A	casualty	The car crash resulted in one minor [...].	The car crash resulted in one minor casualty.	[Noun] a person killed or injured in an accident or war	víctima / baja
+3713A	republic	France became a [...] after the revolution.	France became a republic after the revolution.	[Noun] a country governed by elected representatives	república
+3714A	execution	The [...] of the plan took three full months.	The execution of the plan took three full months.	[Noun] the act of carrying out an action or plan	ejecución / realización
+3714B	execution	The lawyer tried to delay the prisoner's [...].	The lawyer tried to delay the prisoner's execution.	[Noun] the legal killing of a convicted criminal	ejecución / pena de muerte
+3715A	terrific	You did a [...] job on the project today.	You did a terrific job on the project today.	[Adjective] extremely good or impressive	fantástico / genial
+3716A	whale	We saw a blue [...] during our boat tour.	We saw a blue whale during our boat tour.	[Noun] a very large sea mammal	ballena
+3717A	functional	The old computer is still completely [...].	The old computer is still completely functional.	[Adjective] working correctly and practically	funcional / operativo
+3718A	instinct	Trust your [...] when making important decisions.	Trust your instinct when making important decisions.	[Noun] a natural behavior or reaction not learned	instinto
+3719A	teammate	He passed the ball to a [...] near the goal.	He passed the ball to a teammate near the goal.	[Noun] a fellow member of the same sports team	compañero de equipo
+3720A	aluminum	The soda cans are made of lightweight [...].	The soda cans are made of lightweight aluminum.	[Noun] a light silver-colored metal	aluminio
+3721A	whoever	[...] left the door open should close it now.	Whoever left the door open should close it now.	[Pronoun] any person who	quienquiera / cualquiera que
+3722A	ministry	She got a new job at the health [...].	She got a new job at the health ministry.	[Noun] a major department of a government	ministerio
+3723A	verdict	The jury reached a guilty [...] quickly.	The jury reached a guilty verdict quickly.	[Noun] an official decision made in a court of law	veredicto
+3724A	instruct	The teacher [...] the students to sit down quietly.	The teacher instructed the students to sit down quietly.	[Verb] to give explicit directions or orders to someone	instruir / indicar
+3725A	skull	He wore a helmet to protect his [...].	He wore a helmet to protect his skull.	[Noun] the bone structure protecting the brain	cráneo
+3726A	self-esteem	Regular exercise can improve your overall [...].	Regular exercise can improve your overall self-esteem.	[Noun] confidence and respect in oneself	autoestima
+3727A	cooperative	The children were very [...] during the trip.	The children were very cooperative during the trip.	[Adjective] willing to assist and work together	cooperativo / colaborador
+3728A	manipulate	He tried to [...] the data to hide his mistake.	He tried to manipulate the data to hide his mistake.	[Verb] to control or influence cleverly and unfairly	manipular
+3729A	bee	A [...] landed on the yellow flower in the garden.	A bee landed on the yellow flower in the garden.	[Noun] a flying insect that makes honey	abeja
+3730A	practitioner	She is a medical [...] at the town clinic.	She is a medical practitioner at the town clinic.	[Noun] a person working in a skilled profession	profesional / médico
+3731A	loop	Tie the heavy rope into a tight [...].	Tie the heavy rope into a tight loop.	[Noun] a curved shape made by a line or string crossing itself	bucle / lazo
+3731B	loop in	Please [...] on any new developments.	Please loop me in on any new developments.	[Phrasal Verb] to keep a person informed about something	incluir / mantener al tanto
+3731C	in the loop	Make sure to keep the manager [...] about the project.	Make sure to keep the manager in the loop about the project.	[Idiom] informed about a process or plan	al tanto / informado
+3732A	edit	I need to [...] my paper before sending it.	I need to edit my paper before sending it.	[Verb] to make changes and corrections to written text	editar / corregir
+3733A	whip	The rider used a leather [...] to guide the horse.	The rider used a leather whip to guide the horse.	[Noun] a long strip of leather with a handle	látigo
+3733B	whip up	She [...] a quick meal for the late visitors.	She whipped up a quick meal for the late visitors.	[Phrasal Verb] to prepare food very quickly	preparar rápidamente
+3734A	puzzle	My grandfather loves doing the daily crossword [...].	My grandfather loves doing the daily crossword puzzle.	[Noun] a game or problem testing skill or ingenuity	rompecabezas / puzle
+3734B	puzzle	The mysterious letter [...] everyone in the family.	The mysterious letter puzzled everyone in the family.	[Verb] to confuse or perplex someone	confundir / desconcertar
+3735A	mushroom	I added fresh sliced [...] to the pasta sauce.	I added fresh sliced mushrooms to the pasta sauce.	[Noun] an edible fungus with a round cap	seta / champiñón
+3736A	subsidy	Farmers received a government [...] for their crops.	Farmers received a government subsidy for their crops.	[Noun] money given by a government to support an activity	subsidio / subvención
+3737A	boil	Please [...] some water for the tea.	Please boil some water for the tea.	[Verb] to heat liquid until bubbles form rapidly	hervir
+3737B	boil down to	The main issue [...] a simple lack of money.	The main issue boils down to a simple lack of money.	[Phrasal Verb] to have as a main point or reason	resumirse en / reducirse a
+3738A	tragic	It was a [...] accident that shocked the town.	It was a tragic accident that shocked the town.	[Adjective] causing extreme sadness, often involving death	trágico
+3739A	mathematics	She has always excelled at learning [...].	She has always excelled at learning mathematics.	[Noun] the study of numbers, quantities, and shapes	matemáticas
+3740A	mechanic	The [...] repaired my car engine yesterday.	The mechanic repaired my car engine yesterday.	[Noun] a worker who repairs machines and vehicles	mecánico
+3741A	jar	She opened a new [...] of strawberry jam.	She opened a new jar of strawberry jam.	[Noun] a glass container with a wide top	frasco / tarro
+3742A	earthquake	The strong [...] damaged several old houses.	The strong earthquake damaged several old houses.	[Noun] a sudden shaking of the ground	terremoto
+3743A	pork	We had roasted [...] with vegetables for dinner.	We had roasted pork with vegetables for dinner.	[Noun] meat from a pig used as food	carne de cerdo
+3744A	creativity	Painting gives her a way to express her [...].	Painting gives her a way to express her creativity.	[Noun] the ability to produce new ideas or objects	creatividad
+3745A	safely	The plane landed [...] despite the heavy fog.	The plane landed safely despite the heavy fog.	[Adverb] in a secure manner without danger or harm	de forma segura / a salvo
+3746A	underlying	Stress was the [...] cause of his health problems.	Stress was the underlying cause of his health problems.	[Adjective] basic or fundamental, but not immediately obvious	subyacente / de fondo
+3747A	dessert	We ordered chocolate cake for [...] after lunch.	We ordered chocolate cake for dessert after lunch.	[Noun] sweet food eaten at the end of a meal	postre
+3748A	sympathy	I offered my [...] when his pet passed away.	I offered my sympathy when his pet passed away.	[Noun] feelings of pity and care for someone's distress	compasión / empatía / condolencias
+3749A	fisherman	The old [...] caught three large salmon today.	The old fisherman caught three large salmon today.	[Noun] a person who catches fish as a job or sport	pescador
+3750A	incredibly	The test was [...] easy for most of the class.	The test was incredibly easy for most of the class.	[Adverb] extremely or remarkably	increíblemente / extremadamente
+3751A	isolation	Living in total [...] made him feel lonely.	Living in total isolation made him feel lonely.	[Noun] the state of being separate from others	aislamiento
+3752A	sock	He lost one black [...] in the washing machine.	He lost one black sock in the washing machine.	[Noun] a soft garment worn on the foot inside shoes	calcetín
+3753A	eleven	My younger sister will turn [...] next month.	My younger sister will turn eleven next month.	[Number] the number eleven (11)	once
+3754A	sexy	She wore a very stylish and [...] red dress.	She wore a very stylish and sexy red dress.	[Adjective] sexually attractive or appealing	sexy / atractivo
+3755A	entrepreneur	The young [...] launched a successful startup company.	The young entrepreneur launched a successful startup company.	[Noun] a person who sets up and runs businesses	emprendedor / empresario
+3756A	syndrome	Carpal tunnel [...] causes pain in the wrist.	Carpal tunnel syndrome causes pain in the wrist.	[Noun] a set of medical symptoms that occur together	síndrome
+3757A	bureau	He reported his lost passport to the travel [...].	He reported his lost passport to the travel bureau.	[Noun] an official organization providing specific services	oficina / agencia
+3757B	bureau	She kept her folded socks in the top drawer of the [...].	She kept her folded socks in the top drawer of the bureau.	[Noun] a chest of drawers for storing clothes	cómoda / cajonera
+3758A	workplace	Safety rules are very important in the [...].	Safety rules are very important in the workplace.	[Noun] the physical location where people do their job	lugar de trabajo
+3759A	ambition	Her main [...] is to become a top lawyer.	Her main ambition is to become a top lawyer.	[Noun] a strong desire to achieve a goal	ambición
+3760A	touchdown	The player ran fast to score a [...].	The player ran fast to score a touchdown.	[Noun] a six-point score in American football	touchdown / anotación
+3760B	touchdown	The plane made a smooth [...] at the international airport.	The plane made a smooth touchdown at the international airport.	[Noun] the moment a landing aircraft contacts the ground	aterrizaje
+3761A	utilize	We should [...] all our available resources now.	We should utilize all our available resources now.	[Verb] to make practical use of something	utilizar / aprovechar
+3762A	breeze	A cool [...] blew through the open bedroom door.	A cool breeze blew through the open bedroom door.	[Noun] a gentle and pleasant wind	brisa
+3762B	breeze	The English test was a [...] for the native speaker.	The English test was a breeze for the native speaker.	[Noun - Informal] a thing that is very easy to achieve or do	pan comido / algo muy fácil
+3762C	breeze through	She managed to [...] the test without any studying.	She managed to breeze through the test without any studying.	[Phrasal Verb] to achieve or pass something easily	aprobar fácilmente / hacer algo sin esfuerzo
+3763A	costly	Fixing the broken roof proved to be very [...].	Fixing the broken roof proved to be very costly.	[Adjective] expensive or involving high expenditure	costoso / caro
+3764A	ambitious	The [...] young man wants to run the company.	The ambitious young man wants to run the company.	[Adjective] having a strong determination to succeed	ambicioso
+3765A	Christianity	[...] is one of the world's major religions.	Christianity is one of the world's major religions.	[Noun] the religion based on Jesus Christ's teachings	cristianismo
+3766A	presumably	The train is late, [...] due to heavy rain.	The train is late, presumably due to heavy rain.	[Adverb] used to convey that something is likely true	presumiblemente / probablemente
+3767A	influential	Her teacher was an [...] figure in her life.	Her teacher was an influential figure in her life.	[Adjective] having a great impact on someone or something	influyente
+3768A	translation	Read the English [...] of the Spanish book.	Read the English translation of the Spanish book.	[Noun] text changed from one language into another	traducción
+3769A	uncertain	The weather plan for tomorrow remains completely [...].	The weather plan for tomorrow remains completely uncertain.	[Adjective] not known, fixed, or decided with certainty	incierto / dudoso
+3770A	dissolve	Stir the hot liquid until the sugar [...].	Stir the hot liquid until the sugar dissolves.	[Verb] to mix into liquid so that it disappears	disolverse / disolver
+3771A	statistical	The report gives a [...] analysis of the sales.	The report gives a statistical analysis of the sales.	[Adjective] related to numerical data and facts	estadístico
+3772A	gut	He felt a sharp pain in his [...] after eating.	He felt a sharp pain in his gut after eating.	[Noun] the stomach or intestine area	tripa / estómago / intestino
+3772B	gut	I had a [...] feeling that something was wrong.	I had a gut feeling that something was wrong.	[Adjective] based on instinct rather than logic	visceral / de intuición
+3772C	spill one's guts	She decided to [...] to her best friend about what happened.	She decided to spill her guts to her best friend about what happened.	[Idiom] to reveal confidential or secret information fully	desembuchar / contarlo todo
+3773A	metropolitan	Tokyo is a huge [...] area with millions of people.	Tokyo is a huge metropolitan area with millions of people.	[Adjective] relating to a large city and surrounding region	metropolitano
+3774A	rolling	They walked across the beautiful [...] hills.	They walked across the beautiful rolling hills.	[Adjective] having gentle rising and falling slopes	ondulado / en movimiento
+3775A	aesthetic	The house has a very clean and simple [...] design.	The house has a very clean and simple aesthetic design.	[Adjective] concerned with beauty or artistic appreciation	estético
+3775B	aesthetic	I like the modern [...] of this new apartment.	I like the modern aesthetic of this new apartment.	[Noun] a specific artistic or visual style	estética / estilo
+3776A	spell	How do you [...] your middle name?	How do you spell your middle name?	[Verb] to name or write the letters of a word	deletrear
+3776B	spell	We had a short cold [...] earlier this week.	We had a short cold spell earlier this week.	[Noun] a brief period of a specific condition	periodo / racha
+3776C	spell	The witch cast a magic [...] on the knight.	The witch cast a magic spell on the knight.	[Noun] words believed to have magical force	hechizo / conjuro
+3776D	spell out	You do not need to [...] every single detail.	You do not need to spell out every single detail.	[Phrasal Verb] to explain something clearly and explicitly	explicar claramente / detallar
+3777A	insert	[...] the plastic card into the machine to pay.	Insert the plastic card into the machine to pay.	[Verb] to put something inside another thing	insertar / introducir
+3778A	booth	They bought their tickets at the wooden [...].	They bought their tickets at the wooden booth.	[Noun] a small temporary structure or enclosed stall	caseta / puesto
+3778B	booth	We asked the waiter for a corner [...] in the diner.	We asked the waiter for a corner booth in the diner.	[Noun] a table flanked by high-backed cushioned seats in a restaurant	box / reservado / mesa con bancos
+3779A	helmet	Always put on a [...] when riding a motorcycle.	Always put on a helmet when riding a motorcycle.	[Noun] a hard protective hat worn on the head	casco
+3780A	waist	He tied the blue belt around his [...].	He tied the blue belt around his waist.	[Noun] the narrow middle part of the human body	cintura
+3781A	expected	Heavy rain is [...] later this evening.	Heavy rain is expected later this evening.	[Adjective] regarded as likely to happen	esperado / previsto
+3782A	lion	The male [...] had a very dark mane.	The male lion had a very dark mane.	[Noun] a large wild cat of Africa and Asia	león
+3783A	accomplishment	Winning the race was a great personal [...].	Winning the race was a great personal accomplishment.	[Noun] something successfully achieved through effort	logro / éxito
+3784A	royal	The [...] family lives in a huge palace.	The royal family lives in a huge palace.	[Adjective] connected to or belonging to a king or queen	real
+3785A	panic	Loud sudden noises caused [...] among the crowd.	Loud sudden noises caused panic among the crowd.	[Noun] sudden uncontrollable fear or anxiety	pánico
+3785B	panic	The passengers [...] when the engine stopped.	The passengers panicked when the engine stopped.	[Verb] to feel sudden overwhelming fear	entrar en pánico / asustarse
+3786A	crush	Be careful not to [...] the fresh tomatoes.	Be careful not to crush the fresh tomatoes.	[Verb] to press something hard so it breaks or flattens	aplastar / triturar
+3786B	crush	She has a secret [...] on her classmate.	She has a secret crush on her classmate.	[Noun - Informal] a short romantic attraction to someone	flechazo / amorío
+3786C	crush it	You are going to [...] in the job interview today!	You are going to crush it in the job interview today!	[Idiom - Informal] to do something extraordinarily well	romperla / hacerlo genial
+3787A	actively	He is [...] searching for a new job now.	He is actively searching for a new job now.	[Adverb] in an energetic, involved, or direct way	activamente / de forma activa
+3788A	cliff	They stood near the edge of the high [...].	They stood near the edge of the high cliff.	[Noun] a steep rock face near the sea or coast	acantilado
+3789A	minimal	The storm caused only [...] damage to the roof.	The storm caused only minimal damage to the roof.	[Adjective] very small in amount or degree	mínimo
+3790A	cord	Unplug the electric [...] from the wall outlet.	Unplug the electric cord from the wall outlet.	[Noun] a long thin covered wire carrying electricity	cable / cordón
+3791A	fortunately	[...], nobody was hurt in the car accident.	Fortunately, nobody was hurt in the car accident.	[Adverb] by good luck or fortunate chance	afortunadamente / por suerte
+3792A	cocaine	The police seized a large shipment of [...].	The police seized a large shipment of cocaine.	[Noun] an illegal powerful stimulant drug	cocaína
+3793A	illusion	The mirror trick creates a clever optical [...].	The mirror trick creates a clever optical illusion.	[Noun] a false idea or deceptive appearance	ilusión / espejismo
+3794A	anonymous	The donor wished to remain completely [...].	The donor wished to remain completely anonymous.	[Adjective] made or done by an unidentified person	anónimo
+3795A	tolerate	I cannot [...] loud noise when trying to sleep.	I cannot tolerate loud noise when trying to sleep.	[Verb] to allow or endure something unpleasant	tolerar / soportar
+3796A	appreciation	She expressed her sincere [...] for their help.	She expressed her sincere appreciation for their help.	[Noun] recognition and gratitude for value or help	agradecimiento / aprecio
+3797A	commissioner	The police [...] spoke to the press today.	The police commissioner spoke to the press today.	[Noun] an official head of a public department	comisionado / comisario / delegado
+3798A	flexibility	Stretching exercises help improve your muscle [...].	Stretching exercises help improve your muscle flexibility.	[Noun] the quality of bending easily without breaking	flexibilidad
+3799A	instructional	I watched an [...] video on fixing a tap.	I watched an instructional video on fixing a tap.	[Adjective] designed to teach or inform someone	instructivo / educativo
+3800A	scramble	The kids started to [...] up the rocky hill.	The kids started to scramble up the rocky hill.	[Verb] to move or climb quickly using hands and feet	trepar / escalar
+3800B	scramble	She [...] three eggs for a quick breakfast.	She scrambled three eggs for a quick breakfast.	[Verb] to mix and cook eggs together	revolver / hacer revuelto
+3800C	scramble	People [...] to buy tickets before they sold out.	People scrambled to buy tickets before they sold out.	[Verb] to move or act hurriedly and frantically	luchar desesperadamente / apresurarse
