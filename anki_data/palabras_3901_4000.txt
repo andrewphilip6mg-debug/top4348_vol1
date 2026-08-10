@@ -1,0 +1,137 @@
+3901A	shark	A large [...] was seen swimming near the beach.	A large shark was seen swimming near the beach.	[Noun] large ocean fish with sharp teeth	tiburón
+3901B	loan shark	He borrowed money from a [...] to pay his debts.	He borrowed money from a loan shark to pay his debts.	[Noun - Informal] person who lends money at very high interest	prestamista abusivo / usurero
+3902A	mill	Farmers brought their wheat to the local [...] to make flour.	Farmers brought their wheat to the local mill to make flour.	[Noun] building where grain is crushed into flour	molino
+3902B	mill	My uncle worked at the steel [...] for thirty years.	My uncle worked at the steel mill for thirty years.	[Noun] factory that makes materials like steel or paper	fábrica / molino
+3902C	mill around	A crowd of nervous people began to [...] outside the entrance.	A crowd of nervous people began to mill around outside the entrance.	[Phrasal Verb] to walk or stand around without clear direction	andar de un lado a otro / arremolinarse
+3902D	run-of-the-mill	It was just a [...] movie, nothing special.	It was just a run-of-the-mill movie, nothing special.	[Adjective - Informal] ordinary, average, or not special	común y corriente / ordinario
+3903A	installation	The [...] of the new software took ten minutes.	The installation of the new software took ten minutes.	[Noun] act of putting equipment or software in place	instalación
+3904A	stimulate	Lower taxes can [...] growth in the local economy.	Lower taxes can stimulate growth in the local economy.	[Verb] to encourage activity, growth, or interest	estimular
+3905A	tag	Check the price [...] before you buy the shirt.	Check the price tag before you buy the shirt.	[Noun] small piece of paper or plastic attached to something	etiqueta
+3905B	tag	Remember to [...] me in your photo on social media.	Remember to tag me in your photo on social media.	[Verb] to attach a label or mark someone in a post	etiquetar
+3905C	tag along	Can I [...] with you to the grocery store?	Can I tag along with you to the grocery store?	[Phrasal Verb - Informal] to go somewhere with someone uninvited	acoplarse / ir con alguien
+3906A	vertical	Draw a straight [...] line down the middle of the page.	Draw a straight vertical line down the middle of the page.	[Adjective] standing or pointing straight up	vertical
+3907A	swimming	She goes [...] in the lake every summer morning.	She goes swimming in the lake every summer morning.	[Noun] sport or activity of moving through water	natación
+3908A	fleet	The company owns a large [...] of delivery trucks.	The company owns a large fleet of delivery trucks.	[Noun] group of ships or vehicles working together	flota
+3909A	catalog	I looked through the [...] to order a new jacket.	I looked through the catalog to order a new jacket.	[Noun] book or list showing items for sale	catálogo
+3910A	outsider	As a newcomer, he felt like an [...] at first.	As a newcomer, he felt like an outsider at first.	[Noun] person who does not belong to a group	forastero/a / persona ajena
+3911A	desperately	The thirsty traveler [...] needed a cold drink of water.	The thirsty traveler desperately needed a cold drink of water.	[Adverb] with urgent need or extreme worry	desesperadamente
+3912A	stance	The politician explained her [...] on public education.	The politician explained her stance on public education.	[Noun] opinion or attitude toward a particular issue	postura / posición
+3912B	stance	The fighter took a strong defensive [...] in the ring.	The fighter took a strong defensive stance in the ring.	[Noun] way of standing or position of the body	postura física
+3913A	compel	Bad weather [...] us to stay inside the hotel all day.	Bad weather compelled us to stay inside the hotel all day.	[Verb] to force or strongly persuade someone to do something	obligar / compeler
+3914A	sensitivity	His teeth have a lot of [...] to cold ice cream.	His teeth have a lot of sensitivity to cold ice cream.	[Noun] quality of being easily affected or uncomfortable	sensibilidad
+3914B	sensitivity	She handled the difficult news with great [...] and care.	She handled the difficult news with great sensitivity and care.	[Noun] ability to understand other people's feelings	sensibilidad / empatía
+3915A	someday	I hope to visit Japan [...] when I save enough money.	I hope to visit Japan someday when I save enough money.	[Adverb] at an unknown time in the future	algún día
+3916A	instant	Hot water gives you [...] coffee in just a few seconds.	Hot water gives you instant coffee in just a few seconds.	[Adjective] happening immediately or prepared quickly	instantáneo
+3916B	instant	For a single [...], the room went completely dark.	For a single instant, the room went completely dark.	[Noun] very short moment of time	instante / momento
+3917A	debut	The band released their [...] album last month to great reviews.	The band released their debut album last month to great reviews.	[Noun] first public appearance of a performer or product	debut / estreno
+3918A	proclaim	The mayor [...] tomorrow a public holiday for the city.	The mayor proclaimed tomorrow a public holiday for the city.	[Verb] to announce officially or publicly	proclamar / declarar
+3919A	worldwide	The movie became a [...] success within a few weeks.	The movie became a worldwide success within a few weeks.	[Adjective] existing or happening all over the world	mundial
+3919B	worldwide	The company sells its popular software [...].	The company sells its popular software worldwide.	[Adverb] across the entire world	en todo el mundo
+3920A	hike	We went on a long [...] in the mountains on Saturday.	We went on a long hike in the mountains on Saturday.	[Noun] long walk in nature	caminata / senderismo
+3920B	hike	They like to [...] along the river every weekend.	They like to hike along the river every weekend.	[Verb] to go for a long walk in nature	hacer senderismo / caminar
+3920C	hike	Drivers complained about the recent [...] in gas prices.	Drivers complained about the recent hike in gas prices.	[Noun] sharp or sudden increase in price or cost	subida / aumento
+3920D	hike up	The store decided to [...] prices right before the holidays.	The store decided to hike up prices right before the holidays.	[Phrasal Verb] to raise prices or costs sharply	subir / aumentar drásticamente
+3921A	required	Math is a [...] course for all high school students.	Math is a required course for all high school students.	[Adjective] needed or necessary according to rules	obligatorio / requerido
+3922A	confrontation	He tried to avoid a physical [...] with his angry neighbor.	He tried to avoid a physical confrontation with his angry neighbor.	[Noun] angry argument or fight between people	enfrentamiento / confrontación
+3923A	colorful	She wore a [...] dress to the summer garden party.	She wore a colorful dress to the summer garden party.	[Adjective] having bright or many different colors	colorido / vistoso
+3924A	constitution	Freedom of speech is protected by the country's [...].	Freedom of speech is protected by the country's constitution.	[Noun] set of basic laws that govern a nation	constitución
+3925A	trainer	Her personal [...] created a daily workout plan for her.	Her personal trainer created a daily workout plan for her.	[Noun] person who teaches skills or helps people exercise	entrenador/a
+3925B	trainers	He put on his white [...] and went for a morning run.	He put on his white trainers and went for a morning run.	[Noun - BrE] sports shoes worn for running or casual wear	zapatillas deportivas / tenis
+3926A	Thanksgiving	Our family eats roast turkey together on [...].	Our family eats roast turkey together on Thanksgiving.	[Noun] holiday celebrated in North America to give thanks	Acción de Gracias
+3927A	scent	The sweet [...] of fresh roses filled the living room.	The sweet scent of fresh roses filled the living room.	[Noun] pleasant smell	aroma / olor
+3928A	stack	There was a tall [...] of books on her study desk.	There was a tall stack of books on her study desk.	[Noun] neat pile of things on top of each other	pila / montón
+3928B	stack	Please [...] the chairs in the corner after the meeting.	Please stack the chairs in the corner after the meeting.	[Verb] to arrange things neatly in a pile	apilar
+3928C	stack up	Our new product sales [...] well against the competition.	Our new product sales stack up well against the competition.	[Phrasal Verb] to compare to or measure against something else	compararse / estar a la altura
+3929A	eyebrow	He raised an [...] when he heard the strange news.	He raised an eyebrow when he heard the strange news.	[Noun] line of hair above the eye	ceja
+3930A	sack	He carried a heavy [...] of potatoes into the kitchen.	He carried a heavy sack of potatoes into the kitchen.	[Noun] large bag made of strong material	saco / costal
+3930B	sack	The manager decided to [...] him for coming to work late.	The manager decided to sack him for coming to work late.	[Verb - Informal] to fire someone from a job	despedir
+3930C	hit the sack	I am feeling exhausted, so I am going to [...] now.	I am feeling exhausted, so I am going to hit the sack now.	[Idiom - Informal] to go to bed or go to sleep	irse a dormir / irse a la cama
+3931A	cease	The loud noise outside finally began to [...] at midnight.	The loud noise outside finally began to cease at midnight.	[Verb] to stop happening or stop doing something	cesar / parar
+3931B	ceasefire	The two armies agreed to a temporary [...] to help civilians.	The two armies agreed to a temporary ceasefire to help civilians.	[Noun] agreement between fighting groups to stop war	alto el fuego / tregua
+3932A	inherit	She will [...] her grandmother's old house next month.	She will inherit her grandmother's old house next month.	[Verb] to receive money or property from someone who died	heredar
+3933A	tray	The waiter carried four drinks on a silver [...].	The waiter carried four drinks on a silver tray.	[Noun] flat piece of wood or plastic used to carry food	bandeja
+3934A	pioneer	She was a [...] in the field of space research.	She was a pioneer in the field of space research.	[Noun] person who is one of the first to explore or do something	pionero/a
+3935A	organizational	Good [...] skills are helpful for this office job.	Good organizational skills are helpful for this office job.	[Adjective] relating to the structure or planning of a group	organizacional / de organización
+3936A	textbook	We read chapter three of our history [...] for homework.	We read chapter three of our history textbook for homework.	[Noun] book used for the study of a subject in school	libro de texto
+3936B	textbook	The doctor performed a [...] operation with no complications at all.	The doctor performed a textbook operation with no complications at all.	[Adjective] classic and perfectly following standard rules	de libro / clásico / ejemplar
+3937A	uh	I think the correct answer is, [...], forty-two.	I think the correct answer is, uh, forty-two.	[Interjection] sound used when pausing or hesitating while speaking	eh / este
+3938A	nasty	The open trash bin left a [...] smell in the room.	The open trash bin left a nasty smell in the room.	[Adjective] very unpleasant, dirty, or bad	desagradable / repugnante
+3938B	nasty	He made a [...] comment that hurt her feelings.	He made a nasty comment that hurt her feelings.	[Adjective] unkind or malicious	manifiestamente antipático / hiriente
+3939A	shrink	Hot water can [...] your cotton shirt in the wash.	Hot water can shrink your cotton shirt in the wash.	[Verb] to become smaller in size	encogerse / reducirse
+3939B	shrink	She decided to see a [...] to talk about her personal problems.	She decided to see a shrink to talk about her personal problems.	[Noun - Informal] psychiatrist or mental health therapist	loquero/a / psiquiatra
+3940A	emerging	The country has an [...] market for modern technology.	The country has an emerging market for modern technology.	[Adjective] starting to exist, grow, or become known	emergente
+3941A	dot	Do not forget to put a [...] over the letter i.	Do not forget to put a dot over the letter i.	[Noun] small round mark or spot	punto
+3941B	on the dot	The bus arrived at eight o'clock [...].	The bus arrived at eight o'clock on the dot.	[Idiom - Informal] exactly at the specified time	en punto / a la hora exacta
+3941C	connect the dots	It took the detective several days to [...].	It took the detective several days to connect the dots.	[Idiom] to understand how different facts or events relate to each other	unir los puntos / atar cabos
+3942A	wheat	Farmers harvest fields of golden [...] in late summer.	Farmers harvest fields of golden wheat in late summer.	[Noun] grain used to make flour for bread	trigo
+3943A	fierce	A [...] storm blew through the coastal town last night.	A fierce storm blew through the coastal town last night.	[Adjective] strong, violent, or aggressive	fiero / feroz
+3944A	envision	I [...] a bright future for our new business project.	I envision a bright future for our new business project.	[Verb] to imagine or picture something in the mind	visualizar / concebir
+3945A	rational	Try to make a [...] decision instead of acting out of anger.	Try to make a rational decision instead of acting out of anger.	[Adjective] based on reason rather than emotion	racional
+3946A	kingdom	The old king ruled over a peaceful mountain [...].	The old king ruled over a peaceful mountain kingdom.	[Noun] country ruled by a king or queen	reino
+3947A	aisle	She preferred an [...] seat on the long airplane flight.	She preferred an aisle seat on the long airplane flight.	[Noun] passage between rows of seats or shelves	pasillo
+3948A	weaken	The sickness will [...] your muscles if you do not rest.	The sickness will weaken your muscles if you do not rest.	[Verb] to become less strong, or make something less strong	debilitar / debilitarse
+3949A	protocol	Hospital staff must follow strict safety [...] at all times.	Hospital staff must follow strict safety protocol at all times.	[Noun] system of rules for formal procedures	protocolo
+3950A	exclusively	This quiet park is used [...] by local residents.	This quiet park is used exclusively by local residents.	[Adverb] only and not including anything else	exclusivamente / únicamente
+3951A	vocal	She was very [...] about her opposition to the new rule.	She was very vocal about her opposition to the new rule.	[Adjective] expressing opinions strongly and freely	vocal / firme en sus opiniones
+3951B	vocal	The singer practiced her [...] warmups before the concert.	The singer practiced her vocal warmups before the concert.	[Adjective] relating to the human voice	vocal / de la voz
+3952A	marketplace	Online shopping has changed the global [...] completely.	Online shopping has changed the global marketplace completely.	[Noun] arena or system where goods are bought and sold	mercado
+3953A	openly	They spoke [...] about their plans for the upcoming year.	They spoke openly about their plans for the upcoming year.	[Adverb] without hiding thoughts, feelings, or secrets	abiertamente
+3954A	unfair	It is [...] to blame him for the entire group's mistake.	It is unfair to blame him for the entire group's mistake.	[Adjective] not right or equal according to rules	injusto
+3955A	terrain	The rocky [...] made walking up the hill very difficult.	The rocky terrain made walking up the hill very difficult.	[Noun] physical features of a stretch of land	terreno
+3956A	deploy	The government decided to [...] troops to the border.	The government decided to deploy troops to the border.	[Verb] to move soldiers or resources into position for action	desplegar
+3957A	risky	Driving fast on icy roads is extremely [...].	Driving fast on icy roads is extremely risky.	[Adjective] involving a chance of danger or failure	arriesgado / peligroso
+3958A	pasta	We ate fresh [...] with tomato sauce for dinner last night.	We ate fresh pasta with tomato sauce for dinner last night.	[Noun] Italian food made from flour, water, and eggs	pasta
+3959A	genre	Science fiction is my favorite [...] of movies.	Science fiction is my favorite genre of movies.	[Noun] style or category of art, music, or literature	género
+3960A	distract	Loud noises can [...] students during an important exam.	Loud noises can distract students during an important exam.	[Verb] to take someone's attention away from something	distraer
+3961A	merit	His proposal has a lot of [...] worth considering carefully.	His proposal has a lot of merit worth considering carefully.	[Noun] quality of being good or worthy of praise	mérito
+3962A	planner	I wrote the appointment date in my paper [...].	I wrote the appointment date in my paper planner.	[Noun] book or app used to schedule events and tasks	agenda / planificador
+3963A	depressed	He felt [...] after losing his job last month.	He felt depressed after losing his job last month.	[Adjective] feeling very sad and without hope	deprimido/a
+3964A	chunk	She ate a large [...] of cheese before lunch.	She ate a large chunk of cheese before lunch.	[Noun] thick or solid piece of something	trozo / pedazo
+3965A	closest	My sister is my [...] friend in the world.	My sister is my closest friend in the world.	[Adjective] nearest in distance, time, or relationship	más cercano/a
+3966A	discount	Students receive a ten percent [...] on all books.	Students receive a ten percent discount on all books.	[Noun] reduction in the normal price of something	descuento
+3966B	discount	You should not [...] her advice so quickly without thinking.	You should not discount her advice so quickly without thinking.	[Verb] to regard something as untrue or unimportant	descartar / desestimar
+3967A	ladder	He climbed the tall [...] to clean the house roof.	He climbed the tall ladder to clean the house roof.	[Noun] structure with steps used for climbing up	escalera de mano
+3968A	jungle	Many wild animals live deep inside the tropical [...].	Many wild animals live deep inside the tropical jungle.	[Noun] thick tropical forest with many plants and trees	selva / jungla
+3969A	migration	Bird [...] happens every year before the winter cold starts.	Bird migration happens every year before the winter cold starts.	[Noun] movement of people or animals to a new place	migración
+3970A	breathing	Her heavy [...] showed that she was very tired after running.	Her heavy breathing showed that she was very tired after running.	[Noun] process of taking air into and out of lungs	respiración
+3971A	invade	The army prepared to [...] the neighboring country at dawn.	The army prepared to invade the neighboring country at dawn.	[Verb] to enter a country with an army to conquer it	invadir
+3972A	hurricane	The powerful [...] destroyed several houses near the coast.	The powerful hurricane destroyed several houses near the coast.	[Noun] violent tropical storm with powerful winds	huracán
+3973A	retailer	The online [...] shipped my package within two days.	The online retailer shipped my package within two days.	[Noun] business or person that sells goods directly to consumers	minorista / comerciante
+3974A	classify	Librarians [...] books by subject and author name.	Librarians classify books by subject and author name.	[Verb] to divide things into groups according to type	clasificar
+3975A	coup	Military leaders took control of the government in a sudden [...].	Military leaders took control of the government in a sudden coup.	[Noun] sudden, illegal overthrow of a government	golpe de Estado
+3976A	ambassador	The French [...] met with local leaders this morning.	The French ambassador met with local leaders this morning.	[Noun] official diplomat sent to represent a country	embajador/a
+3977A	density	The large city has a very high population [...].	The large city has a very high population density.	[Noun] amount of something in a specific area or space	densidad
+3978A	supportive	My family was very [...] when I started my new business.	My family was very supportive when I started my new business.	[Adjective] giving help, encouragement, or sympathy	comprensivo/a / solidario/a
+3979A	curiosity	Young children have a natural [...] about everything around them.	Young children have a natural curiosity about everything around them.	[Noun] strong desire to know or learn something	curiosidad
+3980A	skip	I usually [...] breakfast when I am in a hurry in the morning.	I usually skip breakfast when I am in a hurry in the morning.	[Verb] to intentionally avoid doing or taking something	saltarse / omitir
+3980B	skip	The happy girl began to [...] down the hallway.	The happy girl began to skip down the hallway.	[Verb] to move along lightly with small leaps	dar saltitos / brincar
+3981A	aggression	The strange dog showed [...] toward people walking by.	The strange dog showed aggression toward people walking by.	[Noun] violent or angry behavior toward others	agresión
+3982A	stimulus	Bright light acts as a [...] that wakes up the brain.	Bright light acts as a stimulus that wakes up the brain.	[Noun] something that causes a reaction or activity	estímulo
+3983A	journalism	She studied [...] at university to become a news reporter.	She studied journalism at university to become a news reporter.	[Noun] job of collecting and writing news stories	periodismo
+3984A	robot	The factory uses an industrial [...] to build car parts.	The factory uses an industrial robot to build car parts.	[Noun] machine controlled by a computer to do tasks	robot
+3985A	dip	I like to [...] my cookies into warm milk before eating them.	I like to dip my cookies into warm milk before eating them.	[Verb] to put something briefly into a liquid	mojar / sumergir un momento
+3985B	dip	We noticed a small [...] in sales during the summer months.	We noticed a small dip in sales during the summer months.	[Noun] slight decrease or fall in level	caída / descenso
+3985C	dip	She brought chips and a bowl of spinach [...] to the party.	She brought chips and a bowl of spinach dip to the party.	[Noun] thick sauce used for dipping food into	salsa para mojar / aderezo
+3985D	dip into	We had to [...] our emergency savings to fix the broken roof.	We had to dip into our emergency savings to fix the broken roof.	[Phrasal Verb] to use a portion of saved money	echar mano de / usar ahorros
+3986A	likewise	He sat down, and his friend [...] took a seat nearby.	He sat down, and his friend likewise took a seat nearby.	[Adverb] in the same way, or also	igualmente / del mismo modo
+3987A	informal	We had an [...] meeting over coffee to discuss the project.	We had an informal meeting over coffee to discuss the project.	[Adjective] relaxed and friendly, not official	informal
+3988A	Persian	They bought a beautiful [...] rug for their living room.	They bought a beautiful Persian rug for their living room.	[Adjective] relating to Iran, its people, or language	persa
+3989A	feather	A soft white [...] fell slowly from the bird's wing.	A soft white feather fell slowly from the bird's wing.	[Noun] soft light structure covering a bird's body	pluma
+3990A	sphere	The Earth is not a perfect [...], but it is very close.	The Earth is not a perfect sphere, but it is very close.	[Noun] completely round 3D shape like a ball	esfera
+3990B	sphere	She is famous in the political [...] of her country.	She is famous in the political sphere of her country.	[Noun] area of interest, activity, or influence	esfera / ámbito
+3991A	tighten	Use a tool to [...] the loose screw on the wooden door.	Use a tool to tighten the loose screw on the wooden door.	[Verb] to make something firmer or tighter	apretar / ajustar
+3991B	tighten up	The police plan to [...] security measures before the massive concert.	The police plan to tighten up security measures before the massive concert.	[Phrasal Verb] to make rules or security strictly controlled	reforzar / hacer más estricto
+3992A	boast	He loves to [...] about his high salary to everyone.	He loves to boast about his high salary to everyone.	[Verb] to talk with too much pride about oneself	presumir / jactarse
+3992B	boast	The luxury resort [...] three beautiful swimming pools and an ocean view.	The luxury resort boasts three beautiful swimming pools and an ocean view.	[Verb] to possess a feature that brings pride or distinction	contar con / ostentar
+3993A	pat	She reached down to [...] the friendly dog on the head.	She reached down to pat the friendly dog on the head.	[Verb] to touch gently with an open hand	dar palmaditas / acariciar
+3993B	pat	He gave his son an encouraging [...] on the back.	He gave his son an encouraging pat on the back.	[Noun] gentle touch with an open hand	palmadita
+3993C	pat on the back	She deserves a [...] for completing the project ahead of schedule.	She deserves a pat on the back for completing the project ahead of schedule.	[Idiom] praise or recognition given for a job well done	palmadita en la espalda / reconocimiento
+3994A	perceived	The company fixed the [...] flaws in its new product.	The company fixed the perceived flaws in its new product.	[Adjective] seen or understood in a particular way	percibido/a
+3995A	sole	She was the [...] survivor of the boat accident last year.	She was the sole survivor of the boat accident last year.	[Adjective] only or single	único/a
+3995B	sole	There was a small hole in the [...] of his left shoe.	There was a small hole in the sole of his left shoe.	[Noun] bottom surface of a shoe or foot	suela / planta del pie
+3996A	publicity	The new movie received a lot of good [...] in the news.	The new movie received a lot of good publicity in the news.	[Noun] attention given to someone or something by media	publicidad / atención pública
+3997A	unfold	He decided to [...] the paper map on the dining table.	He decided to unfold the paper map on the dining table.	[Verb] to open something that was folded	desplegar / desdoblar
+3997B	unfold	We watched the dramatic story [...] on the live news broadcast.	We watched the dramatic story unfold on the live news broadcast.	[Verb] to develop or become known over time	desarrollarse / revelarse
+3998A	well-being	Regular exercise is important for your physical and mental [...].	Regular exercise is important for your physical and mental well-being.	[Noun] state of feeling healthy, happy, and comfortable	bienestar
+3999A	validity	Lawyers questioned the [...] of the signed contract.	Lawyers questioned the validity of the signed contract.	[Noun] quality of being logical, true, or legally acceptable	validez
+4000A	ecosystem	Pollution poses a major threat to the fragile ocean [...].	Pollution poses a major threat to the fragile ocean ecosystem.	[Noun] community of living things interacting with their environment	ecosistema
