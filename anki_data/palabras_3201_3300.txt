@@ -1,0 +1,144 @@
+3201A	wrist	He broke his [...] playing basketball yesterday.	He broke his wrist playing basketball yesterday.	[Noun] joint between hand and arm	muñeca
+3201B	slap on the wrist	The judge gave the young man a [...].	The judge gave the young man a slap on the wrist.	[Idiom - Informal] a mild punishment	tirón de orejas / castigo leve
+3202A	curtain	She pulled the [...] back to let the sun in.	She pulled the curtain back to let the sun in.	[Noun] fabric hung to cover a window	cortina
+3202B	curtain call	The actors returned to the stage for a [...].	The actors returned to the stage for a curtain call.	[Noun] appearance by performers at the end of a show	saludo final / ovación
+3203A	pond	Ducks were swimming quietly in the small [...].	Ducks were swimming quietly in the small pond.	[Noun] small body of still water	estanque
+3204A	domain	This question is outside my [...] of knowledge.	This question is outside my domain of knowledge.	[Noun] an area of knowledge or interest	dominio / campo
+3204B	domain	You need to buy a [...] name for your website.	You need to buy a domain name for your website.	[Noun] a website address on the internet	dominio (web)
+3205A	guilt	He felt deep [...] after lying to his friend.	He felt deep guilt after lying to his friend.	[Noun] feeling of having done something wrong	culpa / sentimiento de culpa
+3205B	guilt trip	She tried to put a [...] on him for not calling.	She tried to put a guilt trip on him for not calling.	[Noun - Informal] attempt to make someone feel guilty	manipulación / chantaje emocional
+3206A	cattle	The farmer spends hours feeding his [...] every morning.	The farmer spends hours feeding his cattle every morning.	[Noun] cows and bulls kept on a farm	ganado / vacas
+3207A	walking	Daily [...] helps improve your heart health.	Daily walking helps improve your heart health.	[Noun] the activity of taking steps on foot	caminata / el caminar
+3208A	playoff	Our team reached the [...] game this season.	Our team reached the playoff game this season.	[Noun] a game to decide a winner or champion	eliminatoria / partido de desempate
+3209A	minimum	The [...] age to drive a car here is eighteen.	The minimum age to drive a car here is eighteen.	[Adjective] lowest allowed or possible	mínimo
+3209B	minimum	We need a [...] of three people to start the game.	We need a minimum of three people to start the game.	[Noun] the smallest possible amount	mínimo
+3210A	fiscal	The company ends its [...] year in December.	The company ends its fiscal year in December.	[Adjective] relating to government or business money	fiscal / financiero
+3211A	skirt	She wore a blue [...] to the party last night.	She wore a blue skirt to the party last night.	[Noun] clothing hanging from the waist	falda
+3211B	skirt around	Do not [...] the issue; answer my question.	Do not skirt around the issue; answer my question.	[Phrasal Verb] to avoid discussing a difficult topic directly	esquivar / evadir
+3212A	dump	Please do not [...] your trash on the street.	Please do not dump your trash on the street.	[Verb] to drop or throw away waste	tirar / tirar a la basura
+3212B	dump	She decided to [...] her boyfriend after he lied.	She decided to dump her boyfriend after he lied.	[Verb - Informal] to end a romantic relationship suddenly	dejar / plantar (a alguien)
+3212C	dump	They took the old sofa to the city [...].	They took the old sofa to the city dump.	[Noun] a place where waste material is left	vertedero / basurero
+3213A	hence	The road was blocked, [...] we had to take another route.	The road was blocked, hence we had to take another route.	[Adverb] for this reason	por lo tanto / de ahí
+3214A	database	All user records are stored in a secure [...].	All user records are stored in a secure database.	[Noun] an organized collection of digital data	base de datos
+3215A	uncomfortable	This wooden chair is very [...] to sit on.	This wooden chair is very uncomfortable to sit on.	[Adjective] causing physical pain or feeling awkward	incómodo/a
+3216A	execute	The team will [...] the plan early tomorrow morning.	The team will execute the plan early tomorrow morning.	[Verb] to carry out or perform an action	ejecutar / llevar a cabo
+3216B	execute	The killer was [...] after a long trial.	The killer was executed after a long trial.	[Verb] to kill someone as a legal punishment	ejecutar / ajustar
+3217A	limb	He broke a [...] when he fell from the tree.	He broke a limb when he fell from the tree.	[Noun] an arm or leg of a person or animal	extremidad / miembro
+3217B	limb	A heavy storm broke a large tree [...].	A heavy storm broke a large tree limb.	[Noun] a large branch of a tree	rama (grande)
+3217C	go out on a limb	I will [...] and say that our team will win.	I will go out on a limb and say that our team will win.	[Idiom] to take a risk by stating a strong opinion	arriesgarse / mojarse
+3218A	ideology	His political [...] is based on personal freedom.	His political ideology is based on personal freedom.	[Noun] a set of political or social beliefs	ideología
+3219A	tune	She whistled a catchy [...] while cleaning her room.	She whistled a catchy tune while cleaning her room.	[Noun] a song or musical melody	melodía / canción
+3219B	tune in	Millions of viewers [...] to watch the live match.	Millions of viewers tuned in to watch the live match.	[Phrasal Verb] to listen to or watch a broadcast	sintonizar
+3219C	stay tuned	Please [...] for more news after the short commercial break.	Please stay tuned for more news after the short commercial break.	[Idiom] to keep paying attention for future updates	estar atento / no cambiar de canal
+3219D	tune out	I usually [...] when people talk about boring details.	I usually tune out when people talk about boring details.	[Phrasal Verb] to stop paying attention to someone	desconectarse / dejar de prestar atención
+3220A	continuing	Their [...] support helped us finish the hard project.	Their continuing support helped us finish the hard project.	[Adjective] happening without stopping	continuo / constante
+3221A	harm	Smoking can cause serious [...] to your lungs.	Smoking can cause serious harm to your lungs.	[Noun] physical or mental damage	daño / perjudicar
+3221B	harm	These chemical products will not [...] the environment.	These chemical products will not harm the environment.	[Verb] to hurt or damage someone or something	dañar / perjudicar
+3222A	railroad	The train traveled along the old [...] line.	The train traveled along the old railroad line.	[Noun] a track with steel rails for trains	ferrocarril / vía del tren
+3222B	railroad	They tried to [...] him into signing the contract.	They tried to railroad him into signing the contract.	[Verb] to rush or force someone into doing something	presionar / acorralar
+3223A	endure	She had to [...] cold weather during her hike.	She had to endure cold weather during her hike.	[Verb] to suffer difficult things patiently	soportar / aguantar
+3224A	radiation	The sun emits harmful ultraviolet [...] every day.	The sun emits harmful ultraviolet radiation every day.	[Noun] energy sent out as waves or particles	radiación
+3225A	horn	The driver blew his [...] to warn the pedestrian.	The driver blew his horn to warn the pedestrian.	[Noun] noise maker on a vehicle	claxon / bocina
+3225B	horn	A goat has two sharp [...] on its head.	A goat has two sharp horns on its head.	[Noun] hard pointed growth on an animal's head	cuerno
+3225C	lock horns	The two politicians [...] over the new budget.	The two politicians locked horns over the new budget.	[Idiom] to engage in a conflict or disagreement	enfrentarse / chocar
+3226A	chronic	He suffers from [...] back pain that never disappears.	He suffers from chronic back pain that never disappears.	[Adjective] lasting for a long time	crónico/a
+3227A	peaceful	It was a [...] morning by the quiet lake.	It was a peaceful morning by the quiet lake.	[Adjective] quiet and free from stress or noise	tranquilo/a / pacífico/a
+3228A	innovation	Technological [...] changes the way people work today.	Technological innovation changes the way people work today.	[Noun] a new idea, method, or invention	innovación
+3229A	strain	Working long hours put a lot of [...] on him.	Working long hours put a lot of strain on him.	[Noun] pressure or stress on a person or system	tensión / presión
+3229B	strain	He [...] a muscle while lifting heavy boxes.	He strained a muscle while lifting heavy boxes.	[Verb] to injure a body part by overusing it	distender / hacerse un esguince
+3230A	guitar	He learned to play the [...] when he was ten.	He learned to play the guitar when he was ten.	[Noun] a stringed musical instrument played with fingers	guitarra
+3231A	replacement	We need a [...] for the broken light bulb.	We need a replacement for the broken light bulb.	[Noun] a person or thing that takes the place of another	reemplazo / repuesto
+3232A	behave	The young child was asked to [...] at school.	The young child was asked to behave at school.	[Verb] to act in a polite or acceptable way	comportarse / portarse bien
+3233A	administer	She was hired to [...] the new company program.	She was hired to administer the new company program.	[Verb] to manage or organize something	administrar / gestionar
+3233B	administer	The nurse will [...] the medicine to the patient.	The nurse will administer the medicine to the patient.	[Verb] to give medical treatment or medicine	aplicar / suministrar
+3234A	simultaneously	The two events happened [...] in different cities.	The two events happened simultaneously in different cities.	[Adverb] at the exact same time	simultáneamente / a la vez
+3235A	dancer	The professional [...] moved gracefully across the floor.	The professional dancer moved gracefully across the floor.	[Noun] a person who dances	bailarín / bailarina
+3236A	amendment	Congress passed an [...] to the current law.	Congress passed an amendment to the current law.	[Noun] a change made to a legal document	enmienda / modificación
+3237A	pad	He bought a small [...] to write down notes.	He bought a small pad to write down notes.	[Noun] a notebook of paper sheets	bloc de notas
+3237B	pad	Wear knee [...] when riding your skateboard fast.	Wear knee pads when riding your skateboard fast.	[Noun] a thick piece of soft protective material	almohadilla / protector
+3237C	pad	The mechanic tried to [...] the bill with extra charges.	The mechanic tried to pad the bill with extra charges.	[Verb - Informal] to make something bigger by adding unnecessary items	inflar (una cuenta o cifra)
+3238A	transmission	The television [...] was lost during the storm.	The television transmission was lost during the storm.	[Noun] the passing of a signal or disease	transmisión
+3238B	transmission	My car needs a new automatic [...] after the accident.	My car needs a new automatic transmission after the accident.	[Noun] system that delivers power from engine to wheels	caja de cambios / transmisión
+3239A	await	We eagerly [...] your answer to our job offer.	We eagerly await your answer to our job offer.	[Verb] to wait for something expected	esperar / aguardar
+3240A	retired	My grandfather is [...] and enjoys gardening at home.	My grandfather is retired and enjoys gardening at home.	[Adjective] stopped working because of age	retirado/a / jubilado/a
+3241A	trigger	He pulled the [...] and fired at the target.	He pulled the trigger and fired at the target.	[Noun] small lever pressed to fire a gun	gatillo
+3241B	trigger	Loud noise can [...] a severe migraine headache.	Loud noise can trigger a severe migraine headache.	[Verb] to cause something to start happening	desencadenar / provocar
+3242A	spill	Be careful not to [...] your hot coffee.	Be careful not to spill your hot coffee.	[Verb] to flow over the edge of a container by accident	derramar / verter
+3242B	spill the beans	Do not [...] about the surprise birthday party.	Do not spill the beans about the surprise birthday party.	[Idiom - Informal] to reveal secret information	cantar / irse de la lengua
+3243A	grateful	She was very [...] for all his generous help.	She was very grateful for all his generous help.	[Adjective] feeling or showing thanks	agradecido/a
+3244A	grace	The ballet dancer moved with incredible [...].	The ballet dancer moved with incredible grace.	[Noun] smooth and elegant movement	gracia / elegancia
+3244B	grace period	The bank gives you a ten-day [...] for your payment.	The bank gives you a ten-day grace period for your payment.	[Collocation] extra time allowed to pay or do something	período de gracia
+3245A	virtual	They held a [...] meeting on their laptops today.	They held a virtual meeting on their laptops today.	[Adjective] created or existing on computers	virtual
+3246A	colony	India was once a British [...] for many decades.	India was once a British colony for many decades.	[Noun] a country ruled by another nation	colonia
+3247A	adoption	The couple decided to start the [...] process.	The couple decided to start the adoption process.	[Noun] taking a child into a family legally	adopción
+3248A	indigenous	Plants [...] to this region grow very fast.	Plants indigenous to this region grow very fast.	[Adjective] native to a specific region	indígena / nativo/a
+3249A	closed	The store is [...] on Sundays for maintenance.	The store is closed on Sundays for maintenance.	[Adjective] not open	cerrado/a
+3250A	convict	The jury [...] him of theft after two days.	The jury convicted him of theft after two days.	[Verb] to declare someone guilty of a crime	condenar / declarar culpable
+3250B	convict	An escaped [...] was caught by the police.	An escaped convict was caught by the police.	[Noun] a person found guilty of a crime	convicto/a / preso/a
+3251A	towel	Dry your hands with a clean [...] after washing.	Dry your hands with a clean towel after washing.	[Noun] piece of cloth used for drying	toalla
+3251B	throw in the towel	After hours of fighting, they decided to [...].	After hours of fighting, they decided to throw in the towel.	[Idiom - Informal] to give up or admit defeat	tirar la toalla / darse por vencido
+3252A	modify	You must [...] your diet to lower your cholesterol.	You must modify your diet to lower your cholesterol.	[Verb] to make small changes to improve something	modificar / cambiar
+3253A	particle	A tiny [...] of dust got into my eye.	A tiny particle of dust got into my eye.	[Noun] a very small piece of matter	partícula
+3254A	prize	She won first [...] in the school art competition.	She won first prize in the school art competition.	[Noun] a reward given for winning	premio
+3255A	landing	The plane made a safe [...] despite the wind.	The plane made a safe landing despite the wind.	[Noun] the act of coming down to ground	aterrizaje
+3256A	boost	A short nap can [...] your energy level quickly.	A short nap can boost your energy level quickly.	[Verb] to increase or improve something	aumentar / impulsar
+3256B	boost	Winning the game gave the team a confidence [...].	Winning the game gave the team a confidence boost.	[Noun] an increase or encouragement	impulso / empujón
+3257A	bat	A nocturnal [...] flew out of the dark cave.	A nocturnal bat flew out of the dark cave.	[Noun] small flying mammal	murciélago
+3257B	bat	He hit the baseball hard with his wooden [...].	He hit the baseball hard with his wooden bat.	[Noun] wooden stick used in sports	bate
+3258A	alarm	The smoke [...] went off when the toast burned.	The smoke alarm went off when the toast burned.	[Noun] a device that warns of danger	alarma
+3258B	alarm clock	My [...] rings at six o'clock every morning.	My alarm clock rings at six o'clock every morning.	[Noun] clock that makes a sound to wake you up	despertador
+3258C	alarm	I did not mean to [...] you with the bad news.	I did not mean to alarm you with the bad news.	[Verb] to make someone feel worried or frightened	asustar / alarmar
+3259A	festival	Thousands of tourists visited the annual music [...].	Thousands of tourists visited the annual music festival.	[Noun] organized event with music or food	festival
+3260A	grip	He [...] the steering wheel tightly in the rain.	He gripped the steering wheel tightly in the rain.	[Verb] to hold something tightly	agarrar / sujetar con fuerza
+3260B	grip	Keep a firm [...] on the handle so you do not fall.	Keep a firm grip on the handle so you do not fall.	[Noun] a firm hold with the hand	agarre / sujeción
+3260C	come to grips with	He is trying to [...] his recent job loss.	He is trying to come to grips with his recent job loss.	[Idiom] to begin to understand and accept a hard fact	asimilar / afrontar
+3261A	weird	He heard a [...] noise outside his bedroom window.	He heard a weird noise outside his bedroom window.	[Adjective - Informal] strange or unusual	raro/a / extraño/a
+3262A	undermine	Constant criticism will [...] her confidence at work.	Constant criticism will undermine her confidence at work.	[Verb] to weaken or ruin gradually	minar / socavar
+3263A	freshman	She is a [...] studying history at the university.	She is a freshman studying history at the university.	[Noun] a student in the first year of school or college	estudiante de primer año / novato/a
+3264A	sweat	Running in the heat makes you [...] heavily.	Running in the heat makes you sweat heavily.	[Verb] to produce liquid through skin when hot	sudar
+3264B	sweat	Wipe the [...] off your face with a napkin.	Wipe the sweat off your face with a napkin.	[Noun] liquid produced by skin	sudor
+3264C	don't sweat it	If you cannot make it to the party, [...].	If you cannot make it to the party, don't sweat it.	[Idiom - Informal] do not worry about it	no te preocupes / no pasa nada
+3265A	outer	The [...] layer of the coat protects from rain.	The outer layer of the coat protects from rain.	[Adjective] on the outside	exterior / externo
+3266A	drunk	He was too [...] to drive home after the party.	He was too drunk to drive home after the party.	[Adjective] affected by drinking too much alcohol	borracho/a / ebrio/a
+3267A	separation	The [...] of the two groups was necessary for safety.	The separation of the two groups was necessary for safety.	[Noun] state of being apart	separación
+3268A	traditionally	Turkey is [...] served on Thanksgiving in America.	Turkey is traditionally served on Thanksgiving in America.	[Adverb] according to long-held customs	tradicionalmente
+3269A	govern	The president is elected to [...] the nation.	The president is elected to govern the nation.	[Verb] to officially control or rule a country	gobernar / regir
+3270A	southeast	The city is located in the [...] part of the country.	The city is located in the southeast part of the country.	[Noun] direction between south and east	sudeste / sureste
+3271A	intelligent	She is an [...] student who learns fast.	She is an intelligent student who learns fast.	[Adjective] able to learn and understand easily	inteligente
+3272A	wherever	Sit [...] you like; there are plenty of seats.	Sit wherever you like; there are plenty of seats.	[Conjunction] in or to any place	dondequiera que / cualquier lugar donde
+3273A	ballot	Voters cast their [...] at the local school.	Voters cast their ballot at the local school.	[Noun] system or paper used to vote	papeleta de voto / votación
+3274A	rhetoric	The speaker used empty [...] to persuade the public.	The speaker used empty rhetoric to persuade the public.	[Noun] speech or writing meant to persuade people	retórica / discurso
+3275A	convinced	I am [...] that he is telling the whole truth.	I am convinced that he is telling the whole truth.	[Adjective] completely sure about something	convencido/a
+3276A	driving	Safe [...] requires full attention on the road.	Safe driving requires full attention on the road.	[Noun] operating a vehicle	conducción / el conducir
+3276B	driving force	Love for children is the [...] behind her work.	Love for children is the driving force behind her work.	[Collocation] strong influence that causes progress	fuerza impulsora / motor
+3277A	vitamin	Fresh fruits contain a lot of [...] C.	Fresh fruits contain a lot of vitamin C.	[Noun] natural substance essential for health	vitamina
+3278A	enthusiasm	The children showed great [...] for the game.	The children showed great enthusiasm for the game.	[Noun] strong feeling of excitement	entusiasmo
+3279A	accommodate	The hotel can [...] up to two hundred guests.	The hotel can accommodate up to two hundred guests.	[Verb] to provide room or space for	alojar / dar espacio a
+3280A	praise	The teacher [...] the boy for his good behavior.	The teacher praised the boy for his good behavior.	[Verb] to express strong approval or admiration	alabar / elogiar
+3280B	praise	The young actor received high [...] from critics.	The young actor received high praise from critics.	[Noun] words expressing approval	elogio / alabanza
+3281A	injure	He [...] his left knee during the football game.	He injured his left knee during the football game.	[Verb] to hurt or cause physical damage to	lesionar / herir
+3282A	wilderness	They went camping in the remote [...] last month.	They went camping in the remote wilderness last month.	[Noun] wild natural area untouched by humans	naturaleza salvaje / zona despoblada
+3283A	endless	We spent hours driving down an [...] desert road.	We spent hours driving down an endless desert road.	[Adjective] having no end or limit	infinito/a / sin fin
+3284A	mandate	The government issued a [...] to wear face masks.	The government issued a mandate to wear face masks.	[Noun] official order to do something	mandato / orden oficial
+3284B	mandate	The new law will [...] safety helmets for all cyclists.	The new law will mandate safety helmets for all cyclists.	[Verb] to officially require or order something	exigir / hacer obligatorio
+3285A	respectively	John and Mary scored ten and twelve points, [...].	John and Mary scored ten and twelve points, respectively.	[Adverb] in the order mentioned	respectivamente
+3286A	uncertainty	The delay caused much [...] among the travelers.	The delay caused much uncertainty among the travelers.	[Noun] state of not being sure	incertidumbre
+3287A	chaos	The sudden storm caused [...] at the airport.	The sudden storm caused chaos at the airport.	[Noun] complete confusion and disorder	caos
+3288A	mechanical	The car failed to start due to a [...] problem.	The car failed to start due to a mechanical problem.	[Adjective] connected with machines	mecánico/a
+3289A	canvas	The artist painted a portrait on a large [...].	The artist painted a portrait on a large canvas.	[Noun] strong heavy cloth used for oil paintings	lienzo
+3290A	forty	My uncle turned [...] years old yesterday.	My uncle turned forty years old yesterday.	[Number] the number 40	cuarenta
+3291A	lobby	We waited for our guide in the hotel [...].	We waited for our guide in the hotel lobby.	[Noun] large entrance area in a public building	vestíbulo / recepción
+3291B	lobby	Environmental groups [...] the government for cleaner air.	Environmental groups lobbied the government for cleaner air.	[Verb] to try to influence politicians	presionar / hacer cabildeo
+3292A	profound	The book had a [...] impact on my thinking.	The book had a profound impact on my thinking.	[Adjective] very great, deep, or intense	profundo/a
+3293A	format	You need to change the file [...] to PDF.	You need to change the file format to PDF.	[Noun] overall shape or plan of something	formato
+3294A	trait	Honesty is an important [...] in a close friend.	Honesty is an important trait in a close friend.	[Noun] particular quality in a person's character	rasgo / característica
+3295A	currency	The dollar is the official [...] of the United States.	The dollar is the official currency of the United States.	[Noun] system of money used in a country	moneda / divisa
+3296A	turkey	We ate roasted [...] for dinner on Thanksgiving.	We ate roasted turkey for dinner on Thanksgiving.	[Noun] large bird kept for its meat	pavo
+3296B	cold turkey	He decided to quit smoking [...] last year.	He decided to quit smoking cold turkey last year.	[Idiom - Informal] stopping a habit suddenly and completely	de golpe / de un día para otro
+3297A	reserve	I called the restaurant to [...] a table for four.	I called the restaurant to reserve a table for four.	[Verb] to arrange to have something kept for you	reservar
+3297B	reserve	The bank keeps cash in [...] for emergencies.	The bank keeps cash in reserve for emergencies.	[Noun] supply kept for future use	reserva
+3298A	beam	A [...] of sunlight shone through the window.	A beam of sunlight shone through the window.	[Noun] line of light	rayo / haz
+3298B	beam	Wooden [...] support the roof of the old barn.	Wooden beams support the roof of the old barn.	[Noun] long piece of wood or metal used in buildings	viga
+3298C	beam	The proud mother [...] with joy during the graduation.	The proud mother beamed with joy during the graduation.	[Verb] to smile brightly and happily	sonreír radiante / radiar
+3299A	astronomer	The [...] observed a distant star through his telescope.	The astronomer observed a distant star through his telescope.	[Noun] scientist who studies stars and planets	astrónomo/a
+3300A	corruption	The new mayor promised to fight political [...].	The new mayor promised to fight political corruption.	[Noun] dishonest conduct by those in power	corrupción
