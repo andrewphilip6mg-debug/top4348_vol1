@@ -24,9 +24,6 @@
 
 ---
 
-## 🚀 Alcance de este Volumen
-
-> Este repositorio es la primera parte del proyecto y contiene el material de estudio cuidadosamente seleccionado para las **palabras de la 1 a la 4348** del ranking de frecuencia.
 
 ## 📦 Contenido de las Tarjetas
 
@@ -36,5 +33,5 @@ Cada tarjeta de Anki ha sido diseñada para maximizar la retención, incluyendo:
 | :--- | :--- | :--- |
 | 🔤 **Vocabulario** | Palabras más frecuentes (Top 1 al 4348). | Texto |
 | 🖼️ **Imágenes** | Archivos optimizados para carga rápida sin perder calidad. | `.avif` |
-| 🎧 **Audio Dual** | Pronunciación de la palabra aislada y de la frase en contexto. | `.ogg` (Opus) |
-| 📝 **Contexto** | Definiciones breves y frases de ejemplo reales (polisemia incluida). | Texto |
+| 🎧 **Audio** | Pronunciación de la palabra aislada. | `.ogg` (Opus) |
+| 📝 **Contexto** | Definiciones breves y frases de ejemplo reales (polisemia y homonimia incluida). | Texto |
