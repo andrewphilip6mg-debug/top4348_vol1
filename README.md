@@ -4,7 +4,7 @@
   <sub><img src="animation/duolingo.png" alt="Duolingo derrotado" width="150"></sub>
   <img src="animation/mascot.png" alt="Mascota del proyecto" width="175">
 
-  # Top 4348 English Words - Volumen 1
+  # Top 4348 English Words
 
   ![Tamaño del Repositorio](https://img.shields.io/github/repo-size/andrewphilip6mg-debug/top4348_vol1?color=2ea043&style=for-the-badge&logo=github&cacheSeconds=60)
   ![Archivos](https://img.shields.io/badge/Archivos-9776-blue?style=for-the-badge&logo=files)
