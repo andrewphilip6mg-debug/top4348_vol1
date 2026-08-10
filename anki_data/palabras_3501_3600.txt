@@ -1,0 +1,138 @@
+3501A	rage	He smashed his computer in a fit of [...].	He smashed his computer in a fit of rage.	[Noun] violent or uncontrollable anger	rabia / furia
+3501B	rage	A dangerous storm [...] outside all night long.	A dangerous storm raged outside all night long.	[Verb] to occur with great force or intensity	rugir / violentarse
+3501C	all the rage	Electric scooters are [...] in the city right now.	Electric scooters are all the rage in the city right now.	[Idiom] very popular or fashionable at the moment	estar de moda
+3501D	road rage	He got into a fight due to an episode of [...].	He got into a fight due to an episode of road rage.	[Idiom] violent anger caused by the stress of driving	furia al volante
+3502A	photography	She studied [...] before working as a photojournalist.	She studied photography before working as a photojournalist.	[Noun] the art or practice of taking pictures	fotografía
+3503A	toilet	Remember to flush the [...] after you use it.	Remember to flush the toilet after you use it.	[Noun] a bowl in a bathroom used for body waste	inodoro / wc
+3504A	disappointed	He felt [...] when his team lost the match.	He felt disappointed when his team lost the match.	[Adjective] sad because expectations were not met	decepcionado/a
+3505A	precious	Gold and silver are [...] metals used for jewelry.	Gold and silver are precious metals used for jewelry.	[Adjective] having high value or great worth	valioso/a / precioso/a
+3505B	precious	They spent [...] time with their family over the weekend.	They spent precious time with their family over the weekend.	[Adjective] greatly loved or cherished	valioso/a / querido/a
+3506A	prohibit	The new rules [...] smoking inside public buildings.	The new rules prohibit smoking inside public buildings.	[Verb] to officially forbid by law or rule	prohibir
+3507A	realistic	We need a [...] plan that we can actually finish on time.	We need a realistic plan that we can actually finish on time.	[Adjective] sensible and grounded in facts rather than dreams	realista
+3508A	hidden	The key was [...] inside an old book on the shelf.	The key was hidden inside an old book on the shelf.	[Adjective] kept out of sight or secret	oculto/a / escondido/a
+3509A	tender	She gave the sick child a [...] hug before bed.	She gave the sick child a tender hug before bed.	[Adjective] gentle, loving, and kind	tierno/a
+3509B	tender	Cook the meat slowly until it becomes soft and [...].	Cook the meat slowly until it becomes soft and tender.	[Adjective] easy to cut or chew	tierno/a / suave
+3510A	gathering	We organized a family [...] to celebrate her graduation.	We organized a family gathering to celebrate her graduation.	[Noun] an informal meeting or assembly of people	reunión
+3511A	outstanding	She received an award for her [...] performance in the movie.	She received an award for her outstanding performance in the movie.	[Adjective] exceptionally good or impressive	destacado/a / sobresaliente
+3511B	outstanding	You must pay your [...] bills before the end of the month.	You must pay your outstanding bills before the end of the month.	[Adjective] not yet paid or resolved	pendiente (de pago)
+3512A	stumble	Watch your step so you do not [...] on the rocks.	Watch your step so you do not stumble on the rocks.	[Verb] to trip while walking or running	tropezar
+3512B	stumble upon	We [...] an ancient temple while walking in the forest.	We stumbled upon an ancient temple while walking in the forest.	[Phrasal Verb] to discover something unexpectedly by chance	tropezar con / encontrar por casualidad
+3513A	lonely	Living alone in a big city can feel very [...].	Living alone in a big city can feel very lonely.	[Adjective] unhappy because of being without companions	solo/a / solitario/a
+3514A	automobile	Henry Ford made the [...] affordable for ordinary families.	Henry Ford made the automobile affordable for ordinary families.	[Noun - Formal] a passenger vehicle with four wheels and an engine	automóvil / coche
+3515A	artificial	This orange drink contains [...] flavors and colors.	This orange drink contains artificial flavors and colors.	[Adjective] made by humans, not occurring naturally	artificial
+3516A	dawn	We woke up at [...] to watch the sun come up.	We woke up at dawn to watch the sun come up.	[Noun] the first light of day in the morning	amanecer / alba
+3516B	dawn on	It suddenly [...] me that I had left my keys at home.	It suddenly dawned on me that I had left my keys at home.	[Phrasal Verb] to become suddenly clear or understood by someone	darse cuenta / caer en la cuenta
+3517A	abstract	Modern art can be quite [...] and hard to understand.	Modern art can be quite abstract and hard to understand.	[Adjective] existing as an idea rather than a physical object	abstracto/a
+3517B	abstract	Read the short [...] at the beginning of the research article.	Read the short abstract at the beginning of the research article.	[Noun] a brief summary of a formal paper or document	resumen / extracto
+3518A	descend	The plane will begin to [...] in a few minutes.	The plane will begin to descend in a few minutes.	[Verb] to move or go downward	descender / bajar
+3519A	silly	Stop making [...] faces and focus on your homework.	Stop making silly faces and focus on your homework.	[Adjective] playful, foolish, or lacking seriousness	tonto/a / absurdo/a
+3520A	tide	High [...] made it difficult to walk along the beach.	High tide made it difficult to walk along the beach.	[Noun] the alternate rising and falling of the sea level	marea
+3520B	turn the tide	Their quick response helped [...] in the battle against the disease.	Their quick response helped turn the tide in the battle against the disease.	[Idiom] to reverse the direction or trend of events	cambiar la marea / cambiar el rumbo de las cosas
+3521A	shared	They live in an apartment with a [...] kitchen and bathroom.	They live in an apartment with a shared kitchen and bathroom.	[Adjective] used or enjoyed jointly by two or more people	compartido/a
+3522A	hopefully	[...], the weather will clear up before our picnic tomorrow.	Hopefully, the weather will clear up before our picnic tomorrow.	[Adverb] in a way that expresses desire for a positive result	con suerte / ojalá
+3523A	readily	She [...] accepted the offer without any hesitation.	She readily accepted the offer without any hesitation.	[Adverb] quickly and without difficulty or reluctance	fácilmente / de buena gana
+3524A	cooperate	Both teams must [...] to solve this complex issue.	Both teams must cooperate to solve this complex issue.	[Verb] to work together toward a shared goal	cooperar / colaborar
+3525A	revolutionary	The invention of the smartphone was a [...] technology.	The invention of the smartphone was a revolutionary technology.	[Adjective] causing a complete and dramatic change	revolucionario/a
+3526A	romance	Their summer [...] turned into a long marriage.	Their summer romance turned into a long marriage.	[Noun] a relationship or feeling of love and affection	romance
+3527A	hardware	You can buy nails and hammers at the local [...] store.	You can buy nails and hammers at the local hardware store.	[Noun] physical tools, machinery, or electronic components	ferretería / hardware
+3528A	pillow	She rested her head on a soft [...] and fell asleep.	She rested her head on a soft pillow and fell asleep.	[Noun] a soft cushion used to support the head in bed	almohada
+3529A	kit	Always keep a first-aid [...] in your car for emergencies.	Always keep a first-aid kit in your car for emergencies.	[Noun] a set of tools or equipment for a specific purpose	kit / equipo / botiquín
+3530A	continent	Africa is the second largest [...] in the world.	Africa is the second largest continent in the world.	[Noun] one of the main continuous landmasses of the earth	continente
+3531A	seal	We saw a [...] swimming near the rocky shore.	We saw a seal swimming near the rocky shore.	[Noun] a sea mammal with flippers that lives near coasts	foca
+3531B	seal	Please [...] the letter before mailing it.	Please seal the letter before mailing it.	[Verb] to close tightly so nothing can enter or escape	sellar / cerrar herméticamente
+3531C	seal the deal	They met over lunch to finally [...] after weeks of talking.	They met over lunch to finally seal the deal after weeks of talking.	[Idiom] to complete an agreement or contract successfully	cerrar el trato / concretar el acuerdo
+3532A	circuit	An electrician fixed the broken [...] in our house.	An electrician fixed the broken circuit in our house.	[Noun] a complete path around which electricity can flow	circuito
+3533A	ruling	The judge issued a final [...] on the court case yesterday.	The judge issued a final ruling on the court case yesterday.	[Noun] an official decision made by an authority or court	fallo / sentencia / resolución
+3534A	shortage	Severe weather caused a food [...] across the entire country.	Severe weather caused a food shortage across the entire country.	[Noun] a state in which there is not enough of something	escasez / falta
+3535A	annually	The festival is held [...] in the month of July.	The festival is held annually in the month of July.	[Adverb] once every year without fail	anualmente / al año
+3536A	lately	Have you seen any good movies [...]?	Have you seen any good movies lately?	[Adverb] in the recent past or recently	últimamente / recientemente
+3537A	scan	The doctor will [...] your brain to check for injuries.	The doctor will scan your brain to check for injuries.	[Verb] to examine with medical equipment or look through quickly	escanear / examinar
+3537B	scan	Take a quick [...] of the document before sending it.	Take a quick scan of the document before sending it.	[Noun] a quick look or a medical image created by equipment	escaneo / mirada rápida
+3538A	fool	Do not listen to him; he is being a total [...].	Do not listen to him; he is being a total fool.	[Noun] a person who lacks good sense or judgment	tonto/a / necio/a
+3538B	fool	You cannot [...] me with that cheap trick.	You cannot fool me with that cheap trick.	[Verb] to trick or deceive someone	engañar / tomar el pelo
+3538C	fool around	Stop [...] and finish your chores right now.	Stop fooling around and finish your chores right now.	[Phrasal Verb] to waste time or engage in silly behavior	perder el tiempo / hacer el tonto
+3539A	deadline	We must turn in the report before the [...] tomorrow morning.	We must turn in the report before the deadline tomorrow morning.	[Noun] a time or date by which something must be finished	fecha límite / plazo
+3539B	meet a deadline	We had to work late to [...] for the new project.	We had to work late to meet a deadline for the new project.	[Collocation] to complete a task before the required time	cumplir con la fecha límite
+3540A	rear	Park your bicycle near the [...] door of the building.	Park your bicycle near the rear door of the building.	[Adjective] positioned at the back side of something	trasero/a / posterior
+3540B	rear	She stayed home to [...] her three young children.	She stayed home to rear her three young children.	[Verb] to care for and raise children or animals to adulthood	criar / educar
+3541A	processing	Data [...] takes a few seconds on this fast computer.	Data processing takes a few seconds on this fast computer.	[Noun] the action of handling, treating, or analyzing data or materials	procesamiento / trámite
+3542A	ranch	My uncle raises cattle on a large [...] in Texas.	My uncle raises cattle on a large ranch in Texas.	[Noun] a large farm used for raising livestock like cows or horses	rancho / granja
+3543A	coastal	Strong ocean winds often affect [...] towns in the winter.	Strong ocean winds often affect coastal towns in the winter.	[Adjective] located on or near the land next to the sea	costero/a
+3544A	undertake	The team decided to [...] a new research project this month.	The team decided to undertake a new research project this month.	[Verb] to commit oneself to begin and perform a task	emprender / asumir
+3545A	softly	She spoke [...] so she would not wake up the baby.	She spoke softly so she would not wake up the baby.	[Adverb] in a quiet, gentle, or delicate manner	suavemente / en voz baja
+3546A	burning	Smoke rose high into the sky from the [...] building.	Smoke rose high into the sky from the burning building.	[Adjective] being on fire or producing intense heat	en llamas / ardiente
+3547A	verbal	They made a [...] agreement without signing any official paper.	They made a verbal agreement without signing any official paper.	[Adjective] expressed in spoken words rather than writing	verbal / oral
+3548A	tribal	The elders preserved traditional [...] customs for generations.	The elders preserved traditional tribal customs for generations.	[Adjective] relating to a group of families linked by social ties and culture	tribal
+3549A	ridiculous	That price is [...]; I will not pay fifty dollars for a shirt.	That price is ridiculous; I will not pay fifty dollars for a shirt.	[Adjective] deserving laughter or mockery; unreasonable	ridículo/a / absurdo/a
+3550A	automatic	The store has [...] sliding doors at the main entrance.	The store has automatic sliding doors at the main entrance.	[Adjective] working by itself with little or no human control	automático/a
+3551A	diamond	He bought a beautiful [...] ring for his wife.	He bought a beautiful diamond ring for his wife.	[Noun] a precious stone of clear pure carbon	diamante
+3551B	diamond in the rough	He is untrained, but his raw talent makes him a [...].	He is untrained, but his raw talent makes him a diamond in the rough.	[Idiom] a person with exceptional potential but lacking polish	diamante en bruto
+3552A	credibility	Lying to your boss will ruin your [...] at work.	Lying to your boss will ruin your credibility at work.	[Noun] the quality of being believable or worthy of trust	credibilidad
+3553A	import	The company plans to [...] fresh fruit from tropical countries.	The company plans to import fresh fruit from tropical countries.	[Verb] to bring goods into a country from abroad for sale	importar
+3553B	import	Coffee is a major [...] for many European nations.	Coffee is a major import for many European nations.	[Noun] a commodity brought in from another country	importación / producto importado
+3554A	sexually	Animals reproduce [...] to pass on their genetic traits.	Animals reproduce sexually to pass on their genetic traits.	[Adverb] in a way that relates to reproduction or physical attraction	sexualmente
+3555A	divine	Ancient kings believed they ruled by [...] right.	Ancient kings believed they ruled by divine right.	[Adjective] coming from or connected to God or a deity	divino/a
+3556A	sentiment	Public [...] changed quickly after the mayor gave his speech.	Public sentiment changed quickly after the mayor gave his speech.	[Noun] a general opinion or feeling held by a group	sentimiento / opinión
+3557A	cart	Put your groceries inside the [...] before going to the cashier.	Put your groceries inside the cart before going to the cashier.	[Noun] a small vehicle with wheels pushed or pulled by hand	carrito / carro
+3558A	oversee	A manager was hired to [...] the construction of the new office.	A manager was hired to oversee the construction of the new office.	[Verb] to supervise and direct a project or workers	supervisar / inspeccionar
+3559A	elder	The tribe met with their respected [...] to ask for wisdom.	The tribe met with their respected elder to ask for wisdom.	[Noun] a person of greater age or higher rank in a community	anciano/a / mayor
+3559B	elder	Her [...] brother helped her move into her new apartment.	Her elder brother helped her move into her new apartment.	[Adjective] older in age relative to another family member	mayor
+3560A	pro	She plays tennis like a true [...] on the court.	She plays tennis like a true pro on the court.	[Noun - Informal] a professional person with high skill level	profesional / experto/a
+3560B	pros and cons	We listed all the [...] of moving to a new city.	We listed all the pros and cons of moving to a new city.	[Idiom] the advantages and disadvantages of something	pros y contras
+3561A	inspiration	Nature was the painter's main [...] for this artwork.	Nature was the painter's main inspiration for this artwork.	[Noun] a person or thing that gives creative ideas or enthusiasm	inspiración
+3562A	Dutch	Many people in Amsterdam speak [...] as their native language.	Many people in Amsterdam speak Dutch as their native language.	[Adjective/Noun] relating to the Netherlands, its people, or language	holandés/a
+3563A	quantity	The factory produces a large [...] of toys every day.	The factory produces a large quantity of toys every day.	[Noun] an amount or number of something	cantidad
+3564A	trailer	They attached a small [...] to the back of their car.	They attached a small trailer to the back of their car.	[Noun] an unpowered vehicle pulled by another vehicle	remolque
+3564B	trailer	I watched the movie [...] online before buying a ticket.	I watched the movie trailer online before buying a ticket.	[Noun] a short advertisement showing scenes from a film	tráiler / avance
+3565A	mate	My dog loves to play with his [...] in the park.	My dog loves to play with his mate in the park.	[Noun] a companion or animal partner	compañero/a / pareja
+3565B	mate	Birds often [...] in the early spring months.	Birds often mate in the early spring months.	[Verb] to come together to breed and produce young	aparearse
+3566A	o'clock	We agreed to meet at six [...] in front of the station.	We agreed to meet at six o'clock in front of the station.	[Adverb] according to the clock to specify the hour	en punto
+3567A	Greek	We ate delicious [...] salad with olive oil for lunch.	We ate delicious Greek salad with olive oil for lunch.	[Adjective/Noun] relating to Greece, its people, or its language	griego/a
+3568A	genius	Einstein was a true [...] in the field of physics.	Einstein was a true genius in the field of physics.	[Noun] an exceptionally intelligent or talented person	genio
+3568B	stroke of genius	Hiring her as manager turned out to be a [...].	Hiring her as manager turned out to be a stroke of genius.	[Idiom] an exceptionally clever idea or action	una genialidad / golpe de genio
+3569A	monument	They built a granite [...] to honor the fallen soldiers.	They built a granite monument to honor the fallen soldiers.	[Noun] a structure erected to commemorate a person or event	monumento
+3570A	bid	The company made a high [...] to win the contract.	The company made a high bid to win the contract.	[Noun] an offer of a specific price for something	oferta / puja
+3570B	bid	Several collectors [...] on the rare painting at the auction.	Several collectors bid on the rare painting at the auction.	[Verb] to offer an amount of money to buy an item	pujar / ofrecer
+3571A	quest	The knight went on a long [...] to find the lost crown.	The knight went on a long quest to find the lost crown.	[Noun] a long search or hunt for something valuable	búsqueda / misión
+3572A	sacrifice	Every big achievement requires some degree of [...].	Every big achievement requires some degree of sacrifice.	[Noun] the act of giving up something valuable for a higher purpose	sacrificio
+3572B	sacrifice	He had to [...] his weekends to finish writing his book.	He had to sacrifice his weekends to finish writing his book.	[Verb] to give up something important to achieve something else	sacrificar
+3573A	invitation	I received a formal [...] to her birthday party next week.	I received a formal invitation to her birthday party next week.	[Noun] a request inviting someone to attend an event	invitación
+3574A	accuracy	The scientist checked the calculations to ensure high [...].	The scientist checked the calculations to ensure high accuracy.	[Noun] the quality or state of being correct or precise	precisión / exactitud
+3575A	juror	Each [...] was asked to listen carefully to the evidence.	Each juror was asked to listen carefully to the evidence.	[Noun] a member of a group that gives a verdict in court	jurado / miembro del jurado
+3576A	officially	The new hospital was [...] opened by the mayor today.	The new hospital was officially opened by the mayor today.	[Adverb] in a formal and authorized manner	oficialmente
+3577A	broker	A stock [...] helped them buy shares in the tech company.	A stock broker helped them buy shares in the tech company.	[Noun] an agent who arranges transactions between buyers and sellers	corredor / agente
+3578A	treasure	Pirates buried their silver [...] on a desert island.	Pirates buried their silver treasure on a desert island.	[Noun] a quantity of valuable items like gold or gems	tesoro
+3578B	treasure	I will always [...] the memories of our trip together.	I will always treasure the memories of our trip together.	[Verb] to hold dear and value deeply	atesorar / valorar mucho
+3579A	loyalty	The dog showed absolute [...] to his owner for years.	The dog showed absolute loyalty to his owner for years.	[Noun] the quality of staying faithful and devoted to someone	lealtad
+3580A	talented	She is a very [...] musician who plays three instruments.	She is a very talented musician who plays three instruments.	[Adjective] having a natural ability to do something well	talentoso/a
+3581A	gasoline	My car ran out of [...] on the way home.	My car ran out of gasoline on the way home.	[Noun] liquid fuel used to power engines in vehicles	gasolina
+3582A	stiff	My back feels [...] after sitting at the desk all day.	My back feels stiff after sitting at the desk all day.	[Adjective] rigid, firm, or difficult to bend or move	rígido/a / agarrotado/a
+3582B	stiff	The court gave the criminal a [...] penalty for the crime.	The court gave the criminal a stiff penalty for the crime.	[Adjective] severe or unusually harsh	duro/a / severo/a
+3582C	scared stiff	The loud thunder in the night frightened her and left her [...].	The loud thunder in the night frightened her and left her scared stiff.	[Idiom] extremely frightened or terrified	muerto/a de miedo / aterrorizado/a
+3583A	output	The factory increased its monthly [...] by twenty percent.	The factory increased its monthly output by twenty percent.	[Noun] the amount of something produced by a person or machine	producción / rendimiento
+3584A	nominee	She was the youngest [...] for the presidential award.	She was the youngest nominee for the presidential award.	[Noun] a person proposed or chosen for a position or award	nominado/a / candidato/a
+3585A	extended	They took an [...] vacation and stayed abroad for two months.	They took an extended vacation and stayed abroad for two months.	[Adjective] made longer in time or length	extendido/a / prolongado/a
+3585B	extended family	We invited our entire [...] to celebrate my grandmother's birthday.	We invited our entire extended family to celebrate my grandmother's birthday.	[Collocation] a family group including grandparents, aunts, uncles, and cousins	familia extendida / familia lejana
+3586A	diabetes	High blood sugar levels are a main sign of [...].	High blood sugar levels are a main sign of diabetes.	[Noun] a medical condition where the body cannot regulate sugar properly	diabetes
+3587A	slap	She gave him a quick [...] across the face in anger.	She gave him a quick slap across the face in anger.	[Noun] a blow delivered with an open hand	bofetada / cachetada
+3587B	slap	He threatened to [...] the loud phone out of his hand.	He threatened to slap the loud phone out of his hand.	[Verb] to hit someone or something with an open hand	dar una bofetada / abofetear
+3587C	slap in the face	Losing his position to a junior worker felt like a real [...].	Losing his position to a junior worker felt like a real slap in the face.	[Idiom] an action that severely insults, shocks, or disappoints someone	bofetada sin mano / insulto / jarro de agua fría
+3588A	toxic	Chemicals from the factory leaked into the river and made it [...].	Chemicals from the factory leaked into the river and made it toxic.	[Adjective] poisonous or harmful to living organisms	tóxico/a
+3588B	toxic	She decided to leave her [...] work environment for a healthier job.	She decided to leave her toxic work environment for a healthier job.	[Adjective] harmful, emotionally destructive, or malicious	tóxico/a (ambiente / relación)
+3589A	alleged	The [...] thief was arrested outside the bank yesterday.	The alleged thief was arrested outside the bank yesterday.	[Adjective] stated to be true without proof yet	presunto/a / supuesto/a
+3590A	jaw	He broke his lower [...] during a soccer match last night.	He broke his lower jaw during a soccer match last night.	[Noun] either of the two bones forming the structure of the mouth	mandíbula
+3590B	jaw-dropping	The special effects in the movie were absolutely [...].	The special effects in the movie were absolutely jaw-dropping.	[Idiom/Adjective] extremely surprising or impressive	asombroso / impresionante
+3591A	grief	The family expressed deep [...] after the loss of their dog.	The family expressed deep grief after the loss of their dog.	[Noun] intense sorrow caused by someone's death or loss	duelo / dolor / pena
+3592A	mysterious	A [...] package arrived at my door with no sender name.	A mysterious package arrived at my door with no sender name.	[Adjective] strange, unknown, or difficult to explain	misterioso/a
+3593A	rocket	Scientists launched a giant [...] into space yesterday.	Scientists launched a giant rocket into space yesterday.	[Noun] a vehicle propelled by engine exhaust used for space travel	cohete
+3593B	rocket	Housing prices began to [...] after the new train line opened.	Housing prices began to rocket after the new train line opened.	[Verb] to increase or rise very rapidly	dispararse / dispararse hacia arriba
+3594A	donate	Many people chose to [...] money to help the disaster victims.	Many people chose to donate money to help the disaster victims.	[Verb] to give money or goods to help a cause or charity	donar
+3595A	inmate	The prison [...] was released early for good behavior.	The prison inmate was released early for good behavior.	[Noun] a person living in an institution such as a prison	recluso/a / preso/a
+3596A	tackle	We need to [...] this difficult problem before it gets worse.	We need to tackle this difficult problem before it gets worse.	[Verb] to make a determined effort to deal with a challenge	abordar / enfrentar
+3596B	tackle	The defender tried to [...] the player to stop the goal.	The defender tried to tackle the player to stop the goal.	[Verb] to hit and knock down an opponent in sports	placar / taclear
+3597A	dynamics	Understanding family [...] helps therapists resolve conflicts better.	Understanding family dynamics helps therapists resolve conflicts better.	[Noun] the forces or relationships that control how a system changes	dinámica
+3598A	bow	The actor stepped forward to [...] before the audience cheered.	The actor stepped forward to bow before the audience cheered.	[Verb] to bend the head or upper body forward as a sign of respect	inclinarse / hacer una reverencia
+3598B	bow	She tied a bright red [...] around the birthday gift.	She tied a bright red bow around the birthday gift.	[Noun] a knot with loops used for decoration or tying shoelaces	lazo / moño
+3598C	bow	He learned how to shoot an arrow using a wooden [...].	He learned how to shoot an arrow using a wooden bow.	[Noun] a weapon used for shooting arrows	arco (de tiro)
+3599A	ours	That house on the corner of the street is [...].	That house on the corner of the street is ours.	[Pronoun] belonging to or associated with us	nuestro / nuestra / nuestros / nuestras
+3600A	dignity	She faced the difficult diagnosis with quiet strength and [...].	She faced the difficult diagnosis with quiet strength and dignity.	[Noun] the state of being worthy of honor or respect	dignidad
