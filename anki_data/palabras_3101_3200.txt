@@ -1,0 +1,140 @@
+3101A	Roman	We visited the ancient [...] ruins during our trip to Italy.	We visited the ancient Roman ruins during our trip to Italy.	[Adjective] relating to ancient Rome	romano/a
+3102A	architecture	I really admire the modern [...] of this new museum.	I really admire the modern architecture of this new museum.	[Noun] the style or design of buildings	arquitectura
+3103A	occasional	He enjoys an [...] glass of wine with dinner on weekends.	He enjoys an occasional glass of wine with dinner on weekends.	[Adjective] happening sometimes but not often	ocasional
+3104A	administrative	She handles all the [...] tasks in our small office.	She handles all the administrative tasks in our small office.	[Adjective] relating to the management of an organization	administrativo/a
+3105A	elbow	He rested his [...] on the table while talking.	He rested his elbow on the table while talking.	[Noun] the joint between the upper and lower arm	codo
+3105B	elbow one's way	He tried to [...] through the crowded subway station.	He tried to elbow his way through the crowded subway station.	[Phrasal Verb] to push through a crowd using your arms	abrirse paso a codazos
+3106A	deadly	Cobras carry a [...] poison that can kill a person quickly.	Cobras carry a deadly poison that can kill a person quickly.	[Adjective] causing or able to cause death	mortal / mortífero
+3106B	deadly serious	He was [...] when he warned us about the storm.	He was deadly serious when he warned us about the storm.	[Idiom] completely serious without any humor	completamente en serio / muy serio
+3107A	Hispanic	The neighborhood has a large [...] community with great food.	The neighborhood has a large Hispanic community with great food.	[Adjective] connected with Spanish-speaking countries or people	hispano/a
+3108A	allegation	The police are investigating the serious [...] against the politician.	The police are investigating the serious allegation against the politician.	[Noun] a claim that someone did something wrong without proof	acusación
+3109A	confuse	These complex instructions will [...] anyone who reads them.	These complex instructions will confuse anyone who reads them.	[Verb] to make someone unable to think clearly	confundir
+3109B	confuse	People often [...] the twins because they look identical.	People often confuse the twins because they look identical.	[Verb] to mistake one person or thing for another	confundir / equivocar
+3110A	airplane	We boarded the [...] and waited for takeoff.	We boarded the airplane and waited for takeoff.	[Noun] a vehicle designed for air travel with wings	avión
+3111A	monthly	We pay a [...] fee for our internet service.	We pay a monthly fee for our internet service.	[Adjective] happening or appearing once every month	mensual
+3111B	monthly	The magazine is published [...] and sent to subscribers.	The magazine is published monthly and sent to subscribers.	[Adverb] once a month	mensualmente / todos los meses
+3112A	duck	A mother [...] swam across the pond with her babies.	A mother duck swam across the pond with her babies.	[Noun] a common water bird with a broad bill	pato
+3112B	duck	You should [...] your head so you do not hit the door.	You should duck your head so you do not hit the door.	[Verb] to lower your head or body quickly	agacharse / esquivar
+3112C	duck out	She had to [...] of the meeting to answer a call.	She had to duck out of the meeting to answer a call.	[Phrasal Verb - Informal] to leave a place quietly or early	escabullirse / retirarse
+3113A	dose	Take one [...] of this medicine every eight hours.	Take one dose of this medicine every eight hours.	[Noun] a measured amount of medicine taken at one time	dosis
+3114A	Korean	We went to a popular [...] restaurant for dinner.	We went to a popular Korean restaurant for dinner.	[Adjective] relating to Korea, its people, or language	coreano/a
+3115A	plead	The lawyer advised him to [...] guilty to get a lighter sentence.	The lawyer advised him to plead guilty to get a lighter sentence.	[Verb] to state in a court whether you are guilty or not	declararse (culpable/inocente)
+3115B	plead	She began to [...] with him to stay a little longer.	She began to plead with him to stay a little longer.	[Verb] to ask for something in an emotional way	suplicar / rogar
+3116A	initiate	The company will [...] a new project next week.	The company will initiate a new project next week.	[Verb] to cause a process or action to begin	iniciar / comenzar
+3117A	lecture	The professor gave an interesting [...] on history today.	The professor gave an interesting lecture on history today.	[Noun] an educational talk to an audience	conferencia / clase magistral
+3117B	lecture	My dad loves to [...] me about saving money.	My dad loves to lecture me about saving money.	[Verb] to scold or give serious advice to someone	dar una charla / sermonear
+3118A	van	They loaded the heavy boxes into the back of the [...].	They loaded the heavy boxes into the back of the van.	[Noun] a medium vehicle used for carrying goods or people	furgoneta / camioneta
+3119A	sixth	June is the [...] month of the year.	June is the sixth month of the year.	[Adjective] coming next after the fifth in order	sexto/a
+3120A	bay	Several small fishing boats were anchored in the [...].	Several small fishing boats were anchored in the bay.	[Noun] a coast area where the land curves inward	bahía
+3120B	keep at bay	Drinking warm tea helps [...] winter colds [...].	Drinking warm tea helps keep winter colds at bay.	[Idiom] to prevent something dangerous or unpleasant from approaching	mantener a raya / a distancia
+3121A	mainstream	His opinions are now part of [...] culture.	His opinions are now part of mainstream culture.	[Adjective] accepted or followed by most people	dominante / convencional
+3122A	suburb	They moved to a quiet [...] to raise their children.	They moved to a quiet suburb to raise their children.	[Noun] a residential district outside a city center	suburbio / barrio residencial
+3123A	sandwich	I packed a turkey [...] for lunch today.	I packed a turkey sandwich for lunch today.	[Noun] food made of bread slices with filling between them	sándwich / bocadillo
+3124A	trunk	The cat climbed up the [...] of the oak tree.	The cat climbed up the trunk of the oak tree.	[Noun] the main wooden stem of a tree	tronco
+3124B	trunk	Put your heavy bags in the [...] of the car.	Put your heavy bags in the trunk of the car.	[Noun] the enclosed luggage space at the back of a car	maletero / cajuela
+3124C	trunk	The big elephant sprayed water from its long [...].	The big elephant sprayed water from its long trunk.	[Noun] the long flexible nose of an elephant	trompa
+3125A	rumor	A wild [...] spread through the office yesterday.	A wild rumor spread through the office yesterday.	[Noun] a story spread without clear proof of truth	rumor
+3126A	implementation	The [...] of the new rules starts tomorrow.	The implementation of the new rules starts tomorrow.	[Noun] the process of putting a decision or plan into effect	implementación / puesta en marcha
+3127A	swallow	Take a sip of water to help you [...] the pill.	Take a sip of water to help you swallow the pill.	[Verb] to cause food or drink to pass down the throat	tragar / deglutir
+3127B	swallow one's pride	He had to [...] and ask his brother for help.	He had to swallow his pride and ask his brother for help.	[Idiom] to accept embarrassment and ask for help or admit a fault	tragarse el orgullo
+3128A	motivate	A good teacher knows how to [...] her students.	A good teacher knows how to motivate her students.	[Verb] to encourage someone to do something	motivar / entusiasmar
+3129A	render	The heavy blow to his head [...] him unconscious.	The heavy blow to his head rendered him unconscious.	[Verb] to cause someone or something to be in a particular state	dejar / volver
+3130A	longtime	She met up with a [...] friend from high school.	She met up with a longtime friend from high school.	[Adjective] having been so for a long period	de mucho tiempo / antiguo/a
+3131A	trap	The mouse was caught in a small [...] in the kitchen.	The mouse was caught in a small trap in the kitchen.	[Noun] a device used to catch animals	trampa
+3131B	trap	Firefighters worked quickly to save the people [...] in the building.	Firefighters worked quickly to save the people trapped in the building.	[Verb] to catch or keep someone in a place with no exit	atrapar / encerrar
+3132A	restrict	The school decided to [...] the use of mobile phones.	The school decided to restrict the use of mobile phones.	[Verb] to limit or control the size or range of something	restringir / limitar
+3133A	cloth	She wiped the clean table with a damp [...].	She wiped the clean table with a damp cloth.	[Noun] woven fabric used for cleaning or clothing	trapo / tela / paño
+3134A	seemingly	The test was [...] simple, but many students failed.	The test was seemingly simple, but many students failed.	[Adverb] appearing to be true based on appearances	aparentemente / al parecer
+3135A	legislative	Congress has the [...] power to create new laws.	Congress has the legislative power to create new laws.	[Adjective] relating to laws or the process of making laws	legislativo/a
+3136A	effectiveness	Doctors are studying the [...] of the new medicine.	Doctors are studying the effectiveness of the new medicine.	[Noun] the degree to which something produces a desired result	eficacia / efectividad
+3137A	enforce	The police are here to [...] the traffic rules.	The police are here to enforce the traffic rules.	[Verb] to make people obey a rule or law	hacer cumplir / aplicar
+3138A	lens	He wiped the camera [...] before taking the picture.	He wiped the camera lens before taking the picture.	[Noun] a curved piece of glass used in cameras or glasses	lente / objetivo
+3139A	inspector	A health [...] checked the restaurant kitchen today.	A health inspector checked the restaurant kitchen today.	[Noun] an official who examines things to enforce rules	inspector/a
+3140A	lend	Can you [...] me five dollars until tomorrow?	Can you lend me five dollars until tomorrow?	[Verb] to give something to someone for a short time	prestar
+3140B	lend a hand	My neighbor came over to [...] when I was moving furniture.	My neighbor came over to lend a hand when I was moving furniture.	[Idiom] to help someone with a task	echar una mano / ayudar
+3141A	plain	She wore a [...] white t-shirt and dark jeans.	She wore a plain white t-shirt and dark jeans.	[Adjective] simple and without decoration or pattern	sencillo/a / liso/a
+3141B	plain	It was [...] to everyone that he was lying.	It was plain to everyone that he was lying.	[Adjective] easy to see or understand; clear	claro/a / evidente
+3141C	plain	Horses were running freely across the open [...].	Horses were running freely across the open plain.	[Noun] a large area of flat land with few trees	llanura / planicie
+3142A	fraud	He was arrested for credit card [...] yesterday.	He was arrested for credit card fraud yesterday.	[Noun] the crime of deceiving someone to gain money	fraude / estafa
+3142B	fraud	The man claiming to be a doctor turned out to be a [...].	The man claiming to be a fraud.	[Noun] a person who pretends to be something they are not	impostor/a / fraude
+3143A	companion	My dog has been my constant [...] for ten years.	My dog has been my constant companion for ten years.	[Noun] a person or animal you spend time with	compañero/a
+3144A	contend	Lawyers [...] that the defendant is completely innocent.	Lawyers contend that the defendant is completely innocent.	[Verb] to state something as a strong argument	sostener / afirmar
+3144B	contend with	The young athlete had to [...] several injury problems this season.	The young athlete had to contend with several injury problems this season.	[Phrasal Verb] to deal with a difficult situation or opponent	lidiar con / enfrentarse a
+3145A	nail	She broke a [...] while opening the heavy door.	She broke a nail while opening the heavy door.	[Noun] the hard flat part covering the tip of a finger or toe	uña
+3145B	nail	He hit the [...] with a hammer to fix the chair.	He hit the nail with a hammer to fix the chair.	[Noun] a small thin metal spike driven into wood	clavo
+3145C	nail	She practiced hard and managed to [...] her job interview.	She practiced hard and managed to nail her job interview.	[Verb - Informal] to perform or execute something successfully	bordar / clavar
+3145D	nail down	We need to [...] the details before the meeting.	We need to nail down the details before the meeting.	[Phrasal Verb] to finalize or reach agreement on something	concretar / definir
+3146A	array	The shop offers a wide [...] of fresh fruits.	The shop offers a wide array of fresh fruits.	[Noun] an impressive display or range of things	variedad / conjunto
+3147A	strict	Our school has very [...] rules about attendance.	Our school has very strict rules about attendance.	[Adjective] demanding that rules are obeyed carefully	estricto/a
+3148A	assemble	All students should [...] in the main hall.	All students should assemble in the main hall.	[Verb] to bring or come together into a group	reunirse / convocarse
+3148B	assemble	It took hours to [...] the new wooden table.	It took hours to assemble the new wooden table.	[Verb] to fit together the parts of something	armar / ensamblar
+3149A	frankly	Quite [...], I do not care what he thinks.	Quite frankly, I do not care what he thinks.	[Adverb] in an honest and direct way	francamente / sinceramente
+3150A	rat	A big [...] ran across the basement floor.	A big rat ran across the basement floor.	[Noun] a rodent resembling a large mouse	rata
+3150B	rat out	He was afraid his partner would [...] him [...] to the police.	He was afraid his partner would rat him out to the police.	[Phrasal Verb - Informal] to inform on or betray someone to authorities	delatar / chivarse
+3151A	burst	The balloon will [...] if you blow too much air.	The balloon will burst if you blow too much air.	[Verb] to break open or split suddenly from pressure	reventar / estallar
+3151B	burst into	She suddenly [...] tears after hearing the bad news.	She suddenly burst into tears after hearing the bad news.	[Phrasal Verb] to suddenly start crying or laughing	romper en (llanto/risas)
+3152A	hallway	Walk down the [...] and turn right at the end.	Walk down the hallway and turn right at the end.	[Noun] a passage in a building with doors to rooms	pasillo / corredor
+3153A	cave	Bats flew out of the dark [...] at sunset.	Bats flew out of the dark cave at sunset.	[Noun] a large natural hole in a cliff or hill	cueva / caverna
+3153B	cave in	The old roof might [...] if it snows heavily tonight.	The old roof might cave in if it snows heavily tonight.	[Phrasal Verb] to collapse inward or surrender under pressure	derrumbarse / ceder
+3154A	inevitable	Change is an [...] part of growing up.	Change is an inevitable part of growing up.	[Adjective] certain to happen and impossible to avoid	inevitable
+3155A	southwest	They live in a small town in the [...] of the country.	They live in a small town in the southwest of the country.	[Noun] the direction between south and west	suroeste
+3156A	monster	The child was afraid of a [...] under his bed.	The child was afraid of a monster under his bed.	[Noun] an imaginary scary creature	monstruo
+3157A	unexpected	We received some [...] news from our boss this morning.	We received some unexpected news from our boss this morning.	[Adjective] not expected or anticipated	inesperado/a
+3158A	obstacle	Lack of money was the main [...] to her success.	Lack of money was the main obstacle to her success.	[Noun] a thing that blocks progress or travel	obstáculo
+3159A	facilitate	The new software will [...] communication between teams.	The new software will facilitate communication between teams.	[Verb] to make an action or process easier	facilitar
+3160A	rip	Be careful not to [...] your shirt on that nail.	Be careful not to rip your shirt on that nail.	[Verb] to tear something quickly or forcibly	rasgar / romper
+3160B	rip off	That store is trying to [...] tourists with high prices.	That store is trying to rip off tourists with high prices.	[Phrasal Verb - Informal] to cheat someone by charging too much money	timar / estafar
+3161A	herb	Basil is a popular [...] used in Italian cooking.	Basil is a popular herb used in Italian cooking.	[Noun] a plant used for adding flavor to food	hierba (aromática)
+3162A	overwhelming	The response from our supporters was absolutely [...].	The response from our supporters was absolutely overwhelming.	[Adjective] very intense or great in amount	abrumador/a
+3163A	integration	The [...] of new technology into schools takes time.	The integration of new technology into schools takes time.	[Noun] the act of combining things into a whole	integración
+3164A	crystal	She poured water into a clear [...] glass.	She poured water into a clear crystal glass.	[Noun] a clear transparent mineral or fine glass	cristal
+3164B	crystal clear	Her instructions were [...] so nobody made any mistakes.	Her instructions were crystal clear so nobody made any mistakes.	[Idiom] extremely clear and easy to understand	claro como el agua / cristalino
+3165A	recession	Many people lost their jobs during the economic [...].	Many people lost their jobs during the economic recession.	[Noun] a period of temporary economic decline	recesión
+3166A	written	You need to give us [...] permission before we start.	You need to give us written permission before we start.	[Adjective] expressed in writing rather than speech	escrito/a
+3167A	motive	The police are still trying to find a [...] for the crime.	The police are still trying to find a motive for the crime.	[Noun] a reason for doing something	motivo / móvil
+3168A	flood	Heavy rain caused a major [...] in the city streets.	Heavy rain caused a major flood in the city streets.	[Noun] an overflow of a large amount of water onto land	inundación
+3168B	flood	The river rose quickly and [...] the nearby fields.	The river rose quickly and flooded the nearby fields.	[Verb] to cover an area with water	inundar
+3168C	flooded with	Her inbox was [...] hundreds of new emails.	Her inbox was flooded with hundreds of new emails.	[Idiomatic / Figurative] overwhelmed with a vast amount of something	inundado/a de / abrumado/a de
+3169A	pen	He signed the contract with a black ink [...].	He signed the contract with a black ink pen.	[Noun] an instrument for writing with ink	bolígrafo / pluma
+3170A	ownership	Home [...] is a major financial goal for many families.	Home ownership is a major financial goal for many families.	[Noun] the state or fact of owning something	propiedad / posesión
+3171A	nightmare	I woke up shaking after a bad [...].	I woke up shaking after a bad nightmare.	[Noun] a terrifying or very unpleasant dream	pesadilla
+3172A	inspection	The building passed the safety [...] yesterday.	The building passed the safety inspection yesterday.	[Noun] careful examination or scrutiny of something	inspección
+3173A	supervisor	Her [...] approved her request for time off.	Her supervisor approved her request for time off.	[Noun] a person who manages or oversees work	supervisor/a
+3174A	consult	You should [...] a doctor before starting a new diet.	You should consult a doctor before starting a new diet.	[Verb] to seek advice or information from someone	consultar
+3175A	arena	Thousands of fans filled the sports [...] for the game.	Thousands of fans filled the sports arena for the game.	[Noun] a venue surrounded by seats for sports or events	estadio / arena
+3176A	diagnosis	The doctor gave a clear [...] after looking at the tests.	The doctor gave a clear diagnosis after looking at the tests.	[Noun] the identification of an illness or problem	diagnóstico
+3177A	possession	He was arrested for illegal [...] of firearms.	He was arrested for illegal possession of firearms.	[Noun] the state of having or owning something	posesión / tenencia
+3178A	forgive	Please [...] me for forgetting your birthday.	Please forgive me for forgetting your birthday.	[Verb] to stop feeling angry towards someone for a mistake	perdonar
+3179A	consistently	She works [...] hard to achieve her goals.	She works consistently hard to achieve her goals.	[Adverb] in a way that does not change over time	de manera constante / consistentemente
+3180A	basement	We store old boxes in our [...].	We store old boxes in our basement.	[Noun] a floor of a building below ground level	sótano
+3181A	drift	The small boat began to [...] out to sea.	The small boat began to drift out to sea.	[Verb] to be carried slowly by water or air	ir a la deriva / flotar
+3181B	drift off	I began to [...] while listening to the quiet music.	I began to drift off while listening to the quiet music.	[Phrasal Verb] to gradually fall asleep	quedarse dormido/a
+3181C	drift apart	After high school, the two friends began to [...] slowly.	After high school, the two friends began to drift apart slowly.	[Phrasal Verb] to gradually become less close over time	distanciarse / alejarse
+3182A	drain	The sink is blocked because the [...] is clogged.	The sink is blocked because the drain is clogged.	[Noun] a pipe or hole that carries away liquid	desagüe / drenaje
+3182B	drain	Cook the pasta and [...] the water in the sink.	Cook the pasta and drain the water in the sink.	[Verb] to make liquid flow off from something	escurrir / drenar
+3182C	down the drain	All our hard work went [...] when the project was canceled.	All our hard work went down the drain when the project was canceled.	[Idiom] completely wasted or lost	por el desagüe / a la basura
+3182D	drained	After a long day at work, I feel completely [...].	After a long day at work, I feel completely drained.	[Adjective] deprived of strength or vitality; exhausted	exhausto/a / agotado/a
+3183A	prosecution	The [...] presented new evidence to the judge.	The prosecution presented new evidence to the judge.	[Noun] the legal team conducting proceedings against an accused person	fiscalía / acusación
+3184A	maximum	The [...] speed limit on this highway is sixty miles per hour.	The maximum speed limit on this highway is sixty miles per hour.	[Adjective] the highest or greatest amount possible	máximo/a
+3185A	announcement	The company made an important [...] about new jobs.	The company made an important announcement about new jobs.	[Noun] a formal public statement	anuncio / comunicado
+3186A	warrior	The ancient [...] fought bravely to protect his kingdom.	The ancient warrior fought bravely to protect his kingdom.	[Noun] a brave or experienced soldier or fighter	guerrero/a
+3187A	prediction	Her [...] about the weather turned out to be right.	Her prediction about the weather turned out to be right.	[Noun] a statement about what will happen in the future	predicción / pronóstico
+3188A	bacteria	Wash your hands with soap to kill dangerous [...].	Wash your hands with soap to kill dangerous bacteria.	[Noun] microscopic living organisms that can cause disease	bacterias
+3189A	questionnaire	Please fill out this short [...] about our service.	Please fill out this short questionnaire about our service.	[Noun] a set of written questions used to gather information	cuestionario
+3190A	mud	His boots were covered in [...] after the hike.	His boots were covered in mud after the hike.	[Noun] wet soft earth or soil	barro / fango
+3191A	infrastructure	The government is spending money to improve national [...].	The government is spending money to improve national infrastructure.	[Noun] basic physical structures like roads and power lines	infraestructura
+3192A	hurry	We must [...] or we will miss our flight.	We must hurry or we will miss our flight.	[Verb] to move or act quickly	apurarse / darse prisa
+3192B	hurry	She left in a [...] because she was running late.	She left in a hurry because she was running late.	[Noun] a state of needing to move or act quickly	prisa
+3192C	hurry up	Please [...] so we can leave on time.	Please hurry up so we can leave on time.	[Phrasal Verb] to do something faster	darse prisa / apurarse
+3193A	privilege	Education should be a right for everyone, not a [...].	Education should be a right for everyone, not a privilege.	[Noun] a special advantage given to a person or group	privilegio
+3194A	temple	Monks pray inside the ancient [...] every morning.	Monks pray inside the ancient temple every morning.	[Noun] a building used for religious worship	templo
+3194B	temple	He rubbed his [...] to soothe a sudden headache.	He rubbed his temple to soothe a sudden headache.	[Noun] the flat part on either side of the head above the cheek	sien
+3195A	outdoor	They love doing [...] activities like camping and hiking.	They love doing outdoor activities like camping and hiking.	[Adjective] taking place or located outside a building	al aire libre / exterior
+3196A	suck	The baby began to [...] on her bottle quietly.	The baby began to suck on her bottle quietly.	[Verb] to draw liquid into the mouth	chupar / succionar
+3196B	suck at	I really [...] playing video games.	I really suck at playing video games.	[Phrasal Verb - Informal] to be very bad at doing something	ser malo/a en / apestar en
+3196C	suck up to	He is always trying to [...] the manager for a promotion.	He is always trying to suck up to the manager for a promotion.	[Phrasal Verb - Informal] to praise or obey someone to gain an advantage	hacer la pelota / adular
+3197A	broadcast	The station will [...] the game live tonight.	The station will broadcast the game live tonight.	[Verb] to transmit a program on radio or television	transmitir / emitir
+3198A	re	I am writing [...] your recent job application.	I am writing re your recent job application.	[Preposition - Formal] regarding or concerning a matter	con respecto a / sobre
+3199A	leap	The cat [...] onto the high fence easily.	The cat leaped onto the high fence easily.	[Verb] to jump a high distance or a long way	saltar / brincar
+3199B	leap of faith	Starting her own online business was a big [...].	Starting her own online business was a big leap of faith.	[Idiom] an act of believing or trusting something without proof	salto de fe
+3200A	random	The winner was chosen by a [...] computer selection.	The winner was chosen by a random computer selection.	[Adjective] happening or chosen without a definite plan or pattern	aleatorio/a / al azar
