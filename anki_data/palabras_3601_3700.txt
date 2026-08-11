@@ -1,0 +1,159 @@
+3601A	carpet	We bought a new red [...] for the living room.	We bought a new red carpet for the living room.	[Noun] thick fabric floor covering	alfombra
+3601B	carpet	The company decided to [...] the office floor with dark green material.	The company decided to carpet the office floor with dark green material.	[Verb] to cover a floor with thick fabric	alfombrar
+3602A	parental	Children need strong [...] guidance as they grow up.	Children need strong parental guidance as they grow up.	[Adjective] relating to a mother or father	parental / paterno / materno
+3602B	parental controls	You can turn on [...] on the TV to limit what kids watch.	You can turn on parental controls on the TV to limit what kids watch.	[Noun] software features that restrict access to inappropriate content	control parental
+3603A	bubble	The boy blew a large [...] with his pink gum.	The boy blew a large bubble with his pink gum.	[Noun] a thin sphere of liquid containing air	burbuja
+3603B	bubble	The soup started to [...] on the hot stove.	The soup started to bubble on the hot stove.	[Verb] to form or produce spheres of air or gas	borbotear / hacer burbujas
+3603C	burst your bubble	I hate to [...], but our team lost the match.	I hate to burst your bubble, but our team lost the match.	[Idiom - Informal] to destroy someone's happy belief or illusion	romper la ilusión / pinchar la burbuja
+3604A	buddy	My old school [...] called me yesterday after many years.	My old school buddy called me yesterday after many years.	[Noun - Informal AmE] a close friend	amigo / compañero
+3604B	buddy up	Students should [...] with a partner for the science project.	Students should buddy up with a partner for the science project.	[Phrasal Verb - Informal] to pair up with someone to do something together	juntarse / ponerse en parejas
+3605A	barn	The farmer stores dried grass in the old wooden [...].	The farmer stores dried grass in the old wooden barn.	[Noun] a large farm building for storage or animals	granero / pajar
+3606A	sword	The knight pulled his sharp [...] to defend the king.	The knight pulled his sharp sword to defend the king.	[Noun] a weapon with a long metal blade	espada
+3606B	double-edged sword	Social media is a [...] that brings both connection and stress.	Social media is a double-edged sword that brings both connection and stress.	[Idiom] something that has both good and bad consequences	espada de doble filo / arma de doble filo
+3607A	seventh	This is her [...] time visiting this city this year.	This is her seventh time visiting this city this year.	[Adjective/Ordinal] coming next after sixth	séptimo / séptima
+3608A	glory	The athletes fought hard for the [...] of winning gold.	The athletes fought hard for the glory of winning gold.	[Noun] high fame or honor achieved by notable success	gloria / honor
+3609A	tightly	She held her baby [...] in her arms during the storm.	She held her baby tightly in her arms during the storm.	[Adverb] in a firm or closely fixed manner	apretadamente / fuertemente
+3610A	protective	Mother dogs are very [...] of their small puppies.	Mother dogs are very protective of their small puppies.	[Adjective] wanting to shield someone from harm or danger	protector / protectora
+3611A	tuck	Please [...] your shirt into your pants before the interview.	Please tuck your shirt into your pants before the interview.	[Verb] to push or fold edges neatly into place	meter / fajarse
+3611B	tuck in	She kissed her son and [...] for the night.	She kissed her son and tucked him in for the night.	[Phrasal Verb] to cover someone neatly in bed	arropar / acostar
+3611C	tuck away	They ate at a cozy restaurant [...] in a quiet alley.	They ate at a cozy restaurant tucked away in a quiet alley.	[Phrasal Verb] to hide or store something in a quiet or safe place	esconder / ubicar en un lugar tranquilo
+3612A	drums	The musician played the [...] during the rock concert.	The musician played the drums during the rock concert.	[Noun] a musical percussion instrument	tambor / batería
+3612B	drum up	The business owner tried to [...] new customers with discounts.	The business owner tried to drum up new customers with discounts.	[Phrasal Verb] to try hard to attract or gather support	conseguir / atraer
+3613A	faint	I heard a [...] noise coming from the basement.	I heard a faint noise coming from the basement.	[Adjective] quiet, weak, or unclear	tenue / débil
+3613B	faint	It was so hot in the room that she was about to [...].	It was so hot in the room that she was about to faint.	[Verb] to lose consciousness briefly	desmayarse
+3613C	not have the faintest idea	I do [...] where I left my house keys.	I do not have the faintest idea where I left my house keys.	[Idiom] to have no knowledge or understanding at all	no tener la más mínima idea
+3614A	queen	The [...] addressed the nation on television last night.	The queen addressed the nation on television last night.	[Noun] a female ruler of a country	reina
+3614B	queen	She played her highest card, which was the [...] of hearts.	She played her highest card, which was the queen of hearts.	[Noun] a playing card showing a female monarch	reina / dama
+3615A	dilemma	He faced a serious [...] when offered two great jobs.	He faced a serious dilemma when offered two great jobs.	[Noun] a difficult situation requiring a choice between options	dilema
+3616A	input	We need your [...] on this new design project.	We need your input on this new design project.	[Noun] ideas, advice, or effort contributed to a task	aportación / opinión / entrada
+3616B	input	Please [...] your personal password on the screen.	Please input your personal password on the screen.	[Verb] to enter information into a computer system	ingresar / introducir
+3617A	specialize	Dr. Green decided to [...] in heart surgery.	Dr. Green decided to specialize in heart surgery.	[Verb] to focus study or work on a single area	especializarse
+3618A	northeast	They live in a small town in the [...] of the country.	They live in a small town in the northeast of the country.	[Noun/Adjective] the direction between north and east	noreste
+3619A	shallow	The kids played safely in the [...] end of the pool.	The kids played safely in the shallow end of the pool.	[Adjective] having little depth from top to bottom	poco profundo / superficial
+3619B	shallow	He seems like a [...] person who only cares about money.	He seems like a shallow person who only cares about money.	[Adjective] lacking deep thought or serious feeling	superficial
+3620A	liability	The company accepted legal [...] for the workplace accident.	The company accepted legal liability for the workplace accident.	[Noun] state of being legally responsible for something	responsabilidad legal
+3620B	liability	His quick temper became a real [...] to our team.	His quick temper became a real liability to our team.	[Noun] a person or thing that creates a disadvantage	carga / obstáculo
+3621A	sail	We rented a boat to [...] across the calm lake.	We rented a boat to sail across the calm lake.	[Verb] to travel on water using wind or power	navegar
+3621B	sail	The wind filled the large white [...] on the ship.	The wind filled the large white sail on the ship.	[Noun] a piece of fabric used to catch wind on a boat	vela
+3621C	sail through	With so much study, she will easily [...] her final exam.	With so much study, she will easily sail through her final exam.	[Phrasal Verb/Idiom] to pass or complete something without difficulty	aprobar sin esfuerzo / pasar fácilmente
+3622A	merchant	The rich [...] bought silk and spices in foreign lands.	The rich merchant bought silk and spices in foreign lands.	[Noun] a person who buys and sells goods for profit	comerciante / mercader
+3623A	stadium	Thousands of fans filled the [...] for the soccer match.	Thousands of fans filled the stadium for the soccer match.	[Noun] a large sports arena with seats for spectators	estadio
+3624A	improved	Our team showed [...] results after changing the coach.	Our team showed improved results after changing the coach.	[Adjective] made better or higher in quality	mejorado / mejorada
+3625A	bloody	The injured player left the field with a [...] nose.	The injured player left the field with a bloody nose.	[Adjective] covered in or containing blood	sangriento / ensangrentado
+3625B	bloody	What a [...] brilliant idea that was!	What a bloody brilliant idea that was!	[Adjective/Adverb - Informal BrE] used for strong emphasis	maldito / jodido / rematado
+3626A	associated	High heart risk is often [...] with poor eating habits.	High heart risk is often associated with poor eating habits.	[Adjective] connected or linked with something	asociado / vinculado
+3627A	withdrawal	She made a cash [...] of fifty dollars from the machine.	She made a cash withdrawal of fifty dollars from the machine.	[Noun] the act of taking money out of an account	retiro (de dinero)
+3627B	withdrawal	The army announced a total [...] of its troops today.	The army announced a total withdrawal of its troops today.	[Noun] the act of pulling back or removing something	retirada / retiro
+3627C	withdrawal symptoms	Quitting coffee suddenly caused mild [...] like headaches.	Quitting coffee suddenly caused mild withdrawal symptoms like headaches.	[Noun] physical or mental discomfort after stopping a habit or substance	síndrome de abstinencia / síntomas de abstinencia
+3628A	refrigerator	Keep the fresh milk inside the [...] so it stays cold.	Keep the fresh milk inside the refrigerator so it stays cold.	[Noun] an electrical appliance used for preserving food	refrigerador / nevera
+3629A	nest	The little bird built a small [...] in the tree.	The little bird built a small nest in the tree.	[Noun] a structure built by birds to lay eggs	nido
+3629B	nest	Small birds usually [...] high up in tall trees.	Small birds usually nest high up in tall trees.	[Verb] to build or live in a structure for eggs	anidar
+3629C	nest egg	They saved a small [...] for their retirement years.	They saved a small nest egg for their retirement years.	[Noun / Idiom] a sum of money saved for the future	fondo de ahorro / colchón financiero
+3630A	thoroughly	Read the instruction manual [...] before using the machine.	Read the instruction manual thoroughly before using the machine.	[Adverb] completely, carefully, and with great detail	a fondo / minuciosamente
+3631A	lane	Stay in the right [...] if you want to turn soon.	Stay in the right lane if you want to turn soon.	[Noun] a marked section of a road for one line of cars	carril / carrilera
+3631B	fast lane	You should use the [...] when driving fast on the highway.	You should use the fast lane when driving fast on the highway.	[Noun] the traffic lane used by faster vehicles on a highway	carril rápido / carril de alta velocidad
+3632A	ancestor	Her distant [...] came to this country two centuries ago.	Her distant ancestor came to this country two centuries ago.	[Noun] a family member who lived a long time ago	antepasado / ancestro
+3633A	condemn	Global leaders met to [...] the sudden attack on civilians.	Global leaders met to condemn the sudden attack on civilians.	[Verb] to express strong public disapproval of	condenar / rechazar
+3633B	condemn	City inspectors decided to [...] the unsafe abandoned building.	City inspectors decided to condemn the unsafe abandoned building.	[Verb] to declare a building unsafe for use	declarar inhabitable / condenar
+3634A	steam	Hot [...] rose from the mug of coffee on my desk.	Hot steam rose from the mug of coffee on my desk.	[Noun] hot gas formed when water boils	vapor
+3634B	let off steam	He went running after work to [...] after a hard day.	He went running after work to let off steam after a hard day.	[Idiom] to release stress, anger, or strong feelings	desahogarse / liberar tensión
+3634C	run out of steam	After running ten miles, the marathon runner started to [...].	After running ten miles, the marathon runner started to run out of steam.	[Idiom - Informal] to lose energy or enthusiasm to continue	quedarse sin fuerzas / perder el impulso
+3635A	accent	She speaks English with a strong French [...].	She speaks English with a strong French accent.	[Noun] a distinct way of pronouncing a language	acento
+3636A	optimistic	We remain [...] about finding a solution to the problem.	We remain optimistic about finding a solution to the problem.	[Adjective] expecting good outcomes or feeling hopeful	optimista
+3637A	unite	The two companies plan to [...] their efforts next month.	The two companies plan to unite their efforts next month.	[Verb] to join together for a common purpose	unir / unirse
+3638A	cage	The zoo keeper cleaned the parrot's metal [...] this morning.	The zoo keeper cleaned the parrot's metal cage this morning.	[Noun] a structure with bars used to keep animals	jaula
+3639A	equip	We must [...] the new office with ergonomic chairs and desks.	We must equip the new office with ergonomic chairs and desks.	[Verb] to supply with necessary items or tools	equipar / dotar
+3640A	shrimp	My sister ordered a bowl of fried [...] at the restaurant.	My sister ordered a bowl of fried shrimp at the restaurant.	[Noun] a small edible sea animal with a shell	camarón / gamba
+3641A	homeland	After twenty years abroad, he returned to his original [...].	After twenty years abroad, he returned to his original homeland.	[Noun] the country where a person was born	patria / tierra natal
+3642A	rack	Hang your heavy coat on the [...] near the front door.	Hang your heavy coat on the rack near the front door.	[Noun] a frame or shelf for holding or hanging items	perchero / estante
+3642B	rack up	The popular movie managed to [...] millions in sales.	The popular movie managed to rack up millions in sales.	[Phrasal Verb] to accumulate or score a large amount	acumular / lograr
+3642C	rack your brain	You do not need to [...] for such a simple math question.	You do not need to rack your brain for such a simple math question.	[Idiom] to think very hard to remember or solve something	devanarse los sesos / romperse la cabeza
+3643A	costumes	Children wore scary [...] for the Halloween party.	Children wore scary costumes for the Halloween party.	[Noun] special clothes worn for a holiday or show	disfraz / traje
+3644A	wolf	A wild [...] was seen near the dark forest last night.	A wild wolf was seen near the dark forest last night.	[Noun] a wild carnivorous animal of the dog family	lobo
+3644B	wolf down	The hungry boy started to [...] his lunch in five minutes.	The hungry boy started to wolf down his lunch in five minutes.	[Phrasal Verb - Informal] to eat food very quickly and greedily	devorar / engullir
+3644C	lone wolf	He prefers working as a [...] rather than in a team.	He prefers working as a lone wolf rather than in a team.	[Idiom / Noun] a person who prefers to act or live alone	lobo solitario
+3645A	courtroom	Silence fell over the [...] when the judge walked in.	Silence fell over the courtroom when the judge walked in.	[Noun] a formal room where legal trials take place	sala de tribunal / juzgado
+3646A	statute	Congress passed a new [...] to protect consumer privacy.	Congress passed a new statute to protect consumer privacy.	[Noun] a formal written law enacted by a legislature	ley / estatuto
+3646B	statute of limitations	The legal case was dismissed because the [...] had expired.	The legal case was dismissed because the statute of limitations had expired.	[Noun] a law setting a time limit for legal action against a crime	prescripción del delito / estatuto de limitaciones
+3647A	cartoon	My young kids watch a funny [...] every Saturday morning.	My young kids watch a funny cartoon every Saturday morning.	[Noun] an animated show or drawing for entertainment	dibujo animado / caricatura
+3648A	productivity	Working from home increased employee [...] significantly.	Working from home increased employee productivity significantly.	[Noun] the measure or rate of work output	productividad
+3649A	grin	He had a wide [...] on his face after winning the prize.	He had a wide grin on his face after winning the prize.	[Noun] a broad smile showing happiness	sonrisa de oreja a oreja
+3649B	grin	The young boy could only [...] when his dad praised him.	The young boy could only grin when his dad praised him.	[Verb] to smile broadly	sonreír ampliamente
+3649C	grin and bear it	When bad weather ruined the trip, we had to [...].	When bad weather ruined the trip, we had to grin and bear it.	[Idiom] to accept an unpleasant situation without complaining	aguantarse y poner buena cara / hacer de tripas corazón
+3650A	symbolic	Wearing white is often [...] of peace and purity.	Wearing white is often symbolic of peace and purity.	[Adjective] representing or standing for something else	simbólico / simbólica
+3651A	bug	A small green [...] crawled across the kitchen counter.	A small green bug crawled across the kitchen counter.	[Noun] a small insect	bicho / insecto
+3651B	bug	The programmer fixed a computer [...] in the main software.	The programmer fixed a computer bug in the main software.	[Noun] an error or fault in a computer program	fallo / error de software
+3651C	bug	Loud noises always [...] me when I try to read.	Loud noises always bug me when I try to read.	[Verb - Informal] to annoy or bother someone	molestar / fastidiar
+3652A	bless	May God [...] you and your family this year.	May God bless you and your family this year.	[Verb] to ask for divine protection or favor	bendecir
+3652B	bless you	She said [...] when her friend sneezed twice.	She said bless you when her friend sneezed twice.	[Phrase] a polite phrase said to someone who has just sneezed	¡salud! / dios te bendiga
+3653A	aunt	My [...] bought me a nice book for my birthday.	My aunt bought me a nice book for my birthday.	[Noun] the sister of one's father or mother	tía
+3654A	agriculture	Modern [...] relies heavily on clean water and good weather.	Modern agriculture relies heavily on clean water and good weather.	[Noun] the science, art, or practice of farming	agricultura
+3655A	hostile	The local crowd was very [...] toward the visiting team.	The local crowd was very hostile toward the visiting team.	[Adjective] showing strong unfriendliness or opposition	hostil / enemigo
+3656A	conceive	It is hard to [...] how fast technology changes today.	It is hard to conceive how fast technology changes today.	[Verb] to form an idea or plan in the mind	concebir / imaginar
+3656B	conceive	The couple tried for years to [...] their first child.	The couple tried for years to conceive their first child.	[Verb] to become pregnant with a child	concebir / quedar embarazada
+3657A	combined	The [...] cost of the tickets was much higher than expected.	The combined cost of the tickets was much higher than expected.	[Adjective] joined together or added as a whole	combinado / conjunto
+3658A	instantly	She recognized her best friend [...] in the big crowd.	She recognized her best friend instantly in the big crowd.	[Adverb] immediately or without any delay	al instante / de inmediato
+3659A	bankruptcy	The small shop filed for [...] after sales dropped sharply.	The small shop filed for bankruptcy after sales dropped sharply.	[Noun] the legal state of being unable to pay debts	bancarrota / quiebra
+3660A	vaccine	Scientists developed a new [...] to fight the flu.	Scientists developed a new vaccine to fight the flu.	[Noun] a substance used to create immunity against disease	vacuna
+3661A	bonus	Workers received a cash [...] at the end of the year.	Workers received a cash bonus at the end of the year.	[Noun] extra money given as a reward or gift	bono / bonificación
+3662A	collaboration	The project succeeded thanks to great [...] between teams.	The project succeeded thanks to great collaboration between teams.	[Noun] the act of working together to achieve something	colaboración
+3663A	mixed	She had [...] feelings about moving to a new city.	She had mixed feelings about moving to a new city.	[Adjective] consisting of different or conflicting elements	mixto / contradictorio
+3663B	mixed signals	He gave her [...] by being friendly one day and cold the next.	He gave her mixed signals by being friendly one day and cold the next.	[Noun] confusing behavior that shows conflicting intentions or feelings	señales contradictorias / señales mixtas
+3664A	opposed	Most members were strongly [...] to the new rule.	Most members were strongly opposed to the new rule.	[Adjective] completely against or disagreeing with	opuesto / en contra
+3664B	as opposed to	We decided to take the train [...] driving in traffic.	We decided to take the train as opposed to driving in traffic.	[Prepositional Phrase] rather than or in contrast with	en lugar de / a diferencia de
+3665A	orbit	The moon completes an [...] around Earth every month.	The moon completes an orbit around Earth every month.	[Noun] the curved path of an object in space	órbita
+3665B	orbit	The satellite will [...] the planet for five full years.	The satellite will orbit the planet for five full years.	[Verb] to move in a curved path around something	orbitar / girar alrededor de
+3666A	grasp	The baby tried to [...] my index finger firmly.	The baby tried to grasp my index finger firmly.	[Verb] to hold something tightly with a hand	agarrar / sujetar
+3666B	grasp	It took time to [...] the main idea of the book.	It took time to grasp the main idea of the book.	[Verb] to fully understand something difficult	comprender / captar
+3667A	patience	Dealing with young children requires a lot of [...].	Dealing with young children requires a lot of patience.	[Noun] the ability to accept delay without getting angry	paciencia
+3667B	lose patience	The teacher started to [...] with the noisy class.	The teacher started to lose patience with the noisy class.	[Idiom] to become annoyed or angry after waiting	perder la paciencia
+3668A	in spite of	They went for a walk [...] the cold rain outside.	They went for a walk in spite of the cold rain outside.	[Prepositional Phrase] despite something	a pesar de
+3668B	spite	He broke her cup out of pure [...].	He broke her cup out of pure spite.	[Noun] a petty desire to hurt or annoy someone	despecho / malicia
+3669A	tropical	We spent our holiday on a warm [...] island.	We spent our holiday on a warm tropical island.	[Adjective] related to or coming from hot regions	tropical
+3670A	voting	Millions of people took part in the [...] yesterday.	Millions of people took part in the voting yesterday.	[Noun] the process of casting a vote in an election	votación / voto
+3671A	patrol	Police cars [...] the city streets every night for safety.	Police cars patrol the city streets every night for safety.	[Verb] to guard an area by regularly walking or driving	patrullar
+3671B	patrol	A night [...] checked all the locked doors around the school.	A night patrol checked all the locked doors around the school.	[Noun] a group or action of guarding an area	patrulla
+3672A	willingness	She showed a clear [...] to learn new job skills.	She showed a clear willingness to learn new job skills.	[Noun] the state of being ready and happy to do something	disposición / voluntad
+3673A	revelation	The news article contained a shocking [...] about the mayor.	The news article contained a shocking revelation about the mayor.	[Noun] a surprising fact that was previously secret	revelación
+3674A	calm	Try to remain [...] during an emergency situation.	Try to remain calm during an emergency situation.	[Adjective] peaceful and not showing fear or anger	tranquilo / calmado
+3674B	calm down	Drink a glass of water to [...] after that scare.	Drink a glass of water to calm down after that scare.	[Phrasal Verb] to become or make peaceful and relaxed	calmarse / tranquilizarse
+3674C	calm before the storm	The peaceful quiet morning felt like the [...].	The peaceful quiet morning felt like the calm before the storm.	[Idiom] a quiet period just before a chaotic or difficult event	la calma que precede a la tempestad
+3675A	jewelry	She keeps her gold [...] in a small wooden box.	She keeps her gold jewelry in a small wooden box.	[Noun] decorative personal ornaments like rings or necklaces	joyas / bisutería
+3676A	hay	The horses were eating fresh [...] inside the wooden barn.	The horses were eating fresh hay inside the wooden barn.	[Noun] grass cut and dried for animal food	heno / paja
+3676B	hit the hay	I am very tired tonight, so I will [...] early.	I am very tired tonight, so I will hit the hay early.	[Idiom - Informal] to go to bed or go to sleep	irse a la cama / irse a dormir
+3677A	haul	The heavy truck had to [...] big rocks across the town.	The heavy truck had to haul big rocks across the town.	[Verb] to pull or carry heavy load with effort	transportar / arrastrar
+3677B	long haul	Recovering from surgery takes time, but she is ready for the [...].	Recovering from surgery takes time, but she is ready for the long haul.	[Noun / Idiom] a long period of time or effort required for a process	largo plazo / largo camino
+3678A	concede	He was willing to [...] that his opponent was right.	He was willing to concede that his opponent was right.	[Verb] to admit that something is true or valid	admitir / conceder
+3679A	wagon	The farmer pulled a wooden [...] full of red apples.	The farmer pulled a wooden wagon full of red apples.	[Noun] a four-wheeled vehicle used for carrying heavy loads	vagón / carreta
+3680A	afterward	We had lunch and went to see a movie [...].	We had lunch and went to see a movie afterward.	[Adverb] at a later time after something else happened	después / más tarde
+3681A	spectacular	We watched a [...] sunset over the ocean last night.	We watched a spectacular sunset over the ocean last night.	[Adjective] extremely impressive or dramatic to look at	espectacular
+3682A	ruin	A sudden heavy rain can [...] an outdoor wedding party.	A sudden heavy rain can ruin an outdoor wedding party.	[Verb] to spoil or destroy something completely	arruinar / estropear
+3682B	ruin	Tourists visited the ancient stone [...] on the hill.	Tourists visited the ancient stone ruin on the hill.	[Noun] the destroyed remains of a building or city	ruina
+3683A	sheer	The climb was difficult due to [...] exhaustion and fatigue.	The climb was difficult due to sheer exhaustion and fatigue.	[Adjective] total, pure, or nothing other than	puro / absoluto
+3683B	sheer	The hikers stopped at the edge of a [...] cliff.	The hikers stopped at the edge of a sheer cliff.	[Adjective] very steep and almost vertical	escarpado / vertical
+3684A	immune	Vaccination helps your body become [...] to dangerous diseases.	Vaccination helps your body become immune to dangerous diseases.	[Adjective] protected against a specific illness	inmune
+3684B	immune	Nobody is entirely [...] to criticism at work.	Nobody is entirely immune to criticism at work.	[Adjective] not affected or influenced by something negative	inmune / exento
+3684C	immune system	Eating fresh fruit helps strengthen your [...].	Eating fresh fruit helps strengthen your immune system.	[Noun] the bodily organs and cells that fight off infections	sistema inmunológico / sistema inmune
+3686A	ass	Don't be an [...] and apologize to your brother now.	Don't be an ass and apologize to your brother now.	[Noun - Informal/Vulgar] a stupid or foolish person	imbécil / tonto
+3686B	ass	The farmer led the grey [...] down the dirt path.	The farmer led the grey ass down the dirt path.	[Noun] a donkey	asno / burro
+3686C	pain in the ass	Fixing that old broken computer was a real [...].	Fixing that old broken computer was a real pain in the ass.	[Idiom - Informal/Vulgar] a person or thing that is very annoying	dolor de cabeza / un verdadero fastidio
+3687A	alongside	A small dog ran [...] its owner during the morning jog.	A small dog ran alongside its owner during the morning jog.	[Preposition/Adverb] next to or by the side of	al lado de / junto a
+3688A	bush	A small bird hid inside the green [...] near our house.	A small bird hid inside the green bush near our house.	[Noun] a low plant with many woody branches	arbusto
+3688B	beat around the bush	Stop trying to [...] and tell me what happened!	Stop trying to beat around the bush and tell me what happened!	[Idiom] to avoid speaking directly about an important topic	andarse con rodeos / andarse por las ramas
+3689A	exotic	They love buying [...] fruits from tropical places at the market.	They love buying exotic fruits from tropical places at the market.	[Adjective] unusual and colorful from a distant foreign land	exótico / exótica
+3690A	fascinating	The museum tour was completely [...] for all the students.	The museum tour was completely fascinating for all the students.	[Adjective] extremely interesting and attractive	fascinante
+3691A	clip	We watched a short news [...] about space travel online.	We watched a short news clip about space travel online.	[Noun] a short extract from a video or film	clip / fragmento / vídeo
+3691B	clip	She used a paper [...] to keep the documents together.	She used a paper clip to keep the documents together.	[Noun] a small device used to hold things in place	clip / sujetapapeles
+3691C	clip	He went to the barber to [...] his hair short.	He went to the barber to clip his hair short.	[Verb] to trim or cut something shorter with scissors	cortar / recortar
+3692A	thigh	He felt a sharp pain in his left [...] after running.	He felt a sharp pain in his left thigh after running.	[Noun] the upper part of the human leg	muslo
+3693A	bull	The large black [...] ran across the green field quickly.	The large black bull ran across the green field quickly.	[Noun] an adult male bovine animal	toro
+3693B	take the bull by the horns	She decided to [...] and talk directly to her boss.	She decided to take the bull by the horns and talk directly to her boss.	[Idiom] to deal with a difficult situation directly and boldly	tomar el toro por los cuernos
+3694A	drawer	I keep my clean socks in the top [...] of my desk.	I keep my clean socks in the top drawer of my desk.	[Noun] a boxlike compartment in furniture that slides out	cajón
+3695A	sheep	The shepherd watched his flock of [...] on the grassy hill.	The shepherd watched his flock of sheep on the grassy hill.	[Noun] a farm animal raised for wool and meat	oveja
+3695B	black sheep	He was considered the [...] of the family for dropping out of school.	He was considered the black sheep of the family for dropping out of school.	[Idiom] a family member regarded as a failure or embarrassment	la oveja negra
+3696A	discourage	High prices can [...] consumers from buying new products online.	High prices can discourage consumers from buying new products online.	[Verb] to dissuade or dishearten someone from doing something	desanimar / disuadir
+3697A	coordinator	Contact the event [...] if you need help with seating.	Contact the event coordinator if you need help with seating.	[Noun] a person who organizes people or activities effectively	coordinador / coordinadora
+3698A	ideological	The two political parties have deep [...] differences on tax policy.	The two political parties have deep ideological differences on tax policy.	[Adjective] based on a specific set of ideas or beliefs	ideológico / ideológica
+3699A	runner	The fast [...] crossed the finish line in record time.	The fast runner crossed the finish line in record time.	[Noun] a person who runs, especially in a race	corredor / corredora
+3699B	runner-up	Our school team was the [...] in the state championship.	Our school team was the runner-up in the state championship.	[Noun] a competitor taking second place in a contest	subcampeón / segundo lugar
+3700A	secular	The country operates under a [...] government separated from church influence.	The country operates under a secular government separated from church influence.	[Adjective] not connected with religious or spiritual matters	laico / secular

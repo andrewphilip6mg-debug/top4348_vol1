@@ -1,0 +1,152 @@
+4101A	emotionally	He became [...] attached to his new dog.	He became emotionally attached to his new dog.	[Adv] in a way that relates to feelings or mind	emocionalmente
+4102A	expedition	The team prepared for a long [...] to Antarctica.	The team prepared for a long expedition to Antarctica.	[Noun] an organized journey for a specific purpose	expedición
+4103A	allegedly	The suspect [...] stole the money from the safe.	The suspect allegedly stole the money from the safe.	[Adv] according to claims without proof	presuntamente / supuestamente
+4104A	similarity	There is a clear [...] between the two brothers.	There is a clear similarity between the two brothers.	[Noun] a feature that two things share	semejanza / similitud
+4105A	butt	He fell down and landed right on his [...].	He fell down and landed right on his butt.	[Noun - Informal] the back part of the body used for sitting	trasero / culo
+4105B	butt	The goat tried to [...] the wooden fence with its head.	The goat tried to butt the wooden fence with its head.	[Verb] to hit something with the head or horns	dar un cabezazo / topetear
+4105C	butt in	Please do not [...] while I am talking to my boss.	Please do not butt in while I am talking to my boss.	[Phrasal Verb - Informal] to interrupt a conversation without permission	meterse / interrumpir
+4105D	butt	He threw his cigarette [...] on the sidewalk.	He threw his cigarette butt on the sidewalk.	[Noun] the remaining stub of a smoked cigarette	colilla
+4106A	lid	Put the [...] back on the jar after using it.	Put the lid back on the jar after using it.	[Noun] a removable cover for a container	tapa
+4106B	keep a lid on	The company tried to [...] the scandal.	The company tried to keep a lid on the scandal.	[Idiom] to control or keep something secret	mantener bajo control / ocultar
+4107A	dumb	That was a really [...] mistake to make.	That was a really dumb mistake to make.	[Adj - Informal] stupid or foolish	tonto / estúpido
+4107B	dumb	She was struck [...] with fear for a moment.	She was struck dumb with fear for a moment.	[Adj] unable to speak	mudo / sin habla
+4108A	bulk	The [...] of his income goes toward paying rent.	The bulk of his income goes toward paying rent.	[Noun] the majority or largest part of something	mayoría / mayor parte
+4108B	in bulk	Buying food [...] can save you a lot of money.	Buying food in bulk can save you a lot of money.	[Idiom] in large quantities	al por mayor / en cantidad
+4108C	bulk up	He started drinking protein shakes to [...].	He started drinking protein shakes to bulk up.	[Phrasal Verb] to gain muscle mass or size	aumentar masa muscular / ponerse fuerte
+4109A	sprinkle	You can [...] a little sugar over the fresh fruit.	You can sprinkle a little sugar over the fresh fruit.	[Verb] to drop small pieces or liquids over something	espolvorear / rociar
+4109B	sprinkle	We only had a light [...] of rain this morning.	We only had a light sprinkle of rain this morning.	[Noun] a light shower of rain	llovizna / chispeo
+4109C	sprinkles	She asked for rainbow [...] on her ice cream.	She asked for rainbow sprinkles on her ice cream.	[Noun - Plural] tiny colored candy pieces for decorating desserts	chispas de dulce / fideos de chocolate
+4110A	mortality	The accident made him think about his own [...].	The accident made him think about his own mortality.	[Noun] the state of being subject to death	mortalidad
+4110B	mortality	Doctors are working to reduce child [...].	Doctors are working to reduce child mortality.	[Noun] the rate of deaths in a population	mortalidad / índice de mortalidad
+4111A	philosophical	They had a deep [...] discussion about the meaning of life.	They had a deep philosophical discussion about the meaning of life.	[Adj] relating to fundamental truths and ideas	filosófico
+4112A	conversion	The [...] of the building into flats took six months.	The conversion of the building into flats took six months.	[Noun] the process of changing from one form or use to another	conversión / transformación
+4113A	patron	The restaurant owner thanked all his regular [...]s for their support.	The restaurant owner thanked all his regular patrons for their support.	[Noun] a regular customer of a shop or restaurant	cliente / parroquiano
+4113B	patron	She is a generous [...] of the local art museum.	She is a generous patron of the local art museum.	[Noun] a person who gives financial support to an organization	mecenas / patrocinador
+4114A	municipal	The city council opened a new [...] park this week.	The city council opened a new municipal park this week.	[Adj] relating to a city or town government	municipal
+4115A	liver	Drinking too much alcohol can damage your [...].	Drinking too much alcohol can damage your liver.	[Noun] a large organ in the body that cleans the blood	hígado
+4116A	harmony	The two communities lived together in [...] for years.	The two communities lived together in harmony for years.	[Noun] a state of peaceful agreement	armonía
+4116B	harmony	The singers produced a beautiful [...] together.	The singers produced a beautiful harmony together.	[Noun] a pleasing combination of musical notes	armonía
+4117A	solely	Selection is based [...] on academic performance.	Selection is based solely on academic performance.	[Adv] only and not involving anything else	únicamente / solamente
+4118A	tolerance	We must teach respect and [...] in primary schools.	We must teach respect and tolerance in primary schools.	[Noun] willingness to accept different opinions or behavior	tolerancia
+4118B	tolerance	His [...] for cold weather is truly amazing.	His tolerance for cold weather is truly amazing.	[Noun] the ability to endure difficult conditions	tolerancia / resistencia
+4119A	goat	The small [...] climbed up the rocky hill quickly.	The small goat climbed up the rocky hill quickly.	[Noun] a farm animal with horns and a beard	cabra / chivo
+4120A	blessing	Having good health is a true [...] in life.	Having good health is a true blessing in life.	[Noun] something that brings good fortune or happiness	bendición
+4120B	blessing	Her parents gave their [...] for the upcoming wedding.	Her parents gave their blessing for the upcoming wedding.	[Noun] official approval or permission	bendición / aprobación
+4120C	blessing in disguise	Losing that job was a [...] for him in the end.	Losing that job was a blessing in disguise for him in the end.	[Idiom] a good outcome that initially seemed bad	no hay mal que por bien no venga / bendición disfrazada
+4121A	banana	He ate a fresh [...] for his morning snack.	He ate a fresh banana for his morning snack.	[Noun] a long yellow fruit with soft sweet flesh	plátano / banana
+4121B	go bananas	The crowd went [...] when the team scored the winning goal.	The crowd went bananas when the team scored the winning goal.	[Idiom - Informal] to become extremely excited or angry	volverse loco / enloquecer
+4122A	palace	The royal family lives in a grand [...] in the city.	The royal family lives in a grand palace in the city.	[Noun] a large official home of a king or president	palacio
+4123A	formerly	This old building was [...] a busy train station.	This old building was formerly a busy train station.	[Adv] in an earlier time or past period	anteriormente / antes
+4124A	peasant	The poor [...] worked hard in the fields every day.	The poor peasant worked hard in the fields every day.	[Noun] a small farmer of low social status	campesino / peón
+4125A	neat	His bedroom is always clean and [...].	His bedroom is always clean and neat.	[Adj] tidy, clean, and well-arranged	ordenado / pulcro
+4125B	neat	That is a really [...] idea for solving our problem.	That is a really neat idea for solving our problem.	[Adj - Informal] clever, effective, or cool	genial / excelente
+4125C	neat	He ordered a glass of whiskey [...] at the bar.	He ordered a glass of whiskey neat at the bar.	[Adj] served without ice or water	solo / sin hielo
+4126A	grandparent	My [...] lives in a small village near the coast.	My grandparent lives in a small village near the coast.	[Noun] a parent of one's father or mother	abuelo / abuela
+4127A	lawmaker	Many [...]s voted against the proposed tax increase.	Many lawmakers voted against the proposed tax increase.	[Noun] a person who makes or passes legislation	legislador / parlamentario
+4128A	supermarket	I need to buy some groceries at the local [...].	I need to buy some groceries at the local supermarket.	[Noun] a large self-service grocery store	supermercado
+4129A	cruise	They went on a Caribbean [...] for their wedding anniversary.	They went on a Caribbean cruise for their wedding anniversary.	[Noun] a holiday voyage on a ship	crucero
+4129B	cruise	The ship [...]d slowly along the coast at sunset.	The ship cruised slowly along the coast at sunset.	[Verb] to sail or travel at a smooth, steady speed	navegar a velocidad constante / cruzar
+4130A	mobile	Many people now use a [...] phone for work tasks.	Many people now use a mobile phone for work tasks.	[Adj] able to move or be moved easily	móvil
+4130B	mobile	I left my [...] on the kitchen table this morning.	I left my mobile on the kitchen table this morning.	[Noun - BrE] a cellular phone	móvil / teléfono celular
+4131A	calendar	I marked the date of our trip on my wall [...].	I marked the date of our trip on my wall calendar.	[Noun] a chart showing dates, weeks, and months	calendario
+4132A	widow	The poor [...] lives alone in a small cottage.	The poor widow lives alone in a small cottage.	[Noun] a woman whose husband has died	viuda
+4133A	deposit	She made a large [...] into her savings account today.	She made a large deposit into her savings account today.	[Noun] money paid into a bank account	depósito / ingreso
+4133B	deposit	We paid a [...] to reserve the apartment for next month.	We paid a deposit to reserve the apartment for next month.	[Noun] a first partial payment for a purchase or rental	fianza / señal / depósito
+4133C	deposit	You can [...] your bags near the entrance hall.	You can deposit your bags near the entrance hall.	[Verb] to put or place something down safely	depositar / dejar
+4134A	beard	He decided to grow a [...] over the cold winter months.	He decided to grow a beard over the cold winter months.	[Noun] hair growing on the chin and cheeks of a man	barba
+4135A	brake	Step on the [...] pedal to slow down the car.	Step on the brake pedal to slow down the car.	[Noun] a device for slowing or stopping a vehicle	freno
+4135B	brake	You must [...] quickly if a dog runs into the street.	You must brake quickly if a dog runs into the street.	[Verb] to slow down or stop a vehicle	frenar
+4135C	put the brakes on	The council decided to [...] the project.	The council decided to put the brakes on the project.	[Idiom] to stop or slow down a process	frenar / poner freno a
+4136A	screening	Regular health [...]s can help detect diseases early.	Regular health screenings can help detect diseases early.	[Noun] a medical test to check for illness before symptoms appear	evaluación médica / chequeo
+4136B	screening	We bought tickets for the evening [...] of the new movie.	We bought tickets for the evening screening of the new movie.	[Noun] a showing of a film or broadcast	proyección / pase
+4137A	impulse	I bought this expensive jacket on [...] yesterday.	I bought this expensive jacket on impulse yesterday.	[Noun] a sudden strong urge to act without thinking	impulso
+4138A	forbid	My parents [...] me from staying out past midnight.	My parents forbid me from staying out past midnight.	[Verb] to order someone not to do something	prohibir
+4139A	fur	The cat has very soft and thick white [...].	The cat has very soft and thick white fur.	[Noun] the soft thick hair covering an animal	pelaje / pelo
+4140A	brutal	The winter weather in the mountains was exceptionally [...].	The winter weather in the mountains was exceptionally brutal.	[Adj] extremely cruel, harsh, or severe	brutal / inclemente
+4141A	predator	Lions are top [...]s in the African grasslands.	Lions are top predators in the African grasslands.	[Noun] an animal that hunts and eats other animals	depredador
+4142A	poke	Do not [...] me in the ribs with your finger.	Do not poke me in the ribs with your finger.	[Verb] to push a finger or object into something	picar / dar un toque / hurgar
+4142B	poke fun at	It is not nice to [...] your classmates at school.	It is not nice to poke fun at your classmates at school.	[Idiom] to tease or make fun of someone	burlarse de / tomar el pelo a
+4143A	opt	Many students [...] to study online rather than attend classes.	Many students opt to study online rather than attend classes.	[Verb] to make a choice from various possibilities	optar / elegir
+4143B	opt out	You can [...] of receiving promotional emails anytime.	You can opt out of receiving promotional emails anytime.	[Phrasal Verb] to choose not to take part in something	darse de baja / optar por no participar
+4143C	opt in	You must [...] to receive the monthly newsletter.	You must opt in to receive the monthly newsletter.	[Phrasal Verb] to choose to participate in something	dar su consentimiento / inscribirse
+4144A	voluntary	Participation in this charity event is completely [...].	Participation in this charity event is completely voluntary.	[Adj] done or given of one's own free will	voluntario
+4145A	valid	You need a [...] passport to travel abroad legally.	You need a valid passport to travel abroad legally.	[Adj] officially accepted and legally binding	válido / vigente
+4145B	valid	She raised a very [...] point during our team discussion.	She raised a very valid point during our team discussion.	[Adj] based on truth, logic, or sound reasoning	válido / justificado
+4146A	forum	The website features an online [...] for user questions.	The website features an online forum for user questions.	[Noun] a place or meeting for open discussion	foro
+4147A	dancing	They went [...] at a local club last Saturday night.	They went dancing at a local club last Saturday night.	[Noun] the activity of moving rhythmically to music	baile / la danza
+4148A	happily	The young children played [...] in the garden all afternoon.	The young children played happily in the garden all afternoon.	[Adv] in a cheerful or contented manner	alegremente / felizmente
+4149A	soar	Temperatures started to [...] during the summer afternoon.	Temperatures started to soar during the summer afternoon.	[Verb] to rise rapidly or fly high in the air	dispararse / elevarse
+4150A	removal	The [...] of the fallen tree took two hours.	The removal of the fallen tree took two hours.	[Noun] the act of taking something away	retirada / eliminación / extracción
+4151A	autonomy	Teachers need some [...] to choose their classroom activities.	Teachers need some autonomy to choose their classroom activities.	[Noun] the right or condition of self-government or independence	autonomía
+4152A	enact	The government plans to [...] new safety laws next month.	The government plans to enact new safety laws next month.	[Verb] to pass a proposal into official law	promulgar / aprobar
+4153A	thread	She used blue [...] to sew the loose button back on.	She used blue thread to sew the loose button back on.	[Noun] a thin strand of cotton or silk used for sewing	hilo
+4153B	thread	I read the entire discussion [...] on the internet forum.	I read the entire discussion thread on the internet forum.	[Noun] a series of linked online messages on one topic	hilo / conversación
+4153C	thread	She tried to [...] the needle to repair her skirt.	She tried to thread the needle to repair her skirt.	[Verb] to pass a thin strand through a narrow hole	enhebrar
+4154A	landmark	The Eiffel Tower is a famous [...] in the city of Paris.	The Eiffel Tower is a famous landmark in the city of Paris.	[Noun] an easily recognized building or feature of a place	punto de referencia / monumento
+4154B	landmark	This peace agreement is a major [...] in historical relations.	This peace agreement is a major landmark in historical relations.	[Noun] an important event or stage in development	hito / acontecimiento clave
+4155A	unhappy	He was very [...] with his poor exam results last week.	He was very unhappy with his poor exam results last week.	[Adj] feeling sad or dissatisfied	descontento / infeliz
+4156A	offender	First-time [...]s often receive lighter punishments from judges.	First-time offenders often receive lighter punishments from judges.	[Noun] a person who commits a crime or breaks a rule	infractor / delincuente
+4157A	coming	Are you excited for the [...] holiday season this winter?	Are you excited for the coming holiday season this winter?	[Adj] happening or arriving in the near future	próximo / venidero
+4157B	coming	Many locals celebrated the [...] of warm spring weather.	Many locals celebrated the coming of warm spring weather.	[Noun] the arrival or approach of something	llegada / advenimiento
+4158A	privately	The manager spoke to him [...] about his recent work.	The manager spoke to him privately about his recent work.	[Adv] away from other people, in secret	en privado / en confidencialidad
+4159A	fraction	Only a small [...] of applicants passed the difficult test.	Only a small fraction of applicants passed the difficult test.	[Noun] a small part or amount of something	fracción / pequeña parte
+4160A	distinctive	The bird has a very [...] song that is easy to recognize.	The bird has a very distinctive song that is easy to recognize.	[Adj] having a special quality that easily identifies something	distintivo / característico
+4161A	tourism	The small island relies heavily on [...] for its local income.	The small island relies heavily on tourism for its local income.	[Noun] the business of providing services for travelers	turismo
+4162A	threshold	He paused at the [...] before entering the dark room.	He paused at the threshold before entering the dark room.	[Noun] the floor at the entrance of a doorway	umbral
+4162B	threshold	His annual income falls below the national tax [...].	His annual income falls below the national tax threshold.	[Noun] a level or point at which something starts or changes	umbral / límite
+4163A	routinely	Safety equipment is [...] checked by the staff every morning.	Safety equipment is routinely checked by the staff every morning.	[Adv] as part of a regular procedure	rutinariamente / sistemáticamente
+4164A	suite	They booked a luxury [...] for their stay in London.	They booked a luxury suite for their stay in London.	[Noun] a connected set of rooms in a hotel	suite / conjunto de habitaciones
+4164B	suite	Our company uses a popular [...] of office software.	Our company uses a popular suite of office software.	[Noun] a set of related computer programs or tools	paquete / conjunto de programas
+4165A	regulator	Financial [...]s approved the merger between the two big banks.	Financial regulators approved the merger between the two big banks.	[Noun] an official who controls a business or industry	organismo regulador / regulador
+4166A	straw	The farmer covered the floor of the barn with clean [...].	The farmer covered the floor of the barn with clean straw.	[Noun] dried stalks of grain used for animal bedding	paja
+4166B	straw	She drank her cold soda through a plastic [...].	She drank her cold soda through a plastic straw.	[Noun] a thin tube used for drinking liquids	pajita / popote / pitillo
+4166C	the last straw	When he came late again, it was [...] for his boss.	When he came late again, it was the last straw for his boss.	[Idiom] the final problem that makes a situation unbearable	la gota que colmó el vaso
+4167A	theological	The professor wrote a book on [...] studies in religion.	The professor wrote a book on theological studies in religion.	[Adj] relating to the study of religion and God	teológico
+4168A	exhaust	Running a full marathon will completely [...] any athlete.	Running a full marathon will completely exhaust any athlete.	[Verb] to make someone extremely tired	agotar / cansar
+4168B	exhaust	Dark [...] came out of the back of the old bus.	Dark exhaust came out of the back of the old bus.	[Noun] waste gas from an engine	tubo de escape / gases de escape
+4168C	exhaust	We have [...]ed all our savings to pay for the repairs.	We have exhausted all our savings to pay for the repairs.	[Verb] to use up a supply of something completely	agotar / consumir por completo
+4169A	globe	The children looked at the big [...] on their teacher's desk.	The children looked at the big globe on their teacher's desk.	[Noun] a spherical model of the Earth	globo terráqueo / globo
+4170A	fragile	Be careful with that glass vase because it is very [...].	Be careful with that glass vase because it is very fragile.	[Adj] easily broken or damaged	frágil
+4171A	objection	Does anyone have an [...] to moving the meeting to Friday?	Does anyone have an objection to moving the meeting to Friday?	[Noun] an expression of disagreement or disapproval	objeción / reparo
+4172A	chemistry	She is taking an introductory class in high school [...].	She is taking an introductory class in high school chemistry.	[Noun] the scientific study of substances and their reactions	química
+4172B	chemistry	There was clear [...] between the two main actors on stage.	There was clear chemistry between the two main actors on stage.	[Noun] emotional attraction or connection between people	química / conexión
+4173A	old-fashioned	My grandfather still wears an [...] hat from the sixties.	My grandfather still wears an old-fashioned hat from the sixties.	[Adj] no longer modern or fashionable	anticuado / a la antigua
+4174A	crowded	The morning train was very [...] with daily commuters.	The morning train was very crowded with daily commuters.	[Adj] full of people or things	atestado / concurrido / lleno de gente
+4175A	blast	A cold [...] of wind hit us when we opened the door.	A cold blast of wind hit us when we opened the door.	[Noun] a sudden strong gust of wind or air	ráfaga / soplo
+4175B	blast	Residents heard a loud [...] near the industrial area.	Residents heard a loud blast near the industrial area.	[Noun] a powerful explosion	explosión / estallido
+4175C	blast	Loud music was [...]ing from his car speakers all night.	Loud music was blasting from his car speakers all night.	[Verb] to produce a loud sound or noise	sonar a todo volumen / retumbar
+4175D	have a blast	We had a [...] at the concert last night.	We had a blast at the concert last night.	[Idiom - Informal] to have a very enjoyable time	pasárselo en grande / pasarlo de maravilla
+4176A	prevail	Justice will eventually [...] despite all the obstacles.	Justice will eventually prevail despite all the obstacles.	[Verb] to prove superior or gain control	prevalecer / triunfar
+4177A	overnight	They stayed [...] at a small hotel near the airport.	They stayed overnight at a small hotel near the airport.	[Adv] during or throughout the night	durante la noche / de un día para otro
+4177B	overnight	He took an [...] train to reach the city early in the morning.	He took an overnight train to reach the city early in the morning.	[Adj] happening or done during the night	nocturno / de la noche
+4178A	denial	He remains in [...] about losing his position at work.	He remains in denial about losing his position at work.	[Noun] a refusal to accept or admit the truth	negación
+4179A	rental	We picked up our [...] car right outside the airport terminal.	We picked up our rental car right outside the airport terminal.	[Noun / Adj] an arrangement to pay for using something temporarily; used for hire	de alquiler / arrendamiento
+4180A	fantastic	We had a [...] time at the beach house last weekend.	We had a fantastic time at the beach house last weekend.	[Adj] extraordinarily good or attractive	fantástico / maravilloso
+4181A	fragment	Archaeologists found a small [...] of ancient pottery.	Archaeologists found a small fragment of ancient pottery.	[Noun] a small piece broken off something	fragmento / trozo
+4182A	screw	Use a metal [...] to hold the two pieces of wood together.	Use a metal screw to hold the two pieces of wood together.	[Noun] a small metal fastener with a spiral thread	tornillo
+4182B	screw	You need to [...] the board firmly onto the wall.	You need to screw the board firmly onto the wall.	[Verb] to fasten something with a threaded metal pin	atornillar
+4182C	screw up	I hope I do not [...] my final driving test today.	I hope I do not screw up my final driving test today.	[Phrasal Verb - Informal] to make a serious mistake or mess something up	meter la pata / cagarla
+4183A	warmth	We sat close to the fire for some pleasant [...].	We sat close to the fire for some pleasant warmth.	[Noun] a comfortable high temperature	calor / calidez
+4183B	warmth	She greeted her guests with genuine [...] and kindness.	She greeted her guests with genuine warmth and kindness.	[Noun] friendliness or deep affection	calidez / afecto
+4184A	undergraduate	She is a second-year [...] studying English literature.	She is a second-year undergraduate studying English literature.	[Noun] a university student who has not yet graduated	estudiante universitario de grado / alumno de pregrado
+4185A	headache	I have a terrible [...] after working on the computer all day.	I have a terrible headache after working on the computer all day.	[Noun] a continuous pain in the head	dolor de cabeza
+4185B	headache	Finding a parking spot in the center is a real [...].	Finding a parking spot in the center is a real headache.	[Noun] a person or thing that causes worry or trouble	dolor de cabeza / problema
+4186A	policeman	The [...] stopped the speeding car on the highway.	The policeman stopped the speeding car on the highway.	[Noun] a male member of a police force	policía / agente de policía
+4187A	projection	Sales figures exceeded our original [...] for this financial year.	Sales figures exceeded our original projection for this financial year.	[Noun] an estimate or forecast of a future situation	proyección / estimación
+4188A	suitable	These heavy boots are not [...] for running long distances.	These heavy boots are not suitable for running long distances.	[Adj] right or appropriate for a particular purpose	adecuado / apropiado
+4189A	graduation	Her whole family attended her university [...] ceremony.	Her whole family attended her university graduation ceremony.	[Noun] the receiving of an academic degree or diploma	graduación
+4190A	drill	He used an electric [...] to make a hole in the wall.	He used an electric drill to make a hole in the wall.	[Noun] a tool with a rotating cutting tip for making holes	taladro
+4190B	drill	The primary school conducted a fire [...] this morning.	The primary school conducted a fire drill this morning.	[Noun] a practice exercise for training in a procedure	simulacro
+4190C	drill	Workers plan to [...] into the rock to find water.	Workers plan to drill into the rock to find water.	[Verb] to make a hole with a pointed revolving tool	taladrar / perforar
+4190D	drill down into	We need to [...] the data to find the cause.	We need to drill down into the data to find the cause.	[Phrasal Verb] to examine something in detail	profundizar en / examinar al detalle
+4191A	cruel	It is very [...] to leave a pet inside a hot car.	It is very cruel to leave a pet inside a hot car.	[Adj] willfully causing pain or suffering to others	cruel
+4192A	mansion	The wealthy family lives in a grand [...] near the lake.	The wealthy family lives in a grand mansion near the lake.	[Noun] a large, impressive, and expensive house	mansión
+4193A	grape	She bought a bag of sweet green [...]s from the market.	She bought a bag of sweet green grapes from the market.	[Noun] a small green or purple fruit growing in bunches	uva
+4194A	authorize	Only the store manager can [...] a refund for this item.	Only the store manager can authorize a refund for this item.	[Verb] to give official permission for something	autorizar
+4195A	cottage	They rented a cozy [...] in the countryside for the summer.	They rented a cozy cottage in the countryside for the summer.	[Noun] a small simple house, typically in a rural area	casa de campo / cabaña
+4196A	driveway	He parked his car in the [...] right in front of his house.	He parked his car in the driveway right in front of his house.	[Noun] a short private road leading to a home	entrada para el coche / caminito de entrada
+4197A	charm	The old coastal town has a lot of traditional [...].	The old coastal town has a lot of traditional charm.	[Noun] the quality of pleasing or attracting people	encanto
+4197B	charm	His humorous stories managed to [...] everyone at the dinner table.	His humorous stories managed to charm everyone at the dinner table.	[Verb] to delight or attract someone	encantar / cautivar
+4198A	sexuality	The documentary explores human [...] from a biological perspective.	The documentary explores human sexuality from a biological perspective.	[Noun] a person's capacity for sexual feelings and attraction	sexualidad
+4199A	loyal	Dogs are well known to be very [...] animal companions.	Dogs are well known to be very loyal animal companions.	[Adj] showing firm and constant support to a person or group	leal / fiel
+4200A	clay	The artist shaped the soft [...] into a small water pot.	The artist shaped the soft clay into a small water pot.	[Noun] heavy sticky earth used for making bricks or pottery	arcilla / barro

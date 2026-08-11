@@ -1,0 +1,134 @@
+3301A	contractor	The company hired an independent [...] to fix the roof.	The company hired an independent contractor to fix the roof.	[Noun] a person or business hired to perform a specific job or construction work	contratista
+3302A	apologize	I want to [...] for my late reply yesterday.	I want to apologize for my late reply yesterday.	[Verb] to say sorry for a mistake or bad action	pedir disculpas / disculparse
+3303A	doctrine	The church taught this traditional [...] for many centuries.	The church taught this traditional doctrine for many centuries.	[Noun] a set of official beliefs or principles taught by a group	doctrina
+3304A	genuine	She showed a [...] smile when she saw her old friend.	She showed a genuine smile when she saw her old friend.	[Adjective] real, authentic, and not fake	genuino / auténtico
+3304B	genuine	He made a [...] effort to improve his poor grades.	He made a genuine effort to improve his poor grades.	[Adjective] sincere and honest in feelings or behavior	sincero / auténtico
+3305A	thumb	He hurt his right [...] while working in the garden.	He hurt his right thumb while working in the garden.	[Noun] the short, thick finger on the side of the human hand	dedo pulgar
+3305B	thumbs up	The manager gave us a [...] for our hard work.	The manager gave us a thumbs up for our hard work.	[Idiom] an expression or sign of approval or praise	pulgar arriba / aprobación
+3305C	rule of thumb	As a general [...], you should save 10% of your income.	As a general rule of thumb, you should save 10% of your income.	[Idiom] a useful practical principle based on experience	regla general / regla empírica
+3306A	unity	The team showed great [...] during the difficult game.	The team showed great unity during the difficult game.	[Noun] the state of being joined together as one group	unidad / unión
+3307A	compromise	Both sides reached a [...] after hours of long discussion.	Both sides reached a compromise after hours of long discussion.	[Noun] an agreement where both sides accept less than what they wanted	acuerdo / compromiso
+3307B	compromise	They had to [...] on the price to make the deal.	They had to compromise on the price to make the deal.	[Verb] to reach an agreement by giving up some demands	llegar a un acuerdo / ceder
+3307C	compromise	Sharing your password online can [...] your account security.	Sharing your password online can compromise your account security.	[Verb] to risk harming or damaging something valuable	comprometer / poner en riesgo
+3308A	horrible	We had a [...] experience at that noisy hotel.	We had a horrible experience at that noisy hotel.	[Adjective] very unpleasant, bad, or shocking	horrible / espantoso
+3309A	behavioral	The doctor noticed a [...] change in the young child.	The doctor noticed a behavioral change in the young child.	[Adjective] related to the way people or animals act	conductual / de comportamiento
+3310A	exclusive	Members get [...] access to the new swimming pool.	Members get exclusive access to the new swimming pool.	[Adjective] limited to a single group or person, not shared	exclusivo
+3311A	scatter	The wind will [...] the dry leaves across the yard.	The wind will scatter the dry leaves across the yard.	[Verb] to throw or drop things in different directions	dispersar / esparcir
+3312A	commonly	This medicine is [...] used to treat mild headaches.	This medicine is commonly used to treat mild headaches.	[Adverb] usually, frequently, or by many people	comúnmente / por lo general
+3313A	convey	It is hard to [...] my true feelings in words.	It is hard to convey my true feelings in words.	[Verb] to communicate or express an idea or feeling	transmitir / expresar
+3314A	twist	Be careful not to [...] the lid too hard.	Be careful not to twist the lid too hard.	[Verb] to turn something firmly around an axis or point	torcer / girar
+3314B	twist	The movie had a sudden [...] at the very end.	The movie had a sudden twist at the very end.	[Noun] an unexpected change or turn in a story or situation	giro / cambio inesperado
+3314C	twist	She fell down and [...] her left ankle.	She fell down and twisted her left ankle.	[Verb] to injure a joint by turning it suddenly	torcerse
+3315A	complexity	I was surprised by the [...] of the computer system.	I was surprised by the complexity of the computer system.	[Noun] the state of having many connected parts, making something hard to understand	complejidad
+3316A	fork	She dropped her [...] on the clean kitchen floor.	She dropped her fork on the clean kitchen floor.	[Noun] a small tool with prongs used for eating food	tenedor
+3316B	fork	Turn left when you reach the [...] in the road.	Turn left when you reach the fork in the road.	[Noun] a place where a road or river splits into two parts	bifurcación / desvío
+3317A	disk	Save your work on an external [...] before closing.	Save your work on an external disk before closing.	[Noun] a flat, thin, circular object used for storing computer data	disco
+3318A	relieve	A warm bath can help [...] your muscle pain.	A warm bath can help relieve your muscle pain.	[Verb] to make pain, stress, or a problem less severe	aliviar / mitigar
+3319A	suspicion	The police had a strong [...] about the quiet neighbor.	The police had a strong suspicion about the quiet neighbor.	[Noun] a belief or feeling that something is wrong or someone is guilty	sospecha
+3320A	residence	Their primary [...] is located near the city park.	Their primary residence is located near the city park.	[Noun] a place where someone lives, a home or house	residencia / vivienda
+3321A	shame	He felt deep [...] after telling that stupid lie.	He felt deep shame after telling that stupid lie.	[Noun] an uncomfortable feeling of guilt or foolishness	vergüenza
+3321B	shame	It is a [...] that you cannot come with us.	It is a shame that you cannot come with us.	[Noun - Idiom] a situation that causes disappointment or pity	lástima / pena
+3322A	meaningful	They had a [...] conversation about their future plans.	They had a meaningful conversation about their future plans.	[Adjective] serious, useful, or having real value and importance	significativo / con sentido
+3323A	sidewalk	Please walk on the [...] to stay safe from traffic.	Please walk on the sidewalk to stay safe from traffic.	[Noun] a paved path at the side of a street for walking	acera / vereda
+3324A	Olympics	She trained for years to compete in the [...].	She trained for years to compete in the Olympics.	[Noun] a major international sports competition held every four years	Juegos Olímpicos / las Olimpíadas
+3325A	technological	Rapid [...] advances have changed the way we work.	Rapid technological advances have changed the way we work.	[Adjective] related to machines, equipment, and practical science	tecnológico
+3326A	signature	Please write your [...] on the line at the bottom.	Please write your signature on the line at the bottom.	[Noun] a person's name written in their own handwriting on a document	firma
+3326B	signature	This pasta is the chef's [...] dish at the restaurant.	This pasta is the chef's signature dish at the restaurant.	[Adjective] serving as a unique or characteristic feature; specialty	característico / distintivo / especialidad
+3327A	pleasant	We had a [...] conversation over coffee this morning.	We had a pleasant conversation over coffee this morning.	[Adjective] enjoyable, nice, or friendly	agradable / placentero
+3328A	wow	[...], this dark chocolate cake tastes really amazing!	Wow, this dark chocolate cake tastes really amazing!	[Interjection] an exclamation used to express strong surprise or admiration	guau / vaya
+3329A	suspend	The school decided to [...] the student for three days.	The school decided to suspend the student for three days.	[Verb] to temporarily stop someone from attending school or work as a penalty	suspender
+3329B	suspend	They will [...] the bright lights from the high ceiling.	They will suspend the bright lights from the high ceiling.	[Verb] to hang something from a higher position	colgar / suspender
+3330A	rebel	The young [...] refused to obey the officer's command.	The young rebel refused to obey the officer's command.	[Noun] a person who fights against authority or social rules	rebelde
+3330B	rebel	Teenagers often [...] against their strict parents.	Teenagers often rebel against their strict parents.	[Verb] to act against rules or people in power	rebelarse
+3331A	frozen	The lake is completely [...] during the cold winter.	The lake is completely frozen during the cold winter.	[Adjective] turned into ice or turned hard by low temperature	congelado
+3332A	spouse	You can bring your [...] to the company party.	You can bring your spouse to the company party.	[Noun - Formal] a husband or wife	cónyuge / esposo/a
+3333A	fluid	Drink plenty of [...] when you have a high fever.	Drink plenty of fluid when you have a high fever.	[Noun] a liquid substance that flows easily	fluido / líquido
+3333B	fluid	Her dance movements were smooth, soft, and [...].	Her dance movements were smooth, soft, and fluid.	[Adjective] smooth, graceful, or easily changing	fluido / continuo
+3334A	pension	My grandfather receives a monthly [...] from his old job.	My grandfather receives a monthly pension from his old job.	[Noun] regular money paid by a government or company to a retired person	pensión / jubilación
+3335A	resume	We will [...] our meeting after a short lunch break.	We will resume our meeting after a short lunch break.	[Verb] to start doing something again after a pause	reanudar / continuar
+3335B	resume	She sent her updated [...] to three different companies.	She sent her updated resume to three different companies.	[Noun] a document listing work experience and education for a job application	currículum / hoja de vida
+3336A	theoretical	This class covers [...] ideas rather than practical skills.	This class covers theoretical ideas rather than practical skills.	[Adjective] based on principles and ideas rather than real practice	teórico
+3337A	sodium	Foods high in [...] can increase your blood pressure.	Foods high in sodium can increase your blood pressure.	[Noun] a chemical element found in table salt	sodio
+3338A	promotion	She got a [...] after working hard for two years.	She got a promotion after working hard for two years.	[Noun] a move to a higher level or position at work	ascenso / promoción
+3338B	promotion	The store is running a special [...] on winter shoes.	The store is running a special promotion on winter shoes.	[Noun] an activity or discount designed to advertise and sell a product	promoción / publicidad
+3339A	delicate	Handle that glass vase carefully because it is very [...].	Handle that glass vase carefully because it is very delicate.	[Adjective] easy to break or damage, needing gentle handling	delicado / frágil
+3340A	forehead	She kissed her young son on his [...] before bed.	She kissed her young son on his forehead before bed.	[Noun] the part of the face above the eyes and below the hair	frente
+3341A	rebuild	They plan to [...] the old house after the fire.	They plan to rebuild the old house after the fire.	[Verb] to build something again after it was destroyed or damaged	reconstruir
+3342A	bounce	The rubber ball will [...] high on the hard floor.	The rubber ball will bounce high on the hard floor.	[Verb] to hit a surface and spring back away from it	rebotar
+3342B	bounce back	Businesses often [...] quickly after a short crisis.	Businesses often bounce back quickly after a short crisis.	[Phrasal Verb] to recover quickly from a difficult situation	recuperarse / reponerse
+3343A	electrical	An [...] problem caused the lights to go off.	An electrical problem caused the lights to go off.	[Adjective] related to electricity or powered by power lines	eléctrico
+3344A	hook	Hang your winter coat on the [...] behind the door.	Hang your winter coat on the hook behind the door.	[Noun] a curved piece of metal or plastic used for hanging objects	gancho / colgador
+3344B	hook	He tried to [...] the heavy bucket onto the rope.	He tried to hook the heavy bucket onto the rope.	[Verb] to fasten or catch something with a curved object	enganchar
+3344C	hooked on	My little sister is completely [...] that new video game.	My little sister is completely hooked on that new video game.	[Idiom - Informal] very interested in or addicted to something	enganchado a / adicto a
+3344D	off the hook	The boss found the real error, so I am [...].	The boss found the real error, so I am off the hook.	[Idiom - Informal] no longer in trouble or responsible for a difficult situation	libre de culpa / fuera de peligro
+3345A	detective	The [...] found an important clue near the front door.	The detective found an important clue near the front door.	[Noun] an investigator or police officer who solves crimes	detective / investigador
+3346A	traveler	The weary [...] sat down to rest at the station.	The weary traveler sat down to rest at the station.	[Noun] a person who is making a journey or visiting distant places	viajero/a
+3347A	click	You need to [...] on the link to open the page.	You need to click on the link to open the page.	[Verb] to press a button on a computer mouse or screen	hacer clic / presionar
+3347B	click	We met at college and immediately [...] with each other.	We met at college and immediately clicked with each other.	[Verb - Informal] to quickly become friendly or understand each other well	conectar / hacer clic
+3348A	compensation	He received financial [...] after the workplace accident.	He received financial compensation after the workplace accident.	[Noun] money paid to someone for an injury, loss, or work done	compensación / indemnización / salario
+3349A	exit	Follow the green signs to find the emergency [...].	Follow the green signs to find the emergency exit.	[Noun] a door or pathway used to leave a building or vehicle	salida
+3349B	exit	Please [...] the building through the main front doors.	Please exit the building through the main front doors.	[Verb] to leave a room, building, or place	salir / abandonar
+3350A	attraction	The ancient castle is the main tourist [...] in town.	The ancient castle is the main tourist attraction in town.	[Noun] an interesting place or feature that draws visitors	atracción / sitio turístico
+3350B	attraction	He felt a strong [...] to her kind personality.	He felt a strong attraction to her kind personality.	[Noun] a feeling of liking someone in a romantic or personal way	atracción
+3351A	dedicate	She decided to [...] her weekends to helping the homeless.	She decided to dedicate her weekends to helping the homeless.	[Verb] to give energy, time, or focus to a specific goal	dedicar
+3352A	altogether	That meal cost fifty dollars [...].	That meal cost fifty dollars altogether.	[Adverb] completely, totally, or in total sum	en total / por completo
+3353A	pickup	He drives a red [...] to haul heavy construction tools.	He drives a red pickup to haul heavy construction tools.	[Noun] a small truck with an open back for transporting goods	camioneta de carga / pickup
+3353B	pick up	Can you [...] the dirty clothes off the bedroom floor?	Can you pick up the dirty clothes off the bedroom floor?	[Phrasal Verb] to lift something from a surface or floor	recoger / levantar
+3353C	pick up	I will [...] you up at six o'clock after work.	I will pick you up at six o'clock after work.	[Phrasal Verb] to collect someone in a vehicle	recoger / pasar por
+3353D	pick up	She called three times, but he didn't [...].	She called three times, but he didn't pick up.	[Phrasal Verb] to answer a telephone call	contestar / atender la llamada
+3353E	pick up	She managed to [...] a little Italian during her summer trip.	She managed to pick up a little Italian during her summer trip.	[Phrasal Verb] to learn a skill or language casually	aprender / captar (sobre la marcha)
+3354A	carve	He used a small knife to [...] a wooden bird.	He used a small knife to carve a wooden bird.	[Verb] to cut wood or stone into a specific shape	tallar / esculpir
+3354B	carve	My father will [...] the turkey for Thanksgiving dinner.	My father will carve the turkey for Thanksgiving dinner.	[Verb] to cut cooked meat into thin slices	trinchar / cortar
+3355A	needle	She threaded the [...] to fix the hole in her socks.	She threaded the needle to fix the hole in her socks.	[Noun] a thin pointed piece of metal used for sewing	aguja
+3356A	belly	He rubbed his [...] after eating a huge holiday dinner.	He rubbed his belly after eating a huge holiday dinner.	[Noun - Informal] the stomach or front area of the human body	barriga / panza
+3357A	scare	Loud noises often [...] the small dog.	Loud noises often scare the small dog.	[Verb] to make a person or animal feel afraid	asustar
+3357B	scare away	The loud alarm will [...] any potential thieves.	The loud alarm will scare away any potential thieves.	[Phrasal Verb] to cause people or animals to leave by frightening them	espantar / ahuyentar
+3358A	portfolio	The artist showed her impressive [...] to the modern gallery.	The artist showed her impressive portfolio to the modern gallery.	[Noun] a collection of work, documents, or financial assets	portafolio / cartera de inversión
+3359A	shuttle	Take the free airport [...] to get to your hotel.	Take the free airport shuttle to get to your hotel.	[Noun] a bus, train, or vehicle that travels regularly between two places	transporte de enlace / autobús de traslado
+3360A	invisible	The small insect was almost [...] against the dark tree.	The small insect was almost invisible against the dark tree.	[Adjective] impossible to see with human eyes	invisible
+3361A	timing	Her [...] was perfect, arriving right as dinner was served.	Her timing was perfect, arriving right as dinner was served.	[Noun] the execution or choice of the exact moment for an action	coordinación / momento oportuno / tiempo
+3362A	engagement	They announced their [...] after two years of dating.	They announced their engagement after two years of dating.	[Noun] a formal agreement or promise to marry someone	compromiso matrimonial
+3362B	engagement	Community [...] is important for the success of this project.	Community engagement is important for the success of this project.	[Noun] active involvement or participation in an activity	participación / compromiso laboral
+3363A	ankle	She hurt her [...] while running down the stairs.	She hurt her ankle while running down the stairs.	[Noun] the joint connecting the foot to the leg	tobillo
+3364A	transaction	You will get an email receipt after the bank [...].	You will get an email receipt after the bank transaction.	[Noun] an instance of buying, selling, or moving money	transacción / operación
+3365A	rescue	Firefighters arrived quickly to [...] the family from the fire.	Firefighters arrived quickly to rescue the family from the fire.	[Verb] to save someone or something from danger or damage	rescatar / salvar
+3365B	rescue	The dog was saved during a brave ocean [...].	The dog was saved during a brave ocean rescue.	[Noun] an act of saving someone or something from danger	rescate
+3366A	counterpart	The minister met with his foreign [...] to discuss trade.	The minister met with his foreign counterpart to discuss trade.	[Noun] a person with the same job or position in a different organization or place	contraparte / homólogo
+3367A	historically	This city has been [...] important for international trade.	This city has been historically important for international trade.	[Adverb] in a way connected with past history and events	históricamente
+3368A	firmly	Hold the baby's hand [...] while crossing the street.	Hold the baby's hand firmly while crossing the street.	[Adverb] in a strong, steady, or secure manner	firmemente / con firmeza
+3369A	mild	We had a very [...] winter with almost no snow.	We had a very mild winter with almost no snow.	[Adjective] gentle, warm, or not severe or extreme	leve / suave / moderado
+3369B	mild	I ordered a [...] curry because I cannot eat spicy food.	I ordered a mild curry because I cannot eat spicy food.	[Adjective] not spicy or strong in flavor	suave / no picante
+3370A	rider	The bicycle [...] wore a bright yellow helmet.	The bicycle rider wore a bright yellow helmet.	[Noun] a person who rides a bicycle, motorcycle, or horse	jinete / pasajero / ciclista
+3371A	doll	The little girl loves playing with her favorite [...].	The little girl loves playing with her favorite doll.	[Noun] a toy that looks like a small person or baby	muñeca
+3372A	noon	We agreed to meet outside the cafe at [...].	We agreed to meet outside the cafe at noon.	[Noun] twelve o'clock in the middle of the day	mediodía
+3373A	amid	He stayed calm [...] all the noise and confusion.	He stayed calm amid all the noise and confusion.	[Preposition] in the middle of or surrounded by other things	en medio de / entre
+3374A	identical	The twins were wearing [...] blue shirts today.	The twins were wearing identical blue shirts today.	[Adjective] exactly the same in every detail	idéntico
+3375A	precise	Give me the [...] time so I can set my watch.	Give me the precise time so I can set my watch.	[Adjective] exact, clear, and accurate in detail	preciso / exacto
+3376A	anxious	She felt [...] before taking her final driving exam.	She felt anxious before taking her final driving exam.	[Adjective] feeling worried, nervous, or uneasy	ansioso / preocupado
+3377A	structural	The earthquake caused serious [...] damage to the bridge.	The earthquake caused serious structural damage to the bridge.	[Adjective] related to the physical build or structure of something	estructural
+3378A	residential	They bought a sweet home in a quiet [...] neighborhood.	They bought a sweet home in a quiet residential neighborhood.	[Adjective] designed or used primarily for people to live in	residencial
+3379A	diagnose	The doctor needed a test to [...] the rare illness.	The doctor needed a test to diagnose the rare illness.	[Verb] to identify an illness or problem after medical examination	diagnosticar
+3380A	carbohydrate	Bread and pasta are rich in [...] for energy.	Bread and pasta are rich in carbohydrate for energy.	[Noun] a substance in food that provides energy to the body	carbohidrato
+3381A	liberty	Citizens fought bravely to protect their personal [...].	Citizens fought bravely to protect their personal liberty.	[Noun] the freedom to live and act without unfair restrictions	libertad
+3382A	poster	He hung a large music [...] on his bedroom wall.	He hung a large music poster on his bedroom wall.	[Noun] a large printed picture or notice placed on a wall	póster / cartel
+3383A	theology	She decided to study [...] at the local university.	She decided to study theology at the local university.	[Noun] the study of religion, religious beliefs, and God	teología
+3384A	nonprofit	He works for a [...] organization that feeds poor families.	He works for a nonprofit organization that feeds poor families.	[Adjective] operating to help society rather than to make money	sin fines de lucro / no lucrativa
+3385A	crawl	The baby learned to [...] across the rug quickly.	The baby learned to crawl across the rug quickly.	[Verb] to move forward on hands and knees	gatear / arrastrarse
+3385B	crawl	Traffic was forced to [...] through the construction zone.	Traffic was forced to crawl through the construction zone.	[Verb] to move forward extremely slowly	avanzar a paso de tortuga / avanzar muy despacio
+3386A	oxygen	Divers need tanks of [...] to breathe underwater.	Divers need tanks of oxygen to breathe underwater.	[Noun] an invisible gas that living things need to breathe	oxígeno
+3387A	handsome	Everyone thought the actor was very [...] and charming.	Everyone thought the actor was very handsome and charming.	[Adjective] physically attractive, especially describing a man	guapo / apuesto
+3388A	sum	They offered a large [...] of money for the car.	They offered a large sum of money for the car.	[Noun] a total amount of money or calculated quantity	suma / cantidad
+3388B	sum up	To [...] the meeting, we agreed on three key goals.	To sum up the meeting, we agreed on three key goals.	[Phrasal Verb] to state the main points of something briefly	resumir
+3389A	provided	You can go out [...] you finish your homework first.	You can go out provided you finish your homework first.	[Conjunction] on the condition that; only if	siempre y cuando / con la condición de que
+3390A	businessman	The successful [...] traveled to London for an important meeting.	The successful businessman traveled to London for an important meeting.	[Noun] a man who works in business or corporate leadership	hombre de negocios / empresario
+3391A	promising	The young student has a [...] future in medical science.	The young student has a promising future in medical science.	[Adjective] showing signs of future success or good results	prometedor
+3392A	conscious	He remained [...] after the fall and could speak clearly.	He remained conscious after the fall and could speak clearly.	[Adjective] awake, aware, and able to understand surroundings	consciente
+3393A	determination	Her hard work and [...] helped her win the race.	Her hard work and determination helped her win the race.	[Noun] strong firmness of purpose to achieve a difficult goal	determinación / firmeza
+3394A	donor	An anonymous [...] gave a lot of money to the hospital.	An anonymous donor gave a lot of money to the hospital.	[Noun] a person or organization that gives money, blood, or organs to help others	donante
+3395A	hers	I found a blue jacket and I think it is [...].	I found a blue jacket and I think it is hers.	[Pronoun] belonging to or associated with a female person	suyo / de ella
+3396A	pastor	The local [...] gave an inspiring speech on Sunday morning.	The local pastor gave an inspiring speech on Sunday morning.	[Noun] a religious leader in charge of a church community	pastor / ministro
+3397A	jazz	We listened to live [...] at a cozy bar downtown.	We listened to live jazz at a cozy bar downtown.	[Noun] a style of American music with strong rhythms and improvisation	jazz
+3398A	opera	We bought cheap tickets to see an [...] at the theater.	We bought cheap tickets to see an opera at the theater.	[Noun] a musical play in which actors sing all or most lines	ópera
+3399A	acquisition	The company announced the [...] of a small software firm.	The company announced the acquisition of a small software firm.	[Noun] the act of buying or getting something, especially for a business	adquisición / compra
+3400A	pit	The workers dug a deep [...] in the dirt garden.	The workers dug a deep pit in the dirt garden.	[Noun] a large, deep hole in the ground	foso / hoyo / pozo
+3400B	pit	Be careful not to swallow the [...] when eating a peach.	Be careful not to swallow the pit when eating a peach.	[Noun] the hard single seed inside a fruit	hueso / semilla / pepa
