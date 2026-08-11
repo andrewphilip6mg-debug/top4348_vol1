@@ -56,8 +56,6 @@
 625B	make the bed	I always [...] as soon as I wake up in the morning.	I always make the bed as soon as I wake up in the morning.	[Phrase] to arrange the sheets and blankets on a bed nicely	hacer la cama
 626A	order	Please arrange these office files in strict alphabetical [...].	Please arrange these office files in strict alphabetical order.	[Noun] the way things are arranged	orden / secuencia
 626B	order	I would like to [...] a large cheese pizza, please.	I would like to order a large cheese pizza, please.	[Verb] to ask for food or goods	pedir / ordenar
-626C	in order to	She studied hard every night [...] pass the final exam.	She studied hard every night in order to pass the final exam.	[Phrase] with the purpose of	para / con el fin de
-626D	out of order	You must use the stairs today. The elevator is [...].	You must use the stairs today. The elevator is out of order.	[Idiom] not working properly	fuera de servicio / dañado
 627A	author	Stephen King is my absolute favorite horror [...].	Stephen King is my absolute favorite horror author.	[Noun] the writer of a book or article	autor / escritor
 628A	fill	Please [...] this clean glass with some cold water.	Please fill this clean glass with some cold water.	[Verb] to make something full	llenar
 628B	fill out	You need to [...] this medical form before seeing the doctor.	You need to fill out this medical form before seeing the doctor.	[Phrasal Verb] to complete a form with information	llenar / completar / rellenar

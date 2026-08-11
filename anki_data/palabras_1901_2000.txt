@@ -53,7 +53,6 @@
 1931A	violent	The young man was arrested after a [...] fight in the street.	The young man was arrested after a violent fight in the street.	[Adjective] using physical force intended to hurt or damage	violento
 1932A	silent	Everyone stayed [...] while the teacher spoke.	Everyone stayed silent while the teacher spoke.	[Adjective] making no sound or completely quiet	silencioso / en silencio
 1933A	suppose	I [...] we can leave now if you are ready.	I suppose we can leave now if you are ready.	[Verb] to think or believe that something is likely true	suponer / creer
-1933B	be supposed to	You [...] turn off your phone during the flight.	You are supposed to turn off your phone during the flight.	[Idiom] to be expected or required to do something	tener que / se supone que
 1934A	self	True happiness comes from understanding your inner [...].	True happiness comes from understanding your inner self.	[Noun] a person's essential nature or personality	uno mismo / propio ser
 1935A	bike	He rides his [...] to school every day.	He rides his bike to school every day.	[Noun] a vehicle with two wheels that you ride by pedaling	bicicleta
 1936A	tea	Would you like a hot cup of [...] with lemon?	Would you like a hot cup of tea with lemon?	[Noun] a hot drink made by infusing dried leaves in boiling water	té

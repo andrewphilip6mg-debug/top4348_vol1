@@ -74,7 +74,6 @@
 3555A	divine	Ancient kings believed they ruled by [...] right.	Ancient kings believed they ruled by divine right.	[Adjective] coming from or connected to God or a deity	divino/a
 3556A	sentiment	Public [...] changed quickly after the mayor gave his speech.	Public sentiment changed quickly after the mayor gave his speech.	[Noun] a general opinion or feeling held by a group	sentimiento / opinión
 3557A	cart	Put your groceries inside the [...] before going to the cashier.	Put your groceries inside the cart before going to the cashier.	[Noun] a small vehicle with wheels pushed or pulled by hand	carrito / carro
-3558A	oversee	A manager was hired to [...] the construction of the new office.	A manager was hired to oversee the construction of the new office.	[Verb] to supervise and direct a project or workers	supervisar / inspeccionar
 3559A	elder	The tribe met with their respected [...] to ask for wisdom.	The tribe met with their respected elder to ask for wisdom.	[Noun] a person of greater age or higher rank in a community	anciano/a / mayor
 3559B	elder	Her [...] brother helped her move into her new apartment.	Her elder brother helped her move into her new apartment.	[Adjective] older in age relative to another family member	mayor
 3560A	pro	She plays tennis like a true [...] on the court.	She plays tennis like a true pro on the court.	[Noun - Informal] a professional person with high skill level	profesional / experto/a
@@ -89,7 +88,6 @@
 3566A	o'clock	We agreed to meet at six [...] in front of the station.	We agreed to meet at six o'clock in front of the station.	[Adverb] according to the clock to specify the hour	en punto
 3567A	Greek	We ate delicious [...] salad with olive oil for lunch.	We ate delicious Greek salad with olive oil for lunch.	[Adjective/Noun] relating to Greece, its people, or its language	griego/a
 3568A	genius	Einstein was a true [...] in the field of physics.	Einstein was a true genius in the field of physics.	[Noun] an exceptionally intelligent or talented person	genio
-3568B	stroke of genius	Hiring her as manager turned out to be a [...].	Hiring her as manager turned out to be a stroke of genius.	[Idiom] an exceptionally clever idea or action	una genialidad / golpe de genio
 3569A	monument	They built a granite [...] to honor the fallen soldiers.	They built a granite monument to honor the fallen soldiers.	[Noun] a structure erected to commemorate a person or event	monumento
 3570A	bid	The company made a high [...] to win the contract.	The company made a high bid to win the contract.	[Noun] an offer of a specific price for something	oferta / puja
 3570B	bid	Several collectors [...] on the rare painting at the auction.	Several collectors bid on the rare painting at the auction.	[Verb] to offer an amount of money to buy an item	pujar / ofrecer

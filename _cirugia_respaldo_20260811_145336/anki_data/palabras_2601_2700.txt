@@ -1,0 +1,131 @@
+2601A	storage	Put the boxes in [...] until we move.	Put the boxes in storage until we move.	[Noun] space for keeping items safe	almacenamiento / depósito
+2602A	flee	They had to [...] from the dangerous fire.	They had to flee from the dangerous fire.	[Verb] to run away from danger	huir / escapar
+2603A	mm-hmm	She said [...] to show she was listening.	She said mm-hmm to show she was listening.	[Interjection - Informal] sound used to show agreement	ajá / sí
+2604A	leather	He bought a black [...] jacket for the winter.	He bought a black leather jacket for the winter.	[Noun] animal skin used to make clothes or shoes	cuero / piel
+2605A	distribute	Volunteers [...] food to families in need.	Volunteers distribute food to families in need.	[Verb] to give things out to a group	distribuir / repartir
+2606A	evolution	We studied the [...] of birds in science class.	We studied the evolution of birds in science class.	[Noun] slow process of change over time	evolución
+2607A	ill	She stayed in bed today after feeling [...].	She stayed in bed today after feeling ill.	[Adjective] sick or not in good health	enfermo/a
+2607B	fall ill	Several employees [...] after eating at the cafeteria.	Several employees fell ill after eating at the cafeteria.	[Idiom] to become sick suddenly	caer enfermo / enfermarse
+2608A	tribe	The old [...] lived near the river for centuries.	The old tribe lived near the river for centuries.	[Noun] group of traditional people sharing culture	tribu
+2609A	shelf	Put that heavy book back on the top [...].	Put that heavy book back on the top shelf.	[Noun] flat board attached to a wall for storing things	estante / repisa
+2609B	shelf life	Fresh milk has a short [...] of just a few days.	Fresh milk has a short shelf life of just a few days.	[Noun] duration for which a product remains good	vida útil / fecha de caducidad
+2610A	grandfather	My [...] loves to tell stories about his youth.	My grandfather loves to tell stories about his youth.	[Noun] father of one's father or mother	abuelo
+2611A	lawn	He spent the morning cutting the green [...].	He spent the morning cutting the green lawn.	[Noun] area of ground covered in short grass	césped / prado
+2611B	mow the lawn	He goes outside every Saturday to [...].	He goes outside every Saturday to mow the lawn.	[Collocation] to cut grass on a yard	cortar el césped / segar el prado
+2612A	buyer	A potential [...] made an offer on our house.	A potential buyer made an offer on our house.	[Noun] person who purchases something	comprador/a
+2613A	dining	We ate supper together in the [...] room.	We ate supper together in the dining room.	[Noun/Adjective] related to eating meals	comedor / de comer
+2614A	wisdom	The grandmother shared her [...] with her kids.	The grandmother shared her wisdom with her kids.	[Noun] knowledge gained through experience	sabiduría
+2614B	wisdom tooth	The dentist pulled out my [...] yesterday.	The dentist pulled out my wisdom tooth yesterday.	[Noun] large back tooth that appears in adulthood	muela del juicio
+2615A	council	The local [...] decided to build a new park.	The local council decided to build a new park.	[Noun] group elected to make local decisions	concejo / consejo municipal
+2616A	vulnerable	Young calves are [...] to attacks by wild animals.	Young calves are vulnerable to attacks by wild animals.	[Adjective] weak and easily hurt or harmed	vulnerable / indefenso
+2617A	instance	For [...], you can use water instead of milk.	For instance, you can use water instead of milk.	[Noun] an example of a situation	ejemplo / caso
+2618A	garlic	Add two cloves of fresh [...] to the sauce.	Add two cloves of fresh garlic to the sauce.	[Noun] plant with a strong taste used in cooking	ajo
+2619A	capability	The machine has the [...] to print very fast.	The machine has the capability to print very fast.	[Noun] power or ability to do something	capacidad / habilidad
+2620A	poetry	She loves reading [...] written by famous authors.	She loves reading poetry written by famous authors.	[Noun] poems written as a form of art	poesía
+2621A	celebrity	A famous [...] visited our school yesterday morning.	A famous celebrity visited our school yesterday morning.	[Noun] well-known famous person	celebridad / famosa/o
+2622A	gradually	The sky [...] grew dark as night fell.	The sky gradually grew dark as night fell.	[Adverb] slowly over a period of time	gradualmente / poco a poco
+2623A	stability	The government works hard to keep economic [...].	The government works hard to keep economic stability.	[Noun] state of being firm or steady	estabilidad
+2624A	fantasy	Young children live in a world of pure [...].	Young children live in a world of pure fantasy.	[Noun] imagination or imaginary world	fantasía
+2625A	scared	The little boy felt [...] during the loud storm.	The little boy felt scared during the loud storm.	[Adjective] frightened or afraid	asustado/a
+2626A	plot	The novel has an interesting and surprising [...].	The novel has an interesting and surprising plot.	[Noun] main story of a movie or book	trama / argumento
+2626B	plot	They bought a small [...] of land near town.	They bought a small plot of land near town.	[Noun] small piece of ground	terreno / parcela
+2626C	plot	The rebels met in secret to [...] against the king.	The rebels met in secret to plot against the king.	[Verb] to secretly plan something illegal or harmful	tramar / conspirar
+2627A	framework	The report provides a clear [...] for the project.	The report provides a clear framework for the project.	[Noun] basic structure supporting an idea or plan	marco / estructura
+2628A	gesture	Sending flowers was a very kind [...].	Sending flowers was a very kind gesture.	[Noun] action done to express a feeling	gesto / detalle
+2628B	gesture	He [...] toward the open door so we could enter.	He gestured toward the open door so we could enter.	[Verb] to move one's hand or body to express meaning	gesticular / hacer un gesto
+2629A	depending	We will go outside [...] on the weather today.	We will go outside depending on the weather today.	[Preposition] determined or influenced by	dependiendo (de)
+2630A	ongoing	The police are conducting an [...] investigation right now.	The police are conducting an ongoing investigation right now.	[Adjective] continuing to happen	en curso / continuo
+2631A	psychology	He chose to study human [...] at university.	He chose to study human psychology at university.	[Noun] scientific study of the mind and behavior	psicología
+2632A	counselor	The school [...] helped the boy choose his classes.	The school counselor helped the boy choose his classes.	[Noun] person who gives advice or guidance	consejero/a / orientador/a
+2633A	chapter	Read the third [...] of your history book tonight.	Read the third chapter of your history book tonight.	[Noun] main division of a book	capítulo
+2633B	chapter	Graduating from college marked a new [...] in her life.	Graduating from college marked a new chapter in her life.	[Noun] distinct period in a person's life or history	etapa / capítulo
+2634A	divorce	The couple decided to get a [...] last year.	The couple decided to get a divorce last year.	[Noun] legal end of a marriage	divorcio
+2634B	divorce	They decided to [...] after ten years together.	They decided to divorce after ten years together.	[Verb] to legally end a marriage	divorciarse (de)
+2635A	owe	I [...] my friend ten dollars for lunch.	I owe my friend ten dollars for lunch.	[Verb] to need to pay money back	deber / adeudar
+2636A	pipe	Water leaked out of the broken kitchen [...].	Water leaked out of the broken kitchen pipe.	[Noun] tube used to carry liquids or gas	tubería / tubo
+2636B	pipe	The old man enjoyed smoking a [...] after dinner.	The old man enjoyed smoking a pipe after dinner.	[Noun] object used for smoking tobacco	pipa
+2636C	pipe dream	Becoming a movie star was just a [...].	Becoming a movie star was just a pipe dream.	[Idiom] an unrealistic or impossible plan	sueño inalcanzable / ilusión
+2637A	athletic	She is very [...] and runs every single morning.	She is very athletic and runs every single morning.	[Adjective] physically strong, fit, and active	atlético/a / deportista
+2638A	slight	There was a [...] change in the travel plans.	There was a slight change in the travel plans.	[Adjective] small in degree or amount	ligero/a / leve
+2638B	not in the slightest	I was not offended by her comment [...].	I was not offended by her comment not in the slightest.	[Idiom] not at all / in no way	para nada / ni en lo más mínimo
+2639A	math	She solved the difficult [...] problem on the board.	She solved the difficult math problem on the board.	[Noun] study of numbers and shapes	matemáticas
+2640A	shade	We sat under a tall tree for some [...].	We sat under a tall tree for some shade.	[Noun] dark area protected from direct sun	sombra
+2640B	shade	She decided to paint her bedroom a light [...] of blue.	She decided to paint her bedroom a light shade of blue.	[Noun] degree or variation of a color	tono / matiz
+2641A	tail	The happy dog wagged its [...] when I entered.	The happy dog wagged its tail when I entered.	[Noun] rear part of an animal's body	cola / rabo
+2641B	heads or tails	We flipped a coin to decide: [...]?	We flipped a coin to decide: heads or tails?	[Idiom] two sides of a coin when flipping	cara o cruz / sello
+2642A	sustain	The island cannot [...] a large human population.	The island cannot sustain a large human population.	[Verb] to support or keep something going	sostener / mantener
+2642B	sustain	He [...] a severe head injury during the accident.	He sustained a severe head injury during the accident.	[Verb] to suffer or experience damage or pain	sufrir / padecer
+2643A	mount	They decided to [...] a new camera on the wall.	They decided to mount a new camera on the wall.	[Verb] to attach or fix something firmly in place	montar / fijar
+2643B	mount	Tension began to [...] as the final deadline approached.	Tension began to mount as the final deadline approached.	[Verb] to increase gradually in amount or intensity	aumentar / intensificarse
+2644A	obligation	You have no legal [...] to answer these questions.	You have no legal obligation to answer these questions.	[Noun] duty or commitment required by rule or law	obligación
+2645A	angle	Take a photo of the building from this [...].	Take a photo of the building from this angle.	[Noun] position or direction from which you look	ángulo
+2645B	angle	A right triangle always contains a ninety degree [...].	A right triangle always contains a ninety degree angle.	[Noun] space between two meeting lines measured in degrees	ángulo
+2646A	palm	She held the small bird gently in her [...].	She held the small bird gently in her palm.	[Noun] flat inner surface of the hand	palma (de la mano)
+2646B	palm	Tall [...] trees grow along the sunny beach.	Tall palm trees grow along the sunny beach.	[Noun] tropical tree with large leaves at top	palmera
+2647A	differ	Their opinions on this topic [...] greatly from ours.	Their opinions on this topic differ greatly from ours.	[Verb] to be different from another	diferir / ser diferente
+2648A	custom	Shaking hands is a common [...] in many cultures.	Shaking hands is a common custom in many cultures.	[Noun] traditional way of behaving in a society	costumbre / tradición
+2648B	custom	They sell [...] furniture made according to client requests.	They sell custom furniture made according to client requests.	[Adjective] made specially for an individual buyer	personalizado/a / a medida
+2648C	customs	We had to pass through [...] at the airport.	We had to pass through customs at the airport.	[Noun - Plural] place at a border where bags are checked	aduana
+2649A	economist	The [...] explained why prices were rising fast.	The economist explained why prices were rising fast.	[Noun] expert who studies financial systems	economista
+2650A	fifteen	My older sister will turn [...] next Tuesday.	My older sister will turn fifteen next Tuesday.	[Number] the number equal to 10 plus 5	quince
+2651A	soup	A hot bowl of chicken [...] feels good when sick.	A hot bowl of chicken soup feels good when sick.	[Noun] liquid food made by cooking meat or vegetables	sopa
+2652A	celebration	They organized a big [...] for her birthday.	They organized a big celebration for her birthday.	[Noun] party or event for a special day	celebración / fiesta
+2653A	efficient	Solar panels are an [...] way to produce energy.	Solar panels are an efficient way to produce energy.	[Adjective] working well without wasting time or power	eficiente
+2654A	composition	The teacher asked us to write a short [...].	The teacher asked us to write a short composition.	[Noun] piece of writing created by a student	composición / redacción
+2655A	satisfy	A light snack will [...] your hunger for now.	A light snack will satisfy your hunger for now.	[Verb] to fulfill a need or desire	satisfacer / saciar
+2656A	pile	There is a large [...] of laundry on the bed.	There is a large pile of laundry on the bed.	[Noun] quantity of things lying on top of each other	montón / pila
+2656B	pile up	Unanswered emails began to [...] on his desk.	Unanswered emails began to pile up on his desk.	[Phrasal Verb] to accumulate in large amounts rapidly	acumularse / amontonarse
+2657A	briefly	He spoke [...] about his new travel plans.	He spoke briefly about his new travel plans.	[Adverb] for a short time or in few words	brevemente
+2658A	carbon	Plants absorb [...] dioxide from the air around them.	Plants absorb carbon dioxide from the air around them.	[Noun] chemical element found in all living things	carbono
+2659A	closer	Come a bit [...] so you can see the picture.	Come a bit closer so you can see the picture.	[Adjective/Adverb] at a shorter distance	más cerca / más cercano
+2660A	consume	Modern cars [...] less fuel than older models.	Modern cars consume less fuel than older models.	[Verb] to use up energy, time, or goods	consumir
+2661A	scheme	The company started a new training [...] for workers.	The company started a new training scheme for workers.	[Noun] official plan or arrangement	plan / programa / esquema
+2662A	crack	There is a thin [...] in the glass window.	There is a thin crack in the glass window.	[Noun] line on a surface where it broke	grieta / fisura
+2662B	crack	He dropped his phone and [...] the screen.	He dropped his phone and cracked the screen.	[Verb] to break something without completely separating	agrietar / rajar
+2662C	crack down	The city plans to [...] on illegal parking near schools.	The city plans to crack down on illegal parking near schools.	[Phrasal Verb] to enforce rules or laws more strictly	tomar medidas drásticas / reprimir
+2662D	crack up	His jokes always make the whole room [...].	His jokes always make the whole room crack up.	[Phrasal Verb] to laugh uncontrollably	desternillarse de risa / partirse de risa
+2663A	frequency	Bus services run with high [...] during morning hours.	Bus services run with high frequency during morning hours.	[Noun] rate at which something happens	frecuencia
+2664A	tobacco	Farmers in this region grow high quality [...].	Farmers in this region grow high quality tobacco.	[Noun] dried leaves used for smoking	tabaco
+2665A	survivor	The emergency crew rescued the sole [...] of the crash.	The emergency crew rescued the sole survivor of the crash.	[Noun] person who continues to live after danger	superviviente / sobreviviente
+2666A	besides	Who else was at the meeting [...] your boss?	Who else was at the meeting besides your boss?	[Preposition] in addition to or apart from	además de / aparte de
+2666B	besides	It is too late to go out, and [...], it is raining.	It is too late to go out, and besides, it is raining.	[Adverb] in addition or moreover	además / por otra parte
+2667A	psychologist	The [...] listened patiently to her problems.	The psychologist listened patiently to her problems.	[Noun] expert who treats mental and emotional health	psicólogo/a
+2668A	wealthy	Her parents are [...] and own two large houses.	Her parents are wealthy and own two large houses.	[Adjective] having a lot of money and assets	rico/a / adinerado/a
+2669A	galaxy	Our solar system sits inside the Milky Way [...].	Our solar system sits inside the Milky Way galaxy.	[Noun] huge collection of stars and planets	galaxia
+2670A	given	[...] the bad weather, we decided to stay home.	Given the bad weather, we decided to stay home.	[Preposition] taking into account or considering	dado/a / teniendo en cuenta
+2671A	ski	Many tourists love to [...] down the snowy mountain.	Many tourists love to ski down the snowy mountain.	[Verb] to move over snow on long flat narrow strips	esquiar
+2672A	limitation	Age should not be a [...] to learning new skills.	Age should not be a limitation to learning new skills.	[Noun] rule or condition that limits something	limitación / restricción
+2673A	trace	Police found no [...] of the missing vehicle.	Police found no trace of the missing vehicle.	[Noun] small mark or sign that something existed	rastro / huella
+2673B	trace	The detective managed to [...] the origin of the phone call.	The detective managed to trace the origin of the phone call.	[Verb] to track or locate the origin or path of something	rastrear / seguir la pista
+2674A	appointment	I made an [...] to see the dentist on Friday.	I made an appointment to see the dentist on Friday.	[Noun] arrangement to meet someone at a set time	cita
+2675A	preference	My sister has a strong [...] for hot beverages.	My sister has a strong preference for hot beverages.	[Noun] liking one thing more than another	preferencia
+2676A	meter	The swimmer crossed the fifty [...] pool very fast.	The swimmer crossed the fifty meter pool very fast.	[Noun] unit of length equal to one hundred centimeters	metro
+2676B	meter	Don't forget to feed the parking [...] with coins.	Don't forget to feed the parking meter with coins.	[Noun] device that measures gas, electricity, or parked time	medidor / parquímetro
+2677A	explosion	Neighbors heard a loud [...] near the gas factory.	Neighbors heard a loud explosion near the gas factory.	[Noun] sudden and violent burst with loud noise	explosión
+2678A	publicly	The mayor [...] apologized for his late response.	The mayor publicly apologized for his late response.	[Adverb] in a way that is open to all people	públicamente
+2679A	incredible	The magician performed an [...] trick on stage.	The magician performed an incredible trick on stage.	[Adjective] extremely good or difficult to believe	increíble
+2680A	fighter	The brave [...] never gave up during the match.	The brave fighter never gave up during the match.	[Noun] person who fights in a war or sport	luchador/a / combatiente
+2681A	rapid	The city experienced [...] growth over ten years.	The city experienced rapid growth over ten years.	[Adjective] happening or moving very quickly	rápido/a / acelerado/a
+2682A	admission	Museum [...] is free for kids under six years old.	Museum admission is free for kids under six years old.	[Noun] fee or right to enter a place	entrada / admisión
+2682B	admission	Her public confession was an [...] of guilt.	Her public confession was an admission of guilt.	[Noun] statement acknowledging that something is true	admisión / confesión
+2683A	hunter	An experienced [...] tracked the wild deer quietly.	An experienced hunter tracked the wild deer quietly.	[Noun] person or animal that searches for game	cazador/a
+2684A	educate	Schools aim to [...] young minds for the future.	Schools aim to educate young minds for the future.	[Verb] to teach or train someone at a school	educar / enseñar
+2685A	painful	Walking became very [...] after he hurt his ankle.	Walking became very painful after he hurt his ankle.	[Adjective] causing physical or emotional hurt	doloroso/a
+2686A	friendship	Their close [...] lasted for more than thirty years.	Their close friendship lasted for more than thirty years.	[Noun] relationship between close friends	amistad
+2687A	aide	The political [...] carried important documents to the meeting.	The political aide carried important documents to the meeting.	[Noun] assistant to an important official	asistente / colaborador/a
+2688A	infant	The small [...] fell asleep peacefully in her arms.	The small infant fell asleep peacefully in her arms.	[Noun] very young child or baby	bebé / lactante
+2689A	calculate	Use this tool to [...] the total trip cost.	Use this tool to calculate the total trip cost.	[Verb] to find an answer using math	calcular
+2690A	fifty	My mother gave me [...] dollars for groceries.	My mother gave me fifty dollars for groceries.	[Number] the number equal to 5 times 10	cincuenta
+2691A	rid	We need to [...] the house of old trash.	We need to rid the house of old trash.	[Verb] to make free of something unwanted	librar / despojar
+2691B	get rid of	She wants to [...] her old winter coat.	She wants to get rid of her old winter coat.	[Idiom/Phrasal Verb] to throw away or remove something	deshacerse de / tirar
+2692A	porch	We sat on the front [...] to drink iced tea.	We sat on the front porch to drink iced tea.	[Noun] covered entrance outside a building	porche / entrada
+2693A	tendency	He has a [...] to forget his keys at home.	He has a tendency to forget his keys at home.	[Noun] likelihood to behave in a certain way	tendencia / inclinación
+2694A	uniform	Students must wear a blue [...] to this school.	Students must wear a blue uniform to this school.	[Noun] special set of clothes worn by a group	uniforme
+2694B	uniform	The ceramic tiles were cut to a [...] size.	The ceramic tiles were cut to a uniform size.	[Adjective] remaining the same in all cases and parts	uniforme / homogéneo
+2695A	formation	The birds flew over the lake in a V [...].	The birds flew over the lake in a V formation.	[Noun] pattern or structure in which things are arranged	formación
+2696A	scholarship	She won a full [...] to study at university.	She won a full scholarship to study at university.	[Noun] financial aid given to a student	beca
+2697A	reservation	I called the restaurant to make a table [...].	I called the restaurant to make a table reservation.	[Noun] arrangement to keep a seat or room free	reserva / reservación
+2697B	reservation	She expressed serious [...] about the proposed plan.	She expressed serious reservations about the proposed plan.	[Noun] feeling of doubt or uncertainty about something	reserva / duda
+2698A	efficiency	The new machine improved factory [...] by twenty percent.	The new machine improved factory efficiency by twenty percent.	[Noun] ability to do something without wasting time or energy	eficiencia
+2699A	qualify	You need five years of experience to [...] for the job.	You need five years of experience to qualify for the job.	[Verb] to meet necessary requirements	calificar / reunir los requisitos
+2700A	mall	We bought new shoes at the shopping [...] yesterday.	We bought new shoes at the shopping mall yesterday.	[Noun] large indoor area with many stores	centro comercial

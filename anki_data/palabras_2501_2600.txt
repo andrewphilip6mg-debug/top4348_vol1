@@ -61,7 +61,6 @@
 2537A	confident	She feels [...] about passing her final English test.	She feels confident about passing her final English test.	[Adjective] feeling sure about your abilities or success	seguro/a / confiado/a
 2538A	headquarters	The company moved its [...] to New York last year.	The company moved its headquarters to New York last year.	[Noun] the main office of an organization	sede central / oficinas centrales
 2539A	sudden	A [...] loud noise woke everyone up at midnight.	A sudden loud noise woke everyone up at midnight.	[Adjective] happening quickly and without warning	repentino/a / súbito/a
-2539B	all of a sudden	It started to rain heavily [...].	It started to rain heavily all of a sudden.	[Idiom] quickly and without warning	de repente / de la nada
 2540A	dirty	Please put your [...] shoes outside the front door.	Please put your dirty shoes outside the front door.	[Adjective] not clean or covered with dirt	sucio/a
 2540B	dirty	Wash your hands so you do not [...] the clean sheets.	Wash your hands so you do not dirty the clean sheets.	[Verb] to make something unclean	ensuciar
 2541A	violation	Driving without a seatbelt is a traffic [...].	Driving without a seatbelt is a traffic violation.	[Noun] an action that breaks a law or rule	violación / infracción
@@ -70,7 +69,6 @@
 2542C	on the tip of one's tongue	His name was [...] during the entire conversation.	His name was on the tip of my tongue during the entire conversation.	[Idiom] almost remembered but difficult to recall	en la punta de la lengua
 2542D	hold one's tongue	I had to [...] during the heated argument.	I had to hold my tongue during the heated argument.	[Idiom] to stay silent when you want to speak	morderse la lengua / callarse
 2543A	license	You must carry your driver's [...] while driving.	You must carry your driver's license while driving.	[Noun] an official document giving permission to do something	licencia / carné / permiso
-2543B	license plate	The police noted the number on the car's [...].	The police noted the number on the car's license plate.	[Noun] an official metal plate on a vehicle with numbers and letters	placa / matrícula
 2544A	shelter	They found a small [...] during the heavy rain.	They found a small shelter during the heavy rain.	[Noun] a place that gives protection from bad weather or danger	refugio / albergue
 2544B	shelter	We [...] from the wind behind a high wall.	We sheltered from the wind behind a high wall.	[Verb] to protect or stay in a safe place	refugiarse / proteger
 2545A	rub	He [...] his hands together to warm them up.	He rubbed his hands together to warm them up.	[Verb] to press and move your hand over a surface	frotar / sobar

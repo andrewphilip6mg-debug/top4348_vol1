@@ -1,6 +1,5 @@
 1501A	conclusion	At the [...] of the story, the main character returns home.	At the conclusion of the story, the main character returns home.	[Noun] the end or final part of a book or event	conclusión / final
 1501B	conclusion	After studying the results, we reached a clear [...].	After studying the results, we reached a clear conclusion.	[Noun] an opinion or decision formed after careful thought	conclusión
-1501C	jump to conclusions	Do not [...] before you know all the facts.	Do not jump to conclusions before you know all the facts.	[Idiom] to form an opinion too quickly without enough evidence	sacar conclusiones precipitadas
 1502A	prime	Safety is our [...] concern during this trip.	Safety is our prime concern during this trip.	[Adjective] most important or main	principal / primordial
 1502B	prime minister	The [...] spoke on television yesterday morning.	The prime minister spoke on television yesterday morning.	[Noun] the leader of the government in a country	primer ministro / primera ministra
 1502C	in one's prime	The athlete was [...] when he won the championship.	The athlete was in his prime when he won the championship.	[Idiom] at the period of greatest power, strength, or success	en su mejor momento / en la flor de la vida

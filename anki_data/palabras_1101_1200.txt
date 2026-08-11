@@ -132,7 +132,6 @@
 1174B	average	The [...] of three, five, and seven is five.	The average of three, five, and seven is five.	[Noun] the single number that represents the middle value of a set	promedio
 1175A	emerge	The sun began to [...] from behind the thick clouds.	The sun began to emerge from behind the thick clouds.	[Verb] to come out into view from a hidden place	surgir / emerger
 1176A	advantage	Speaking two languages is a huge [...] in business.	Speaking two languages is a huge advantage in business.	[Noun] a condition or feature that helps you succeed	ventaja
-1176B	take advantage of	You should [...] this free course to improve your skills.	You should take advantage of this free course to improve your skills.	[Idiom] to make good use of an opportunity	aprovechar / sacar provecho de
 1177A	quick	He took a [...] shower before leaving for work.	He took a quick shower before leaving for work.	[Adjective] lasting only a short time; fast	rápido/a
 1178A	leadership	The company failed due to poor [...] by the manager.	The company failed due to poor leadership by the manager.	[Noun] the state or position of being a leader	liderazgo
 1179A	earn	She works hard to [...] enough money for rent.	She works hard to earn enough money for rent.	[Verb] to receive money in return for work	ganar (dinero) / percibir

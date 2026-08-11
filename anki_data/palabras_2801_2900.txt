@@ -45,7 +45,6 @@
 2833B	wound	The flying glass [...] two passengers during the accident.	The flying glass wounded two passengers during the accident.	[Verb] to injure a person physically	herir
 2834A	dependent	Young children are fully [...] on their parents for food and shelter.	Young children are fully dependent on their parents for food and shelter.	[Adjective] needing someone or something for help or support	dependiente
 2835A	shower	Our hotel room has a clean [...] with warm water.	Our hotel room has a clean shower with warm water.	[Noun] device that washes the body with overhead water spray	ducha
-2835B	take a shower	I always [...] before going to bed.	I always take a shower before going to bed.	[Collocation] to wash oneself standing under spraying water	ducharse / darse una ducha
 2836A	institutional	The school received strong [...] support from local businesses.	The school received strong institutional support from local businesses.	[Adjective] relating to a large established organization	institucional
 2837A	depict	The old painting [...] a calm scene in a country village.	The old painting depicts a calm scene in a country village.	[Verb] to show or represent something in art or words	representar / retratar
 2838A	operating room	The doctor entered the [...] to start the surgical procedure.	The doctor entered the operating room to start the surgical procedure.	[Noun - Compound] special room in a hospital where surgery occurs	quirófano / sala de operaciones
@@ -89,7 +88,6 @@
 2866A	summit	Climbers reached the mountain [...] after three days of hiking.	Climbers reached the mountain summit after three days of hiking.	[Noun] highest point of a mountain or hill	cumbre / cima
 2866B	summit	World leaders gathered at the peace [...] to discuss trade deals.	World leaders gathered at the peace summit to discuss trade deals.	[Noun] official meeting between high level government officials	cumbre (reunión)
 2867A	acid	Lemon juice contains a mild [...] that gives it a sour taste.	Lemon juice contains a mild acid that gives it a sour taste.	[Noun] chemical compound with a sour taste and low pH	ácido
-2868A	odds	The [...] of winning the local lottery are extremely low.	The odds of winning the local lottery are extremely low.	[Noun] probability or likelihood that something will happen	probabilidades / posibilidades
 2868B	against all odds	She succeeded in finishing the race [...].	She succeeded in finishing the race against all odds.	[Idiom] despite strong difficulty or low probability of success	contra todo pronóstico
 2868C	at odds with	His recent statements are completely [...] the official government report.	His recent statements are completely at odds with the official government report.	[Idiom] in disagreement or conflict with someone or something	en desacuerdo con / en conflicto con
 2869A	gifted	That young musician is exceptionally [...] at playing the piano.	That young musician is exceptionally gifted at playing the piano.	[Adjective] possessing natural talent or intelligence	talentoso/a / superdotado/a

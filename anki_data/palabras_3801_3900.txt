@@ -5,10 +5,8 @@
 3804B	pulse	Her heart was [...] fast after running up the stairs.	Her heart was pulsing fast after running up the stairs.	[Verb] to beat or throb rhythmically	palpitar / latir
 3805A	equivalent	One dollar is roughly [...] to ten local coins right now.	One dollar is roughly equivalent to ten local coins right now.	[Adjective] equal in value, amount, or meaning to something else	equivalente
 3805B	equivalent	There is no direct English [...] for this Spanish phrase.	There is no direct English equivalent for this Spanish phrase.	[Noun] a person or thing that has the same value or function as another	equivalente
-3806A	fix	The mechanic finally [...] my car engine yesterday morning.	The mechanic finally fixed my car engine yesterday morning.	[Verb] to repair or mend something that is broken	reparar / arreglar
 3806B	fixed	She bought a car with a [...] monthly payment plan.	She bought a car with a fixed monthly payment plan.	[Adjective] set, firm, and not likely to change	fijo / determinado
 3807A	experienced	She is an [...] driver who has been driving for twenty years.	She is an experienced driver who has been driving for twenty years.	[Adjective] having skill or knowledge gained from doing something for a long time	experimentado/a / con experiencia
-3807B	experience	He [...] severe back pain after lifting that heavy box.	He experienced severe back pain after lifting that heavy box.	[Verb] to feel, undergo, or encounter something	experimentar / sentir
 3808A	donation	They made a generous cash [...] to the local animal shelter.	They made a generous cash donation to the local animal shelter.	[Noun] something, especially money or goods, given to help a charity or person	donación
 3809A	diary	She writes down her personal thoughts in a [...] every night.	She writes down her personal thoughts in a diary every night.	[Noun] a book in which one keeps a daily record of personal experiences	diario
 3810A	sibling	Do you have any brothers or sisters, or are you an only child? I have one [...].	Do you have any brothers or sisters, or are you an only child? I have one sibling.	[Noun] a brother or sister	hermano/a
@@ -31,7 +29,6 @@
 3821B	pin	He [...] the notice onto the bulletin board with a thumb tack.	He pinned the notice onto the bulletin board with a thumb tack.	[Verb] to attach or fasten something with a small metal fastener	fijar con alfiler / clavar
 3821C	pin down	The reporter tried to [...] the politician on his tax plans.	The reporter tried to pin down the politician on his tax plans.	[Phrasal Verb] to force someone to make a clear decision or commitment	comprometer / acorralar para que defina algo
 3822A	hockey	They like playing ice [...] during the cold winter months.	They like playing ice hockey during the cold winter months.	[Noun] a game played on ice or grass with sticks and a puck or ball	hockey
-3823A	pass	The police officer gave him a warning before [...] by his car.	The police officer gave him a warning before passing by his car.	[Verb] to move past someone or something	pasar / adelantar
 3823B	passing	He mentioned the event in [...], but did not give details.	He mentioned the event in passing, but did not give details.	[Noun] a brief or casual reference made while speaking about something else	pasada (de pasada)
 3824A	persist	If the pain [...], you should definitely consult a doctor.	If the pain persists, you should definitely consult a doctor.	[Verb] to continue to exist or occur despite treatment or difficulty	persistir / continuar
 3825A	supplier	Our primary paper [...] raised their delivery prices this month.	Our primary paper supplier raised their delivery prices this month.	[Noun] a company or person that provides goods or services to others	proveedor
@@ -92,7 +89,6 @@
 3865A	grandchild	My grandmother loves spending weekends with her youngest [...].	My grandmother loves spending weekends with her youngest grandchild.	[Noun] a child of one's son or daughter	nieto/a
 3866A	dam	Engineers built a large [...] across the river to generate electricity.	Engineers built a large dam across the river to generate electricity.	[Noun] a barrier built across water to hold back flow	represa / presa
 3867A	reportedly	The company is [...] planning to launch a new smartphone next month.	The company is reportedly planning to launch a new smartphone next month.	[Adverb] according to what many people say or report	según se informa / supuestamente
-3868A	well-known	He is a [...] doctor in our town who has worked here for years.	He is a well-known doctor in our town who has worked here for years.	[Adjective] famous or widely recognized by many people	muy conocido/a / famoso/a
 3869A	surrounding	We went for a walk in the [...] hills after lunch.	We went for a walk in the surrounding hills after lunch.	[Adjective] located around or near a particular place	circundante / de los alrededores
 3870A	ecological	Pollution causes severe [...] damage to sensitive coastal areas.	Pollution causes severe ecological damage to sensitive coastal areas.	[Adjective] relating to the relation of living things to their environment	ecológico/a / del medio ambiente
 3871A	outfit	She bought a stunning new [...] to wear to her sister's wedding.	She bought a stunning new outfit to wear to her sister's wedding.	[Noun] a set of clothes worn together for a particular occasion	atuendo / conjunto / ropa

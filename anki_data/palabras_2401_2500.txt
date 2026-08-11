@@ -7,7 +7,6 @@
 2405C	occupied	Excuse me, is this seat [...]?	Excuse me, is this seat occupied?	[Adjective] currently being used or taken	ocupado/a
 2406A	statistics	The [...] show a clear drop in sales.	The statistics show a clear drop in sales.	[Noun] numbers that give information about a study or facts	estadísticas
 2407A	shopping	My sister spends her weekends doing some online [...].	My sister spends her weekends doing some online shopping.	[Noun] the activity of buying things from stores	compras
-2407B	go shopping	Let's [...] for clothes after lunch.	Let's go shopping for clothes after lunch.	[Idiom] to visit stores to buy items	ir de compras
 2408A	cousin	My [...] came to visit us last week.	My cousin came to visit us last week.	[Noun] the child of your aunt or uncle	primo/a
 2409A	encounter	We may [...] unexpected problems during the trip.	We may encounter unexpected problems during the trip.	[Verb] to meet or experience something unexpectedly	encontrar / enfrentarse a
 2409B	encounter	It was her first [...] with a wild animal.	It was her first encounter with a wild animal.	[Noun] an unexpected meeting or event	encuentro

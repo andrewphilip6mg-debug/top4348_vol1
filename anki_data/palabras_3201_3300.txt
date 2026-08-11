@@ -64,7 +64,6 @@
 3241A	trigger	He pulled the [...] and fired at the target.	He pulled the trigger and fired at the target.	[Noun] small lever pressed to fire a gun	gatillo
 3241B	trigger	Loud noise can [...] a severe migraine headache.	Loud noise can trigger a severe migraine headache.	[Verb] to cause something to start happening	desencadenar / provocar
 3242A	spill	Be careful not to [...] your hot coffee.	Be careful not to spill your hot coffee.	[Verb] to flow over the edge of a container by accident	derramar / verter
-3242B	spill the beans	Do not [...] about the surprise birthday party.	Do not spill the beans about the surprise birthday party.	[Idiom - Informal] to reveal secret information	cantar / irse de la lengua
 3243A	grateful	She was very [...] for all his generous help.	She was very grateful for all his generous help.	[Adjective] feeling or showing thanks	agradecido/a
 3244A	grace	The ballet dancer moved with incredible [...].	The ballet dancer moved with incredible grace.	[Noun] smooth and elegant movement	gracia / elegancia
 3244B	grace period	The bank gives you a ten-day [...] for your payment.	The bank gives you a ten-day grace period for your payment.	[Collocation] extra time allowed to pay or do something	período de gracia

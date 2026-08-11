@@ -117,7 +117,6 @@
 2689A	calculate	Use this tool to [...] the total trip cost.	Use this tool to calculate the total trip cost.	[Verb] to find an answer using math	calcular
 2690A	fifty	My mother gave me [...] dollars for groceries.	My mother gave me fifty dollars for groceries.	[Number] the number equal to 5 times 10	cincuenta
 2691A	rid	We need to [...] the house of old trash.	We need to rid the house of old trash.	[Verb] to make free of something unwanted	librar / despojar
-2691B	get rid of	She wants to [...] her old winter coat.	She wants to get rid of her old winter coat.	[Idiom/Phrasal Verb] to throw away or remove something	deshacerse de / tirar
 2692A	porch	We sat on the front [...] to drink iced tea.	We sat on the front porch to drink iced tea.	[Noun] covered entrance outside a building	porche / entrada
 2693A	tendency	He has a [...] to forget his keys at home.	He has a tendency to forget his keys at home.	[Noun] likelihood to behave in a certain way	tendencia / inclinación
 2694A	uniform	Students must wear a blue [...] to this school.	Students must wear a blue uniform to this school.	[Noun] special set of clothes worn by a group	uniforme

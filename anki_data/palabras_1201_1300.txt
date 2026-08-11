@@ -150,7 +150,6 @@
 1272A	slightly	The new shoes are [...] bigger than my old ones.	The new shoes are slightly bigger than my old ones.	[Adverb] to a small degree or extent	ligeramente / un poco
 1273A	reaction	His sudden [...] to the news surprised everyone.	His sudden reaction to the news surprised everyone.	[Noun] an action or feeling produced in response to something	reacción
 1274A	twice	I brushed my teeth [...] today, once in the morning and once at night.	I brushed my teeth twice today, once in the morning and once at night.	[Adverb] two times	dos veces
-1274B	think twice	You should [...] before spending all your savings on that car.	You should think twice before spending all your savings on that car.	[Idiom] to consider a decision very carefully	pensarlo dos veces
 1275A	suit	He wore a black [...] to the job interview.	He wore a black suit to the job interview.	[Noun] a set of clothes made of the same fabric	traje
 1275B	suit	That bright blue shirt really [...] you very well.	That bright blue shirt really suits you very well.	[Verb] to look good on someone or be convenient	quedar bien / sentar bien
 1275C	suit yourself	If you do not want to come with us, [...].	If you do not want to come with us, suit yourself.	[Idiom - Informal] used to tell someone to do whatever they choose	haz como quieras / allá tú
@@ -183,7 +182,6 @@
 1289A	hey	[...]! Look at that colorful bird over there!	Hey! Look at that colorful bird over there!	[Interjection - Informal] used to attract attention or express surprise	¡oye! / ¡eh!
 1290A	mistake	I made a small [...] on the math test.	I made a small mistake on the math test.	[Noun] an action or decision that is incorrect	error / equivocación
 1290B	mistake	People often [...] him for his twin brother.	People often mistake him for his twin brother.	[Verb] to confuse someone or something with another	confundir con
-1290C	by mistake	She deleted the important document [...].	She deleted the important document by mistake.	[Idiom/Prepositional Phrase] accidentally; without intending to	por error / por equivocación
 1291A	location	The restaurant is in a convenient [...] near the station.	The restaurant is in a convenient location near the station.	[Noun] a particular place or position	ubicación / lugar
 1292A	clothes	She bought new [...] for her summer vacation.	She bought new clothes for her summer vacation.	[Noun] items worn to cover the body	ropa
 1293A	Indian	We ate delicious [...] food at the new restaurant.	We ate delicious Indian food at the new restaurant.	[Adjective] relating to India or its people	indio / india
@@ -196,7 +194,6 @@
 1296B	promise	She broke her [...] and told my secret to everyone.	She broke her promise and told my secret to everyone.	[Noun] a declaration that one will do or not do something	promesa
 1297A	aware	She was not [...] of the change in schedule.	She was not aware of the change in schedule.	[Adjective] having knowledge or consciousness of a situation	consciente / al tanto
 1298A	neighbor	Our next-door [...] helped us water our garden.	Our next-door neighbor helped us water our garden.	[Noun] a person living near or next to another	vecino / vecina
-1298B	neighborhood	They moved to a safe and peaceful [...] last month.	They moved to a safe and peaceful neighborhood last month.	[Noun] a district or community within a town or city	barrio / vecindario
 1299A	function	The main [...] of the heart is to pump blood.	The main function of the heart is to pump blood.	[Noun] the special purpose or role of a person or thing	función
 1299B	function	The old clock still [...] perfectly after fifty years.	The old clock still functions perfectly after fifty years.	[Verb] to work or operate in a proper way	funcionar / operar
 1300A	bone	He broke a [...] in his arm during the game.	He broke a bone in his arm during the game.	[Noun] a hard piece of tissue forming the skeleton	hueso

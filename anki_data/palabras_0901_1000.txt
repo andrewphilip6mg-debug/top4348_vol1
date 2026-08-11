@@ -25,7 +25,6 @@
 914A	surface	The ice on the [...] of the lake is very thin.	The ice on the surface of the lake is very thin.	[Noun] the top or outside layer of something	superficie
 914B	surface	New evidence has finally [...] in the investigation.	New evidence has finally surfaced in the investigation.	[Verb] to come up from under or out of hiding	salir a la luz / emerger
 915A	purpose	The main [...] of this meeting is to choose a leader.	The main purpose of this meeting is to choose a leader.	[Noun] the goal or reason for an action	propósito / fin
-915B	on purpose	I am sorry, I did not break your toy [...].	I am sorry, I did not break your toy on purpose.	[Idiom] done by choice (opposite of 'by accident')	a propósito / adrede
 916A	exist	Many people believe that ghosts do not really [...].	Many people believe that ghosts do not really exist.	[Verb] to be real or present in the world	existir
 917A	pattern	The doctor noticed a regular [...] in his sleep problems.	The doctor noticed a regular pattern in his sleep problems.	[Noun] a repeated order or sequence	patrón
 917B	pattern	Her new dress has a beautiful flower [...] on it.	Her new dress has a beautiful flower pattern on it.	[Noun] a repeated artistic arrangement of shapes or lines	estampado / diseño

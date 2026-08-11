@@ -110,7 +110,6 @@
 4171A	objection	Does anyone have an [...] to moving the meeting to Friday?	Does anyone have an objection to moving the meeting to Friday?	[Noun] an expression of disagreement or disapproval	objeción / reparo
 4172A	chemistry	She is taking an introductory class in high school [...].	She is taking an introductory class in high school chemistry.	[Noun] the scientific study of substances and their reactions	química
 4172B	chemistry	There was clear [...] between the two main actors on stage.	There was clear chemistry between the two main actors on stage.	[Noun] emotional attraction or connection between people	química / conexión
-4173A	old-fashioned	My grandfather still wears an [...] hat from the sixties.	My grandfather still wears an old-fashioned hat from the sixties.	[Adj] no longer modern or fashionable	anticuado / a la antigua
 4174A	crowded	The morning train was very [...] with daily commuters.	The morning train was very crowded with daily commuters.	[Adj] full of people or things	atestado / concurrido / lleno de gente
 4175A	blast	A cold [...] of wind hit us when we opened the door.	A cold blast of wind hit us when we opened the door.	[Noun] a sudden strong gust of wind or air	ráfaga / soplo
 4175B	blast	Residents heard a loud [...] near the industrial area.	Residents heard a loud blast near the industrial area.	[Noun] a powerful explosion	explosión / estallido

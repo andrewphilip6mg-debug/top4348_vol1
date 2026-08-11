@@ -84,7 +84,6 @@
 2352B	button	Press the green [...] to start the washing machine.	Press the green button to start the washing machine.	[Noun] a small part on a device pushed to operate it	botón / pulsador
 2352C	button up	Make sure to [...] your warm coat before going outside.	Make sure to button up your warm coat before going outside.	[Phrasal Verb] to fasten clothes with buttons	abotonarse / abrocharse
 2353A	bell	The school [...] rang to announce the end of class.	The school bell rang to announce the end of class.	[Noun] a hollow metal device that makes a ringing sound	campana / timbre
-2353B	ring a bell	His name sounds familiar, but it does not [...].	His name sounds familiar, but it does not ring a bell.	[Idiom] to sound vaguely familiar	sonar familiar / sonar de algo
 2354A	rank	He reached the top [...] of captain after ten years in the army.	He reached the top rank of captain after ten years in the army.	[Noun] a official position or grade in a system	rango / grado
 2354B	rank	The university [...] high among European law schools.	The university ranks high among European law schools.	[Verb] to hold or give a particular place in a order	clasificar / figurar en un puesto
 2355A	darkness	We sat together in complete [...] waiting for the power to return.	We sat together in complete darkness waiting for the power to return.	[Noun] the total state of being without light	oscuridad

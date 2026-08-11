@@ -1,0 +1,136 @@
+4001A	strictly	This club is [...] for adults. Kids cannot enter.	This club is strictly for adults. Kids cannot enter.	[Adv] completely or strictly following rules	estrictamente / únicamente
+4002A	partial	The police found a [...] solution to the traffic problem.	The police found a partial solution to the traffic problem.	[Adj] not complete or whole	parcial
+4002B	partial to	I am very [...] to dark chocolate after dinner.	I am very partial to dark chocolate after dinner.	[Idiom] liking something very much	aficionado/a a / tener debilidad por
+4003A	collar	His shirt was tight around his [...].	His shirt was tight around his collar.	[Noun] the part of a shirt around the neck	cuello
+4003B	collar	The dog has a red [...] with its name on it.	The dog has a red collar with its name on it.	[Noun] a leather band around a pet's neck	collar
+4003C	white-collar	He works a [...] job in a downtown office.	He works a white-collar job in a downtown office.	[Adj] relating to office or professional work	de oficina / administrativo
+4003D	blue-collar	Many [...] workers were affected by the factory closure.	Many blue-collar workers were affected by the factory closure.	[Adj] relating to manual or industrial work	obrero / de trabajo manual
+4004A	weed	She pulled every [...] out of her garden yesterday.	She pulled every weed out of her garden yesterday.	[Noun] an unwanted wild plant in a garden	maleza / mala hierba
+4004B	weed out	The company wants to [...] weak candidates quickly.	The company wants to weed out weak candidates quickly.	[Phrasal Verb] to remove unwanted people or things	eliminar / descartar
+4005A	compliance	The company works in full [...] with safety laws.	The company works in full compliance with safety laws.	[Noun] obeying a rule, law, or agreement	cumplimiento / conformidad
+4006A	streak	She noticed a white [...] in her black hair.	She noticed a white streak in her black hair.	[Noun] a long line or mark of a different color	franja / raya
+4006B	streak	Our team won ten games in a row during that winning [...].	Our team won ten games in a row during that winning streak.	[Noun] a series of successes or bad events	racha
+4007A	supposedly	This movie is [...] based on a true story.	This movie is supposedly based on a true story.	[Adv] according to what is believed or thought	supuestamente
+4008A	added	The trip has an [...] cost for lunch.	The trip has an added cost for lunch.	[Adj] extra or additional	adicional / extra
+4009A	builder	The [...] finished making the new roof today.	The builder finished making the new roof today.	[Noun] a person whose job is constructing houses	constructor / albañil
+4010A	glimpse	I caught a quick [...] of the singer behind the stage.	I caught a quick glimpse of the singer behind the stage.	[Noun] a brief or quick look at something	vistazo / destello
+4011A	premise	His whole argument rests on a false [...].	His whole argument rests on a false premise.	[Noun] a statement or idea that forms the basis for reasoning	premisa
+4011B	premises	Smoking is strictly forbidden anywhere on company [...].	Smoking is strictly forbidden anywhere on company premises.	[Noun - Plural] the land and buildings owned by a business	instalaciones / predio
+4012A	specialty	Baking fruit pies is the chef's main [...].	Baking fruit pies is the chef's main specialty.	[Noun] a subject or product someone knows a lot about	especialidad
+4013A	deem	The doctor [...] the patient healthy enough to go home.	The doctor deemed the patient healthy enough to go home.	[Verb] to consider or judge something in a specific way	considerar / juzgar
+4014A	artifact	The museum displayed an ancient gold [...] from Egypt.	The museum displayed an ancient gold artifact from Egypt.	[Noun] an object made by a human, usually historical	artefacto / objeto histórico
+4015A	sneak	He tried to [...] into the house late at night.	He tried to sneak into the house late at night.	[Verb] to move quietly without being seen	colarse / entrar a hurtadillas
+4015B	sneak out	They managed to [...] of the boring meeting early.	They managed to sneak out of the boring meeting early.	[Phrasal Verb] to leave a place secretly	escabullirse / salir a escondidas
+4015C	sneak peek	The director showed us a short [...] at the new film.	The director showed us a short sneak peek at the new film.	[Collocation/Noun] a brief preview of something before official release	avance exclusivo / vistazo previo
+4016A	monkey	A little [...] stole an apple from her bag.	A little monkey stole an apple from her bag.	[Noun] a wild animal with a tail that climbs trees	mono
+4017A	mentor	She asked her senior boss to be her [...].	She asked her senior boss to be her mentor.	[Noun] an experienced person who helps a younger person	mentor / guía
+4018A	two-thirds	Almost [...] of the students passed the test.	Almost two-thirds of the students passed the test.	[Noun/Adj] two equal parts out of three	dos tercios
+4019A	listener	She is a very good [...] when friends have problems.	She is a very good listener when friends have problems.	[Noun] a person who pays attention to what is said	oyente / persona que escucha
+4020A	lightning	A flash of [...] lit up the night sky.	A flash of lightning lit up the night sky.	[Noun] a flash of bright light in the sky during a storm	rayo / relámpago
+4021A	legally	You are not [...] allowed to drive without a license.	You are not legally allowed to drive without a license.	[Adv] according to the law	legalmente
+4022A	sleeve	He wiped his forehead with his shirt [...].	He wiped his forehead with his shirt sleeve.	[Noun] the part of clothing that covers the arm	manga
+4022B	up one's sleeve	The magician had another surprise up his [...].	The magician had another surprise up his sleeve.	[Idiom] kept secret and ready to be used	bajo la manga
+4022C	roll up one's sleeves	We need to [...] and start fixing this big problem.	We need to roll up our sleeves and start fixing this big problem.	[Idiom] to prepare to work hard on a difficult task	arremangarse / ponerse manos a la obra
+4023A	disappointment	The canceled concert was a huge [...] to the fans.	The canceled concert was a huge disappointment to the fans.	[Noun] feeling sad because something was not as expected	decepción / desilusión
+4024A	disturb	Please do not [...] me while I am working.	Please do not disturb me while I am working.	[Verb] to interrupt someone or ruin quietness	molestar / perturbar
+4025A	rib	He broke a [...] when he fell off his bike.	He broke a rib when he fell off his bike.	[Noun] one of the curved bones in the chest	costilla
+4026A	excessive	Drinking an [...] amount of coffee causes bad sleep.	Drinking an excessive amount of coffee causes bad sleep.	[Adj] much more than necessary or reasonable	excesivo
+4027A	high-tech	The modern hospital uses [...] tools for surgery.	The modern hospital uses high-tech tools for surgery.	[Adj] using advanced electronic technology	de alta tecnología
+4028A	debris	Workers cleared the wooden [...] after the storm hit.	Workers cleared the wooden debris after the storm hit.	[Noun] broken pieces left after destruction	escombros / restos
+4029A	rod	He bought a new fishing [...] for the weekend trip.	He bought a new fishing rod for the weekend trip.	[Noun] a thin, straight bar made of metal or wood	barra / varilla / caña
+4030A	logical	Asking for directions was the only [...] choice.	Asking for directions was the only logical choice.	[Adj] sensible and based on clear reasoning	lógico
+4031A	ash	Cigarette [...] fell onto the clean carpet.	Cigarette ash fell onto the clean carpet.	[Noun] grey powder left after something burns	ceniza
+4032A	socially	Some teenagers feel nervous [...] in large crowds.	Some teenagers feel nervous socially in large crowds.	[Adv] in a way related to society or meeting people	socialmente
+4033A	parish	Every Sunday, the local [...] collects food for the poor.	Every Sunday, the local parish collects food for the poor.	[Noun] a local church community	parroquia
+4034A	slavery	Many countries fought long wars to end [...].	Many countries fought long wars to end slavery.	[Noun] the system of owning people as property	esclavitud
+4035A	blank	Please write your full name on a [...] sheet of paper.	Please write your full name on a blank sheet of paper.	[Adj] empty with no writing or markings	en blanco / vacío
+4035B	blank	Fill in the [...] with the correct missing word.	Fill in the blank with the correct missing word.	[Noun] an empty space to be filled in	espacio en blanco / hueco
+4035C	go blank	My mind went completely [...] during the final exam.	My mind went completely blank during the final exam.	[Idiom] to suddenly forget everything	quedarse en blanco
+4036A	commodity	Oil is a very valuable [...] around the world.	Oil is a very valuable commodity around the world.	[Noun] a raw material or product that can be bought	mercancía / materia prima
+4037A	cure	Doctors hope to [...] this common illness soon.	Doctors hope to cure this common illness soon.	[Verb] to make a sick person healthy again	curar
+4037B	cure	There is still no known [...] for the common cold.	There is still no known cure for the common cold.	[Noun] something that makes a sick person healthy	cura / remedio
+4038A	mineral	Fresh vegetables contain important vitamins and [...].	Fresh vegetables contain important vitamins and minerals.	[Noun] a valuable natural substance found in earth or food	mineral
+4039A	hunger	Many children suffer from extreme [...] every day.	Many children suffer from extreme hunger every day.	[Noun] the feeling of needing food	hambre
+4040A	dying	The doctor cared for the [...] man until his last breath.	The doctor cared for the dying man until his last breath.	[Adj] connected with the end of life	moribundo / que se muere
+4041A	developmental	Swimming helps young children with their [...] skills.	Swimming helps young children with their developmental skills.	[Adj] relating to growth or gradual progress	del desarrollo / evolutivo
+4042A	faster	Trains are much [...] than buses during morning rush hour.	Trains are much faster than buses during morning rush hour.	[Adj/Adv] moving or happening at higher speed	más rápido
+4043A	spare	Always keep a [...] key in your bag.	Always keep a spare key in your bag.	[Adj] kept extra to use if needed	de repuesto / de recambio
+4043B	spare	Can you [...] five minutes to help me with this?	Can you spare five minutes to help me with this?	[Verb] to give or share time or money	disponer de / dedicar
+4043C	spare time	I like to read books in my [...] time.	I like to read books in my spare time.	[Collocation] free time	tiempo libre
+4044A	halfway	We stopped for gas [...] through our road trip.	We stopped for gas halfway through our road trip.	[Adv/Adj] at equal distance between two points	a medio camino / a la mitad
+4045A	equality	Men and women deserve complete [...] at work.	Men and women deserve complete equality at work.	[Noun] the state of having the same rights and status	igualdad
+4046A	cemetery	They placed fresh flowers on the grave at the [...].	They placed fresh flowers on the grave at the cemetery.	[Noun] a place where dead people are buried	cementerio
+4047A	harassment	The company has zero tolerance for workplace [...].	The company has zero tolerance for workplace harassment.	[Noun] annoying or threatening behavior towards someone	acoso / hostigamiento
+4048A	deliberately	He [...] broke the dish because he was angry.	He deliberately broke the dish because he was angry.	[Adv] intentionally or on purpose	a propósito / deliberadamente
+4049A	fame	The young actor achieved worldwide [...] after his movie.	The young actor achieved worldwide fame after his movie.	[Noun] the state of being known by many people	fama
+4050A	regret	I [...] telling him about my secret plans.	I regret telling him about my secret plans.	[Verb] to feel sad about a past mistake	arrepentirse de / lamentar
+4050B	regret	She left the company with no [...] at all.	She left the company with no regret at all.	[Noun] a feeling of sadness over a past action	arrepentimiento / lamento
+4051A	striking	She has a [...] similarity to her famous mother.	She has a striking similarity to her famous mother.	[Adj] very noticeable or attractive	llamativo / sorprendente
+4052A	likelihood	There is a high [...] of rain this afternoon.	There is a high likelihood of rain this afternoon.	[Noun] the chance that something will happen	probabilidad
+4053A	carrot	He ate a fresh [...] for a healthy afternoon snack.	He ate a fresh carrot for a healthy afternoon snack.	[Noun] a long orange vegetable growing underground	zanahoria
+4053B	carrot and stick	The manager used a [...] approach to motivate the sales team.	The manager used a carrot and stick approach to motivate the sales team.	[Idiom] a system offering reward and punishment	la política del premio y el castigo / zanahoria y garrote
+4054A	atop	A colorful flag sat [...] the mountain peak.	A colorful flag sat atop the mountain peak.	[Prep] on top of something	encima de / en la cima de
+4055A	toll	Drivers must pay a five-dollar [...] at the bridge.	Drivers must pay a five-dollar toll at the bridge.	[Noun] a fee charged to use a road or bridge	peaje
+4055B	take a toll	Working night shifts can take a heavy [...] on health.	Working night shifts can take a heavy toll on health.	[Idiom] to cause damage or suffering over time	pasar factura / causar mella
+4056A	rim	Salt covered the [...] of her cocktail glass.	Salt covered the rim of her cocktail glass.	[Noun] the outer edge of a round object	borde / llanta
+4057A	embarrassed	He felt [...] when he called his boss by the wrong name.	He felt embarrassed when he called his boss by the wrong name.	[Adj] feeling ashamed or self-conscious in front of others	avergonzado/a
+4058A	fucking	Turn off that [...] music right now!	Turn off that fucking music right now!	[Adj/Adv - Vulgar] used for strong emphasis or expressing anger	maldito / de mierda
+4059A	cling	Wet clothes [...] to your body after swimming.	Wet clothes cling to your body after swimming.	[Verb] to hold onto something very tightly	aferrarse / pegarse
+4059B	cling to	She continues to [...] the hope of finding her ring.	She continues to cling to the hope of finding her ring.	[Phrasal Verb] to refuse to stop believing or hoping	aferrarse a
+4060A	isolated	They live in a small [...] house in the woods.	They live in a small isolated house in the woods.	[Adj] far away from others or single	aislado / solitario
+4061A	blink	The bright lights made him [...] several times.	The bright lights made him blink several times.	[Verb] to quickly close and open both eyes	parpadear
+4061B	in the blink of an eye	The magician disappeared from the stage [...].	The magician disappeared from the stage in the blink of an eye.	[Idiom] in a very short moment or instantly	en un abrir y cerrar de ojos
+4062A	suspicious	The guard noticed a [...] car outside the house.	The guard noticed a suspicious car outside the house.	[Adj] feeling that someone is dishonest or dangerous	sospechoso / desconfiado
+4063A	wheelchair	He uses a [...] to move around the hospital.	He uses a wheelchair to move around the hospital.	[Noun] a chair with wheels used by people who cannot walk	silla de ruedas
+4064A	squad	A special police [...] arrived to handle the emergency.	A special police squad arrived to handle the emergency.	[Noun] a small group working together for a task	escuadrón / equipo
+4065A	eligible	You must be eighteen to be [...] to vote.	You must be eighteen to be eligible to vote.	[Adj] qualified or allowed to do something	elegible / apto/a
+4066A	processor	My laptop has a fast [...] for running games.	My laptop has a fast processor for running games.	[Noun] the central part of a computer that handles data	procesador
+4067A	plunge	Temperatures [...] below zero during the storm.	Temperatures plunged below zero during the storm.	[Verb] to fall or jump quickly into something	desplomarse / caer en picado
+4067B	take the plunge	After months of planning, they decided to [...] and open a shop.	After months of planning, they decided to take the plunge and open a shop.	[Idiom] to decide to do something important or risky	dar el paso / arriesgarse
+4068A	demographic	The show is popular with a young [...] of viewers.	The show is popular with a young demographic of viewers.	[Noun] a particular section of a population	sector demográfico / grupo de población
+4069A	chill	There is a cold [...] in the air this morning.	There is a cold chill in the air this morning.	[Noun] a feeling of coldness	frío / escalofrío
+4069B	chill out	We spent the evening watching movies to [...] after work.	We spent the evening watching movies to chill out after work.	[Phrasal Verb - Informal] to relax completely	relajarse / calmarse
+4070A	refuge	The dark cave provided [...] from the heavy rain.	The dark cave provided refuge from the heavy rain.	[Noun] a place of safety or protection	refugio
+4071A	steer	Use both hands to [...] the car safely.	Use both hands to steer the car safely.	[Verb] to control the direction of a vehicle	maniobrar / conducir / dirigir
+4071B	steer clear of	You should [...] dark alleys at night.	You should steer clear of dark alleys at night.	[Idiom] to avoid someone or something	mantenerse alejado/a de / evitar
+4072A	legislator	The local [...] voted in favor of the new law.	The local legislator voted in favor of the new law.	[Noun] a person who makes or changes laws	legislador/a
+4073A	rally	Thousands of people attended the political [...] yesterday.	Thousands of people attended the political rally yesterday.	[Noun] a large public meeting to support an idea	mitin / manifestación
+4074A	programming	She studied computer [...] at university.	She studied computer programming at university.	[Noun] the act of writing computer code	programación
+4075A	cheer	Fans began to [...] when the team scored a goal.	Fans began to cheer when the team scored a goal.	[Verb] to shout words of encouragement or joy	vitorear / animar
+4075B	cheer up	I bought yellow flowers to [...] her up today.	I bought yellow flowers to cheer her up today.	[Phrasal Verb] to make someone feel happier	alegrar / animar
+4076A	outlet	Plug your computer into the wall [...].	Plug your computer into the wall outlet.	[Noun] a place where electricity is accessed	enchufe / toma de corriente
+4076B	outlet	We bought cheap clothes at the factory [...].	We bought cheap clothes at the factory outlet.	[Noun] a shop selling goods made by a specific brand	tienda de fábrica / outlet
+4076C	outlet	Painting gave her a creative [...] for her emotions.	Painting gave her a creative outlet for her emotions.	[Noun] a way to express strong feelings or energy	vía de escape / desahogo
+4077A	intact	The house remained [...] after the earthquake.	The house remained intact after the earthquake.	[Adj] complete and not damaged	intacto
+4078A	vendor	A street [...] sold hot coffee on the corner.	A street vendor sold hot coffee on the corner.	[Noun] a person who sells things outside	vendedor / comerciante
+4079A	thrive	These green plants [...] in warm weather.	These green plants thrive in warm weather.	[Verb] to grow, develop, or succeed very well	prosperar / florecer
+4080A	peanut	She is allergic to [...] butter.	She is allergic to peanut butter.	[Noun] a small nut that grows underground	cacahuate / maní
+4080B	peanuts	He left his old job because they paid him [...].	He left his old job because they paid him peanuts.	[Noun - Informal] a very small amount of money	una miseria / muy poco dinero
+4081A	chew	Be sure to [...] your food well before swallowing.	Be sure to chew your food well before swallowing.	[Verb] to crush food with teeth before swallowing	masticar
+4081B	chew out	The manager [...] him for missing the deadline.	The manager chewed him out for missing the deadline.	[Phrasal Verb - Informal AmE] to scold someone angrily	regañar / echar una bronca
+4082A	elaborate	She wore an [...] dress to the party.	She wore an elaborate dress to the party.	[Adj] detailed and complicated	elaborado / detallado
+4082B	elaborate on	Could you [...] on your ideas during the meeting?	Could you elaborate on your ideas during the meeting?	[Phrasal Verb] to add more details about something	explayarse sobre / detallar
+4083A	conception	My original [...] of the project was quite simple.	My original conception of the project was quite simple.	[Noun] an idea or understanding of how something is	concepción / noción
+4084A	auction	The old painting was sold at an [...] today.	The old painting was sold at an auction today.	[Noun] a public sale where items go to the highest bidder	subasta
+4085A	steak	He ordered a juicy [...] and fries for dinner.	He ordered a juicy steak and fries for dinner.	[Noun] a thick slice of meat, usually beef	bistec / filete
+4085B	at stake	There are thousands of jobs [...] if the company goes bankrupt.	There are thousands of jobs at stake if the company goes bankrupt.	[Idiom/Homophone] at risk or in danger of being lost	en juego / en riesgo
+4086A	comply	All drivers must [...] with speed limits.	All drivers must comply with speed limits.	[Verb] to obey a rule, order, or request	cumplir / acatar
+4087A	triumph	Winning the trophy was a major [...] for her.	Winning the trophy was a major triumph for her.	[Noun] a great success or victory	triunfo / victoria
+4088A	shareholder	Each [...] received a portion of the company profits.	Each shareholder received a portion of the company profits.	[Noun] an owner of shares in a business	accionista
+4089A	comparable	The two houses are [...] in price and location.	The two houses are comparable in price and location.	[Adj] similar in size, quality, or value	comparable / similar
+4090A	transport	Big trucks [...] goods across the country.	Big trucks transport goods across the country.	[Verb] to move people or goods from one place to another	transportar
+4090B	transport	Public [...] is cheap and fast in this city.	Public transport is cheap and fast in this city.	[Noun] a system for carrying people or goods	transporte
+4091A	conscience	Telling the truth gave him a clear [...].	Telling the truth gave him a clear conscience.	[Noun] the inner sense of right and wrong	conciencia
+4092A	calculation	Double-check your [...] before submitting the bill.	Double-check your calculation before submitting the bill.	[Noun] using numbers to find an amount or answer	cálculo
+4093A	considerably	Prices rose [...] during the cold winter months.	Prices rose considerably during the cold winter months.	[Adv] by a large amount	considerablemente
+4094A	interval	The buses arrive at a regular ten-minute [...].	The buses arrive at a regular ten-minute interval.	[Noun] a period of time between two events	intervalo / pausa
+4095A	scratch	Try not to [...] your mosquito bites.	Try not to scratch your mosquito bites.	[Verb] to rub skin with nails	rascar / rayar
+4095B	scratch	There is a small [...] on my new phone screen.	There is a small scratch on my new phone screen.	[Noun] a thin mark on a surface	rayón / rasguño
+4095C	from scratch	She baked this delicious chocolate cake from [...].	She baked this delicious chocolate cake from scratch.	[Idiom] from the very beginning	desde cero
+4095D	scratch the surface	This introductory lesson only [...] of the subject.	This introductory lesson only scratches the surface of the subject.	[Idiom] to deal with only a small part of a topic	rascar la superficie / abordar superficialmente
+4096A	awake	Noise outside kept me [...] all night.	Noise outside kept me awake all night.	[Adj] not sleeping	despierto/a
+4096B	wide awake	I was [...] at 3 a.m. thinking about the exam.	I was wide awake at 3 a.m. thinking about the exam.	[Collocation] fully awake and alert	completamente despierto/a
+4097A	jurisdiction	The local police have no [...] in this state.	The local police have no jurisdiction in this state.	[Noun] official power to make legal decisions	jurisdicción
+4098A	inevitably	Working long hours will [...] cause exhaustion.	Working long hours will inevitably cause exhaustion.	[Adv] as is certain to happen	inevitablemente
+4099A	feminist	She became an active [...] while studying at college.	She became an active feminist while studying at college.	[Noun] a person who supports equal rights for women	feminista
+4100A	constraint	A time [...] forced us to finish the project early.	A time constraint forced us to finish the project early.	[Noun] something that limits freedom or actions	restricción / limitación

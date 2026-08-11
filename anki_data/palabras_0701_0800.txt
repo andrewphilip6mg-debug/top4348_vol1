@@ -78,7 +78,6 @@
 748A	sex	Please write your [...] on the form, either male or female.	Please write your sex on the form, either male or female.	[Noun] the state of being male or female, typically in biological terms	sexo
 748B	sex	Many young adults learn about safe [...] during their high school health class.	Many young adults learn about safe sex during their high school health class.	[Noun] physical activity between people that is connected with sexual pleasure	sexo / relaciones sexuales
 749A	forward	He took one step [...] to see the stage more clearly.	He took one step forward to see the stage more clearly.	[Adverb] toward the direction that is in front of you	adelante / hacia adelante
-749B	look forward to	I really [...] meeting your family next weekend.	I really look forward to meeting your family next weekend.	[Phrasal Verb] to feel excited about something that is going to happen	tener muchas ganas de / esperar con ansias
 749C	forward	Please [...] that email to me so I can read the attachment.	Please forward that email to me so I can read the attachment.	[Verb] to send a letter or email to a new address or recipient	reenviar
 750A	lawyer	You should talk to a [...] before you sign that contract.	You should talk to a lawyer before you sign that contract.	[Noun] a person whose job is to give advice about the law	abogado/a
 751A	present	There are thirty students [...] in the classroom today.	There are thirty students present in the classroom today.	[Adjective] being in a particular place; existing now	presente
@@ -125,7 +124,6 @@
 773A	station	We arrived at the train [...] just before our train left.	We arrived at the train station just before our train left.	[Noun] a building where trains or buses stop for passengers	estación
 773B	gas station	We stopped at a [...] to fill up the car before our long trip.	We stopped at a gas station to fill up the car before our long trip.	[Noun] a place where fuel or petrol is sold for motor vehicles	estación de servicio / gasolinera
 774A	blue	The sky is bright [...] today without a single white cloud.	The sky is bright blue today without a single white cloud.	[Adjective] having the color of the clear sky on a sunny day	azul
-774B	out of the blue	She called me [...], even though we had not spoken in years.	She called me out of the blue, even though we had not spoken in years.	[Idiom] completely unexpectedly or without any warning	de la nada / de repente / inesperadamente
 774C	blue	He felt a bit [...] because he was spending his birthday alone.	He felt a bit blue because he was spending his birthday alone.	[Adjective - Informal] feeling sad or depressed	triste / deprimido/a
 774D	once in a blue moon	My brother lives in Australia, so we only see him [...].	My brother lives in Australia, so we only see him once in a blue moon.	[Idiom] very rarely or almost never	muy de vez en cuando / cada muerte de obispo
 775A	strategy	The business team developed a new [...] to increase their online sales.	The business team developed a new strategy to increase their online sales.	[Noun] a detailed plan for achieving success in a situation	estrategia
@@ -153,7 +151,6 @@
 787A	various	The store sells books on [...] subjects, like history, science, and art.	The store sells books on various subjects, like history, science, and art.	[Adjective] several different; of many kinds	varios/as / diversos/as
 788A	rather	The movie was [...] long, but it was so exciting that I stayed awake.	The movie was rather long, but it was so exciting that I stayed awake.	[Adverb] to a certain degree; quite or moderately	bastante / un tanto
 788B	rather than	I prefer to walk to work [...] take the crowded bus.	I prefer to walk to work rather than take the crowded bus.	[Preposition] instead of; in place of	en vez de / en lugar de / antes que
-788C	would rather	I [...] stay home and cook than go to a noisy restaurant.	I would rather stay home and cook than go to a noisy restaurant.	[Modal Phrase] to prefer to do one thing instead of another	preferir / preferiría
 789A	laugh	He made a funny joke that made everyone in the room [...].	He made a funny joke that made everyone in the room laugh.	[Verb] to make sounds with your voice to show that you are amused	reír / reírse
 789B	laugh	She has a loud [...] that you can hear from down the hall.	She has a loud laugh that you can hear from down the hall.	[Noun] the sound or act of laughing	risa
 790A	guess	Can you [...] how many jelly beans are inside this jar?	Can you guess how many jelly beans are inside this jar?	[Verb] to give an answer or opinion without being sure of the facts	adivinar / suponer

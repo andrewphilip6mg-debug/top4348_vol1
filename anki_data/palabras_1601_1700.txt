@@ -76,9 +76,6 @@
 1644A	fee	You have to pay an entrance [...] at the park.	You have to pay an entrance fee at the park.	[Noun] money paid for a service or permission	tarifa / cuota / honorarios
 1645A	landscape	The snowy mountains made a beautiful [...].	The snowy mountains made a beautiful landscape.	[Noun] view of natural countryside scenery	paisaje
 1646A	used	He bought a [...] car to save some money.	He bought a used car to save some money.	[Adjective] second-hand or not new	usado / de segunda mano
-1646B	used to	She [...] live near the beach when she was young.	She used to live near the beach when she was young.	[Auxiliary Verb] did something regularly in the past	solía / antes
-1646C	get used to	It took him months to [...] the cold weather.	It took him months to get used to the cold weather.	[Idiom] to become accustomed to something	acostumbrarse a
-1646D	be used to	She [...] waking up early for her new job.	She is used to waking up early for her new job.	[Idiom] to be accustomed to something	estar acostumbrado/a a
 1647A	bowl	I ate a big [...] of soup for lunch.	I ate a big bowl of soup for lunch.	[Noun] round deep dish for food	tazón / bowl / plato hondo
 1648A	equal	Both teams had an [...] number of players.	Both teams had an equal number of players.	[Adjective] same in size, amount, or value	igual / equitativo
 1648B	equal	One plus one will always [...] two.	One plus one will always equal two.	[Verb] to be the same amount or value as	igualar / ser igual a
@@ -117,7 +114,6 @@
 1668A	mirror	She looked in the [...] to check her hair.	She looked in the mirror to check her hair.	[Noun] glass surface that reflects images	espejo
 1668B	mirror	The test results [...] the work we put in.	The test results mirror the work we put in.	[Verb] to reflect or be very similar to something	reflejar / ser el reflejo de
 1669A	tooth	The dentist fixed my sore [...] yesterday.	The dentist fixed my sore tooth yesterday.	[Noun] hard white structure in the mouth for biting	diente / muela
-1669B	sweet tooth	He has a huge [...] and eats candy every afternoon.	He has a huge sweet tooth and eats candy every afternoon.	[Idiom] a strong liking for sweet foods	ser dulcero / tener gusto por los dulces
 1670A	smart	She is a very [...] student who gets top grades.	She is a very smart student who gets top grades.	[Adjective] intelligent or clever	inteligente / listo
 1670B	smart	He wore a [...] suit to his job interview.	He wore a smart suit to his job interview.	[Adjective] neat and stylish in appearance	elegante / bien vestido
 1671A	length	Measure the [...] of the table before buying it.	Measure the length of the table before buying it.	[Noun] distance from one end of something to another	longitud / largo

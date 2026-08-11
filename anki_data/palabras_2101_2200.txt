@@ -123,7 +123,6 @@
 2182A	gentleman	He was a true [...] and opened the door for her.	He was a true gentleman and opened the door for her.	[Noun] a polite, chivalrous, or honorable man	caballero
 2183A	corn	We ate grilled [...] on the cob at the barbecue.	We ate grilled corn on the cob at the barbecue.	[Noun] a yellow cereal plant that yields large grains on a cob	maíz / choclo
 2184A	moon	The full [...] shone bright in the night sky.	The full moon shone bright in the night sky.	[Noun] the natural satellite that orbits the earth	luna
-2184B	once in a blue moon	We only see each other [...].	We only see each other once in a blue moon.	[Idiom] happening very rarely or almost never	de higos a brevas / rara vez
 2185A	inner	She zipped up the [...] pocket of her winter jacket.	She zipped up the inner pocket of her winter jacket.	[Adjective] situated inside or further in	interior / interno/a
 2186A	junior	He recently got a job as a [...] web developer.	He recently got a job as a junior web developer.	[Adjective] holding a lower status in an organization	principiante / de menor rango
 2187A	throat	She has a sore [...] and cannot sing today.	She has a sore throat and cannot sing today.	[Noun] the front part of the neck containing the passage to stomach	garganta

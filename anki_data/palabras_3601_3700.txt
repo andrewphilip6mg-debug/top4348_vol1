@@ -100,7 +100,6 @@
 3663A	mixed	She had [...] feelings about moving to a new city.	She had mixed feelings about moving to a new city.	[Adjective] consisting of different or conflicting elements	mixto / contradictorio
 3663B	mixed signals	He gave her [...] by being friendly one day and cold the next.	He gave her mixed signals by being friendly one day and cold the next.	[Noun] confusing behavior that shows conflicting intentions or feelings	señales contradictorias / señales mixtas
 3664A	opposed	Most members were strongly [...] to the new rule.	Most members were strongly opposed to the new rule.	[Adjective] completely against or disagreeing with	opuesto / en contra
-3664B	as opposed to	We decided to take the train [...] driving in traffic.	We decided to take the train as opposed to driving in traffic.	[Prepositional Phrase] rather than or in contrast with	en lugar de / a diferencia de
 3665A	orbit	The moon completes an [...] around Earth every month.	The moon completes an orbit around Earth every month.	[Noun] the curved path of an object in space	órbita
 3665B	orbit	The satellite will [...] the planet for five full years.	The satellite will orbit the planet for five full years.	[Verb] to move in a curved path around something	orbitar / girar alrededor de
 3666A	grasp	The baby tried to [...] my index finger firmly.	The baby tried to grasp my index finger firmly.	[Verb] to hold something tightly with a hand	agarrar / sujetar
@@ -139,7 +138,6 @@
 3686C	pain in the ass	Fixing that old broken computer was a real [...].	Fixing that old broken computer was a real pain in the ass.	[Idiom - Informal/Vulgar] a person or thing that is very annoying	dolor de cabeza / un verdadero fastidio
 3687A	alongside	A small dog ran [...] its owner during the morning jog.	A small dog ran alongside its owner during the morning jog.	[Preposition/Adverb] next to or by the side of	al lado de / junto a
 3688A	bush	A small bird hid inside the green [...] near our house.	A small bird hid inside the green bush near our house.	[Noun] a low plant with many woody branches	arbusto
-3688B	beat around the bush	Stop trying to [...] and tell me what happened!	Stop trying to beat around the bush and tell me what happened!	[Idiom] to avoid speaking directly about an important topic	andarse con rodeos / andarse por las ramas
 3689A	exotic	They love buying [...] fruits from tropical places at the market.	They love buying exotic fruits from tropical places at the market.	[Adjective] unusual and colorful from a distant foreign land	exótico / exótica
 3690A	fascinating	The museum tour was completely [...] for all the students.	The museum tour was completely fascinating for all the students.	[Adjective] extremely interesting and attractive	fascinante
 3691A	clip	We watched a short news [...] about space travel online.	We watched a short news clip about space travel online.	[Noun] a short extract from a video or film	clip / fragmento / vídeo

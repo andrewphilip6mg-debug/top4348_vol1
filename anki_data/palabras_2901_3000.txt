@@ -114,9 +114,7 @@
 2979A	architect	An experienced [...] designed the new city library.	An experienced architect designed the new city library.	[Noun] a person who plans and designs buildings	arquitecto/a
 2980A	dramatically	Sales increased [...] after the new product launched.	Sales increased dramatically after the new product launched.	[Adverb] in a sudden and impressive manner	dramáticamente / espectacularmente
 2981A	makeup	She put on her [...] before leaving for the party.	She put on her makeup before leaving for the party.	[Noun] cosmetics applied to enhance facial appearance	maquillaje
-2981B	make up	He tried to [...] a funny story to explain his delay.	He tried to make up a funny story to explain his delay.	[Phrasal Verb] to invent an excuse or tale	inventar
 2981C	make up	They had an argument, but they quickly [...].	They had an argument, but they quickly made up.	[Phrasal Verb] to become friendly again after a quarrel	reconciliarse
-2981D	make up for	He bought her flowers to [...] forgetting her birthday.	He bought her flowers to make up for forgetting her birthday.	[Phrasal Verb] to compensate for something lost, damaged, or wrong	compensar / compensar por
 2982A	inquiry	The police launched an [...] into the missing funds.	The police launched an inquiry into the missing funds.	[Noun] an official investigation to establish facts	investigación / consulta
 2983A	rose	He gave his mother a red [...] on her birthday.	He gave his mother a red rose on her birthday.	[Noun] a sweet-smelling flower with sharp thorns	rosa
 2983B	rose	The sun [...] early over the mountains this morning.	The sun rose early over the mountains this morning.	[Verb - Past of rise] moved upward or increased	se levantó / salió / aumentó

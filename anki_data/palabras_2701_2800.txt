@@ -46,7 +46,6 @@
 2727C	standing ovation	The actor received a [...] at the end of the show.	The actor received a standing ovation at the end of the show.	[Noun] prolonged applause from an audience that stands up	ovación de pie
 2728A	asleep	The baby fell [...] right after finishing her milk bottle.	The baby fell asleep right after finishing her milk bottle.	[Adjective] in a state of sleep	dormido/a
 2728B	fall asleep	I usually [...] while listening to soft background music.	I usually fall asleep while listening to soft background music.	[Idiom] to pass into a state of sleep	dormirse
-2728C	fast asleep	When I checked the bedroom, the children were [...].	When I checked the bedroom, the children were fast asleep.	[Collocation/Idiom] sleeping deeply and peacefully	profundamente dormido/a
 2729A	tennis	They play [...] together every Saturday morning.	They play tennis together every Saturday morning.	[Noun] a sport played with rackets and a ball over a net	tenis
 2730A	nerve	The dentist numbed the [...] before fixing my tooth.	The dentist numbed the nerve before fixing my tooth.	[Noun] a body fiber that transmits senses to the brain	nervio
 2730B	nerve	She did not have the [...] to tell him the truth.	She did not have the nerve to tell him the truth.	[Noun - Informal] courage or confidence in a difficult situation	agallas / valentía

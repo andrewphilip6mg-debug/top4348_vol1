@@ -113,7 +113,6 @@
 4083A	conception	My original [...] of the project was quite simple.	My original conception of the project was quite simple.	[Noun] an idea or understanding of how something is	concepción / noción
 4084A	auction	The old painting was sold at an [...] today.	The old painting was sold at an auction today.	[Noun] a public sale where items go to the highest bidder	subasta
 4085A	steak	He ordered a juicy [...] and fries for dinner.	He ordered a juicy steak and fries for dinner.	[Noun] a thick slice of meat, usually beef	bistec / filete
-4085B	at stake	There are thousands of jobs [...] if the company goes bankrupt.	There are thousands of jobs at stake if the company goes bankrupt.	[Idiom/Homophone] at risk or in danger of being lost	en juego / en riesgo
 4086A	comply	All drivers must [...] with speed limits.	All drivers must comply with speed limits.	[Verb] to obey a rule, order, or request	cumplir / acatar
 4087A	triumph	Winning the trophy was a major [...] for her.	Winning the trophy was a major triumph for her.	[Noun] a great success or victory	triunfo / victoria
 4088A	shareholder	Each [...] received a portion of the company profits.	Each shareholder received a portion of the company profits.	[Noun] an owner of shares in a business	accionista
@@ -129,7 +128,6 @@
 4095C	from scratch	She baked this delicious chocolate cake from [...].	She baked this delicious chocolate cake from scratch.	[Idiom] from the very beginning	desde cero
 4095D	scratch the surface	This introductory lesson only [...] of the subject.	This introductory lesson only scratches the surface of the subject.	[Idiom] to deal with only a small part of a topic	rascar la superficie / abordar superficialmente
 4096A	awake	Noise outside kept me [...] all night.	Noise outside kept me awake all night.	[Adj] not sleeping	despierto/a
-4096B	wide awake	I was [...] at 3 a.m. thinking about the exam.	I was wide awake at 3 a.m. thinking about the exam.	[Collocation] fully awake and alert	completamente despierto/a
 4097A	jurisdiction	The local police have no [...] in this state.	The local police have no jurisdiction in this state.	[Noun] official power to make legal decisions	jurisdicción
 4098A	inevitably	Working long hours will [...] cause exhaustion.	Working long hours will inevitably cause exhaustion.	[Adv] as is certain to happen	inevitablemente
 4099A	feminist	She became an active [...] while studying at college.	She became an active feminist while studying at college.	[Noun] a person who supports equal rights for women	feminista

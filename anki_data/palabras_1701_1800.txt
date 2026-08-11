@@ -21,7 +21,6 @@
 1707D	give the benefit of the doubt	I decided to [...] and trust her story.	I decided to give her the benefit of the doubt and trust her story.	[Idiom] to choose to believe someone despite uncertainty	dar el beneficio de la duda
 1708A	grant	The manager decided to [...] his request.	The manager decided to grant his request.	[Verb] to agree to give or allow something	conceder / otorgar
 1708B	grant	She received a [...] to study at university.	She received a grant to study at university.	[Noun] money given by an organization for a specific purpose	subvención / beca
-1708C	take for granted	Do not [...] your good health [...].	Do not take your good health for granted.	[Idiom] to fail to appreciate the value of something	dar por sentado / no valorar
 1709A	seriously	You should take this problem [...].	You should take this problem seriously.	[Adverb] in a thoughtful and solemn manner	en serio / seriamente
 1710A	minister	The Prime [...] spoke on national television today.	The Prime Minister spoke on national television today.	[Noun] a senior member of a government	ministro/a
 1710B	minister	The local [...] gave a sermon on Sunday morning.	The local minister gave a sermon on Sunday morning.	[Noun] a religious leader in a Protestant church	pastor / ministro religioso
@@ -30,7 +29,6 @@
 1713A	industrial	They work in a large [...] zone outside the city.	They work in a large industrial zone outside the city.	[Adjective] relating to factories or manufacturing	industrial
 1714A	cloud	There was not a single [...] in the bright sky.	There was not a single cloud in the bright sky.	[Noun] a white or gray mass floating in the sky	nube
 1714B	cloud	Sad news can [...] your thoughts and judgment.	Sad news can cloud your thoughts and judgment.	[Verb] to make something unclear or difficult to understand	nublar / oscurecer
-1714C	on cloud nine	She was [...] after passing her driving exam.	She was on cloud nine after passing her driving exam.	[Idiom] extremely happy and excited	en las nubes / en el séptimo cielo
 1715A	stretch	You should [...] your muscles before running.	You should stretch your muscles before running.	[Verb] to extend your body or limbs	estirar
 1715B	stretch	This long [...] of road is very dangerous.	This long stretch of road is very dangerous.	[Noun] a continuous area or length of something	tramo / extensión
 1715C	stretch out	He wants to [...] on the sofa and rest.	He wants to stretch out on the sofa and rest.	[Phrasal Verb] to lie down at full length to relax	repanchingarse / estirarse
@@ -65,7 +63,6 @@
 1731B	gray area	Legal rules about the internet can be a [...].	Legal rules about the internet can be a gray area.	[Idiom] a situation that is unclear or lacks strict rules	zona gris / terreno ambiguo
 1732A	dish	Put the clean [...] back on the shelf.	Put the clean dish back on the shelf.	[Noun] a flat container used for serving food	plato / vasija
 1732B	dish	Spaghetti is my favorite Italian [...].	Spaghetti is my favorite Italian dish.	[Noun] food prepared in a specific style	platillo / comida
-1732C	do the dishes	I always [...] after we finish dinner.	I always do the dishes after we finish dinner.	[Idiom] to wash the plates and cookware after a meal	fregar los platos / lavar los platos
 1733A	beach	We walked along the [...] at sunset yesterday.	We walked along the beach at sunset yesterday.	[Noun] a sandy area next to an ocean or lake	playa
 1734A	improvement	Her grades showed a clear [...] this term.	Her grades showed a clear improvement this term.	[Noun] the process or result of getting better	mejora / mejoría
 1735A	everywhere	I searched [...], but I could not find my keys.	I searched everywhere, but I could not find my keys.	[Adverb] in or to all places	en todas partes / por todos lados
@@ -110,7 +107,6 @@
 1761A	abortion	The debate surrounding [...] was held yesterday.	The debate surrounding abortion was held yesterday.	[Noun] the deliberate termination of a pregnancy	aborto
 1762A	apart	The two houses are miles [...].	The two houses are miles apart.	[Adverb] separated by a distance	separado/a / a distancia
 1762B	fall apart	My old shoes are starting to [...].	My old shoes are starting to fall apart.	[Phrasal Verb] to break into pieces or fail	desmoronarse / deshacerse
-1762C	tell apart	The twins look so similar I cannot [...] them [...].	The twins look so similar I cannot tell them apart.	[Phrasal Verb] to recognize the difference between two things or people	diferenciar / distinguir
 1762D	take apart	He decided to [...] the engine to fix it.	He decided to take apart the engine to fix it.	[Phrasal Verb] to disassemble something into pieces	desarmar / desmontar
 1762E	apart from	Everyone arrived on time, [...] John.	Everyone arrived on time, apart from John.	[Idiom] except for or besides	aparte de / excepto
 1763A	witness	The [...] gave details to the police officer.	The witness gave details to the police officer.	[Noun] a person who sees an event happen	testigo
