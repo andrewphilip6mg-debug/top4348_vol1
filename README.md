@@ -7,8 +7,8 @@
   # Top 4348 English Words
 
   ![Tamaño del Repositorio](https://img.shields.io/github/repo-size/andrewphilip6mg-debug/top4348_vol1?color=2ea043&style=for-the-badge&logo=github&cacheSeconds=60)
-  ![Archivos](https://img.shields.io/badge/Archivos-14119-blue?style=for-the-badge&logo=files)
-  ![Carpetas](https://img.shields.io/badge/Carpetas-95-orange?style=for-the-badge&logo=folder)
+  ![Archivos](https://img.shields.io/badge/Archivos-14144-blue?style=for-the-badge&logo=files)
+  ![Carpetas](https://img.shields.io/badge/Carpetas-148-orange?style=for-the-badge&logo=folder)
   ![Palabra Actual](https://img.shields.io/badge/Palabra_Actual-4348-purple?style=for-the-badge&logo=book)
   <br>
   ![Audios](https://img.shields.io/badge/Audios-24.35MB-yellow?style=for-the-badge&logo=applemusic)
