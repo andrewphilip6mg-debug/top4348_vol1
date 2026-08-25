@@ -21,7 +21,7 @@ ID	Word/Phrase	Sentence with [...]	Complete Sentence	Definition/Part of Speech	T
 106A	us	The teacher gave [...] homework.	The teacher gave us homework.	[Pronoun] object form referring to the speaker and other people ('we')	nos / a nosotros
 107A	life	He eats well, so he has a healthy [...].	He eats well, so he has a healthy life.	[Noun] the state of being alive (opposite of 'death')	vida
 108A	child	The adult drinks coffee, but the [...] drinks milk.	The adult drinks coffee, but the child drinks milk.	[Noun] a young human person (opposite of 'adult')	niño / niña
-108B	child	He has no brothers or sisters, so he is an only [...].	He has no brothers or sisters, so he is an only child.	[Noun] a person's son or daughter at any age	hijo / hija
+108B	only child	He has no brothers or sisters, so he is an [...].	He has no brothers or sisters, so he is an only child.	[Noun] a child who has no brothers or sisters	hijo único
 109A	work	I need money, so I must [...].	I need money, so I must work.	[Verb] to do a job or physical effort to earn money	trabajar
 109B	work	I am tired because I have a lot of [...].	I am tired because I have a lot of work.	[Noun] tasks or duties that need to be done	trabajo
 109C	work	My phone is broken, so it doesn't [...].	My phone is broken, so it doesn't work.	[Verb] to operate or run properly	funcionar
@@ -72,18 +72,18 @@ ID	Word/Phrase	Sentence with [...]	Complete Sentence	Definition/Part of Speech	T
 119E	try out	I want to [...] this new fitness program to see if it works.	I want to try out this new fitness program to see if it works.	[Phrasal Verb] to test or experiment with a device, app, or method	probar / testear
 120A	last	This is the end, so it is the [...] page.	This is the end, so it is the last page.	[Adjective] coming after all others at the end (opposite of 'first')	último / última
 120B	last	The battery is full, so it will [...] ten hours.	The battery is full, so it will last ten hours.	[Verb] to continue working or existing for a period of time	durar
-120C	last	We are in Tuesday, so I saw him [...] Monday.	We are in Tuesday, so I saw him last Monday.	[Adjective] most recent in the past before today	pasado / anterior
+120C	last	It is Tuesday, so I saw him [...] Monday.	It is Tuesday, so I saw him last Monday.	[Adjective] most recent in the past before today	pasado / anterior
 120D	at last	After waiting for two hours, the train arrived [...].	After waiting for two hours, the train arrived at last.	[Phrase/Idiom] finally, after a long period of time or effort	por fin / al fin
 121A	ask	I am lost, so I will [...] the police.	I am lost, so I will ask the police.	[Verb] to put a sentence to someone to get information	preguntar
 121B	ask for	I am at the restaurant, so I will [...] the menu.	I am at the restaurant, so I will ask for the menu.	[Verb] to say that you want someone to give you something	pedir / solicitar
-121C	ask out	He really likes her, so he wants to [...] his crush.	He really likes her, so he wants to ask out his crush.	[Phrasal Verb] to invite someone to go to a place on a romantic date	invitar a salir
+121C	ask out	He really likes her, so he wants to [...] his crush [...].	He really likes her, so he wants to ask his crush out.	[Phrasal Verb] to invite someone to go to a place on a romantic date	invitar a salir
 121D	ask around	I don't know where the bank is, so I will [...].	I don't know where the bank is, so I will ask around.	[Phrasal Verb] to ask several people for information or help	preguntar a varias personas
 122A	need	I am thirsty, so I [...] water.	I am thirsty, so I need water.	[Verb] to must have something because it is necessary	necesitar
 122B	need	The hospital is full because there is a [...] for more doctors.	The hospital is full because there is a need for more doctors.	[Noun] a situation where something is necessary	necesidad
 123A	too	I cannot drink this because the coffee is [...] hot.	I cannot drink this because the coffee is too hot.	[Adverb] more than is good, necessary, or wanted	demasiado
 123B	too	We need two tickets because my friend is coming [...].	We need two tickets because my friend is coming too.	[Adverb] as well, in addition to someone else	también
 124A	feel	I failed the test, so I [...] sad.	I failed the test, so I feel sad.	[Verb] to experience an emotion or mental state	sentirse
-124B	feel	The weather is cold, so I [...] freezing.	The weather is cold, so I feel freezing.	[Verb] to experience a physical sense of touch or temperature	sentir
+124B	feel	The weather is cold, so I [...] cold.	The weather is cold, so I feel cold.	[Verb] to experience a physical sense of touch or temperature	sentir
 124C	feel like	I am craving fast food, so I [...] eating a burger.	I am craving fast food, so I feel like eating a burger.	[Phrase] to want or desire to do something at this moment	tener ganas de / apetecer
 124D	feel free to	If you have questions, please [...] ask.	If you have questions, please feel free to ask.	[Phrase] used to give enthusiastic permission to do something	sentirse libre de / con la confianza de
 124E	feel under the weather	I think I am catching a cold, so I [...].	I think I am catching a cold, so I feel under the weather.	[Idiom] to feel slightly unwell or sick	sentirse indispuesto / algo enfermo
@@ -155,7 +155,7 @@ ID	Word/Phrase	Sentence with [...]	Complete Sentence	Definition/Part of Speech	T
 145A	why	I don't know [...] he left.	I don't know why he left.	[Adverb] used to ask or explain the reason for something	por qué
 145B	that's why	He studied hard for weeks, and [...] he got an A.	He studied hard for weeks, and that's why he got an A.	[Phrase] for that specific reason	por eso / esa es la razón
 146A	let	The dog wants to go out, so please [...] him outside.	The dog wants to go out, so please let him outside.	[Verb] to give permission or enable someone to do something	dejar / permitir
-146B	let down	I trusted you with this secret, so please do not [...] your friend.	I trusted you with this secret, so please do not let down your friend.	[Phrasal Verb] to fail to support someone or fail to meet expectations	decepcionar / defraudar
+146B	let down	I trusted you with this secret, so please do not [...] me [...].	I trusted you with this secret, so please do not let me down.	[Phrasal Verb] to fail to support someone or fail to meet expectations	decepcionar / defraudar
 146C	let go	Don't [...] of the balloon or it will fly away.	Don't let go of the balloon or it will fly away.	[Phrasal Verb] to stop holding something / release control	soltar / dejar ir
 146D	let in	Open the door to [...] the fresh air.	Open the door to let in the fresh air.	[Phrasal Verb] to allow someone or something to enter a place	dejar entrar
 146E	let alone	He cannot run one kilometer, [...] a marathon.	He cannot run one kilometer, let alone a marathon.	[Phrase] used to emphasize that an even more extreme thing is impossible	y mucho menos / peor aún
@@ -212,7 +212,7 @@ ID	Word/Phrase	Sentence with [...]	Complete Sentence	Definition/Part of Speech	T
 161H	on the other hand	I love living in the city; [...], it is very noisy.	I love living in the city; on the other hand, it is very noisy.	[Phrase] used to introduce a contrasting opinion or fact	por otro lado / en cambio
 161I	hand in hand	Poverty and lack of education often go [...].	Poverty and lack of education often go hand in hand.	[Phrase] closely connected or happening together	de la mano / muy vinculados
 161J	in good hands	Your car is [...] with our experienced mechanic.	Your car is in good hands with our experienced mechanic.	[Phrase] managed or cared for by a reliable person	en buenas manos
-161K	off the top of my head	I can't give you exact numbers [...], but I'd guess fifty.	I can't give you exact numbers off the top of my head, but I'd guess fifty.	[Idiom C1] from memory or spontaneous thought without checking data	a botapronto / de memoria
+161K	off the top of my head	I can't give you exact numbers [...], but I'd guess fifty.	I can't give you exact numbers off the top of my head, but I'd guess fifty.	[Idiom C1] from memory or spontaneous thought without checking data	a bote pronto / de memoria
 161L	have the upper hand	In salary negotiations, experienced candidates usually [...].	In salary negotiations, experienced candidates usually have the upper hand.	[Idiom C1] to have an advantage or control over a situation	tener la ventaja / llevar las de ganar
 162A	might	It [...] rain tomorrow.	It might rain tomorrow.	[Modal Verb] used to express a small possibility that something will happen	podría / tal vez
 162B	might	The door was stuck, so he pushed it with all his [...].	The door was stuck, so he pushed it with all his might.	[Noun] great physical strength or power	fuerza / poder
@@ -289,7 +289,7 @@ ID	Word/Phrase	Sentence with [...]	Complete Sentence	Definition/Part of Speech	T
 183H	run into	I didn't expect him, but I happened to [...] an old friend.	I didn't expect him, but I happened to run into an old friend.	[Phrasal Verb] to meet someone unexpectedly without planning	encontrarse con / toparse con
 183I	run over	Drive carefully so you don't [...] any wild animals.	Drive carefully so you don't run over any wild animals.	[Phrasal Verb] to hit and drive over someone or something with a vehicle	atropellar
 183J	run out of	We had to stop driving because we [...] gas.	We had to stop driving because we ran out of gas.	[Phrasal Verb] to exhaust the supply of a necessary item	quedarse sin (algo)
-183K	run low on	We should buy paper soon because we are [...] printer ink.	We should buy paper soon because we are running low on printer ink.	[Phrase] to have only a small remaining amount of something	estar escaso de / quedarse con poco
+183K	run low on	We should buy ink soon because we are [...] printer ink.	We should buy ink soon because we are running low on printer ink.	[Phrase] to have only a small remaining amount of something	estar escaso de / quedarse con poco
 183L	in the long run	Investing in education pays off [...].	Investing in education pays off in the long run.	[Idiom] over a extended period of time in the future	a la larga / a largo plazo
 183M	run through	Let's [...] the presentation one more time before the meeting.	Let's run through the presentation one more time before the meeting.	[Phrasal Verb] to rehearse, review, or practice something quickly	repasar / ensayar
 183N	run-of-the-mill	It wasn't an extraordinary movie, just a [...] thriller.	It wasn't an extraordinary movie, just a run-of-the-mill thriller.	[Idiom/Adjective C1] ordinary, average, showing no special qualities	corriente / del montón
