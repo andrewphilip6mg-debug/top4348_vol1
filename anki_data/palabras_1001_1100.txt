@@ -19,7 +19,7 @@
 1012A	release	The guards will [...] the prisoner tomorrow morning.	The guards will release the prisoner tomorrow morning.	[Verb] to let a person or animal go free	liberar / soltar
 1012B	release	The band announced the [...] of their new album.	The band announced the release of their new album.	[Noun] the act of making a new product or movie available	lanzamiento / estreno
 1013A	bird	A small blue [...] was singing on the tree branch.	A small blue bird was singing on the tree branch.	[Noun] an animal with feathers and wings that lays eggs	pájaro / ave
-1013B	early bird	[...] catches the worm.	The early bird catches the worm.	[Idiom] a person who gets up or arrives early (opposite of 'night owl') - original proverb	madrugador/a
+1013B	early bird	[...] catches the worm.	The early bird catches the worm.	[Proverb] if you arrive or act early, you get the advantage	madrugador/a - al que madruga, Dios le ayuda
 1013C	kill two birds with one stone	I can [...] by going to the bank on my way to work.	I can kill two birds with one stone by going to the bank on my way to work.	[Idiom] to complete two tasks with a single action	matar dos pájaros de un tiro
 1014A	opinion	In my [...], this movie is much better than the first one.	In my opinion, this movie is much better than the first one.	[Noun] a personal thought or belief about something	opinión
 1015A	credit	The store gave her [...] so she could pay next month.	The store gave her credit so she could pay next month.	[Noun] an agreement to buy things now and pay later	crédito
@@ -52,7 +52,7 @@
 1029C	hurt	She was deeply [...] when her friends forgot her birthday.	She was deeply hurt when her friends forgot her birthday.	[Adjective] feeling emotional pain or sadness	dolido/a / herido/a
 1030A	species	There are many different [...] of birds living in this park.	There are many different species of birds living in this park.	[Noun] a group of animals or plants that are similar	especie / especies
 1031A	immediately	Call an ambulance because we need help [...].	Call an ambulance because we need help immediately.	[Adverb] right away, without waiting	inmediatamente
-1032A	track	The train ran off the [...] during the storm.	The train ran off the tracks during the storm.	[Noun] parallel metal rails for trains	vía / riel
+1032A	track	The train ran off the [...] during the storm.	The train ran off the tracks during the storm.	[Noun] parallel metal rails that trains run on (usually plural: tracks)	vía / riel
 1032B	keep track of	It is hard to [...] all your daily expenses.	It is hard to keep track of all your daily expenses.	[Idiom] to record or stay informed about changing facts	llevar la cuenta de / llevar un registro de
 1032C	lose track of	I always [...] time when I play video games.	I always lose track of time when I play video games.	[Idiom] to stop being aware of time, numbers, or facts	perder la noción del tiempo
 1032D	track	You can use this app to [...] your daily running distance.	You can use this app to track your daily running distance.	[Verb] to follow the progress or movement of something	rastrear / seguir
