@@ -11,8 +11,8 @@
   ![Carpetas](https://img.shields.io/badge/Carpetas-148-orange?style=for-the-badge&logo=folder)
   ![Palabra Actual](https://img.shields.io/badge/Palabra_Actual-4348-purple?style=for-the-badge&logo=book)
   <br>
-  ![Audios](https://img.shields.io/badge/Audios-32.37MB-yellow?style=for-the-badge&logo=applemusic)
-  ![Imágenes](https://img.shields.io/badge/Imágenes-217.01MB-success?style=for-the-badge&logo=image)
+  ![Audios](https://img.shields.io/badge/Audios-33.27MB-yellow?style=for-the-badge&logo=applemusic)
+  ![Imágenes](https://img.shields.io/badge/Imágenes-233.53MB-success?style=for-the-badge&logo=image)
   <br>
   ![Progreso](https://img.shields.io/badge/PROGRESO-████████████████████_100%25-2ea043?style=for-the-badge)
 
