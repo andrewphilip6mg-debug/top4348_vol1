@@ -1,167 +1,173 @@
-1701A	pour	Please [...] some fresh water into my glass.	Please pour some fresh water into my glass.	[Verb] to make a liquid flow from a container	servir / verter
-1701B	pour	It started to [...] heavily as soon as we left.	It started to pour heavily as soon as we left.	[Verb] to rain hard	llover a cántaros / diluviar
-1701C	pour out	She [...] her feelings to her best friend.	She poured out her feelings to her best friend.	[Phrasal Verb] to express strong thoughts or emotions freely	desahogarse / expresar libremente
-1702A	stir	Use a wooden spoon to [...] the warm soup.	Use a wooden spoon to stir the warm soup.	[Verb] to mix a liquid using a spoon	remover / mezclar
-1702B	stir	The baby did not [...] during the whole night.	The baby did not stir during the whole night.	[Verb] to move slightly	moverse / agitarse
-1702C	stir up	He always tries to [...] trouble among his coworkers.	He always tries to stir up trouble among his coworkers.	[Phrasal Verb] to provoke or cause bad feelings	provocar / instigar
-1703A	judgment	You need to trust your own [...] on this matter.	You need to trust your own judgment on this matter.	[Noun] an opinion or decision formed after careful thought	juicio / criterio
-1703B	pass judgment	It is unfair to [...] on people you do not know well.	It is unfair to pass judgment on people you do not know well.	[Idiom] to criticize or express a strong decision about someone	juzgar / emitir un juicio
-1704A	beer	He drank a cold [...] after a long day at work.	He drank a cold beer after a long day at work.	[Noun] an alcoholic drink made from grain	cerveza
-1705A	reference	The speaker made a [...] to the new rule.	The speaker made a reference to the new rule.	[Noun] a mention of something or someone	mención / referencia
-1705B	reference	She asked her previous manager for a job [...].	She asked her previous manager for a job reference.	[Noun] a letter or statement about someone's character or ability	referencia laboral / recomendación
-1705C	for future reference	Keep this document in your folder [...].	Keep this document in your folder for future reference.	[Idiom] for use or info in the future	para futura referencia / para tener en cuenta
-1706A	tear	A single [...] rolled down her cheek.	A single tear rolled down her cheek.	[Noun] a drop of liquid from the eye	lágrima
-1706B	tear	Be careful not to [...] the sheet of paper.	Be careful not to tear the sheet of paper.	[Verb] to pull something apart into pieces	romper / rasgar
-1706C	tear up	She decided to [...] the old letters.	She decided to tear up the old letters.	[Phrasal Verb] to rip paper or cloth into small pieces	romper en pedazos / despedazar
-1706D	tear down	The city plans to [...] the old factory next month.	The city plans to tear down the old factory next month.	[Phrasal Verb] to demolish a building or structure	derribar / demoler
-1706E	in tears	She was [...] after hearing the sad news.	She was in tears after hearing the sad news.	[Idiom] crying or weeping	en lágrimas / llorando
-1707A	doubt	I have no [...] that he will pass the test.	I have no doubt that he will pass the test.	[Noun] a feeling of not being certain	duda
-1707B	doubt	I [...] that she will arrive on time today.	I doubt that she will arrive on time today.	[Verb] to feel uncertain about something	dudar
-1707C	no doubt	There is [...] that this is the best decision.	There is no doubt that this is the best decision.	[Idiom] used to emphasize that something is certainly true	sin duda alguna / indudablemente
-1707D	give the benefit of the doubt	I decided to [...] and trust her story.	I decided to give her the benefit of the doubt and trust her story.	[Idiom] to choose to believe someone despite uncertainty	dar el beneficio de la duda
-1708A	grant	The manager decided to [...] his request.	The manager decided to grant his request.	[Verb] to agree to give or allow something	conceder / otorgar
-1708B	grant	She received a [...] to study at university.	She received a grant to study at university.	[Noun] money given by an organization for a specific purpose	subvención / beca
-1709A	seriously	You should take this problem [...].	You should take this problem seriously.	[Adverb] in a thoughtful and solemn manner	en serio / seriamente
-1710A	minister	The Prime [...] spoke on national television today.	The Prime Minister spoke on national television today.	[Noun] a senior member of a government	ministro/a
-1710B	minister	The local [...] gave a sermon on Sunday morning.	The local minister gave a sermon on Sunday morning.	[Noun] a religious leader in a Protestant church	pastor / ministro religioso
-1711A	totally	I [...] forgot about our meeting this morning.	I totally forgot about our meeting this morning.	[Adverb] completely or fully	totalmente / por completo
-1712A	hero	The brave firefighter was treated as a [...].	The brave firefighter was treated as a hero.	[Noun] a person admired for great courage or achievements	héroe / heroína
-1713A	industrial	They work in a large [...] zone outside the city.	They work in a large industrial zone outside the city.	[Adjective] relating to factories or manufacturing	industrial
-1714A	cloud	There was not a single [...] in the bright sky.	There was not a single cloud in the bright sky.	[Noun] a white or gray mass floating in the sky	nube
-1714B	cloud	Sad news can [...] your thoughts and judgment.	Sad news can cloud your thoughts and judgment.	[Verb] to make something unclear or difficult to understand	nublar / oscurecer
-1715A	stretch	You should [...] your muscles before running.	You should stretch your muscles before running.	[Verb] to extend your body or limbs	estirar
-1715B	stretch	This long [...] of road is very dangerous.	This long stretch of road is very dangerous.	[Noun] a continuous area or length of something	tramo / extensión
-1715C	stretch out	He wants to [...] on the sofa and rest.	He wants to stretch out on the sofa and rest.	[Phrasal Verb] to lie down at full length to relax	repanchingarse / estirarse
-1716A	winner	The [...] of the game received a nice trophy.	The winner of the game received a nice trophy.	[Noun] a person or team that succeeds in a competition	ganador/a
-1717A	volume	Please turn down the [...] on the television.	Please turn down the volume on the television.	[Noun] the amount of sound produced by a device	volumen
-1717B	volume	The big tank holds a large [...] of liquid.	The big tank holds a large volume of liquid.	[Noun] the amount of space occupied by something	volumen / cantidad
-1718A	seed	She planted an apple [...] in the small pot.	She planted an apple seed in the small pot.	[Noun] a small object produced by a plant to grow new plants	semilla
-1719A	surprised	I was very [...] to see him at the party.	I was very surprised to see him at the party.	[Adjective] feeling wonder because of an unexpected event	sorprendido/a
-1720A	fashion	Her clothes are always in [...].	Her clothes are always in fashion.	[Noun] a popular style of clothing or behavior	moda
-1720B	old-fashioned	My grandfather has some very [...] ideas.	My grandfather has some very old-fashioned ideas.	[Adjective] not modern or no longer common	anticuado/a / a la antigua
-1720C	in a timely fashion	Please submit the final report [...].	Please submit the final report in a timely fashion.	[Phrase] within a reasonable or required time limit	de manera oportuna / a tiempo
-1721A	pepper	Add a little salt and [...] to the dish.	Add a little salt and pepper to the dish.	[Noun] a dark powder used to flavor food	pimienta
-1721B	pepper	I added a red [...] to the green salad.	I added a red pepper to the green salad.	[Noun] a hollow red, green, or yellow vegetable	pimiento
-1722A	busy	I am too [...] to talk on the phone right now.	I am too busy to talk on the phone right now.	[Adjective] having a lot of work or activity to do	ocupado/a
-1723A	intervention	The police made a quick [...] to stop the fight.	The police made a quick intervention to stop the fight.	[Noun] action taken to improve or control a situation	intervención
-1724A	copy	Can you print a [...] of this document?	Can you print a copy of this document?	[Noun] a duplicate of an original thing	copia
-1724B	copy	Do not [...] your classmate's work during tests.	Do not copy your classmate's work during tests.	[Verb] to reproduce or imitate something	copiar
-1725A	tip	He gave me a useful [...] for the interview.	He gave me a useful tip for the interview.	[Noun] a small piece of practical advice	consejo / tip
-1725B	tip	We left a generous [...] for the driver.	We left a generous tip for the driver.	[Noun] extra money given to a service worker	propina
-1725C	tip	The pointed [...] of my pencil broke off.	The pointed tip of my pencil broke off.	[Noun] the end or extremity of a long object	punta
-1725D	tip over	Be careful not to [...] the glass of water [...].	Be careful not to tip the glass of water over.	[Phrasal Verb] to spill or knock something to the side	volcar / derramar
-1725E	tip of the iceberg	This small problem is just the [...].	This small problem is just the tip of the iceberg.	[Idiom] a tiny visible part of a much larger problem	la punta del iceberg
-1726A	cheap	This hotel room is clean and very [...].	This hotel room is clean and very cheap.	[Adjective] costing little money	barato/a
-1726B	cheap shot	Making fun of his weight was a [...].	Making fun of his weight was a cheap shot.	[Idiom] an unfair or unkind attack or insult	un golpe bajo / un ataque cobarde
-1727A	aim	My main [...] is to speak English fluently.	My main aim is to speak English fluently.	[Noun] a goal or purpose	objetivo / meta
-1727B	aim	The soldier [...] at the target before firing.	The soldier aimed at the target before firing.	[Verb] to point a weapon or object toward a target	apuntar
-1728A	cite	You must [...] your sources in the final essay.	You must cite your sources in the final essay.	[Verb] to quote or mention something as authority	citar / mencionar
-1729A	welfare	The government cares about child [...].	The government cares about child welfare.	[Noun] the health, happiness, and safety of a person or group	bienestar
-1729B	welfare	He receives monthly [...] payments from the state.	He receives monthly welfare payments from the state.	[Noun] financial help given by the government to needy people	ayuda social / subsidio
-1730A	vegetable	Eating a fresh [...] every day is good for health.	Eating a fresh vegetable every day is good for health.	[Noun] a plant cultivated for food	vegetal / verdura
-1731A	gray	He wore a dark [...] coat to the office.	He wore a dark gray coat to the office.	[Adjective] having a color between black and white	gris
-1731B	gray area	Legal rules about the internet can be a [...].	Legal rules about the internet can be a gray area.	[Idiom] a situation that is unclear or lacks strict rules	zona gris / terreno ambiguo
-1732A	dish	Put the clean [...] back on the shelf.	Put the clean dish back on the shelf.	[Noun] a flat container used for serving food	plato / vasija
-1732B	dish	Spaghetti is my favorite Italian [...].	Spaghetti is my favorite Italian dish.	[Noun] food prepared in a specific style	platillo / comida
-1733A	beach	We walked along the [...] at sunset yesterday.	We walked along the beach at sunset yesterday.	[Noun] a sandy area next to an ocean or lake	playa
-1734A	improvement	Her grades showed a clear [...] this term.	Her grades showed a clear improvement this term.	[Noun] the process or result of getting better	mejora / mejoría
-1735A	everywhere	I searched [...], but I could not find my keys.	I searched everywhere, but I could not find my keys.	[Adverb] in or to all places	en todas partes / por todos lados
-1736A	opening	There is a small [...] in the wooden fence.	There is a small opening in the wooden fence.	[Noun] an open space or hole that allows entry	abertura / hueco / grieta
-1736B	opening	Our team has an [...] for a sales manager.	Our team has an opening for a sales manager.	[Noun] an available job or position	vacante / puesto disponible
-1737A	overall	The [...] cost of the trip was very low.	The overall cost of the trip was very low.	[Adjective] taking everything into account	general / total
-1738A	divide	Let us [...] the pizza into eight slices.	Let us divide the pizza into eight slices.	[Verb] to separate something into parts	dividir / separar
-1739A	initial	My [...] thought was to decline the offer.	My initial thought was to decline the offer.	[Adjective] happening at the beginning	inicial
-1739B	initial	Write your first [...] on the document page.	Write your first initial on the document page.	[Noun] the first letter of a name	inicial (letra)
-1740A	terrible	I made a [...] mistake on the math exam.	I made a terrible mistake on the math exam.	[Adjective] extremely bad or unpleasant	terrible / pésimo/a
-1741A	oppose	Many citizens [...] the new local government tax.	Many citizens oppose the new local government tax.	[Verb] to disagree with or fight against something	oponerse a
-1741B	as opposed to	He bought a bicycle, [...] an expensive car.	He bought a bicycle, as opposed to an expensive car.	[Idiom] in contrast with or rather than	en lugar de / a diferencia de
-1742A	contemporary	She enjoys studying modern and [...] art.	She enjoys studying modern and contemporary art.	[Adjective] belonging to the present period	contemporáneo/a
-1743A	route	Which [...] is the fastest to the train station?	Which route is the fastest to the train station?	[Noun] a way or course taken to reach a place	ruta / camino
-1744A	multiple	He received [...] offers after finishing his degree.	He received multiple offers after finishing his degree.	[Adjective] having or involving several parts or units	múltiple / varios/as
-1745A	essential	Water is [...] for the survival of living things.	Water is essential for the survival of living things.	[Adjective] completely necessary or vital	esencial / fundamental
-1746A	league	Their team won the local soccer [...].	Their team won the local soccer league.	[Noun] an association of sports teams	liga
-1746B	out of your league	She is so smart that she is [...].	She is so smart that she is out of your league.	[Idiom] too good or advanced for someone to attain	fuera de tu alcance / fuera de tu liga
-1747A	criminal	The police finally caught the dangerous [...].	The police finally caught the dangerous criminal.	[Noun] a person who has committed a crime	criminal / delincuente
-1747B	criminal	He faces serious [...] charges after the investigation.	He faces serious criminal charges after the investigation.	[Adjective] relating to crime or lawbreaking	criminal / penal
-1748A	careful	Please be [...] when walking on ice.	Please be careful when walking on ice.	[Adjective] taking care to avoid danger or error	cuidadoso/a / tener cuidado
-1749A	core	Honesty is the [...] of our team values.	Honesty is the core of our team values.	[Noun] the central and most important part	núcleo / centro / base
-1749B	core	She threw the apple [...] into the bin.	She threw the apple core into the bin.	[Noun] the central part of a fruit containing seeds	corazón (de fruta) / centro
-1750A	upper	Her room is located on the [...] floor.	Her room is located on the upper floor.	[Adjective] situated higher than another part	superior / de arriba
-1750B	upper hand	Our team gained the [...] late in the game.	Our team gained the upper hand late in the game.	[Idiom] a position of advantage or control	la ventaja / la delantera
-1751A	rush	I had to [...] to catch the morning train.	I had to rush to catch the morning train.	[Verb] to move or act with great speed	apresurarse / correr
-1751B	rush	There was a sudden [...] for cheap tickets.	There was a sudden rush for cheap tickets.	[Noun] a period of sudden intense activity	prisa / aglomeración
-1751C	rush hour	Traffic is always heavy during [...] in the city.	Traffic is always heavy during rush hour in the city.	[Idiom] peak travel time when streets are busiest	hora punta / hora pico
-1752A	necessarily	Expensive things are not [...] better than cheap ones.	Expensive things are not necessarily better than cheap ones.	[Adverb] as an unavoidable result or rule	necesariamente
-1753A	specifically	This book was [...] written for beginners.	This book was specifically written for beginners.	[Adverb] in a precise and explicit manner	específicamente
-1754A	tired	I felt very [...] after walking all day.	I felt very tired after walking all day.	[Adjective] needing rest or sleep	cansado/a
-1754B	tired of	I am [...] listening to his constant excuses.	I am tired of listening to his constant excuses.	[Idiom] feeling bored or annoyed by something repetitive	harto/a de / cansado/a de
-1755A	employ	The company plans to [...] ten new workers.	The company plans to employ ten new workers.	[Verb] to give work to someone for payment	emplear / contratar
-1756A	holiday	New Year's Day is a national [...].	New Year's Day is a national holiday.	[Noun] a day off work to celebrate an event	día festivo / feriado
-1756B	holiday	We are going on [...] next month.	We are going on holiday next month.	[Noun] a period of leisure time spent away	vacaciones
-1757A	vast	The desert is a [...] and empty area.	The desert is a vast and empty area.	[Adjective] extremely large in size or extent	vasto/a / enorme
-1758A	resolution	My New Year's [...] is to exercise more.	My New Year's resolution is to exercise more.	[Noun] a firm promise made to oneself	propósito / resolución
-1758B	resolution	We hope for a quick [...] to the conflict.	We hope for a quick resolution to the conflict.	[Noun] the action of solving a problem or dispute	resolución / solución
-1759A	household	Almost every [...] in the town owns a car.	Almost every household in the town owns a car.	[Noun] a house and all the people living in it	hogar / casa / familia
-1759B	household name	The famous actor became a [...] after that movie.	The famous actor became a household name after that movie.	[Idiom] a person or thing that is well known by everyone	nombre muy conocido / nombre famoso
-1760A	fewer	There are [...] students in class today.	There are fewer students in class today.	[Determiner] a smaller number of countable items	menos
-1761A	abortion	The debate surrounding [...] was held yesterday.	The debate surrounding abortion was held yesterday.	[Noun] the deliberate termination of a pregnancy	aborto
-1762A	apart	The two houses are miles [...].	The two houses are miles apart.	[Adverb] separated by a distance	separado/a / a distancia
-1762B	fall apart	My old shoes are starting to [...].	My old shoes are starting to fall apart.	[Phrasal Verb] to break into pieces or fail	desmoronarse / deshacerse
-1762D	take apart	He decided to [...] the engine to fix it.	He decided to take apart the engine to fix it.	[Phrasal Verb] to disassemble something into pieces	desarmar / desmontar
-1762E	apart from	Everyone arrived on time, [...] John.	Everyone arrived on time, apart from John.	[Idiom] except for or besides	aparte de / excepto
-1763A	witness	The [...] gave details to the police officer.	The witness gave details to the police officer.	[Noun] a person who sees an event happen	testigo
-1763B	witness	Did anyone [...] the accident on the main road?	Did anyone witness the accident on the main road?	[Verb] to see an event happen with one's eyes	presenciar / ver
-1764A	match	We watched a great tennis [...] yesterday afternoon.	We watched a great tennis match yesterday afternoon.	[Noun] a contest or game between sports players	partido / encuentro
-1764B	match	Your shoes [...] your coat very well.	Your shoes match your coat very well.	[Verb] to correspond or harmonize with something	combinar con / hacer juego
-1764C	match	He struck a [...] to light the fire.	He struck a match to light the fire.	[Noun] a small wooden stick used to make fire	fósforo / cerilla
-1764D	meet your match	The champion finally [...] in yesterday's final game.	The champion finally met his match in yesterday's final game.	[Idiom] to encounter someone equal in skill or ability	encontrar la horma de su zapato
-1765A	barely	I could [...] hear what the teacher said.	I could barely hear what the teacher said.	[Adverb] almost not or only just	apenas / casi no
-1766A	sector	She works in the public [...] as a teacher.	She works in the public sector as a teacher.	[Noun] a distinct part of an economy or society	sector
-1767A	representative	She is a sales [...] for a big company.	She is a sales representative for a big company.	[Noun] a person chosen to act for others	representante / agente
-1768A	beneath	The cat was sleeping [...] the dark wooden table.	The cat was sleeping beneath the dark wooden table.	[Preposition] in or to a lower position than	debajo de / bajo
-1769A	beside	She sat [...] her friend during the whole presentation.	She sat beside her friend during the whole presentation.	[Preposition] at the side of or next to	al lado de / junto a
-1769B	beside the point	His age is [...]. He is qualified for the job.	His age is beside the point. He is qualified for the job.	[Idiom] irrelevant to the matter being discussed	fuera de lugar / irrelevante
-1770A	incident	The police reported a small [...] in the park.	The police reported a small incident in the park.	[Noun] an event, especially one that is unusual or unpleasant	incidente / suceso
-1771A	limited	We have a [...] amount of time to finish.	We have a limited amount of time to finish.	[Adjective] restricted in size, amount, or extent	limitado/a
-1772A	proud	Her parents were very [...] of her test scores.	Her parents were very proud of her test scores.	[Adjective] feeling deep satisfaction with an achievement	orgulloso/a
-1773A	flow	Water began to [...] slowly from the pipe.	Water began to flow slowly from the pipe.	[Verb] to move continuously like a liquid	fluir / correr
-1773B	flow	The police tried to direct the [...] of traffic.	The police tried to direct the flow of traffic.	[Noun] a steady movement of something	flujo / corriente
-1774A	faculty	The university hired new [...] members this year.	The university hired new faculty members this year.	[Noun] the teaching staff of a university	profesorado / cuerpo docente
-1775A	increased	There is an [...] demand for fresh fruits today.	There is an increased demand for fresh fruits today.	[Adjective] made greater in size, amount, or degree	mayor / incrementado/a / aumentado/a
-1776A	waste	Do not [...] your money on useless items.	Do not waste your money on useless items.	[Verb] to spend or use carelessly	desperdiciar / malgastar
-1776B	waste	Put the household [...] into the black bin.	Put the household waste into the black bin.	[Noun] unwanted material or garbage	desechos / basura
-1776C	go to waste	Eat the food so it does not [...].	Eat the food so it does not go to waste.	[Idiom] to be wasted without being used	echarse a perder / desperdiciarse
-1777A	merely	It was [...] a small misunderstanding between friends.	It was merely a small misunderstanding between friends.	[Adverb] only or simply	simplemente / tan solo / meramente
-1778A	mass	A large [...] of ice fell from the roof.	A large mass of ice fell from the roof.	[Noun] a large quantity or body of matter	masa / bloque
-1778B	mass	They started the [...] production of electric vehicles.	They started the mass production of electric vehicles.	[Adjective] involving a large number of people or items	masivo/a / en masa
-1778C	Mass	His family goes to [...] every Sunday morning.	His family goes to Mass every Sunday morning.	[Noun] a religious service in Christian churches	misa
-1779A	emphasize	The teacher tried to [...] the most important rule.	The teacher tried to emphasize the most important rule.	[Verb] to give special importance or stress to	enfatizar / recalcar
-1780A	experiment	They completed a science [...] in the lab.	They completed a science experiment in the lab.	[Noun] a scientific test done to learn something	experimento
-1780B	experiment	The chef likes to [...] with new spices.	The chef likes to experiment with new spices.	[Verb] to try new things to see results	experimentar
-1781A	definitely	I will [...] come to your party tomorrow night.	I will definitely come to your party tomorrow night.	[Adverb] without any doubt	definitivamente / sin duda
-1782A	bomb	The police safely removed the [...] from the building.	The police safely removed the bomb from the building.	[Noun] a container filled with explosive material	bomba
-1782B	bomb	I think I [...] the history test yesterday.	I think I bombed the history test yesterday.	[Verb - Informal AmE] to fail completely or perform poorly	fracasar / salir muy mal
-1783A	enormous	They live in an [...] house near the lake.	They live in an enormous house near the lake.	[Adjective] extremely large or huge	enorme
-1784A	tone	She spoke in a warm and gentle [...] of voice.	She spoke in a warm and gentle tone of voice.	[Noun] the quality of a sound or voice	tono
-1784B	tone down	You should [...] your speech to avoid offending people.	You should tone down your speech to avoid offending people.	[Phrasal Verb] to make something less forceful or intense	moderar / suavizar
-1785A	liberal	He has a [...] view on economic policy.	He has a liberal view on economic policy.	[Adjective] open to new ideas and social progress	liberal
-1786A	massive	They built a [...] stone wall around the city.	They built a massive stone wall around the city.	[Adjective] exceptionally large, heavy, and solid	masivo/a / gigantesco/a
-1787A	engineer	My sister works as a computer [...].	My sister works as a computer engineer.	[Noun] a person who designs or builds structures or systems	ingeniero/a
-1788A	wheel	A bicycle has two big [...].	A bicycle has two big wheels.	[Noun] a circular frame that turns around a central point	rueda
-1788B	steering wheel	Keep both hands on the [...] while driving.	Keep both hands on the steering wheel while driving.	[Noun] a wheel used by a driver to control a vehicle	volante / timón
-1789A	decline	Sales began to [...] towards the end of the year.	Sales began to decline towards the end of the year.	[Verb] to become smaller, fewer, or less	disminuir / caer / decrecer
-1789B	decline	She had to [...] the invitation to the dinner.	She had to decline the invitation to the dinner.	[Verb] to politely refuse an offer	rechazar / declinar
-1790A	invest	He decided to [...] money in a new business.	He decided to invest money in a new business.	[Verb] to put money into something for profit	invertir
-1791A	cable	Connect the laptop to the screen with a [...].	Connect the laptop to the screen with a cable.	[Noun] a thick wire used to carry electricity or signals	cable
-1792A	towards	She walked [...] the city center after lunch.	She walked towards the city center after lunch.	[Preposition] in the direction of	hacia
-1793A	expose	Do not [...] your skin to direct sunlight for long.	Do not expose your skin to direct sunlight for long.	[Verb] to leave unprotected or reveal	exponer
-1794A	rural	They prefer living in a quiet [...] community.	They prefer living in a quiet rural community.	[Adjective] relating to the countryside	rural / del campo
-1795A	AIDS	Doctors around the world continue fighting against [...].	Doctors around the world continue fighting against AIDS.	[Noun] a severe disease caused by the HIV virus	SIDA
-1796A	Jew	He is a [...] who practices traditional Jewish customs.	He is a Jew who practices traditional Jewish customs.	[Noun] a person belonging to the Jewish ethnic or religious group	judío/a
-1797A	narrow	The car drove down a [...] mountain road.	The car drove down a narrow mountain road.	[Adjective] measuring a small distance from side to side	estrecho/a / angosto/a
-1797B	narrow down	We need to [...] the list of job applicants.	We need to narrow down the list of job applicants.	[Phrasal Verb] to reduce the number of options	reducir / limitar
-1798A	cream	I prefer my coffee with milk and [...].	I prefer my coffee with milk and cream.	[Noun] the fatty part of milk used in food	crema / nata
-1798B	cream	Apply a skin [...] to protect your dry hands.	Apply a skin cream to protect your dry hands.	[Noun] a thick cosmetic substance applied to skin	crema (cosmética)
-1799A	secretary	The [...] answered all incoming calls promptly.	The secretary answered all incoming calls promptly.	[Noun] an administrative assistant in an office	secretario/a
-1800A	gate	Please close the garden [...] behind you.	Please close the garden gate behind you.	[Noun] a barrier used to close an opening in a fence or wall	puerta / portón / verja
-1800B	gate	What [...] does our flight leave from?	What gate does our flight leave from?	[Noun] an exit area in an airport leading to an aircraft	puerta de embarque
+1701A	pour	Please [...] some fresh water into my glass.	Please pour some fresh water into my glass.	[Verb, 1 word] to make a liquid flow steadily from a tilted container into another	servir / verter
+1701B	pour	It started to [...] heavily as soon as we left.	It started to pour heavily as soon as we left.	[Verb, 1 word] to rain very heavily in large, continuous drops during a storm	llover a cántaros / diluviar
+1701C	pour out	She [...] her feelings to her best friend.	She poured out her feelings to her best friend.	[Phrasal Verb, 2 words] to share deep emotions and personal thoughts openly with someone you trust	desahogarse / expresar libremente
+1702A	stir	Use a wooden spoon to [...] the warm soup.	Use a wooden spoon to stir the warm soup.	[Verb, 1 word] to move a spoon in circles through a liquid to blend ingredients	revolver / mezclar
+1702B	stir	The baby did not [...] during the whole night.	The baby did not stir during the whole night.	[Verb, 1 word] to make a small, slight movement while sleeping or resting quietly	moverse / agitarse
+1702C	stir up	He always tries to [...] trouble among his coworkers.	He always tries to stir up trouble among his coworkers.	[Phrasal Verb, 2 words] to deliberately provoke conflict, drama, or strong negative emotions among people	provocar / instigar
+1703A	judgment	You need to trust your own [...] on this matter.	You need to trust your own judgment on this matter.	[Noun, 1 word] the ability to make wise decisions and form sensible opinions carefully	juicio / criterio
+1703B	pass judgment	It is unfair to [...] on people you do not know well.	It is unfair to pass judgment on people you do not know well.	[Idiom, 2 words] to publicly criticize or form a harsh moral opinion about someone	juzgar / emitir un juicio
+1704A	beer	He drank a cold [...] after a long day at work.	He drank a cold beer after a long day at work.	[Noun, 1 word] a fizzy, yellow alcoholic drink brewed from barley, hops, and water	cerveza
+1705A	reference	The speaker made a [...] to the new rule.	The speaker made a reference to the new rule.	[Noun, 1 word] a brief comment or remark that points to a specific person or fact	mención / referencia
+1705B	reference	She asked her previous manager for a job [...].	She asked her previous manager for a job reference.	[Noun, 1 word] a former employer who vouches for a candidate's work ethic and skills	referencia laboral / recomendación
+1705C	for future reference	Keep this document in your folder [...].	Keep this document in your folder for future reference.	[Idiom, 3 words] saved or noted down so you can check it later when needed	para futura referencia / para tener en cuenta
+1706A	tear	A single [...] rolled down her cheek.	A single tear rolled down her cheek.	[Noun, 1 word] a drop of salty liquid produced by the eye when crying	lágrima
+1706B	tear	Be careful not to [...] the sheet of paper.	Be careful not to tear the sheet of paper.	[Verb, 1 word] to pull paper or fabric apart with your hands, leaving ragged edges	romper / rasgar
+1706C	tear up	She decided to [...] the old letters.	She decided to tear up the old letters.	[Phrasal Verb, 2 words] to destroy paper or photos by pulling them into tiny scraps	romper en pedazos / despedazar
+1706D	tear up	My mom started to [...] when she saw my graduation photo.	My mom started to tear up when she saw my graduation photo.	[Phrasal Verb, 2 words] to have your eyes fill with salty drops from strong emotion	llenarse los ojos de lágrimas / emocionarse
+1706E	tear down	The city plans to [...] the old factory next month.	The city plans to tear down the old factory next month.	[Phrasal Verb, 2 words] to completely destroy and remove an old building or large structure	derribar / demoler
+1706F	in tears	She was [...] after hearing the sad news.	She was in tears after hearing the sad news.	[Idiom, 2 words] visibly crying with salty drops flowing down your cheeks from strong emotion	en lágrimas / llorando
+1707A	doubt	I have no [...] that he will pass the test.	I have no doubt that he will pass the test.	[Noun, 1 word] a feeling of uncertainty or skepticism about whether something is true	duda
+1707B	doubt	I [...] that she will arrive on time today.	I doubt that she will arrive on time today.	[Verb, 1 word] to feel uncertain or skeptical that something will happen or is true	dudar
+1707C	no doubt	There is [...] that this is the best decision.	There is no doubt that this is the best decision.	[Idiom, 2 words] with complete certainty and total confidence that something is true	sin duda alguna / indudablemente
+1707D	give the benefit of the doubt	I decided to [...] to my coworker and trust her story.	I decided to give the benefit of the doubt to my coworker and trust her story.	[Idiom, 6 words] to choose to trust someone's honesty even when proof is missing	dar el beneficio de la duda
+1708A	grant	The manager decided to [...] his request.	The manager decided to grant his request.	[Verb, 1 word] (formal) to officially approve and give someone what they asked for	conceder / otorgar
+1708B	grant	She received a [...] to study at a university.	She received a grant to study at a university.	[Noun, 1 word] money awarded by a government or foundation to fund education or research	subvención / beca
+1709A	seriously	You should take this problem [...].	You should take this problem seriously.	[Adverb, 1 word] with genuine concern, careful attention, and full recognition of real importance	en serio / seriamente
+1710A	minister	The Prime [...] spoke on national television today.	The Prime Minister spoke on national television today.	[Noun, 1 word] a senior government official who leads a major national department	ministro/a
+1710B	minister	The local [...] gave a sermon on Sunday morning.	The local minister gave a sermon on Sunday morning.	[Noun, 1 word] a trained religious leader who leads worship and preaches in a Protestant church	pastor / ministro religioso
+1711A	totally	I [...] forgot about our meeting this morning.	I totally forgot about our meeting this morning.	[Adverb, 1 word] (casual) to the fullest possible degree or extent in every single detail	totalmente / por completo
+1712A	hero	The brave firefighter was treated as a [...].	The brave firefighter was treated as a hero.	[Noun, 1 word] a person admired for extraordinary courage after risking their life to save others	héroe / heroína
+1713A	industrial	They work in a large [...] zone outside the city.	They work in a large industrial zone outside the city.	[Adjective, 1 word] relating to factories, heavy machinery, and large-scale manufacturing of goods	industrial
+1714A	cloud	There was not a single [...] in the bright sky.	There was not a single cloud in the bright sky.	[Noun, 1 word] a white or gray mass of tiny water droplets floating high in the sky	nube
+1714B	cloud	Sad news can [...] your thoughts and judgment.	Sad news can cloud your thoughts and judgment.	[Verb, 1 word] to make someone's thinking or reasoning confused, foggy, and hard to focus	nublar / oscurecer
+1715A	stretch	You should [...] your muscles before running.	You should stretch your muscles before running.	[Verb, 1 word] to lengthen your arms, legs, or muscles to warm up before exercise	estirar
+1715B	stretch	This long [...] of road is very dangerous.	This long stretch of road is very dangerous.	[Noun, 1 word] a continuous section or length of highway, coastline, or open land	tramo / extensión
+1715C	stretch out	He wants to [...] on the sofa and rest.	He wants to stretch out on the sofa and rest.	[Phrasal Verb, 2 words] to lie flat at full body length on a couch or bed to relax	estirarse / recostarse
+1716A	winner	The [...] of the game received a nice trophy.	The winner of the game received a nice trophy.	[Noun, 1 word] the person or team that finishes first and takes the prize in a contest	ganador/a
+1717A	volume	Please turn down the [...] on the television.	Please turn down the volume on the television.	[Noun, 1 word] the level of loudness coming from a television, radio, or speaker	volumen
+1717B	volume	The big tank holds a large [...] of liquid.	The big tank holds a large volume of liquid.	[Noun, 1 word] the total three-dimensional space or capacity filled by a liquid inside a container	volumen / cantidad
+1718A	seed	She planted an apple [...] in the small pot.	She planted an apple seed in the small pot.	[Noun, 1 word] a tiny hard grain inside a fruit that sprouts into a new plant	semilla
+1719A	surprised	I was very [...] to see him at the party.	I was very surprised to see him at the party.	[Adjective, 1 word] feeling sudden astonishment when someone shows up or happens completely by chance	sorprendido/a
+1720A	fashion	Her clothes are always in [...].	Her clothes are always in fashion.	[Noun, 1 word] the popular trend or current style of clothing worn at a given time	moda
+1720B	old-fashioned	My grandfather has some very [...] ideas.	My grandfather has some very old-fashioned ideas.	[Adjective, 1 word] belonging to past eras and holding traditional values from an earlier generation	anticuado/a / a la antigua
+1720C	in a timely fashion	Please submit the final report [...].	Please submit the final report in a timely fashion.	[Phrase, 4 words] (formal) promptly and smoothly before the official deadline passes	de manera oportuna / a tiempo
+1721A	pepper	Add a little salt and [...] to the dish.	Add a little salt and pepper to the dish.	[Noun, 1 word] a pungent black or white spice ground from dried berries to season food	pimienta
+1721B	pepper	I added a red [...] to the green salad.	I added a red pepper to the green salad.	[Noun, 1 word] a crunchy, hollow red, green, or yellow vegetable eaten raw or cooked	pimiento
+1722A	busy	I am too [...] to talk on the phone right now.	I am too busy to talk on the phone right now.	[Adjective, 1 word] actively occupied with many tasks and having every minute of your schedule filled	ocupado/a
+1723A	intervention	Thanks to the police's quick [...], the fight stopped.	Thanks to the police's quick intervention, the fight stopped.	[Noun, 1 word] direct action taken by an outside authority to step in and halt a conflict	intervención
+1724A	copy	Can you print a [...] of this document?	Can you print a copy of this document?	[Noun, 1 word] an exact printed or digital reproduction made from an original document	copia
+1724B	copy	Do not [...] your classmate's work during tests.	Do not copy your classmate's work during tests.	[Verb, 1 word] to cheat on an exam by writing down another student's answers as your own	copiar
+1725A	tip	He gave me a useful [...] for the interview.	He gave me a useful tip for the interview.	[Noun, 1 word] a helpful, practical piece of insider guidance to help someone succeed	consejo / tip
+1725B	tip	We left a generous [...] for the driver.	We left a generous tip for the driver.	[Noun, 1 word] extra money given voluntarily to thank a server or driver for good service	propina
+1725C	tip	The pointed [...] of my pencil broke off.	The pointed tip of my pencil broke off.	[Noun, 1 word] the sharp, narrow end of a pencil, needle, or pointed object	punta
+1725D	tip over	Be careful not to [...] the glass of water.	Be careful not to tip over the glass of water.	[Phrasal Verb, 2 words] to accidentally knock a tall container sideways so it falls and spills	volcar / derramar
+1725E	tip of the iceberg	This small problem is just the [...].	This small problem is just the tip of the iceberg.	[Idiom, 4 words] only the tiny visible surface of a much deeper, hidden crisis	la punta del iceberg
+1726A	cheap	This hotel room is clean and very [...].	This hotel room is clean and very cheap.	[Adjective, 1 word] costing very little money and easy on a tight budget	barato/a
+1726B	cheap shot	Making fun of his weight was a [...].	Making fun of his weight was a cheap shot.	[Idiom, 2 words] a cowardly, cruel personal insult aimed at someone's sensitive weakness	golpe bajo / ataque cobarde
+1727A	aim	My main [...] is to speak English fluently.	My main aim is to speak English fluently.	[Noun, 1 word] a specific desired outcome or target that you work hard to achieve	objetivo / meta
+1727B	aim	The soldier [...] at the target before firing.	The soldier aimed at the target before firing.	[Verb, 1 word] to point a rifle or camera directly toward a specific target before shooting	apuntar
+1728A	cite	You must [...] your sources in the final essay.	You must cite your sources in the final essay.	[Verb, 1 word] (formal) to formally credit authors, books, or research papers in academic writing	citar / mencionar
+1729A	welfare	The government cares about child [...].	The government cares about child welfare.	[Noun, 1 word] the overall physical health, safety, and living conditions of a person or group	bienestar
+1729B	welfare	He receives monthly [...] payments from the state.	He receives monthly welfare payments from the state.	[Noun, 1 word] regular financial aid provided by the government to support low-income citizens	ayuda social / subsidio
+1730A	vegetable	Eating a fresh [...] every day is good for your health.	Eating a fresh vegetable every day is good for your health.	[Noun, 1 word] an edible plant or root, such as broccoli or carrots, grown for food	vegetal / verdura
+1731A	gray	He wore a dark [...] coat to the office.	He wore a dark gray coat to the office.	[Adjective, 1 word] having a neutral ash or slate shade midway between black and white	gris
+1731B	gray area	Legal rules about the internet can be a [...].	Legal rules about the internet can be a gray area.	[Idiom, 2 words] an ambiguous topic where existing laws or moral boundaries overlap and feel uncertain	zona gris / terreno ambiguo
+1732A	dish	Put the clean [...] back on the shelf.	Put the clean dish back on the shelf.	[Noun, 1 word] a shallow ceramic or glass vessel used for holding and serving meals	plato / vasija
+1732B	dish	Spaghetti is my favorite Italian [...].	Spaghetti is my favorite Italian dish.	[Noun, 1 word] a specific recipe or style of prepared food served as part of a meal	platillo / comida
+1733A	beach	We walked along the [...] at sunset yesterday.	We walked along the beach at sunset yesterday.	[Noun, 1 word] a sandy or pebbly shoreline stretching right beside the ocean waves	playa
+1734A	improvement	Her grades showed a clear [...] this term.	Her grades showed a clear improvement this term.	[Noun, 1 word] measurable progress or positive growth in quality, skill, or academic performance	mejora / mejoría
+1735A	everywhere	I searched [...], but I could not find my keys.	I searched everywhere, but I could not find my keys.	[Adverb, 1 word] in all possible locations, rooms, and corners across an entire space	en todas partes / por todos lados
+1736A	opening	There is a small [...] in the wooden fence.	There is a small opening in the wooden fence.	[Noun, 1 word] a narrow gap or hole in a wall or fence allowing passage	abertura / hueco / grieta
+1736B	opening	Our team has an [...] for a sales manager.	Our team has an opening for a sales manager.	[Noun, 1 word] an unfilled job vacancy available for a new candidate to apply for	vacante / puesto disponible
+1737A	overall	The [...] cost of the trip was very low.	The overall cost of the trip was very low.	[Adjective, 1 word] combined as a single whole after adding every individual expense together	general / total
+1738A	divide	Let's [...] the pizza into eight slices.	Let's divide the pizza into eight slices.	[Verb, 1 word] to cut or split a single whole item into smaller equal portions	dividir / separar
+1739A	initial	My [...] thought was to decline the offer.	My initial thought was to decline the offer.	[Adjective, 1 word] occurring right at the very start of a process or chain of thoughts	inicial
+1739B	initial	Write your first [...] on the document page.	Write your first initial on the document page.	[Noun, 1 word] the single capital letter that starts a person's given or family name	inicial (letra)
+1740A	terrible	I made a [...] mistake on the math exam.	I made a terrible mistake on the math exam.	[Adjective, 1 word] extremely serious, costly, or distressing in quality or outcome	terrible / pésimo/a
+1741A	oppose	Many citizens [...] the new local government tax.	Many citizens oppose the new local government tax.	[Verb, 1 word] to actively resist, vote against, or reject a proposed law or policy	oponerse a
+1741B	as opposed to	He bought a bicycle, [...] an expensive car.	He bought a bicycle, as opposed to an expensive car.	[Idiom, 3 words] used to highlight a direct contrast between two different choices or options	en lugar de / a diferencia de
+1742A	contemporary	She enjoys studying modern and [...] art.	She enjoys studying modern and contemporary art.	[Adjective, 1 word] belonging to the current era and produced by living artists today	contemporáneo/a
+1743A	route	Which [...] is the fastest to the train station?	Which route is the fastest to the train station?	[Noun, 1 word] a specific path or sequence of roads followed to reach a destination	ruta / camino
+1744A	multiple	He received [...] offers after finishing his degree.	He received multiple offers after finishing his degree.	[Adjective, 1 word] consisting of many distinct items, choices, or offers at the same time	múltiple / varios/as
+1745A	essential	Water is [...] for the survival of living things.	Water is essential for the survival of living things.	[Adjective, 1 word] (formal) absolutely required and indispensable for life or basic functioning	esencial / fundamental
+1746A	league	Their team won the local soccer [...].	Their team won the local soccer league.	[Noun, 1 word] an organized group of sports clubs that compete against each other regularly	liga
+1746B	out of your league	She is so smart that she is [...].	She is so smart that she is out of your league.	[Idiom, 4 words] (informal) far too accomplished, attractive, or skilled for someone to realistically date or match	fuera de tu alcance / fuera de tu liga
+1747A	criminal	The police finally caught the dangerous [...].	The police finally caught the dangerous criminal.	[Noun, 1 word] a person who breaks the law and commits serious illegal offenses	criminal / delincuente
+1747B	criminal	He faces serious [...] charges after the investigation.	He faces serious criminal charges after the investigation.	[Adjective, 1 word] relating to serious illegal offenses prosecuted by the state in court	criminal / penal
+1748A	careful	Please be [...] when walking on ice.	Please be careful when walking on ice.	[Adjective, 1 word] paying close attention and moving cautiously to avoid slipping or getting hurt	cuidadoso/a / tener cuidado
+1749A	core	Honesty is the [...] of our team values.	Honesty is the core of our team values.	[Noun, 1 word] the central foundation and most essential part of a belief system	núcleo / centro / base
+1749B	core	She threw the apple [...] in the trash.	She threw the apple core in the trash.	[Noun, 1 word] the tough central part of an apple or pear that holds the seeds	corazón (de fruta) / centro
+1750A	upper	Her room is located on the [...] floor.	Her room is located on the upper floor.	[Adjective, 1 word] positioned on a higher level or story above the ground floor	superior / de arriba
+1750B	upper hand	Our team gained the [...] late in the game.	Our team gained the upper hand late in the game.	[Idiom, 2 words] a decisive position of control and strategic advantage over an opponent	ventaja / delantera
+1751A	rush	I had to [...] to catch the morning train.	I had to rush to catch the morning train.	[Verb, 1 word] to move or dash quickly because you are short on time	apresurarse / correr
+1751B	rush	There was a sudden [...] for cheap tickets.	There was a sudden rush for cheap tickets.	[Noun, 1 word] a sudden surge of many people trying to get something at once	avalancha / aglomeración
+1751C	rush hour	Traffic is always heavy during [...] in the city.	Traffic is always heavy during rush hour in the city.	[Noun, 2 words] the busiest daily commuting period when roads and trains are packed with workers	hora punta / hora pico
+1751D	in a rush	Sorry I can't talk right now, I'm [...].	Sorry I can't talk right now, I'm in a rush.	[Idiom, 3 words] hurrying quickly because you have very little free time left	con prisa / apurado/a
+1752A	necessarily	Expensive things are not [...] better than cheap ones.	Expensive things are not necessarily better than cheap ones.	[Adverb, 1 word] automatically or inevitably true as a guaranteed rule in every single case	necesariamente
+1753A	specifically	This book was [...] written for beginners.	This book was specifically written for beginners.	[Adverb, 1 word] with a clear, exact purpose tailored to one particular group or need	específicamente
+1754A	tired	I felt very [...] after walking all day.	I felt very tired after walking all day.	[Adjective, 1 word] drained of physical energy and needing rest or sleep after exertion	cansado/a
+1754B	tired of	I am [...] listening to his constant excuses.	I am tired of listening to his constant excuses.	[Idiom, 2 words] feeling frustrated and impatient after putting up with something repetitive for too long	harto/a de / cansado/a de
+1755A	employ	The company plans to [...] ten new workers.	The company plans to employ ten new workers.	[Verb, 1 word] (formal) to pay someone regular wages to work for a business or organization	emplear / contratar
+1756A	holiday	New Year's Day is a national [...].	New Year's Day is a national holiday.	[Noun, 1 word] an official public day of celebration when schools and offices close	día festivo / feriado
+1756B	holiday	We are going on [...] next month.	We are going on holiday next month.	[Noun, 1 word] (British English) an extended trip or break away from work for rest and travel	vacaciones
+1757A	vast	The desert is a [...] and empty area.	The desert is a vast and empty area.	[Adjective, 1 word] stretching across an immense, seemingly boundless expanse of land or sea	vasto/a / enorme
+1758A	resolution	My New Year's [...] is to exercise more.	My New Year's resolution is to exercise more.	[Noun, 1 word] a firm personal goal or promise made at the start of January	propósito / resolución
+1758B	resolution	We hope for a quick [...] to the conflict.	We hope for a quick resolution to the conflict.	[Noun, 1 word] (formal) a peaceful settlement that brings an end to a serious dispute	resolución / solución
+1759A	household	Almost every [...] in the town owns a car.	Almost every household in the town owns a car.	[Noun, 1 word] a family or group of people living together under one single roof	hogar / casa / familia
+1759B	household name	The famous actor became a [...] after that movie.	The famous actor became a household name after that movie.	[Idiom, 2 words] a celebrity or brand that almost every family across the country recognizes	nombre muy conocido / nombre famoso
+1760A	fewer	There are [...] students in class today.	There are fewer students in class today.	[Determiner, 1 word] a smaller total count of separate people or individual items	menos
+1761A	abortion	The debate surrounding [...] was held yesterday.	The debate surrounding abortion was held yesterday.	[Noun, 1 word] (formal) the medical procedure that intentionally ends a human pregnancy	aborto
+1762A	apart	The two houses are miles [...].	The two houses are miles apart.	[Adverb, 1 word] separated by a physical distance in space or by years in time	separado/a / a distancia
+1762B	fall apart	My old shoes are starting to [...].	My old shoes are starting to fall apart.	[Phrasal Verb, 2 words] to break into worn pieces because something is old or poorly made	desmoronarse / deshacerse
+1762C	take apart	He decided to [...] the engine to fix it.	He decided to take apart the engine to fix it.	[Phrasal Verb, 2 words] to separate a machine or device into individual pieces for repair	desarmar / desmontar
+1762D	apart from	Everyone arrived on time, [...] John.	Everyone arrived on time, apart from John.	[Prepositional Phrase, 2 words] making a single exception for someone or something excluded from a group	aparte de / excepto
+1763A	witness	The [...] gave details to the police officer.	The witness gave details to the police officer.	[Noun, 1 word] a person who sees a crime or crash happen and reports it	testigo
+1763B	witness	Did anyone [...] the accident on the main road?	Did anyone witness the accident on the main road?	[Verb, 1 word] to directly observe a significant event or accident with your own eyes	presenciar / ver
+1764A	match	We watched a great tennis [...] yesterday afternoon.	We watched a great tennis match yesterday afternoon.	[Noun, 1 word] an organized sports competition played between two players or opposing teams	partido / encuentro
+1764B	match	Your shoes [...] your coat very well.	Your shoes match your coat very well.	[Verb, 1 word] to look visually attractive together because colors or styles go well	combinar con / hacer juego
+1764C	match	He struck a [...] to light the fire.	He struck a match to light the fire.	[Noun, 1 word] a short wooden stick coated with chemicals that ignites when struck	fósforo / cerillo
+1764D	meet your match	You might finally [...] in tomorrow's championship game.	You might finally meet your match in tomorrow's championship game.	[Idiom, 3 words] to face a rival who is finally just as skilled or strong as you	encontrar un rival a la altura / encontrar la horma del zapato
+1765A	barely	I could [...] hear what the teacher said.	I could barely hear what the teacher said.	[Adverb, 1 word] by the smallest possible margin, with great difficulty, or only just	apenas / casi no
+1766A	sector	She works in the public [...] as a teacher.	She works in the public sector as a teacher.	[Noun, 1 word] a distinct branch or division of a country's economy, industry, or workforce	sector
+1767A	representative	She is a sales [...] for a big company.	She is a sales representative for a big company.	[Noun, 1 word] an employee authorized to speak, sell products, or act on behalf of a company	representante / agente
+1768A	beneath	The cat was sleeping [...] the dark wooden table.	The cat was sleeping beneath the dark wooden table.	[Preposition, 1 word] directly underneath or at a lower level below a surface or object	debajo de / bajo
+1769A	beside	She sat [...] her friend during the whole presentation.	She sat beside her friend during the whole presentation.	[Preposition, 1 word] positioned right next to or immediately at the side of someone	al lado de / junto a
+1769B	beside the point	His age is [...]. He is qualified for the job.	His age is beside the point. He is qualified for the job.	[Idiom, 3 words] completely unrelated to the main issue currently being discussed or decided	irrelevante / no viene al caso
+1770A	incident	The police reported a small [...] in the park.	The police reported a small incident in the park.	[Noun, 1 word] a specific occurrence or disturbance, often involving conflict, trouble, or police attention	incidente / suceso
+1771A	limited	We have a [...] amount of time to finish.	We have a limited amount of time to finish.	[Adjective, 1 word] restricted to a small fixed quantity, budget, or short window of time	limitado/a
+1772A	proud	Her parents were very [...] of her test scores.	Her parents were very proud of her test scores.	[Adjective, 1 word] feeling deep pleasure and satisfaction over someone's hard-earned success or achievement	orgulloso/a
+1773A	flow	Water began to [...] slowly from the pipe.	Water began to flow slowly from the pipe.	[Verb, 1 word] to move smoothly and continuously in one steady stream like water	fluir / correr
+1773B	flow	The police tried to direct the [...] of traffic.	The police tried to direct the flow of traffic.	[Noun, 1 word] the continuous, steady forward movement of cars, people, or liquid	flujo / corriente
+1773C	go with the flow	We don't have strict travel plans, so we'll just [...].	We don't have strict travel plans, so we'll just go with the flow.	[Idiom, 4 words] (informal) to stay relaxed and accept events naturally as they happen	dejarse llevar / adaptarse a lo que surja
+1774A	faculty	The university hired new [...] members this year.	The university hired new faculty members this year.	[Noun, 1 word] the collective group of professors and academic instructors teaching at a university	profesorado / cuerpo docente
+1775A	increased	There is an [...] demand for fresh fruit today.	There is an increased demand for fresh fruit today.	[Adjective, 1 word] grown larger in volume, level, or intensity compared to earlier figures	mayor / incrementado/a / aumentado/a
+1776A	waste	Do not [...] your money on useless items.	Do not waste your money on useless items.	[Verb, 1 word] to spend money, time, or resources carelessly on things of little value	desperdiciar / malgastar
+1776B	waste	Put the household [...] into the black bin.	Put the household waste into the black bin.	[Noun, 1 word] leftover garbage, scraps, and discarded materials thrown away after everyday use	desechos / basura
+1776C	go to waste	Eat the food so it does not [...].	Eat the food so it does not go to waste.	[Idiom, 3 words] to be thrown away or spoil before anyone ever gets to use it	echarse a perder / desperdiciarse
+1777A	merely	It was [...] a small misunderstanding between friends.	It was merely a small misunderstanding between friends.	[Adverb, 1 word] (formal) used to emphasize how minor, modest, or trivial a situation really is	simplemente / tan solo / meramente
+1778A	mass	A large [...] of ice fell from the roof.	A large mass of ice fell from the roof.	[Noun, 1 word] a heavy, solid lump or large accumulated body of physical matter	masa / bloque
+1778B	mass	They started the [...] production of electric vehicles.	They started the mass production of electric vehicles.	[Adjective, 1 word] done on a huge industrial scale to manufacture thousands of identical goods	masivo/a / en masa
+1778C	Mass	His family goes to [...] every Sunday morning.	His family goes to Mass every Sunday morning.	[Noun, 1 word] the central religious worship service celebrated in a Catholic church	misa
+1779A	emphasize	The teacher tried to [...] the most important rule.	The teacher tried to emphasize the most important rule.	[Verb, 1 word] to give special weight, focus, or vocal stress to a key point	enfatizar / recalcar
+1780A	experiment	They completed a science [...] in the lab.	They completed a science experiment in the lab.	[Noun, 1 word] a controlled scientific procedure carried out in a lab to test a hypothesis	experimento
+1780B	experiment	The chef likes to [...] with new spices.	The chef likes to experiment with new spices.	[Verb, 1 word] to creatively try out unfamiliar ingredients, methods, or ideas to discover results	experimentar
+1781A	definitely	I will [...] come to your party tomorrow night.	I will definitely come to your party tomorrow night.	[Adverb, 1 word] with absolute certainty and zero hesitation about a plan or fact	definitivamente / sin duda
+1782A	bomb	The police safely removed the [...] from the building.	The police safely removed the bomb from the building.	[Noun, 1 word] a dangerous explosive device designed to detonate and cause destruction	bomba
+1782B	bomb	I think I [...] the history test yesterday.	I think I bombed the history test yesterday.	[Verb, 1 word] (informal) to perform terribly and fail completely on an exam, speech, or show	fracasar / salir muy mal
+1783A	enormous	They live in an [...] house near the lake.	They live in an enormous house near the lake.	[Adjective, 1 word] extraordinarily vast in size, scale, or amount, far beyond normal proportions	enorme
+1784A	tone	She spoke in a warm and gentle [...] of voice.	She spoke in a warm and gentle tone of voice.	[Noun, 1 word] the emotional quality, pitch, or attitude expressed through someone's speaking voice	tono
+1784B	tone down	You should [...] your speech to avoid offending people.	You should tone down your speech to avoid offending people.	[Phrasal Verb, 2 words] to make a statement, color, or behavior softer, calmer, and less aggressive	moderar / suavizar
+1785A	liberal	He has a [...] view on economic policy.	He has a liberal view on economic policy.	[Adjective, 1 word] favoring social reform, individual freedoms, and progressive government policies	liberal
+1786A	massive	They built a [...] stone wall around the city.	They built a massive stone wall around the city.	[Adjective, 1 word] exceptionally heavy, thick, and towering in physical bulk and solid structure	gigantesco/a / enorme
+1787A	engineer	My sister works as a computer [...].	My sister works as a computer engineer.	[Noun, 1 word] a trained technical professional who designs, builds, and tests machines or systems	ingeniero/a
+1788A	wheel	A bicycle has two big [...].	A bicycle has two big wheels.	[Noun, 1 word] a round frame with spokes or a tire that rotates on an axle	rueda
+1788B	steering wheel	Keep both hands on the [...] while driving.	Keep both hands on the steering wheel while driving.	[Noun, 2 words] the round control ring inside a car that the driver turns to guide direction	volante / timón
+1789A	decline	Sales began to [...] towards the end of the year.	Sales began to decline towards the end of the year.	[Verb, 1 word] to gradually drop in number, strength, or financial value over time	disminuir / caer / decrecer
+1789B	decline	She had to [...] the invitation to the dinner.	She had to decline the invitation to the dinner.	[Verb, 1 word] (formal) to politely turn down an invitation, request, or job offer	rechazar / declinar
+1789C	decline	The company reported a sharp [...] in smartphone sales this year.	The company reported a sharp decline in smartphone sales this year.	[Noun, 1 word] a continuous, measurable downward trend in numbers, sales, or overall quality	disminución / caída / baja
+1790A	invest	He decided to [...] money in a new business.	He decided to invest money in a new business.	[Verb, 1 word] to put money into stocks, property, or a company to earn future profit	invertir
+1791A	cable	Connect the laptop to the screen with a [...].	Connect the laptop to the screen with a cable.	[Noun, 1 word] an insulated bundle of metal wires that carries electrical power or digital signals	cable
+1791B	cable	Many young people cancel their [...] and only watch streaming apps.	Many young people cancel their cable and only watch streaming apps.	[Noun, 1 word] a paid television service delivered to homes through underground wires	televisión por cable / cable
+1792A	towards	She walked [...] the city center after lunch.	She walked towards the city center after lunch.	[Preposition, 1 word] moving directly in the direction of a specific destination or landmark	hacia
+1793A	expose	Do not [...] your skin to direct sunlight for long.	Do not expose your skin to direct sunlight for long.	[Verb, 1 word] to leave bare skin open to harsh sunlight, wind, or physical harm	exponer
+1794A	rural	They prefer living in a quiet [...] community.	They prefer living in a quiet rural community.	[Adjective, 1 word] located in the open countryside with farms and small villages, far from cities	rural / del campo
+1795A	AIDS	Doctors around the world continue fighting against [...].	Doctors around the world continue fighting against AIDS.	[Noun, 1 word] a serious chronic immune-system disease caused by advanced HIV infection	SIDA
+1796A	Jew	He is a [...] who observes traditional kosher and Sabbath customs.	He is a Jew who observes traditional kosher and Sabbath customs.	[Noun, 1 word] a member of the ancient Hebrew people or follower of Judaism	judío/a
+1797A	narrow	The car drove down a [...] mountain road.	The car drove down a narrow mountain road.	[Adjective, 1 word] measuring very little width from side to side, leaving tight space to pass	estrecho/a / angosto/a
+1797B	narrow down	We need to [...] the list of job applicants.	We need to narrow down the list of job applicants.	[Phrasal Verb, 2 words] to trim a long list of choices by eliminating weaker candidates	reducir / limitar
+1798A	cream	I prefer my coffee with milk and [...].	I prefer my coffee with milk and cream.	[Noun, 1 word] the rich, thick fatty layer of milk poured into coffee or desserts	crema / crema de leche
+1798B	cream	Apply moisturizing [...] to protect your dry hands.	Apply moisturizing cream to protect your dry hands.	[Noun, 1 word] a thick, smooth cosmetic lotion rubbed onto dry skin to keep it soft	crema (cosmética)
+1799A	secretary	The [...] answered all incoming calls promptly.	The secretary answered all incoming calls promptly.	[Noun, 1 word] an office employee who answers phone calls, schedules meetings, and handles paperwork	secretario/a
+1799B	secretary	The president appointed a new [...] of Defense yesterday.	The president appointed a new Secretary of Defense yesterday.	[Noun, 1 word] a top government official chosen by the president to lead a major department	secretario/a (de Estado) / ministro/a
+1800A	gate	Please close the garden [...] behind you.	Please close the garden gate behind you.	[Noun, 1 word] a hinged door built into an outdoor fence or garden wall	puerta / portón / verja
+1800B	gate	What [...] does our flight leave from?	What gate does our flight leave from?	[Noun, 1 word] the numbered waiting area and exit door in an airport terminal for boarding	puerta de embarque
